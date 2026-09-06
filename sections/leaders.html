@@ -69,6 +69,50 @@ a:hover { text-decoration: underline; }
 .shop-card .swatch { height: 160px; background: linear-gradient(135deg,#2a2a2a,#8b1515); margin-bottom: 0.75rem; }
 .footer { text-align: center; padding: 2rem 1rem; font-family: var(--sans); font-size: 0.72rem; color: var(--muted); border-top: 1px solid var(--rule); }
 .disclosure { max-width: 720px; margin: 0 auto 1rem; font-size: 0.7rem; color: var(--muted); }
+
+.dept-rail {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 0.65rem;
+  margin: 1rem 0 1.75rem;
+}
+.dept-tile {
+  display: flex; flex-direction: column; justify-content: flex-end;
+  min-height: 96px; padding: 0.85rem 0.9rem;
+  background: #1a1a1a; color: #f7f3eb !important; text-decoration: none !important;
+  border: 1px solid #1a1a1a; font-family: var(--sans);
+}
+.dept-tile:hover { background: var(--accent); border-color: var(--accent); }
+.dept-tile .label { font-size: 0.65rem; letter-spacing: 0.16em; text-transform: uppercase; opacity: 0.75; }
+.dept-tile strong { font-size: 1rem; letter-spacing: 0.04em; margin-top: 0.25rem; }
+.dept-tile.shop { background: var(--accent); }
+.archive-band { margin: 2rem 0 0.5rem; }
+.archive-lede { font-family: var(--sans); font-size: 0.9rem; color: var(--muted); margin: -0.4rem 0 1rem; }
+.edition-grid { display: grid; gap: 0.75rem; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); }
+.edition {
+  display: block; padding: 1rem 1.05rem 1.1rem; background: var(--cream);
+  border: 1px solid var(--rule); color: inherit !important; text-decoration: none !important;
+}
+.edition:hover { border-color: var(--ink); }
+.edition .ed-num { display:block; font-family: var(--sans); font-size: 0.65rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--accent); margin-bottom: 0.35rem; }
+.edition strong { display:block; font-size: 1.15rem; line-height: 1.2; }
+.edition em { display:block; margin-top: 0.35rem; font-family: var(--sans); font-size: 0.78rem; color: var(--muted); font-style: normal; }
+.nav { gap: 0.45rem 1rem; padding: 0.75rem 1rem; }
+.nav a { font-weight: 600; }
+
+
+.nav a.summit { color: #c99a3b; font-weight: 700; }
+.summit-band {
+  margin: 2rem 0 1rem; padding: 1.25rem 1.2rem; background: #120c18; color: #f7f3eb;
+  border: 1px solid rgba(201,154,59,.4);
+}
+.summit-band a { color: #e3c88a !important; }
+.summit-band .eyebrow { font-family: var(--sans); font-size: 0.7rem; letter-spacing: 0.22em; text-transform: uppercase; color: #c99a3b; margin: 0 0 0.4rem; }
+.summit-band h3 { margin: 0 0 0.45rem; font-size: 1.45rem; }
+.summit-band p { font-family: var(--sans); margin: 0; color: #cfc6d8; font-size: 0.92rem; }
+.edition.summit { background: #120c18; color: #f7f3eb; border-color: rgba(201,154,59,.45); }
+.edition.summit .ed-num { color: #c99a3b; }
+.edition.summit em { color: #b9b0c4; }
 </style>
 </head>
 <body>
@@ -78,9 +122,20 @@ a:hover { text-decoration: underline; }
 </header>
 <nav class="nav">
   <a href="/index.html">Home</a>
-  <a href="/sections/leaders.html" class="">Leaders</a><a href="/sections/style.html" class="">Style</a><a href="/sections/travel.html" class="">Travel</a><a href="/sections/music.html" class="">Music</a><a href="/sections/health.html" class="">Health</a><a href="/sections/science.html" class="">Science</a><a href="/sections/diplomacy.html" class="">Diplomacy</a><a href="/sections/law.html" class="">Law</a><a href="/sections/spotlight.html" class="">Spotlight</a><a href="/sections/features.html" class="">Features</a><a href="/sections/apparel.html" class="shop">Apparel</a>
+  <a href="/summit-season/index.html" class="summit">Summit Season</a>
+  <a href="/sections/leaders.html">Leaders</a>
+  <a href="/sections/style.html">Style</a>
+  <a href="/sections/sports.html">Sports</a>
+  <a href="/sections/travel.html">Travel &amp; Tourism</a>
+  <a href="/sections/diplomacy.html">Diplomacy</a>
+  <a href="/sections/health.html">Health</a>
+  <a href="/sections/law.html">Law</a>
+  <a href="/sections/science.html">Science</a>
+  <a href="/sections/music.html">Music</a>
+  <a href="/sections/spotlight.html">Spotlight</a>
+  <a href="/sections/features.html">Features</a>
+  <a href="/sections/apparel.html" class="shop">Apparel</a>
   <a href="/about.html">About</a>
-  <a href="/sections/apparel.html" class="shop">Shop</a>
 </nav>
 <main class="wrap"><h2 class="section-title">LIKE® Leaders</h2><div class="grid"><a class="card" href="/articles/like-leaders-gloria-steinem-walks-on-ink-the-apollo-stump-and-the-women-who-walk.html">
               <img src='/images/like-leaders-gloria-steinem-walks-on-ink-the-apollo-stump-and-the-women-who-walk-1.jpg' alt=''/>
