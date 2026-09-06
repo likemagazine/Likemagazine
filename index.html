@@ -69,6 +69,37 @@ a:hover { text-decoration: underline; }
 .shop-card .swatch { height: 160px; background: linear-gradient(135deg,#2a2a2a,#8b1515); margin-bottom: 0.75rem; }
 .footer { text-align: center; padding: 2rem 1rem; font-family: var(--sans); font-size: 0.72rem; color: var(--muted); border-top: 1px solid var(--rule); }
 .disclosure { max-width: 720px; margin: 0 auto 1rem; font-size: 0.7rem; color: var(--muted); }
+
+.dept-rail {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 0.65rem;
+  margin: 1rem 0 1.75rem;
+}
+.dept-tile {
+  display: flex; flex-direction: column; justify-content: flex-end;
+  min-height: 96px; padding: 0.85rem 0.9rem;
+  background: #1a1a1a; color: #f7f3eb !important; text-decoration: none !important;
+  border: 1px solid #1a1a1a; font-family: var(--sans);
+}
+.dept-tile:hover { background: var(--accent); border-color: var(--accent); }
+.dept-tile .label { font-size: 0.65rem; letter-spacing: 0.16em; text-transform: uppercase; opacity: 0.75; }
+.dept-tile strong { font-size: 1rem; letter-spacing: 0.04em; margin-top: 0.25rem; }
+.dept-tile.shop { background: var(--accent); }
+.archive-band { margin: 2rem 0 0.5rem; }
+.archive-lede { font-family: var(--sans); font-size: 0.9rem; color: var(--muted); margin: -0.4rem 0 1rem; }
+.edition-grid { display: grid; gap: 0.75rem; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); }
+.edition {
+  display: block; padding: 1rem 1.05rem 1.1rem; background: var(--cream);
+  border: 1px solid var(--rule); color: inherit !important; text-decoration: none !important;
+}
+.edition:hover { border-color: var(--ink); }
+.edition .ed-num { display:block; font-family: var(--sans); font-size: 0.65rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--accent); margin-bottom: 0.35rem; }
+.edition strong { display:block; font-size: 1.15rem; line-height: 1.2; }
+.edition em { display:block; margin-top: 0.35rem; font-family: var(--sans); font-size: 0.78rem; color: var(--muted); font-style: normal; }
+.nav { gap: 0.45rem 1rem; padding: 0.75rem 1rem; }
+.nav a { font-weight: 600; }
+
 </style>
 </head>
 <body>
@@ -78,10 +109,19 @@ a:hover { text-decoration: underline; }
 </header>
 <nav class="nav">
   <a href="/index.html">Home</a>
-  <a href="/sections/leaders.html" class="">Leaders</a><a href="/sections/style.html" class="">Style</a><a href="/sections/travel.html" class="">Travel</a><a href="/sections/music.html" class="">Music</a><a href="/sections/health.html" class="">Health</a><a href="/sections/science.html" class="">Science</a><a href="/sections/diplomacy.html" class="">Diplomacy</a><a href="/sections/law.html" class="">Law</a><a href="/sections/spotlight.html" class="">Spotlight</a><a href="/sections/features.html" class="">Features</a><a href="/sections/apparel.html" class="shop">Apparel</a>
-  <a href="/about.html">About</a>
+  <a href="/sections/leaders.html">Leaders</a>
+  <a href="/sections/style.html">Style</a>
   <a href="/sections/sports.html">Sports</a>
-  <a href="/sections/apparel.html" class="shop">Shop</a>
+  <a href="/sections/travel.html">Travel &amp; Tourism</a>
+  <a href="/sections/diplomacy.html">Diplomacy</a>
+  <a href="/sections/health.html">Health</a>
+  <a href="/sections/law.html">Law</a>
+  <a href="/sections/science.html">Science</a>
+  <a href="/sections/music.html">Music</a>
+  <a href="/sections/spotlight.html">Spotlight</a>
+  <a href="/sections/features.html">Features</a>
+  <a href="/sections/apparel.html" class="shop">Apparel</a>
+  <a href="/about.html">About</a>
 </nav>
 <main class="wrap">
 <section class="hero-grid">
@@ -93,13 +133,37 @@ a:hover { text-decoration: underline; }
       <p class="deck">(LIKE® International) LIFE OF LAW, MERCY, AND DUTY: THE ROYAL FIFTIETH-DAY MERIT-MAKING FOR HER ROYAL HIGHNESS PRINCESS BAJRAKITIYABHA NARENDIRADEBYAVATI Excerpts from LIKE® Magazi…</p>
     </div>
   </a>
-  <div>
-    <h3 class="section-title">Departments</h3>
-    <div class="grid" style="grid-template-columns:1fr 1fr;margin-top:0">
-      <a class="card" href="/sections/leaders.html"><div class="meta"><p class="kicker">Leaders</p><h2>Browse Leaders</h2></div></a><a class="card" href="/sections/style.html"><div class="meta"><p class="kicker">Style</p><h2>Browse Style</h2></div></a><a class="card" href="/sections/travel.html"><div class="meta"><p class="kicker">Travel</p><h2>Browse Travel</h2></div></a><a class="card" href="/sections/music.html"><div class="meta"><p class="kicker">Music</p><h2>Browse Music</h2></div></a><a class="card" href="/sections/health.html"><div class="meta"><p class="kicker">Health</p><h2>Browse Health</h2></div></a><a class="card" href="/sections/science.html"><div class="meta"><p class="kicker">Science</p><h2>Browse Science</h2></div></a><a class="card" href="/sections/diplomacy.html"><div class="meta"><p class="kicker">Diplomacy</p><h2>Browse Diplomacy</h2></div></a><a class="card" href="/sections/law.html"><div class="meta"><p class="kicker">Law</p><h2>Browse Law</h2></div></a>
-    </div>
+  <div class="hero-aside">
+    <p class="kicker">This issue</p>
+    <h3 style="font-family:var(--serif);font-size:1.6rem;margin:0.2rem 0 0.6rem;line-height:1.15">Departments &amp; archive editions</h3>
+    <p style="font-family:var(--sans);font-size:0.9rem;color:var(--muted);margin:0 0 0.8rem;line-height:1.45">Law, Health, Diplomacy, Travel &amp; Tourism, Style, Sports, and more — each section is a full run of the magazine.</p>
+    <a class="dept-tile" href="#departments" style="min-height:auto;padding:0.7rem 0.85rem"><strong>Browse all departments ↓</strong></a>
   </div>
 </section>
+
+<section class="archive-band">
+  <h3 class="section-title">Featured Archive Editions</h3>
+  <p class="archive-lede">Print-minded collections from the LIKE® run — open an edition, or browse by department below.</p>
+  <div class="edition-grid">
+    <a class="edition" href="/sections/leaders.html"><span class="ed-num">Vol. LXI</span><strong>Leaders</strong><em>Profiles &amp; American legacy</em></a>
+    <a class="edition" href="/sections/style.html"><span class="ed-num">Style</span><strong>LIKE® Style</strong><em>Fashion, shoots &amp; society</em></a>
+    <a class="edition" href="/sections/sports.html"><span class="ed-num">Sports</span><strong>LIKE® Sports</strong><em>Teams, sidelines &amp; capsules</em></a>
+    <a class="edition" href="/sections/travel.html"><span class="ed-num">Travel</span><strong>Travel &amp; Tourism</strong><em>Culture on the road</em></a>
+    <a class="edition" href="/sections/diplomacy.html"><span class="ed-num">World</span><strong>Diplomacy</strong><em>International affairs</em></a>
+    <a class="edition" href="/sections/health.html"><span class="ed-num">Health</span><strong>Health &amp; Medicine</strong><em>Longevity &amp; care</em></a>
+    <a class="edition" href="/sections/law.html"><span class="ed-num">Law</span><strong>LIKE® Law</strong><em>Justice &amp; duty</em></a>
+    <a class="edition" href="/sections/science.html"><span class="ed-num">Science</span><strong>LIKE® Science</strong><em>Discovery &amp; invention</em></a>
+  </div>
+</section>
+
+
+<section class="dept-band" id="departments">
+<h3 class="section-title">Departments</h3>
+<div class="dept-rail">
+<a class="dept-tile" href="/sections/leaders.html"><span class="label">Department</span><strong>Leaders</strong></a><a class="dept-tile" href="/sections/style.html"><span class="label">Department</span><strong>Style</strong></a><a class="dept-tile" href="/sections/sports.html"><span class="label">Department</span><strong>Sports</strong></a><a class="dept-tile" href="/sections/travel.html"><span class="label">Department</span><strong>Travel &amp; Tourism</strong></a><a class="dept-tile" href="/sections/diplomacy.html"><span class="label">Department</span><strong>Diplomacy</strong></a><a class="dept-tile" href="/sections/health.html"><span class="label">Department</span><strong>Health</strong></a><a class="dept-tile" href="/sections/law.html"><span class="label">Department</span><strong>Law</strong></a><a class="dept-tile" href="/sections/science.html"><span class="label">Department</span><strong>Science</strong></a><a class="dept-tile" href="/sections/music.html"><span class="label">Department</span><strong>Music</strong></a><a class="dept-tile" href="/sections/spotlight.html"><span class="label">Department</span><strong>Spotlight</strong></a><a class="dept-tile" href="/sections/features.html"><span class="label">Department</span><strong>Features</strong></a><a class="dept-tile shop" href="/sections/apparel.html"><span class="label">Department</span><strong>Apparel</strong></a>
+</div>
+</section>
+
 <h3 class="section-title">From the latest issue</h3>
 <div class="grid">
 <a class="card" href="/articles/like-travel-tourism-entertainment-culture.html">
