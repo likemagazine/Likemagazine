@@ -201,12 +201,17 @@ a:hover { text-decoration: underline; }
 
 <main class="wrap">
   <h2 class="section-title">LIKE® Apparel</h2>
-  <p>The shop is coming — print-on-demand and partner apparel connected to LIKE® Magazine. Archive labels to import include LIKE U.S. Navy, LIKE California Bears, LIKE Texas Longhorns, and related Sports capsules (many from around 2012). This section will host the storefront (and affiliate collections) without changing the editorial site.</p>
+  <p>Print-on-demand and partner apparel for LIKE® Magazine. The editorial site stays on GitHub Pages; checkout will live on a shop platform (Shopify / Printful) linked from here. Archive labels to import: LIKE U.S. Navy, LIKE California Bears, LIKE Texas Longhorns, and related Sports capsules (many from around 2012).</p>
+  <p style="font-family:var(--sans);font-size:0.85rem;color:var(--muted)">Partner catalog: <code>data/partners.json</code> · “Shop the story” modules load on Style and Travel features. Replace <code>REPLACE_*</code> tracking codes after Amazon Associates / Bookshop approval.</p>
   <div class="shop-grid">
     <div class="shop-card"><div class="swatch"></div><strong>LIKE® Masthead Tee</strong><p>Coming soon</p></div>
     <div class="shop-card"><div class="swatch" style="background:linear-gradient(135deg,#f4efe6,#8b1515)"></div><strong>Leaders Capsule</strong><p>Coming soon</p></div>
-    <div class="shop-card"><div class="swatch" style="background:linear-gradient(135deg,#111,#555)"></div><strong>Style Edit</strong><p>Affiliate partners soon</p></div>
+    <div class="shop-card"><div class="swatch" style="background:linear-gradient(135deg,#111,#555)"></div><strong>Style Edit</strong><p>Affiliate collections via partners.json</p></div>
+    <div class="shop-card"><div class="swatch" style="background:linear-gradient(135deg,#1a2a4a,#8b1515)"></div><strong>Sports Heritage</strong><p>Navy · Bears · Longhorns</p></div>
   </div>
+  <aside class="affiliate-box" style="margin-top:1.5rem"><strong>How shopping works</strong>
+    <span style="display:block;font-family:var(--sans);font-size:0.85rem;color:var(--muted);margin-top:0.35rem;font-weight:400;text-transform:none;letter-spacing:0">1) Own SKUs checkout on the future LIKE® storefront. 2) Brand/editorial partners (Diamanti, FRAME) link out until a deal is signed. 3) Network affiliates (Amazon, Bookshop) use tracked URLs once codes are filled in <code>partners.json</code>. Media kit: <a href="/media-kit/luxury-travel.html">Luxury Travel</a>.</span>
+  </aside>
 </main>
 <footer class="footer">
   <p class="disclosure">Affiliate disclosure: LIKE® Magazine may earn a commission from qualifying purchases made through links on this site. Editorial coverage remains independent.</p>
