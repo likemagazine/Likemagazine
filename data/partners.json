@@ -1,0 +1,162 @@
+{
+  "version": 1,
+  "updated": "2026-09-07",
+  "disclosure": "LIKE® Magazine may earn a commission from qualifying purchases made through links on this site. Editorial coverage remains independent.",
+  "disclosureNearLinks": "As an Amazon Associate and partner site, LIKE® may earn from qualifying purchases.",
+  "notes": "Replace trackingCode / urlTemplate placeholders after network approval. Do not publish live affiliate claims until codes are real.",
+  "partners": [
+    {
+      "id": "amazon",
+      "name": "Amazon",
+      "network": "Amazon Associates",
+      "status": "pending_code",
+      "departments": ["Style", "Books", "Health", "Technology", "Travel"],
+      "trackingCode": "REPLACE_AMAZON_TAG",
+      "urlTemplate": "https://www.amazon.com/s?k={query}&tag={trackingCode}",
+      "cookieDays": 24,
+      "rel": "sponsored noopener noreferrer"
+    },
+    {
+      "id": "bookshop",
+      "name": "Bookshop.org",
+      "network": "Bookshop Affiliates",
+      "status": "pending_code",
+      "departments": ["Books", "Leaders"],
+      "trackingCode": "REPLACE_BOOKSHOP_ID",
+      "urlTemplate": "https://bookshop.org/search?keywords={query}",
+      "cookieDays": 30,
+      "rel": "sponsored noopener noreferrer"
+    },
+    {
+      "id": "luxury-travel",
+      "name": "LIKE® Luxury Travel Partners",
+      "network": "Direct / media kit",
+      "status": "media_kit_ready",
+      "departments": ["Travel", "Summit Season", "Style"],
+      "trackingCode": "REPLACE_TRAVEL_PARTNER",
+      "urlTemplate": "/media-kit/luxury-travel.html",
+      "cookieDays": null,
+      "rel": "noopener",
+      "mediaKit": "/media-kit/luxury-travel.html"
+    },
+    {
+      "id": "diamanti-nyc",
+      "name": "Diamanti NYC",
+      "network": "Direct (editorial partner candidate)",
+      "status": "editorial_only",
+      "departments": ["Style", "Fashion"],
+      "trackingCode": null,
+      "urlTemplate": "https://www.diamantinyc.com/",
+      "cookieDays": null,
+      "rel": "noopener noreferrer",
+      "notes": "Featured in Diamond District story; convert to affiliate/partner when agreement exists."
+    },
+    {
+      "id": "frame-sothebys",
+      "name": "FRAME × Sotheby's",
+      "network": "Brand / retail",
+      "status": "editorial_only",
+      "departments": ["Style", "Fashion"],
+      "trackingCode": null,
+      "urlTemplate": "https://www.frame-store.com/",
+      "cookieDays": null,
+      "rel": "noopener noreferrer"
+    },
+    {
+      "id": "like-apparel",
+      "name": "LIKE® Apparel",
+      "network": "Own storefront (POD)",
+      "status": "coming_soon",
+      "departments": ["Apparel", "Sports", "Style"],
+      "trackingCode": null,
+      "urlTemplate": "/sections/apparel.html",
+      "cookieDays": null,
+      "rel": "noopener",
+      "capsules": ["LIKE U.S. Navy", "LIKE California Bears", "LIKE Texas Longhorns", "Leaders Capsule", "Style Edit"]
+    }
+  ],
+  "storyModules": {
+    "diamond-district-2024": {
+      "articleSlug": "like-style-diamond-district-shopping-season-2024",
+      "headline": "Shop the story",
+      "items": [
+        {
+          "partnerId": "diamanti-nyc",
+          "title": "Diamanti NYC — Diamond District",
+          "blurb": "Fine jewelry on West 47th — editorial feature partner.",
+          "cta": "Visit Diamanti",
+          "url": "https://www.diamantinyc.com/",
+          "affiliate": false
+        },
+        {
+          "partnerId": "amazon",
+          "title": "Books on New York jewelry history",
+          "blurb": "Add Amazon tag after Associates approval.",
+          "cta": "Search Amazon",
+          "query": "New+York+Diamond+District+history",
+          "affiliate": true
+        },
+        {
+          "partnerId": "like-apparel",
+          "title": "LIKE® Style Edit",
+          "blurb": "Magazine apparel capsule — coming soon.",
+          "cta": "Apparel",
+          "url": "/sections/apparel.html",
+          "affiliate": false
+        }
+      ]
+    },
+    "visit-america-golden-gate": {
+      "articleSlug": "like-visit-america-old-glory-and-the-golden-gate",
+      "headline": "Shop the story",
+      "items": [
+        {
+          "partnerId": "luxury-travel",
+          "title": "Luxury Travel partnerships",
+          "blurb": "Destination takeovers and native travel features.",
+          "cta": "Media kit",
+          "url": "/media-kit/luxury-travel.html",
+          "affiliate": false
+        },
+        {
+          "partnerId": "bookshop",
+          "title": "San Francisco & Golden Gate reading",
+          "blurb": "Indie bookstore affiliate — add Bookshop id when ready.",
+          "cta": "Search Bookshop",
+          "query": "Golden+Gate+Bridge+San+Francisco",
+          "affiliate": true
+        },
+        {
+          "partnerId": "like-apparel",
+          "title": "Visit America capsule",
+          "blurb": "Semiquincentennial apparel — coming soon.",
+          "cta": "Apparel",
+          "url": "/sections/apparel.html",
+          "affiliate": false
+        }
+      ]
+    },
+    "sothebys-frame": {
+      "articleSlug": "like-style-sothebys-enters-fashion-market-via-frame",
+      "headline": "Shop the story",
+      "items": [
+        {
+          "partnerId": "frame-sothebys",
+          "title": "FRAME store",
+          "blurb": "Apparel collaboration featured in Style.",
+          "cta": "Shop FRAME",
+          "url": "https://www.frame-store.com/",
+          "affiliate": false
+        },
+        {
+          "partnerId": "like-apparel",
+          "title": "LIKE® Fashion Edit",
+          "blurb": "House apparel — coming soon.",
+          "cta": "Apparel",
+          "url": "/sections/apparel.html",
+          "affiliate": false
+        }
+      ]
+    }
+  }
+}
