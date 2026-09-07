@@ -4,7 +4,8 @@
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
 <title>LIKE® Leaders · LIKE Magazine</title>
-<meta name="description" content="LIKE® Magazine — Leaders, Style, Travel, Culture. Print magazine online."/>
+<meta name="description" content="LIKE® Magazine Leaders — Henry Kissinger (Statesman), General Kenneth McKenzie Jr., Melinda Katz, Michelle Nunn (CARE), Maye Musk, Gloria Steinem, and WIZO. Print magazine online."/>
+<link rel="canonical" href="https://likeleaders.com/sections/leaders.html"/>
 <style>
 :root {
   --ink: #111;
@@ -113,6 +114,32 @@ a:hover { text-decoration: underline; }
 .edition.summit { background: #120c18; color: #f7f3eb; border-color: rgba(201,154,59,.45); }
 .edition.summit .ed-num { color: #c99a3b; }
 .edition.summit em { color: #b9b0c4; }
+
+.tab-switcher {
+  display: flex; gap: 0; margin: 0 0 1.25rem; border-bottom: 1px solid var(--rule);
+  font-family: var(--sans);
+}
+.tab-switcher button {
+  appearance: none; background: transparent; border: none; cursor: pointer;
+  padding: 0.75rem 1.25rem; font-family: var(--sans); font-size: 0.78rem;
+  letter-spacing: 0.18em; text-transform: uppercase; color: var(--muted); font-weight: 700;
+  border-bottom: 3px solid transparent; margin-bottom: -1px;
+}
+.tab-switcher button:hover { color: var(--accent); }
+.tab-switcher button.active { color: var(--accent); border-bottom-color: var(--accent); }
+.tab-panel { display: none; }
+.tab-panel.active { display: block; }
+.panel-lede {
+  font-family: var(--sans); font-size: 0.9rem; color: var(--muted); margin: 0 0 0.25rem;
+}
+.card .ph {
+  aspect-ratio: 16/10; display: flex; align-items: center; justify-content: center;
+  background: linear-gradient(160deg, #1a1a1a, #4a1a1a); color: #f7f3eb;
+  font-family: var(--sans); font-size: 0.78rem; letter-spacing: 0.14em; text-transform: uppercase;
+  text-align: center; padding: 1rem;
+}
+.grid { margin-top: 1rem; }
+
 </style>
 </head>
 <body>
@@ -138,24 +165,125 @@ a:hover { text-decoration: underline; }
   <a href="/sections/apparel.html" class="shop">Apparel</a>
   <a href="/about.html">About</a>
 </nav>
-<main class="wrap"><h2 class="section-title">LIKE® Leaders</h2><div class="grid"><a class="card" href="/articles/like-leaders-king-charles-iii-andy-burnham-buckingham-palace.html">
-              <img src="/images/king-charles-andy-burnham-audience.jpg" alt="King Charles III and Andy Burnham at Buckingham Palace"/>
-              <div class="meta"><p class="kicker">(LIKE® Leaders · Diplomacy UK)</p><h2>KING CHARLES III · ANDY BURNHAM · BUCKINGHAM PALACE AUDIENCE</h2></div></a><a class="card" href="/articles/like-leaders-donald-trump-forty-fifth-president-early-years.html">
-              <img src="/images/donald-trump-like-magazine.jpg" alt=""/>
-              <div class="meta"><p class="kicker">(LIKE® Leaders)</p><h2>FORTY-FIFTH PRESIDENT OF THE UNITED STATES, DONALD JOHN TRUMP</h2></div></a><a class="card" href="/articles/like-leaders-jd-vance-trump-orban-budapest-common-sense.html">
-              <img src="/images/jd-vance-phone-call-trump.jpg" alt=""/>
-              <div class="meta"><p class="kicker">(LIKE® Leaders)</p><h2>U.S. VICE PRESIDENT JD VANCE, PRESIDENT DONALD TRUMP, AND HUNGARIAN PRIME MINISTER VIKTOR ORBÁN PITCH POLITICAL COMMON SENSE IN BUDAPEST</h2></div></a><a class="card" href="/articles/like-leaders-maye-musk-a-woman-makes-a-plan.html">
-              <img src="/images/maye-musk-leaders-card.jpg" alt="Maye Musk"/>
-              <div class="meta"><p class="kicker">(LIKE® Leaders)</p><h2>MAYE MUSK: A WOMAN MAKES A PLAN</h2></div></a><a class="card" href="/articles/like-leaders-gloria-steinem-walks-on-ink-the-apollo-stump-and-the-women-who-walk.html">
-              <img src='/images/like-leaders-gloria-steinem-walks-on-ink-the-apollo-stump-and-the-women-who-walk-1.jpg' alt=''/>
-              <div class="meta"><p class="kicker">(LIKE® Leaders)</p><h2>GLORIA STEINEM WALKS ON: INK, THE APOLLO STUMP, AND THE WOMEN WHO WALKED WITH HER</h2></div></a><a class="card" href="/articles/like-leaders-250-years-of-america-the-work-and-influence-of-fine-american-vice-p.html">
-              <img src='/images/like-leaders-250-years-of-america-the-work-and-influence-of-fine-american-vice-p-1.jpg' alt=''/>
-              <div class="meta"><p class="kicker">(LIKE® Leaders)</p><h2>250 YEARS OF AMERICA: THE WORK AND INFLUENCE OF FINE AMERICAN VICE-PRESIDENCIES</h2></div></a><a class="card" href="/articles/like-leaders-250-years-of-america-muhammad-ali.html">
-              <img src='/images/like-leaders-250-years-of-america-muhammad-ali-1.jpg' alt=''/>
-              <div class="meta"><p class="kicker">(LIKE® Leaders)</p><h2>250 YEARS OF AMERICA: MUHAMMAD ALI</h2></div></a></div></main>
+<main class="wrap">
+  <h2 class="section-title">LIKE® Leaders</h2>
+
+  <div class="tab-switcher" role="tablist" aria-label="Leaders sections">
+    <button type="button" role="tab" id="tab-all" aria-controls="panel-all" aria-selected="true" class="active" data-tab="all">Leaders</button>
+    <button type="button" role="tab" id="tab-women" aria-controls="panel-women" aria-selected="false" data-tab="women">Women Leaders</button>
+  </div>
+
+  <div id="panel-all" class="tab-panel active" role="tabpanel" aria-labelledby="tab-all">
+    <p class="panel-lede">Profiles, diplomacy, and American legacy from the LIKE® Leaders run.</p>
+    <div class="grid">
+      <a class="card" href="/articles/like-statesman-henry-kissinger-camp-david-dealmakers.html">
+        <img src="/images/henry-kissinger-statesman.jpg" alt="Henry Kissinger — LIKE® Statesman"/>
+        <div class="meta"><p class="kicker">LIKE® Statesman · Leaders</p><h2>IN LIFE THERE ARE DEALMAKERS AND DEALBREAKERS · HENRY KISSINGER</h2></div>
+      </a>
+      <a class="card" href="/articles/like-leaders-general-kenneth-mckenzie-jr.html">
+        <img src="/images/kenneth-mckenzie-centcom.jpg" alt="General Kenneth McKenzie Jr. — public USCENTCOM identification portrait"/>
+        <div class="meta"><p class="kicker">(LIKE® Leaders)</p><h2>GENERAL KENNETH McKENZIE JR. · CENTCOM</h2></div>
+      </a>
+      <a class="card" href="/articles/like-leaders-melinda-katz-queens-da.html">
+        <img src="/images/melinda-katz-queens-da.jpg" alt="Melinda Katz, Queens District Attorney — video still by Michael de la Force"/>
+        <div class="meta"><p class="kicker">(LIKE® Women Leaders · Law)</p><h2>MELINDA KATZ · QUEENS DISTRICT ATTORNEY</h2></div>
+      </a>
+      <a class="card" href="/articles/like-leaders-king-charles-iii-andy-burnham-buckingham-palace.html">
+        <img src="/images/king-charles-andy-burnham-audience.jpg" alt="King Charles III and Andy Burnham at Buckingham Palace"/>
+        <div class="meta"><p class="kicker">(LIKE® Leaders · Diplomacy UK)</p><h2>KING CHARLES III · ANDY BURNHAM · BUCKINGHAM PALACE AUDIENCE</h2></div>
+      </a>
+      <a class="card" href="/articles/like-leaders-donald-trump-forty-fifth-president-early-years.html">
+        <img src="/images/donald-trump-like-magazine.jpg" alt=""/>
+        <div class="meta"><p class="kicker">(LIKE® Leaders)</p><h2>FORTY-FIFTH PRESIDENT OF THE UNITED STATES, DONALD JOHN TRUMP</h2></div>
+      </a>
+      <a class="card" href="/articles/like-leaders-jd-vance-trump-orban-budapest-common-sense.html">
+        <img src="/images/jd-vance-phone-call-trump.jpg" alt=""/>
+        <div class="meta"><p class="kicker">(LIKE® Leaders)</p><h2>U.S. VICE PRESIDENT JD VANCE, PRESIDENT DONALD TRUMP, AND HUNGARIAN PRIME MINISTER VIKTOR ORBÁN PITCH POLITICAL COMMON SENSE IN BUDAPEST</h2></div>
+      </a>
+      <a class="card" href="/articles/like-leaders-women-leaders-care-michelle-nunn.html">
+        <img src="/images/michelle-nunn-care.jpg" alt="Michelle Nunn, CARE USA — photograph by Michael de la Force"/>
+        <div class="meta"><p class="kicker">(LIKE® Women Leaders)</p><h2>WOMEN LEADERS: CARE, MICHELLE NUNN</h2></div>
+      </a>
+      <a class="card" href="/articles/like-leaders-maye-musk-a-woman-makes-a-plan.html">
+        <img src="/images/maye-musk-leaders-card.jpg" alt="Maye Musk"/>
+        <div class="meta"><p class="kicker">(LIKE® Leaders)</p><h2>MAYE MUSK: A WOMAN MAKES A PLAN</h2></div>
+      </a>
+      <a class="card" href="/articles/like-leaders-gloria-steinem-walks-on-ink-the-apollo-stump-and-the-women-who-walk.html">
+        <img src="/images/like-leaders-gloria-steinem-walks-on-ink-the-apollo-stump-and-the-women-who-walk-1.jpg" alt=""/>
+        <div class="meta"><p class="kicker">(LIKE® Leaders)</p><h2>GLORIA STEINEM WALKS ON: INK, THE APOLLO STUMP, AND THE WOMEN WHO WALKED WITH HER</h2></div>
+      </a>
+      <a class="card" href="/articles/like-leaders-250-years-of-america-the-work-and-influence-of-fine-american-vice-p.html">
+        <img src="/images/like-leaders-250-years-of-america-the-work-and-influence-of-fine-american-vice-p-1.jpg" alt=""/>
+        <div class="meta"><p class="kicker">(LIKE® Leaders)</p><h2>250 YEARS OF AMERICA: THE WORK AND INFLUENCE OF FINE AMERICAN VICE-PRESIDENCIES</h2></div>
+      </a>
+      <a class="card" href="/articles/like-leaders-250-years-of-america-muhammad-ali.html">
+        <img src="/images/like-leaders-250-years-of-america-muhammad-ali-1.jpg" alt=""/>
+        <div class="meta"><p class="kicker">(LIKE® Leaders)</p><h2>250 YEARS OF AMERICA: MUHAMMAD ALI</h2></div>
+      </a>
+    </div>
+  </div>
+
+  <div id="panel-women" class="tab-panel" role="tabpanel" aria-labelledby="tab-women">
+    <p class="panel-lede">LIKE® Women Leaders — women who plan, walk, and build institutions — from CARE to the runway to the stump.</p>
+    <div class="grid">
+      <a class="card" href="/articles/like-leaders-women-leaders-care-michelle-nunn.html">
+        <img src="/images/michelle-nunn-care.jpg" alt="Michelle Nunn, CARE USA — photograph by Michael de la Force"/>
+        <div class="meta"><p class="kicker">(LIKE® Women Leaders)</p><h2>WOMEN LEADERS: CARE, MICHELLE NUNN</h2>
+        <p class="deck">CARE USA · United Nations Headquarters, New York · Photograph: Michael de la Force.</p></div>
+      </a>
+      <a class="card" href="/articles/like-leaders-melinda-katz-queens-da.html">
+        <img src="/images/melinda-katz-queens-da.jpg" alt="Melinda Katz, Queens District Attorney — video still by Michael de la Force"/>
+        <div class="meta"><p class="kicker">(LIKE® Women Leaders · Law)</p><h2>MELINDA KATZ · QUEENS DISTRICT ATTORNEY</h2>
+        <p class="deck">Port Authority holiday ceremony, Queens · Video: Michael de la Force · 14 December 2021.</p></div>
+      </a>
+      <a class="card" href="/articles/like-leaders-maye-musk-a-woman-makes-a-plan.html">
+        <img src="/images/maye-musk-leaders-card.jpg" alt="Maye Musk"/>
+        <div class="meta"><p class="kicker">(LIKE® Women Leaders)</p><h2>MAYE MUSK: A WOMAN MAKES A PLAN</h2></div>
+      </a>
+      <a class="card" href="/articles/like-leaders-gloria-steinem-walks-on-ink-the-apollo-stump-and-the-women-who-walk.html">
+        <img src="/images/like-leaders-gloria-steinem-walks-on-ink-the-apollo-stump-and-the-women-who-walk-1.jpg" alt=""/>
+        <div class="meta"><p class="kicker">(LIKE® Women Leaders)</p><h2>GLORIA STEINEM WALKS ON: INK, THE APOLLO STUMP, AND THE WOMEN WHO WALKED WITH HER</h2></div>
+      </a>
+      <a class="card" href="/articles/like-leaders-wizo-women-international-zionist-organization.html">
+        <div class="ph">WIZO · Video forthcoming</div>
+        <div class="meta"><p class="kicker">(LIKE® Women Leaders)</p><h2>WIZO — EDUCATIONAL INSIGHT FOR STATE DEVELOPMENT UNDER WOMEN</h2>
+        <p class="deck">Women’s International Zionist Organization · educational insight for state development under women.</p></div>
+      </a>
+    </div>
+  </div>
+</main>
 <footer class="footer">
   <p class="disclosure">Affiliate disclosure: LIKE® Magazine may earn a commission from qualifying purchases made through links on this site. Editorial coverage remains independent.</p>
   © LIKE Magazine · likeleaders.com · Photography &amp; editorial by Michael de la Force · Print-on-demand editions coming soon
 </footer>
+<script>
+(function () {
+  var buttons = document.querySelectorAll('.tab-switcher button');
+  var panels = {
+    all: document.getElementById('panel-all'),
+    women: document.getElementById('panel-women')
+  };
+  function show(name) {
+    if (!panels[name]) name = 'all';
+    buttons.forEach(function (b) {
+      var on = b.getAttribute('data-tab') === name;
+      b.classList.toggle('active', on);
+      b.setAttribute('aria-selected', on ? 'true' : 'false');
+    });
+    Object.keys(panels).forEach(function (k) {
+      panels[k].classList.toggle('active', k === name);
+    });
+    if (history.replaceState) {
+      history.replaceState(null, '', name === 'women' ? '#women' : '#all');
+    }
+  }
+  buttons.forEach(function (b) {
+    b.addEventListener('click', function () { show(b.getAttribute('data-tab')); });
+  });
+  var hash = (location.hash || '').replace('#', '');
+  if (hash === 'women') show('women');
+  else show('all');
+})();
+</script>
 </body>
 </html>
