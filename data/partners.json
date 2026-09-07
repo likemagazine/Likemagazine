@@ -1,27 +1,76 @@
 {
   "version": 1,
   "updated": "2026-09-07",
-  "disclosure": "LIKE® Magazine may earn a commission from qualifying purchases made through links on this site. Editorial coverage remains independent.",
-  "disclosureNearLinks": "As an Amazon Associate and partner site, LIKE® may earn from qualifying purchases.",
-  "notes": "Replace trackingCode / urlTemplate placeholders after network approval. Do not publish live affiliate claims until codes are real.",
+  "disclosure": "LIKE\u00ae Magazine may earn a commission from qualifying purchases made through links on this site. Editorial coverage remains independent.",
+  "disclosureNearLinks": "LIKE\u00ae may earn from qualifying purchases as an Amazon Associate / Influencer and eBay Partner Network participant.",
+  "notes": "Editor is approved Amazon Influencer + eBay Ambassador (via Facebook) but has not activated tracking on likeleaders.com yet. Fill trackingCode fields below, set status to live, then republish. Never invent codes.",
   "partners": [
     {
       "id": "amazon",
-      "name": "Amazon",
+      "name": "Amazon Associates",
       "network": "Amazon Associates",
-      "status": "pending_code",
-      "departments": ["Style", "Books", "Health", "Technology", "Travel"],
+      "status": "approved_pending_wire",
+      "departments": [
+        "Style",
+        "Books",
+        "Health",
+        "Technology",
+        "Travel",
+        "Automotive"
+      ],
       "trackingCode": "REPLACE_AMAZON_TAG",
       "urlTemplate": "https://www.amazon.com/s?k={query}&tag={trackingCode}",
       "cookieDays": 24,
-      "rel": "sponsored noopener noreferrer"
+      "rel": "sponsored noopener noreferrer",
+      "notes": "Primary product-search affiliate tag for Shop the story modules."
+    },
+    {
+      "id": "amazon-influencer",
+      "name": "Amazon Influencer",
+      "network": "Amazon Influencer Program",
+      "status": "approved_pending_wire",
+      "departments": [
+        "Style",
+        "Fashion",
+        "Apparel",
+        "Travel",
+        "Automotive"
+      ],
+      "trackingCode": "REPLACE_AMAZON_INFLUENCER_TAG",
+      "storefrontUrl": "REPLACE_INFLUENCER_STOREFRONT_URL",
+      "urlTemplate": "https://www.amazon.com/shop/{storefront}",
+      "cookieDays": 24,
+      "rel": "sponsored noopener noreferrer",
+      "notes": "Use same or dedicated tag; prefer linking curated storefront lists for Features/Style."
+    },
+    {
+      "id": "ebay",
+      "name": "eBay Partner Network",
+      "network": "eBay Ambassador / EPN",
+      "status": "approved_pending_wire",
+      "departments": [
+        "Style",
+        "Fashion",
+        "Automotive",
+        "Apparel",
+        "Travel",
+        "Collectibles"
+      ],
+      "trackingCode": "REPLACE_EBAY_CAMPID",
+      "urlTemplate": "https://www.ebay.com/sch/i.html?_nkw={query}&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid={trackingCode}&customid=likeleaders&toolid=10001",
+      "cookieDays": 24,
+      "rel": "sponsored noopener noreferrer",
+      "notes": "Ambassador via Facebook \u2014 wire campid before promoting. customid=likeleaders for placement reporting."
     },
     {
       "id": "bookshop",
       "name": "Bookshop.org",
       "network": "Bookshop Affiliates",
       "status": "pending_code",
-      "departments": ["Books", "Leaders"],
+      "departments": [
+        "Books",
+        "Leaders"
+      ],
       "trackingCode": "REPLACE_BOOKSHOP_ID",
       "urlTemplate": "https://bookshop.org/search?keywords={query}",
       "cookieDays": 30,
@@ -29,10 +78,14 @@
     },
     {
       "id": "luxury-travel",
-      "name": "LIKE® Luxury Travel Partners",
+      "name": "LIKE\u00ae Luxury Travel Partners",
       "network": "Direct / media kit",
       "status": "media_kit_ready",
-      "departments": ["Travel", "Summit Season", "Style"],
+      "departments": [
+        "Travel",
+        "Summit Season",
+        "Style"
+      ],
       "trackingCode": "REPLACE_TRAVEL_PARTNER",
       "urlTemplate": "/media-kit/luxury-travel.html",
       "cookieDays": null,
@@ -44,7 +97,10 @@
       "name": "Diamanti NYC",
       "network": "Direct (editorial partner candidate)",
       "status": "editorial_only",
-      "departments": ["Style", "Fashion"],
+      "departments": [
+        "Style",
+        "Fashion"
+      ],
       "trackingCode": null,
       "urlTemplate": "https://www.diamantinyc.com/",
       "cookieDays": null,
@@ -53,10 +109,13 @@
     },
     {
       "id": "frame-sothebys",
-      "name": "FRAME × Sotheby's",
+      "name": "FRAME \u00d7 Sotheby's",
       "network": "Brand / retail",
       "status": "editorial_only",
-      "departments": ["Style", "Fashion"],
+      "departments": [
+        "Style",
+        "Fashion"
+      ],
       "trackingCode": null,
       "urlTemplate": "https://www.frame-store.com/",
       "cookieDays": null,
@@ -64,15 +123,25 @@
     },
     {
       "id": "like-apparel",
-      "name": "LIKE® Apparel",
+      "name": "LIKE\u00ae Apparel",
       "network": "Own storefront (POD)",
       "status": "coming_soon",
-      "departments": ["Apparel", "Sports", "Style"],
+      "departments": [
+        "Apparel",
+        "Sports",
+        "Style"
+      ],
       "trackingCode": null,
       "urlTemplate": "/sections/apparel.html",
       "cookieDays": null,
       "rel": "noopener",
-      "capsules": ["LIKE U.S. Navy", "LIKE California Bears", "LIKE Texas Longhorns", "Leaders Capsule", "Style Edit"]
+      "capsules": [
+        "LIKE U.S. Navy",
+        "LIKE California Bears",
+        "LIKE Texas Longhorns",
+        "Leaders Capsule",
+        "Style Edit"
+      ]
     }
   ],
   "storyModules": {
@@ -82,8 +151,8 @@
       "items": [
         {
           "partnerId": "diamanti-nyc",
-          "title": "Diamanti NYC — Diamond District",
-          "blurb": "Fine jewelry on West 47th — editorial feature partner.",
+          "title": "Diamanti NYC \u2014 Diamond District",
+          "blurb": "Fine jewelry on West 47th \u2014 editorial feature partner.",
           "cta": "Visit Diamanti",
           "url": "https://www.diamantinyc.com/",
           "affiliate": false
@@ -98,11 +167,19 @@
         },
         {
           "partnerId": "like-apparel",
-          "title": "LIKE® Style Edit",
-          "blurb": "Magazine apparel capsule — coming soon.",
+          "title": "LIKE\u00ae Style Edit",
+          "blurb": "Magazine apparel capsule \u2014 coming soon.",
           "cta": "Apparel",
           "url": "/sections/apparel.html",
           "affiliate": false
+        },
+        {
+          "partnerId": "ebay",
+          "title": "Estate & diamond jewelry on eBay",
+          "blurb": "Ambassador link \u2014 add campid after EPN wire-up.",
+          "cta": "Search eBay",
+          "query": "diamond+engagement+ring",
+          "affiliate": true
         }
       ]
     },
@@ -121,7 +198,7 @@
         {
           "partnerId": "bookshop",
           "title": "San Francisco & Golden Gate reading",
-          "blurb": "Indie bookstore affiliate — add Bookshop id when ready.",
+          "blurb": "Indie bookstore affiliate \u2014 add Bookshop id when ready.",
           "cta": "Search Bookshop",
           "query": "Golden+Gate+Bridge+San+Francisco",
           "affiliate": true
@@ -129,7 +206,7 @@
         {
           "partnerId": "like-apparel",
           "title": "Visit America capsule",
-          "blurb": "Semiquincentennial apparel — coming soon.",
+          "blurb": "Semiquincentennial apparel \u2014 coming soon.",
           "cta": "Apparel",
           "url": "/sections/apparel.html",
           "affiliate": false
@@ -150,13 +227,46 @@
         },
         {
           "partnerId": "like-apparel",
-          "title": "LIKE® Fashion Edit",
-          "blurb": "House apparel — coming soon.",
+          "title": "LIKE\u00ae Fashion Edit",
+          "blurb": "House apparel \u2014 coming soon.",
           "cta": "Apparel",
           "url": "/sections/apparel.html",
           "affiliate": false
+        },
+        {
+          "partnerId": "amazon-influencer",
+          "title": "LIKE\u00ae Style picks on Amazon",
+          "blurb": "Influencer storefront \u2014 paste store URL/tag when ready.",
+          "cta": "Influencer shop",
+          "url": "#",
+          "affiliate": true
         }
       ]
     }
+  },
+  "setup": {
+    "amazonInfluencer": [
+      "Sign in at https://affiliate-program.amazon.com/ (Associates) and/or Influencer: https://affiliate-program.amazon.com/home/influencers",
+      "Confirm the site likeleaders.com (and Facebook if required) is listed under Accounts / Sites & apps \u2014 add the domain if missing and wait for approval if prompted.",
+      "Copy your Store ID / tracking tag (looks like yourname-20). That is trackingCode for amazon + amazon-influencer.",
+      "Optional: create an Influencer storefront (Shop) and paste its public URL into storefrontUrl.",
+      "In Site Stripe / Profile, use the same disclosure language already on likeleaders.com footers.",
+      "Drop the tag into partners.json \u2192 partners id amazon and amazon-influencer \u2192 trackingCode, set status to live, republish data/partners.json."
+    ],
+    "ebayAmbassador": [
+      "Sign in to eBay Partner Network (EPN): https://partnernetwork.ebay.com/ (Ambassador / Creator programs often route here).",
+      "Add likeleaders.com as a website property / placement if the dashboard asks for it.",
+      "Create a campaign (or use default) and copy your Campaign ID / custom link tool output.",
+      "Generate product or search links with the Link Generator; the campid= parameter is your trackingCode.",
+      "Paste campid into partners.json \u2192 ebay trackingCode; set urlTemplate to keep campid={trackingCode}; status live; republish.",
+      "Keep eBay and Amazon disclosures near Shop the story modules (already loaded from disclosureNearLinks)."
+    ],
+    "siteWireOrder": [
+      "Do not click/promote until domain + disclosures are accepted in each dashboard.",
+      "Put real tags only in partners.json (never hardcode secrets beyond public affiliate tags).",
+      "Upload data/partners.json to GitHub Pages.",
+      "Spot-check Diamond District / Visit America Shop the story cards \u2014 pending badges should disappear.",
+      "Optional: add Facebook post links that point to the same tagged URLs for Influencer/Ambassador attribution continuity."
+    ]
   }
 }
