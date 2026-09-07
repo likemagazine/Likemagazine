@@ -140,6 +140,60 @@ a:hover { text-decoration: underline; }
 }
 .grid { margin-top: 1rem; }
 
+
+/* Print year-rail — Roman numeral edition lines */
+.year-line {
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+  margin: 2.1rem 0 0.85rem;
+  font-family: var(--sans);
+}
+.year-line::before,
+.year-line::after {
+  content: "";
+  flex: 1 1 auto;
+  height: 3px;
+  border-top: 1px solid var(--ink);
+  border-bottom: 1px solid var(--ink);
+  opacity: 0.55;
+}
+.year-line .roman {
+  flex: 0 0 auto;
+  font-size: 0.72rem;
+  letter-spacing: 0.32em;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: var(--ink);
+  padding: 0 0.15rem;
+}
+.year-line .year-arabic {
+  flex: 0 0 auto;
+  font-size: 0.62rem;
+  letter-spacing: 0.14em;
+  color: var(--muted);
+  font-weight: 500;
+}
+.year-line.archive::before,
+.year-line.archive::after {
+  border-color: var(--rule);
+  opacity: 1;
+}
+.year-line.archive .roman {
+  letter-spacing: 0.22em;
+  color: var(--muted);
+  font-weight: 600;
+}
+.year-group { margin-bottom: 0.35rem; }
+.year-group > .grid { margin-top: 0.85rem; }
+.year-line.summit-year::before,
+.year-line.summit-year::after {
+  border-color: #c99a3b;
+  opacity: 0.7;
+}
+.year-line.summit-year .roman { color: #c99a3b; }
+.year-line.summit-year .year-arabic { color: #b9b0c4; }
+
 </style>
 </head>
 <body>
@@ -153,6 +207,7 @@ a:hover { text-decoration: underline; }
   <a href="/sections/automotive.html">Automotive Features</a>
   <a href="/sections/leaders.html">Leaders</a>
   <a href="/sections/style.html">Style</a>
+  <a href="/sections/fashion.html">Fashion</a>
   <a href="/sections/sports.html">Sports</a>
   <a href="/sections/travel.html">Travel &amp; Tourism</a>
   <a href="/sections/diplomacy.html">Diplomacy</a>
@@ -160,6 +215,11 @@ a:hover { text-decoration: underline; }
   <a href="/sections/law.html">Law</a>
   <a href="/sections/science.html">Science</a>
   <a href="/sections/music.html">Music</a>
+  <a href="/sections/film.html">Film</a>
+  <a href="/sections/film-festivals.html">Film Festivals</a>
+  <a href="/sections/books.html">Books</a>
+  <a href="/sections/art.html">Art</a>
+  <a href="/sections/museums.html">Museums</a>
   <a href="/sections/spotlight.html">Spotlight</a>
   <a href="/sections/features.html">Features</a>
   <a href="/sections/apparel.html" class="shop">Apparel</a>
@@ -174,81 +234,140 @@ a:hover { text-decoration: underline; }
   </div>
 
   <div id="panel-all" class="tab-panel active" role="tabpanel" aria-labelledby="tab-all">
-    <p class="panel-lede">Profiles, diplomacy, and American legacy from the LIKE® Leaders run.</p>
-    <div class="grid">
-      <a class="card" href="/articles/like-statesman-henry-kissinger-camp-david-dealmakers.html">
-        <img src="/images/henry-kissinger-statesman.jpg" alt="Henry Kissinger — LIKE® Statesman"/>
-        <div class="meta"><p class="kicker">LIKE® Statesman · Leaders</p><h2>IN LIFE THERE ARE DEALMAKERS AND DEALBREAKERS · HENRY KISSINGER</h2></div>
-      </a>
-      <a class="card" href="/articles/like-leaders-general-kenneth-mckenzie-jr.html">
-        <img src="/images/kenneth-mckenzie-centcom.jpg" alt="General Kenneth McKenzie Jr. — public USCENTCOM identification portrait"/>
-        <div class="meta"><p class="kicker">(LIKE® Leaders)</p><h2>GENERAL KENNETH McKENZIE JR. · CENTCOM</h2></div>
-      </a>
-      <a class="card" href="/articles/like-leaders-melinda-katz-queens-da.html">
-        <img src="/images/melinda-katz-queens-da.jpg" alt="Melinda Katz, Queens District Attorney — video still by Michael de la Force"/>
-        <div class="meta"><p class="kicker">(LIKE® Women Leaders · Law)</p><h2>MELINDA KATZ · QUEENS DISTRICT ATTORNEY</h2></div>
-      </a>
+    <p class="panel-lede">Profiles, diplomacy, and American legacy from the LIKE® Leaders run — ordered by original publication year.</p>
+    <div class="year-group">
+      <div class="year-line" data-year="2026"><span class="roman">MMXXVI</span><span class="year-arabic">2026</span></div>
+      <div class="grid">
       <a class="card" href="/articles/like-leaders-king-charles-iii-andy-burnham-buckingham-palace.html">
         <img src="/images/king-charles-andy-burnham-audience.jpg" alt="King Charles III and Andy Burnham at Buckingham Palace"/>
         <div class="meta"><p class="kicker">(LIKE® Leaders · Diplomacy UK)</p><h2>KING CHARLES III · ANDY BURNHAM · BUCKINGHAM PALACE AUDIENCE</h2></div>
-      </a>
-      <a class="card" href="/articles/like-leaders-donald-trump-forty-fifth-president-early-years.html">
-        <img src="/images/donald-trump-like-magazine.jpg" alt=""/>
-        <div class="meta"><p class="kicker">(LIKE® Leaders)</p><h2>FORTY-FIFTH PRESIDENT OF THE UNITED STATES, DONALD JOHN TRUMP</h2></div>
       </a>
       <a class="card" href="/articles/like-leaders-jd-vance-trump-orban-budapest-common-sense.html">
         <img src="/images/jd-vance-phone-call-trump.jpg" alt=""/>
         <div class="meta"><p class="kicker">(LIKE® Leaders)</p><h2>U.S. VICE PRESIDENT JD VANCE, PRESIDENT DONALD TRUMP, AND HUNGARIAN PRIME MINISTER VIKTOR ORBÁN PITCH POLITICAL COMMON SENSE IN BUDAPEST</h2></div>
       </a>
-      <a class="card" href="/articles/like-leaders-women-leaders-care-michelle-nunn.html">
-        <img src="/images/michelle-nunn-care.jpg" alt="Michelle Nunn, CARE USA — photograph by Michael de la Force"/>
-        <div class="meta"><p class="kicker">(LIKE® Women Leaders)</p><h2>WOMEN LEADERS: CARE, MICHELLE NUNN</h2></div>
-      </a>
-      <a class="card" href="/articles/like-leaders-maye-musk-a-woman-makes-a-plan.html">
-        <img src="/images/maye-musk-leaders-card.jpg" alt="Maye Musk"/>
-        <div class="meta"><p class="kicker">(LIKE® Leaders)</p><h2>MAYE MUSK: A WOMAN MAKES A PLAN</h2></div>
-      </a>
       <a class="card" href="/articles/like-leaders-gloria-steinem-walks-on-ink-the-apollo-stump-and-the-women-who-walk.html">
         <img src="/images/like-leaders-gloria-steinem-walks-on-ink-the-apollo-stump-and-the-women-who-walk-1.jpg" alt=""/>
         <div class="meta"><p class="kicker">(LIKE® Leaders)</p><h2>GLORIA STEINEM WALKS ON: INK, THE APOLLO STUMP, AND THE WOMEN WHO WALKED WITH HER</h2></div>
-      </a>
-      <a class="card" href="/articles/like-leaders-250-years-of-america-the-work-and-influence-of-fine-american-vice-p.html">
-        <img src="/images/like-leaders-250-years-of-america-the-work-and-influence-of-fine-american-vice-p-1.jpg" alt=""/>
-        <div class="meta"><p class="kicker">(LIKE® Leaders)</p><h2>250 YEARS OF AMERICA: THE WORK AND INFLUENCE OF FINE AMERICAN VICE-PRESIDENCIES</h2></div>
       </a>
       <a class="card" href="/articles/like-leaders-250-years-of-america-muhammad-ali.html">
         <img src="/images/like-leaders-250-years-of-america-muhammad-ali-1.jpg" alt=""/>
         <div class="meta"><p class="kicker">(LIKE® Leaders)</p><h2>250 YEARS OF AMERICA: MUHAMMAD ALI</h2></div>
       </a>
+      </div>
+    </div>
+    <div class="year-group">
+      <div class="year-line" data-year="2025"><span class="roman">MMXXV</span><span class="year-arabic">2025</span></div>
+      <div class="grid">
+      <a class="card" href="/articles/like-leaders-women-leaders-care-michelle-nunn.html">
+        <img src="/images/michelle-nunn-care.jpg" alt="Michelle Nunn, CARE USA — photograph by Michael de la Force"/>
+        <div class="meta"><p class="kicker">(LIKE® Women Leaders)</p><h2>WOMEN LEADERS: CARE, MICHELLE NUNN</h2></div>
+      </a>
+      </div>
+    </div>
+    <div class="year-group">
+      <div class="year-line" data-year="2024"><span class="roman">MMXXIV</span><span class="year-arabic">2024</span></div>
+      <div class="grid">
+      <a class="card" href="/articles/like-leaders-donald-trump-forty-fifth-president-early-years.html">
+        <img src="/images/donald-trump-like-magazine.jpg" alt=""/>
+        <div class="meta"><p class="kicker">(LIKE® Leaders)</p><h2>FORTY-FIFTH PRESIDENT OF THE UNITED STATES, DONALD JOHN TRUMP</h2></div>
+      </a>
+      </div>
+    </div>
+    <div class="year-group">
+      <div class="year-line" data-year="2023"><span class="roman">MMXXIII</span><span class="year-arabic">2023</span></div>
+      <div class="grid">
+      <a class="card" href="/articles/like-statesman-henry-kissinger-camp-david-dealmakers.html">
+        <img src="/images/henry-kissinger-statesman.jpg" alt="Henry Kissinger — LIKE® Statesman"/>
+        <div class="meta"><p class="kicker">LIKE® Statesman · Leaders</p><h2>IN LIFE THERE ARE DEALMAKERS AND DEALBREAKERS · HENRY KISSINGER</h2></div>
+      </a>
+      </div>
+    </div>
+    <div class="year-group">
+      <div class="year-line" data-year="2022"><span class="roman">MMXXII</span><span class="year-arabic">2022</span></div>
+      <div class="grid">
+      <a class="card" href="/articles/like-leaders-general-kenneth-mckenzie-jr.html">
+        <img src="/images/kenneth-mckenzie-centcom.jpg" alt="General Kenneth McKenzie Jr. — public USCENTCOM identification portrait"/>
+        <div class="meta"><p class="kicker">(LIKE® Leaders)</p><h2>GENERAL KENNETH McKENZIE JR. · CENTCOM</h2></div>
+      </a>
+      </div>
+    </div>
+    <div class="year-group">
+      <div class="year-line" data-year="2021"><span class="roman">MMXXI</span><span class="year-arabic">2021</span></div>
+      <div class="grid">
+      <a class="card" href="/articles/like-leaders-melinda-katz-queens-da.html">
+        <img src="/images/melinda-katz-queens-da.jpg" alt="Melinda Katz, Queens District Attorney — video still by Michael de la Force"/>
+        <div class="meta"><p class="kicker">(LIKE® Women Leaders · Law)</p><h2>MELINDA KATZ · QUEENS DISTRICT ATTORNEY</h2></div>
+      </a>
+      </div>
+    </div>
+    <div class="year-group">
+      <div class="year-line archive" data-year="archive"><span class="roman">Archive</span></div>
+      <div class="grid">
+      <a class="card" href="/articles/like-leaders-maye-musk-a-woman-makes-a-plan.html">
+        <img src="/images/maye-musk-leaders-card.jpg" alt="Maye Musk"/>
+        <div class="meta"><p class="kicker">(LIKE® Leaders)</p><h2>MAYE MUSK: A WOMAN MAKES A PLAN</h2></div>
+      </a>
+      <a class="card" href="/articles/like-leaders-maye-musk-house-party-new-york-city.html">
+        <img src="/images/maye-musk-house-party-nyc-card.jpg" alt="Maye Musk house party, New York City"/>
+        <div class="meta"><p class="kicker">(LIKE® Leaders)</p><h2>MAYE MUSK · HOUSE PARTY · NEW YORK CITY</h2></div>
+      </a>
+      <a class="card" href="/articles/like-leaders-250-years-of-america-the-work-and-influence-of-fine-american-vice-p.html">
+        <img src="/images/like-leaders-250-years-of-america-the-work-and-influence-of-fine-american-vice-p-1.jpg" alt=""/>
+        <div class="meta"><p class="kicker">(LIKE® Leaders)</p><h2>250 YEARS OF AMERICA: THE WORK AND INFLUENCE OF FINE AMERICAN VICE-PRESIDENCIES</h2></div>
+      </a>
+      </div>
     </div>
   </div>
 
   <div id="panel-women" class="tab-panel" role="tabpanel" aria-labelledby="tab-women">
     <p class="panel-lede">LIKE® Women Leaders — women who plan, walk, and build institutions — from CARE to the runway to the stump.</p>
-    <div class="grid">
+    <div class="year-group">
+      <div class="year-line" data-year="2026"><span class="roman">MMXXVI</span><span class="year-arabic">2026</span></div>
+      <div class="grid">
+      <a class="card" href="/articles/like-leaders-gloria-steinem-walks-on-ink-the-apollo-stump-and-the-women-who-walk.html">
+        <img src="/images/like-leaders-gloria-steinem-walks-on-ink-the-apollo-stump-and-the-women-who-walk-1.jpg" alt=""/>
+        <div class="meta"><p class="kicker">(LIKE® Women Leaders)</p><h2>GLORIA STEINEM WALKS ON: INK, THE APOLLO STUMP, AND THE WOMEN WHO WALKED WITH HER</h2></div>
+      </a>
+      </div>
+    </div>
+    <div class="year-group">
+      <div class="year-line" data-year="2025"><span class="roman">MMXXV</span><span class="year-arabic">2025</span></div>
+      <div class="grid">
       <a class="card" href="/articles/like-leaders-women-leaders-care-michelle-nunn.html">
         <img src="/images/michelle-nunn-care.jpg" alt="Michelle Nunn, CARE USA — photograph by Michael de la Force"/>
         <div class="meta"><p class="kicker">(LIKE® Women Leaders)</p><h2>WOMEN LEADERS: CARE, MICHELLE NUNN</h2>
         <p class="deck">CARE USA · United Nations Headquarters, New York · Photograph: Michael de la Force.</p></div>
       </a>
+      </div>
+    </div>
+    <div class="year-group">
+      <div class="year-line" data-year="2021"><span class="roman">MMXXI</span><span class="year-arabic">2021</span></div>
+      <div class="grid">
       <a class="card" href="/articles/like-leaders-melinda-katz-queens-da.html">
         <img src="/images/melinda-katz-queens-da.jpg" alt="Melinda Katz, Queens District Attorney — video still by Michael de la Force"/>
         <div class="meta"><p class="kicker">(LIKE® Women Leaders · Law)</p><h2>MELINDA KATZ · QUEENS DISTRICT ATTORNEY</h2>
         <p class="deck">Port Authority holiday ceremony, Queens · Video: Michael de la Force · 14 December 2021.</p></div>
       </a>
+      </div>
+    </div>
+    <div class="year-group">
+      <div class="year-line archive" data-year="archive"><span class="roman">Archive</span></div>
+      <div class="grid">
       <a class="card" href="/articles/like-leaders-maye-musk-a-woman-makes-a-plan.html">
         <img src="/images/maye-musk-leaders-card.jpg" alt="Maye Musk"/>
         <div class="meta"><p class="kicker">(LIKE® Women Leaders)</p><h2>MAYE MUSK: A WOMAN MAKES A PLAN</h2></div>
       </a>
-      <a class="card" href="/articles/like-leaders-gloria-steinem-walks-on-ink-the-apollo-stump-and-the-women-who-walk.html">
-        <img src="/images/like-leaders-gloria-steinem-walks-on-ink-the-apollo-stump-and-the-women-who-walk-1.jpg" alt=""/>
-        <div class="meta"><p class="kicker">(LIKE® Women Leaders)</p><h2>GLORIA STEINEM WALKS ON: INK, THE APOLLO STUMP, AND THE WOMEN WHO WALKED WITH HER</h2></div>
+      <a class="card" href="/articles/like-leaders-maye-musk-house-party-new-york-city.html">
+        <img src="/images/maye-musk-house-party-nyc-card.jpg" alt="Maye Musk house party, New York City"/>
+        <div class="meta"><p class="kicker">(LIKE® Women Leaders)</p><h2>MAYE MUSK · HOUSE PARTY · NEW YORK CITY</h2></div>
       </a>
       <a class="card" href="/articles/like-leaders-wizo-women-international-zionist-organization.html">
         <div class="ph">WIZO · Video forthcoming</div>
         <div class="meta"><p class="kicker">(LIKE® Women Leaders)</p><h2>WIZO — EDUCATIONAL INSIGHT FOR STATE DEVELOPMENT UNDER WOMEN</h2>
         <p class="deck">Women’s International Zionist Organization · educational insight for state development under women.</p></div>
       </a>
+      </div>
     </div>
   </div>
 </main>

@@ -113,6 +113,60 @@ a:hover { text-decoration: underline; }
 .edition.summit { background: #120c18; color: #f7f3eb; border-color: rgba(201,154,59,.45); }
 .edition.summit .ed-num { color: #c99a3b; }
 .edition.summit em { color: #b9b0c4; }
+
+/* Print year-rail — Roman numeral edition lines */
+.year-line {
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+  margin: 2.1rem 0 0.85rem;
+  font-family: var(--sans);
+}
+.year-line::before,
+.year-line::after {
+  content: "";
+  flex: 1 1 auto;
+  height: 3px;
+  border-top: 1px solid var(--ink);
+  border-bottom: 1px solid var(--ink);
+  opacity: 0.55;
+}
+.year-line .roman {
+  flex: 0 0 auto;
+  font-size: 0.72rem;
+  letter-spacing: 0.32em;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: var(--ink);
+  padding: 0 0.15rem;
+}
+.year-line .year-arabic {
+  flex: 0 0 auto;
+  font-size: 0.62rem;
+  letter-spacing: 0.14em;
+  color: var(--muted);
+  font-weight: 500;
+}
+.year-line.archive::before,
+.year-line.archive::after {
+  border-color: var(--rule);
+  opacity: 1;
+}
+.year-line.archive .roman {
+  letter-spacing: 0.22em;
+  color: var(--muted);
+  font-weight: 600;
+}
+.year-group { margin-bottom: 0.35rem; }
+.year-group > .grid { margin-top: 0.85rem; }
+.year-line.summit-year::before,
+.year-line.summit-year::after {
+  border-color: #c99a3b;
+  opacity: 0.7;
+}
+.year-line.summit-year .roman { color: #c99a3b; }
+.year-line.summit-year .year-arabic { color: #b9b0c4; }
+
 </style>
 </head>
 <body>
@@ -123,8 +177,10 @@ a:hover { text-decoration: underline; }
 <nav class="nav">
   <a href="/index.html">Home</a>
   <a href="/summit-season/index.html" class="summit">Summit Season</a>
+  <a href="/sections/automotive.html">Automotive Features</a>
   <a href="/sections/leaders.html">Leaders</a>
   <a href="/sections/style.html">Style</a>
+  <a href="/sections/fashion.html">Fashion</a>
   <a href="/sections/sports.html">Sports</a>
   <a href="/sections/travel.html">Travel &amp; Tourism</a>
   <a href="/sections/diplomacy.html">Diplomacy</a>
@@ -132,6 +188,11 @@ a:hover { text-decoration: underline; }
   <a href="/sections/law.html">Law</a>
   <a href="/sections/science.html">Science</a>
   <a href="/sections/music.html">Music</a>
+  <a href="/sections/film.html">Film</a>
+  <a href="/sections/film-festivals.html">Film Festivals</a>
+  <a href="/sections/books.html">Books</a>
+  <a href="/sections/art.html">Art</a>
+  <a href="/sections/museums.html">Museums</a>
   <a href="/sections/spotlight.html">Spotlight</a>
   <a href="/sections/features.html">Features</a>
   <a href="/sections/apparel.html" class="shop">Apparel</a>
