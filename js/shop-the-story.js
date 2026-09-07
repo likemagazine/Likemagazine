@@ -31,13 +31,24 @@
   }
 
   function buildUrl(partner, item) {
-    if (item.url) return item.url;
+    if (item.url && item.url !== '#') return item.url;
     if (!partner) return '#';
     var tpl = partner.urlTemplate || '#';
-    var q = encodeURIComponent((item.query || '').replace(/\+/g, ' ')).replace(/%20/g, '+');
-    return tpl
-      .replace('{query}', item.query || q)
-      .replace('{trackingCode}', partner.trackingCode || 'REPLACE_ME');
+    var q = item.query || '';
+    var store = (partner.storefrontUrl || '').replace(/^https?:\/\/(www\.)?amazon\.com\/shop\//, '');
+    if (store.indexOf('REPLACE_') === 0) store = '';
+    var tag = partner.trackingCode || 'REPLACE_ME';
+    var out = tpl
+      .replace('{query}', q)
+      .replace('{trackingCode}', tag)
+      .replace('{storefront}', store || 'REPLACE_STORE');
+    if (out.indexOf('REPLACE_') !== -1 && item.affiliate) {
+      /* keep visible pending state via needsCode in render */
+    }
+    if ((!item.url || item.url === '#') && partner.storefrontUrl && partner.storefrontUrl.indexOf('REPLACE_') !== 0) {
+      return partner.storefrontUrl;
+    }
+    return out;
   }
 
   function render(el, catalog, moduleId) {
