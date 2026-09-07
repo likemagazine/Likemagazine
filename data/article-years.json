@@ -1,0 +1,385 @@
+{
+  "_meta": {
+    "generated": "2026-09-07",
+    "policy": "Prefer Facebook post dates; else byline/jsonld/explicit publication credit. Never invent. Unknown → Archive.",
+    "roman_map_sample": {
+      "2026": "MMXXVI",
+      "2025": "MMXXV",
+      "2024": "MMXXIV",
+      "2023": "MMXXIII",
+      "2022": "MMXXII",
+      "2021": "MMXXI",
+      "2027": "MMXXVII"
+    }
+  },
+  "articles": {
+    "articles/hollywood-nights.html": {
+      "path": "articles/hollywood-nights.html",
+      "year": 2026,
+      "roman": "MMXXVI",
+      "source": "body-credit",
+      "confidence": "medium",
+      "detail": "Michael de la Force, LIKE Magazine, 8.7.26"
+    },
+    "articles/like-american-legacy-250-years-of-america-from-monmouth-s-track-by-the-sea-to-th.html": {
+      "path": "articles/like-american-legacy-250-years-of-america-from-monmouth-s-track-by-the-sea-to-th.html",
+      "year": null,
+      "roman": null,
+      "source": "unknown",
+      "confidence": "none",
+      "detail": ""
+    },
+    "articles/like-automotive-black-badge-ghost-ekleipsis-featuring-starlight-headliner.html": {
+      "path": "articles/like-automotive-black-badge-ghost-ekleipsis-featuring-starlight-headliner.html",
+      "year": 2023,
+      "roman": "MMXXIII",
+      "source": "facebook",
+      "confidence": "high",
+      "detail": "facebook:2023-10-12 rolls-royce-posts.json"
+    },
+    "articles/like-automotive-regal-daimlers-of-hong-kong.html": {
+      "path": "articles/like-automotive-regal-daimlers-of-hong-kong.html",
+      "year": null,
+      "roman": null,
+      "source": "unknown",
+      "confidence": "none",
+      "detail": "no reliable publication date"
+    },
+    "articles/like-automotive-royal-rolls-royce-phantoms-of-the-thai-court.html": {
+      "path": "articles/like-automotive-royal-rolls-royce-phantoms-of-the-thai-court.html",
+      "year": null,
+      "roman": null,
+      "source": "unknown",
+      "confidence": "none",
+      "detail": ""
+    },
+    "articles/like-automotive-the-hudson-river-photograph.html": {
+      "path": "articles/like-automotive-the-hudson-river-photograph.html",
+      "year": 2025,
+      "roman": "MMXXV",
+      "source": "facebook",
+      "confidence": "high",
+      "detail": "facebook:2025-08-26 rolls-royce-posts.json"
+    },
+    "articles/like-history-of-community-service.html": {
+      "path": "articles/like-history-of-community-service.html",
+      "year": 2026,
+      "roman": "MMXXVI",
+      "source": "lead-dateline",
+      "confidence": "high",
+      "detail": "New York City, August 8, 2026"
+    },
+    "articles/like-industry-250-years-of-america-from-private-detectives-to-real-time-surveill.html": {
+      "path": "articles/like-industry-250-years-of-america-from-private-detectives-to-real-time-surveill.html",
+      "year": null,
+      "roman": null,
+      "source": "unknown",
+      "confidence": "none",
+      "detail": ""
+    },
+    "articles/like-international-250-years-of-america-friendships-across-the-shore-across-the-.html": {
+      "path": "articles/like-international-250-years-of-america-friendships-across-the-shore-across-the-.html",
+      "year": null,
+      "roman": null,
+      "source": "unknown",
+      "confidence": "none",
+      "detail": ""
+    },
+    "articles/like-international-life-of-law-mercy-and-duty-the-royal-fiftieth-day-merit-makin.html": {
+      "path": "articles/like-international-life-of-law-mercy-and-duty-the-royal-fiftieth-day-merit-makin.html",
+      "year": null,
+      "roman": null,
+      "source": "unknown",
+      "confidence": "none",
+      "detail": ""
+    },
+    "articles/like-leaders-250-years-of-america-muhammad-ali.html": {
+      "path": "articles/like-leaders-250-years-of-america-muhammad-ali.html",
+      "year": 2026,
+      "roman": "MMXXVI",
+      "source": "body-credit",
+      "confidence": "high",
+      "detail": "LIKE® Magazine, August 19, 2026"
+    },
+    "articles/like-leaders-250-years-of-america-the-work-and-influence-of-fine-american-vice-p.html": {
+      "path": "articles/like-leaders-250-years-of-america-the-work-and-influence-of-fine-american-vice-p.html",
+      "year": null,
+      "roman": null,
+      "source": "unknown",
+      "confidence": "none",
+      "detail": ""
+    },
+    "articles/like-leaders-donald-trump-forty-fifth-president-early-years.html": {
+      "path": "articles/like-leaders-donald-trump-forty-fifth-president-early-years.html",
+      "year": 2024,
+      "roman": "MMXXIV",
+      "source": "facebook",
+      "confidence": "high",
+      "detail": "facebook:May 24, 2024 trump-vance-posts.json"
+    },
+    "articles/like-leaders-general-kenneth-mckenzie-jr.html": {
+      "path": "articles/like-leaders-general-kenneth-mckenzie-jr.html",
+      "year": 2022,
+      "roman": "MMXXII",
+      "source": "facebook",
+      "confidence": "high",
+      "detail": "facebook:2022-03-18 leaders-culture/posts.json"
+    },
+    "articles/like-leaders-gloria-steinem-walks-on-ink-the-apollo-stump-and-the-women-who-walk.html": {
+      "path": "articles/like-leaders-gloria-steinem-walks-on-ink-the-apollo-stump-and-the-women-who-walk.html",
+      "year": 2026,
+      "roman": "MMXXVI",
+      "source": "body-credit",
+      "confidence": "high",
+      "detail": "(LIKE® Magazine, 9.3.2026)"
+    },
+    "articles/like-leaders-jd-vance-trump-orban-budapest-common-sense.html": {
+      "path": "articles/like-leaders-jd-vance-trump-orban-budapest-common-sense.html",
+      "year": 2026,
+      "roman": "MMXXVI",
+      "source": "facebook",
+      "confidence": "high",
+      "detail": "facebook:April 7, 2026 trump-vance-posts.json"
+    },
+    "articles/like-leaders-king-charles-iii-andy-burnham-buckingham-palace.html": {
+      "path": "articles/like-leaders-king-charles-iii-andy-burnham-buckingham-palace.html",
+      "year": 2026,
+      "roman": "MMXXVI",
+      "source": "byline",
+      "confidence": "high",
+      "detail": "20 July 2026"
+    },
+    "articles/like-leaders-maye-musk-a-woman-makes-a-plan.html": {
+      "path": "articles/like-leaders-maye-musk-a-woman-makes-a-plan.html",
+      "year": null,
+      "roman": null,
+      "source": "unknown",
+      "confidence": "none",
+      "detail": "no reliable publication date"
+    },
+    "articles/like-leaders-maye-musk-house-party-new-york-city.html": {
+      "path": "articles/like-leaders-maye-musk-house-party-new-york-city.html",
+      "year": null,
+      "roman": null,
+      "source": "unknown",
+      "confidence": "none",
+      "detail": "no reliable publication date"
+    },
+    "articles/like-leaders-melinda-katz-queens-da.html": {
+      "path": "articles/like-leaders-melinda-katz-queens-da.html",
+      "year": 2021,
+      "roman": "MMXXI",
+      "source": "facebook",
+      "confidence": "high",
+      "detail": "facebook:2021-12-14 leaders-culture/posts.json"
+    },
+    "articles/like-leaders-wizo-women-international-zionist-organization.html": {
+      "path": "articles/like-leaders-wizo-women-international-zionist-organization.html",
+      "year": null,
+      "roman": null,
+      "source": "unknown",
+      "confidence": "none",
+      "detail": "no reliable publication date"
+    },
+    "articles/like-leaders-women-leaders-care-michelle-nunn.html": {
+      "path": "articles/like-leaders-women-leaders-care-michelle-nunn.html",
+      "year": 2025,
+      "roman": "MMXXV",
+      "source": "facebook",
+      "confidence": "high",
+      "detail": "facebook:2025-09-22 leaders-culture/posts.json"
+    },
+    "articles/like-magazine-250-years-of-america-power-pageantry-and-the-track-in-the-autumn-o.html": {
+      "path": "articles/like-magazine-250-years-of-america-power-pageantry-and-the-track-in-the-autumn-o.html",
+      "year": null,
+      "roman": null,
+      "source": "unknown",
+      "confidence": "none",
+      "detail": ""
+    },
+    "articles/like-medicine-the-heart-of-resilience-how-dr-dawn-mussallem-defied-death-to-revo.html": {
+      "path": "articles/like-medicine-the-heart-of-resilience-how-dr-dawn-mussallem-defied-death-to-revo.html",
+      "year": 2026,
+      "roman": "MMXXVI",
+      "source": "body-credit",
+      "confidence": "high",
+      "detail": "Videographer: Michael de la Force, LIKE® Magazine, Summer 2026"
+    },
+    "articles/like-music-simply-red-holding-back-the-years-at-40.html": {
+      "path": "articles/like-music-simply-red-holding-back-the-years-at-40.html",
+      "year": null,
+      "roman": null,
+      "source": "unknown",
+      "confidence": "none",
+      "detail": ""
+    },
+    "articles/like-music-tony-bennett-at-one-hundred-the-gentleman-of-central-park-south-who-l.html": {
+      "path": "articles/like-music-tony-bennett-at-one-hundred-the-gentleman-of-central-park-south-who-l.html",
+      "year": 2026,
+      "roman": "MMXXVI",
+      "source": "lead",
+      "confidence": "high",
+      "detail": "Volume LXII … August 3, 2026"
+    },
+    "articles/like-statesman-henry-kissinger-camp-david-dealmakers.html": {
+      "path": "articles/like-statesman-henry-kissinger-camp-david-dealmakers.html",
+      "year": 2023,
+      "roman": "MMXXIII",
+      "source": "facebook",
+      "confidence": "high",
+      "detail": "facebook:2023-10-05 leaders-culture/posts.json"
+    },
+    "articles/like-technology-chips-on-shoulders-puts-chips-in-pockets.html": {
+      "path": "articles/like-technology-chips-on-shoulders-puts-chips-in-pockets.html",
+      "year": 2026,
+      "roman": "MMXXVI",
+      "source": "facebook",
+      "confidence": "high",
+      "detail": "facebook:2026-06-01 beijing-ai/posts.json"
+    },
+    "articles/like-travel-tourism-entertainment-culture.html": {
+      "path": "articles/like-travel-tourism-entertainment-culture.html",
+      "year": 2026,
+      "roman": "MMXXVI",
+      "source": "body-credit",
+      "confidence": "medium",
+      "detail": "New York City, August 8, 2026"
+    },
+    "articles/on-this-day-eighty-seasons-at-the-rail-fifteen-years-after-monmouth-park-s-65th-.html": {
+      "path": "articles/on-this-day-eighty-seasons-at-the-rail-fifteen-years-after-monmouth-park-s-65th-.html",
+      "year": null,
+      "roman": null,
+      "source": "unknown",
+      "confidence": "none",
+      "detail": ""
+    },
+    "articles/spotlight-history-of-the-bonfire-navigational-beacons.html": {
+      "path": "articles/spotlight-history-of-the-bonfire-navigational-beacons.html",
+      "year": null,
+      "roman": null,
+      "source": "unknown",
+      "confidence": "none",
+      "detail": ""
+    },
+    "summit-season/brics-2025-rio.html": {
+      "path": "summit-season/brics-2025-rio.html",
+      "year": 2025,
+      "roman": "MMXXV",
+      "source": "facebook",
+      "confidence": "high",
+      "detail": "facebook:2025-07-08 summit-season/posts.json"
+    },
+    "summit-season/east-meets-west-waic.html": {
+      "path": "summit-season/east-meets-west-waic.html",
+      "year": 2026,
+      "roman": "MMXXVI",
+      "source": "page-eyebrow",
+      "confidence": "medium",
+      "detail": "Summit Season page marks LIKE® Technology · 2026"
+    },
+    "summit-season/g20-2022.html": {
+      "path": "summit-season/g20-2022.html",
+      "year": 2022,
+      "roman": "MMXXII",
+      "source": "filename+issue-cover",
+      "confidence": "medium",
+      "detail": "G20 2022 Bali feature companion to issues/g20-2022.jsonld 2022-11-15"
+    },
+    "summit-season/g20-2026-doral.html": {
+      "path": "summit-season/g20-2026-doral.html",
+      "year": 2026,
+      "roman": "MMXXVI",
+      "source": "facebook",
+      "confidence": "high",
+      "detail": "facebook:2026-07-04 summit-season/posts.json"
+    },
+    "summit-season/issues/g20-2022.html": {
+      "path": "summit-season/issues/g20-2022.html",
+      "year": 2022,
+      "roman": "MMXXII",
+      "source": "jsonld-datePublished",
+      "confidence": "high",
+      "detail": "\"datePublished\": \"2022-11-15\""
+    },
+    "summit-season/issues/g20-2023.html": {
+      "path": "summit-season/issues/g20-2023.html",
+      "year": 2023,
+      "roman": "MMXXIII",
+      "source": "jsonld-datePublished",
+      "confidence": "high",
+      "detail": "\"datePublished\": \"2023-09-09\""
+    },
+    "summit-season/issues/g20-2024.html": {
+      "path": "summit-season/issues/g20-2024.html",
+      "year": 2024,
+      "roman": "MMXXIV",
+      "source": "jsonld-datePublished",
+      "confidence": "high",
+      "detail": "\"datePublished\": \"2024-11-18\""
+    },
+    "summit-season/issues/g20-2025.html": {
+      "path": "summit-season/issues/g20-2025.html",
+      "year": 2025,
+      "roman": "MMXXV",
+      "source": "jsonld-datePublished",
+      "confidence": "high",
+      "detail": "\"datePublished\": \"2025-11-22\""
+    },
+    "summit-season/issues/g20-2026.html": {
+      "path": "summit-season/issues/g20-2026.html",
+      "year": 2026,
+      "roman": "MMXXVI",
+      "source": "jsonld-datePublished",
+      "confidence": "high",
+      "detail": "\"datePublished\": \"2026-12-14\""
+    },
+    "summit-season/nato-spirit-of-ankara.html": {
+      "path": "summit-season/nato-spirit-of-ankara.html",
+      "year": 2026,
+      "roman": "MMXXVI",
+      "source": "facebook",
+      "confidence": "high",
+      "detail": "facebook:2026-07-10 summit-season/posts.json"
+    },
+    "articles/like-style-diamond-district-shopping-season-2024.html": {
+      "path": "articles/like-style-diamond-district-shopping-season-2024.html",
+      "year": 2024,
+      "roman": "MMXXIV",
+      "source": "facebook",
+      "confidence": "high",
+      "detail": "facebook:2024-12-13 Diamond District Shopping Season 2024 (photo credit 12.13.24)"
+    },
+    "articles/like-style-sothebys-enters-fashion-market-via-frame.html": {
+      "path": "articles/like-style-sothebys-enters-fashion-market-via-frame.html",
+      "year": 2025,
+      "roman": "MMXXV",
+      "source": "facebook",
+      "confidence": "high",
+      "detail": "facebook:2025 Sotheby’s × FRAME collab launched June 2025"
+    },
+    "articles/like-international-thailand-princess-bha-grand-palace.html": {
+      "path": "articles/like-international-thailand-princess-bha-grand-palace.html",
+      "year": 2026,
+      "roman": "MMXXVI",
+      "source": "facebook",
+      "confidence": "high",
+      "detail": "facebook:2026-06-24 Bangkok — credit 6.24.26; dept-fills/texts/travel_thailand_grand_palace.txt"
+    },
+    "articles/like-visit-america-old-glory-and-the-golden-gate.html": {
+      "path": "articles/like-visit-america-old-glory-and-the-golden-gate.html",
+      "year": 2027,
+      "roman": "MMXXVII",
+      "source": "facebook",
+      "confidence": "high",
+      "detail": "facebook credit LIKE® Magazine, 7.7.27 — dept-fills/texts/travel_visit_america_old_glory.txt"
+    },
+    "articles/like-technology-statesman-one-air-force-one.html": {
+      "path": "articles/like-technology-statesman-one-air-force-one.html",
+      "year": 2026,
+      "roman": "MMXXVI",
+      "source": "facebook",
+      "confidence": "high",
+      "detail": "facebook:2026-06-19 Washington D.C. — dept-fills/texts/science_air_force_one.txt"
+    }
+  }
+}
