@@ -76,11 +76,40 @@ a:hover { text-decoration: underline; }
   background: var(--cream);
   border-bottom: 3px double var(--ink);
   text-align: center;
-  padding: 1.1rem 1rem 0.85rem;
+  padding: 1.25rem 1rem 1rem;
 }
-.mast h1 { margin: 0; font-family: var(--sans); letter-spacing: 0.32em; font-size: 1.55rem; }
-.mast h1 span { color: var(--accent); }
-.tag { margin: 0.3rem 0 0; font-family: var(--sans); font-size: 0.68rem; letter-spacing: 0.18em; text-transform: uppercase; color: var(--muted); }
+.mast h1 {
+  margin: 0;
+  font-family: var(--sans);
+  letter-spacing: 0.28em;
+  font-size: clamp(1.85rem, 4.5vw, 2.55rem);
+  font-weight: 700;
+  line-height: 1;
+}
+.mast h1 a { color: inherit; }
+.mast h1 .reg,
+.mast h1 sup.reg {
+  color: var(--accent);
+  font-size: 0.42em;
+  font-weight: 700;
+  letter-spacing: 0;
+  vertical-align: super;
+  line-height: 0;
+  margin-left: 0.06em;
+  position: relative;
+  top: -0.05em;
+}
+.mast-magazine {
+  margin: 0.35rem 0 0;
+  font-family: var(--sans);
+  font-size: clamp(0.78rem, 2vw, 0.98rem);
+  letter-spacing: 0.62em;
+  text-transform: uppercase;
+  color: var(--ink);
+  font-weight: 600;
+  padding-left: 0.62em; /* optical center with letter-spacing */
+}
+.tag { margin: 0.4rem 0 0; font-family: var(--sans); font-size: 0.68rem; letter-spacing: 0.18em; text-transform: uppercase; color: var(--muted); }
 .nav {
   display: flex; flex-wrap: wrap; justify-content: center; gap: 0.45rem 1rem;
   padding: 0.75rem 1rem; border-bottom: 1px solid var(--rule);
@@ -152,12 +181,67 @@ a:hover { text-decoration: underline; }
 .panel-lede {
   font-family: var(--sans); font-size: 0.9rem; color: #6a6358; margin: 0 0 1.1rem;
 }
+
+/* Print year-rail — Roman numeral edition lines */
+.year-line {
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+  margin: 2.1rem 0 0.85rem;
+  font-family: var(--sans);
+}
+.year-line::before,
+.year-line::after {
+  content: "";
+  flex: 1 1 auto;
+  height: 3px;
+  border-top: 1px solid var(--ink);
+  border-bottom: 1px solid var(--ink);
+  opacity: 0.55;
+}
+.year-line .roman {
+  flex: 0 0 auto;
+  font-size: 0.72rem;
+  letter-spacing: 0.32em;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: var(--ink);
+  padding: 0 0.15rem;
+}
+.year-line .year-arabic {
+  flex: 0 0 auto;
+  font-size: 0.62rem;
+  letter-spacing: 0.14em;
+  color: var(--muted);
+  font-weight: 500;
+}
+.year-line.archive::before,
+.year-line.archive::after {
+  border-color: var(--rule);
+  opacity: 1;
+}
+.year-line.archive .roman {
+  letter-spacing: 0.22em;
+  color: var(--muted);
+  font-weight: 600;
+}
+.year-group { margin-bottom: 0.35rem; }
+.year-group > .grid { margin-top: 0.85rem; }
+.year-line.summit-year::before,
+.year-line.summit-year::after {
+  border-color: #c99a3b;
+  opacity: 0.7;
+}
+.year-line.summit-year .roman { color: #c99a3b; }
+.year-line.summit-year .year-arabic { color: #b9b0c4; }
+
 </style>
 </head>
 <body>
 <header class="mast">
-  <h1><a href="/index.html" style="color:inherit;text-decoration:none">LIKE<span>®</span></a></h1>
-  <p class="tag">Magazine · Summit Season · likeleaders.com</p>
+  <h1><a href="/index.html" style="color:inherit;text-decoration:none">LIKE<sup class="reg">®</sup></a></h1>
+  <p class="mast-magazine">Magazine</p>
+  <p class="tag">Summit Season · likeleaders.com</p>
 </header>
 <nav class="nav">
   <a href="/index.html">Home</a>
@@ -165,6 +249,7 @@ a:hover { text-decoration: underline; }
   <a href="/sections/automotive.html">Automotive Features</a>
   <a href="/sections/leaders.html">Leaders</a>
   <a href="/sections/style.html">Style</a>
+  <a href="/sections/fashion.html">Fashion</a>
   <a href="/sections/sports.html">Sports</a>
   <a href="/sections/travel.html">Travel &amp; Tourism</a>
   <a href="/sections/diplomacy.html">Diplomacy</a>
@@ -172,6 +257,11 @@ a:hover { text-decoration: underline; }
   <a href="/sections/law.html">Law</a>
   <a href="/sections/science.html">Science</a>
   <a href="/sections/music.html">Music</a>
+  <a href="/sections/film.html">Film</a>
+  <a href="/sections/film-festivals.html">Film Festivals</a>
+  <a href="/sections/books.html">Books</a>
+  <a href="/sections/art.html">Art</a>
+  <a href="/sections/museums.html">Museums</a>
   <a href="/sections/spotlight.html">Spotlight</a>
   <a href="/sections/features.html">Features</a>
   <a href="/sections/apparel.html" class="shop">Apparel</a>
@@ -240,22 +330,16 @@ a:hover { text-decoration: underline; }
   </div>
 
   <div id="panel-articles" class="tab-panel" role="tabpanel" aria-labelledby="tab-articles">
-    <p class="panel-lede">Feature articles and companion PDFs from Summit Season.</p>
-    <div class="summit-editions">
+    <p class="panel-lede">Feature articles and companion PDFs from Summit Season — by publication year.</p>
+    <div class="year-group">
+      <div class="year-line summit-year" data-year="2026"><span class="roman">MMXXVI</span><span class="year-arabic">2026</span></div>
+      <div class="summit-editions">
       <a class="summit-card article-card" href="/summit-season/nato-spirit-of-ankara.html">
         <img src="/images/summit/nato-ankara-2026-family-photo.jpg" alt="NATO Ankara 2026 family photo"/>
         <div class="meta">
           <p class="eyebrow">NATO Summit · Ankara · July 2026</p>
           <h3>The Spirit of Ankara</h3>
           <p>Türkiye hosts the alliance’s defining summit — defence, Ukraine, and a stronger Europe in a stronger NATO</p>
-        </div>
-      </a>
-      <a class="summit-card article-card" href="/summit-season/brics-2025-rio.html">
-        <img src="/images/summit/brics-2025-cover.jpg" alt="BRICS 2025 Rio"/>
-        <div class="meta">
-          <p class="eyebrow">BRICS · Rio · 2025</p>
-          <h3>BRICS 2025 in Rio</h3>
-          <p>Brazil hosts the 17th BRICS Summit — governance reform, AI, climate, trade and security</p>
         </div>
       </a>
       <a class="summit-card article-card" href="/summit-season/g20-2026-doral.html">
@@ -282,6 +366,24 @@ a:hover { text-decoration: underline; }
           <p>Shanghai’s World Artificial Intelligence Conference — governance, WAICO, and the global technology drive</p>
         </div>
       </a>
+      </div>
+    </div>
+    <div class="year-group">
+      <div class="year-line summit-year" data-year="2025"><span class="roman">MMXXV</span><span class="year-arabic">2025</span></div>
+      <div class="summit-editions">
+      <a class="summit-card article-card" href="/summit-season/brics-2025-rio.html">
+        <img src="/images/summit/brics-2025-cover.jpg" alt="BRICS 2025 Rio"/>
+        <div class="meta">
+          <p class="eyebrow">BRICS · Rio · 2025</p>
+          <h3>BRICS 2025 in Rio</h3>
+          <p>Brazil hosts the 17th BRICS Summit — governance reform, AI, climate, trade and security</p>
+        </div>
+      </a>
+      </div>
+    </div>
+    <div class="year-group">
+      <div class="year-line summit-year" data-year="2022"><span class="roman">MMXXII</span><span class="year-arabic">2022</span></div>
+      <div class="summit-editions">
       <a class="summit-card article-card" href="/summit-season/g20-2022.html">
         <img src="/images/summit/g20-cover-1.jpg" alt="G20 2022 Bali article"/>
         <div class="meta">
@@ -290,6 +392,11 @@ a:hover { text-decoration: underline; }
           <p>Feature coverage from Bali — Visit Indonesia, diplomacy, and the Summit Season folio</p>
         </div>
       </a>
+      </div>
+    </div>
+    <div class="year-group">
+      <div class="year-line archive" data-year="archive"><span class="roman">Archive</span></div>
+      <div class="summit-editions">
       <a class="summit-card article-card" href="/pdfs/like-g20-country-statistics.pdf">
         <img src="/images/summit/g20-stats-1.jpg" alt="G20 country statistics"/>
         <div class="meta">
@@ -298,6 +405,7 @@ a:hover { text-decoration: underline; }
           <p>Leaders, land, population, GDP, trade partners — the Summit Season data folio</p>
         </div>
       </a>
+      </div>
     </div>
   </div>
 

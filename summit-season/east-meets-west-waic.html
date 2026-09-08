@@ -40,11 +40,40 @@ a:hover { text-decoration: underline; }
   background: var(--cream);
   border-bottom: 3px double var(--ink);
   text-align: center;
-  padding: 1.1rem 1rem 0.85rem;
+  padding: 1.25rem 1rem 1rem;
 }
-.mast h1 { margin: 0; font-family: var(--sans); letter-spacing: 0.32em; font-size: 1.55rem; }
-.mast h1 span { color: var(--accent); }
-.tag { margin: 0.3rem 0 0; font-family: var(--sans); font-size: 0.68rem; letter-spacing: 0.18em; text-transform: uppercase; color: var(--muted); }
+.mast h1 {
+  margin: 0;
+  font-family: var(--sans);
+  letter-spacing: 0.28em;
+  font-size: clamp(1.85rem, 4.5vw, 2.55rem);
+  font-weight: 700;
+  line-height: 1;
+}
+.mast h1 a { color: inherit; }
+.mast h1 .reg,
+.mast h1 sup.reg {
+  color: var(--accent);
+  font-size: 0.42em;
+  font-weight: 700;
+  letter-spacing: 0;
+  vertical-align: super;
+  line-height: 0;
+  margin-left: 0.06em;
+  position: relative;
+  top: -0.05em;
+}
+.mast-magazine {
+  margin: 0.35rem 0 0;
+  font-family: var(--sans);
+  font-size: clamp(0.78rem, 2vw, 0.98rem);
+  letter-spacing: 0.62em;
+  text-transform: uppercase;
+  color: var(--ink);
+  font-weight: 600;
+  padding-left: 0.62em; /* optical center with letter-spacing */
+}
+.tag { margin: 0.4rem 0 0; font-family: var(--sans); font-size: 0.68rem; letter-spacing: 0.18em; text-transform: uppercase; color: var(--muted); }
 .nav {
   display: flex; flex-wrap: wrap; justify-content: center; gap: 0.35rem 0.85rem;
   padding: 0.65rem 1rem; border-bottom: 1px solid var(--rule);
@@ -171,8 +200,9 @@ a:hover { text-decoration: underline; }
 </head>
 <body>
 <header class="mast">
-  <h1><a href="/index.html" style="color:inherit;text-decoration:none">LIKE<span>®</span></a></h1>
-  <p class="tag">Magazine · Summit Season · likeleaders.com</p>
+  <h1><a href="/index.html" style="color:inherit;text-decoration:none">LIKE<sup class="reg">®</sup></a></h1>
+  <p class="mast-magazine">Magazine</p>
+  <p class="tag">Summit Season · likeleaders.com</p>
 </header>
 <nav class="nav">
   <a href="/index.html">Home</a>
@@ -180,6 +210,7 @@ a:hover { text-decoration: underline; }
   <a href="/sections/automotive.html">Automotive Features</a>
   <a href="/sections/leaders.html">Leaders</a>
   <a href="/sections/style.html">Style</a>
+  <a href="/sections/fashion.html">Fashion</a>
   <a href="/sections/sports.html">Sports</a>
   <a href="/sections/travel.html">Travel &amp; Tourism</a>
   <a href="/sections/diplomacy.html">Diplomacy</a>
@@ -187,6 +218,11 @@ a:hover { text-decoration: underline; }
   <a href="/sections/law.html">Law</a>
   <a href="/sections/science.html">Science</a>
   <a href="/sections/music.html">Music</a>
+  <a href="/sections/film.html">Film</a>
+  <a href="/sections/film-festivals.html">Film Festivals</a>
+  <a href="/sections/books.html">Books</a>
+  <a href="/sections/art.html">Art</a>
+  <a href="/sections/museums.html">Museums</a>
   <a href="/sections/spotlight.html">Spotlight</a>
   <a href="/sections/features.html">Features</a>
   <a href="/sections/apparel.html" class="shop">Apparel</a>
