@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>LIKE Magazine · LIKE Magazine</title>
+<title>LIKE® Magazine</title>
 <meta name="description" content="LIKE® Magazine — Leaders, Style, Travel, Culture. Print magazine online."/>
 <style>
 :root {
@@ -24,11 +24,40 @@ a:hover { text-decoration: underline; }
   background: var(--cream);
   border-bottom: 3px double var(--ink);
   text-align: center;
-  padding: 1.1rem 1rem 0.85rem;
+  padding: 1.25rem 1rem 1rem;
 }
-.mast h1 { margin: 0; font-family: var(--sans); letter-spacing: 0.32em; font-size: 1.55rem; }
-.mast h1 span { color: var(--accent); }
-.tag { margin: 0.3rem 0 0; font-family: var(--sans); font-size: 0.68rem; letter-spacing: 0.18em; text-transform: uppercase; color: var(--muted); }
+.mast h1 {
+  margin: 0;
+  font-family: var(--sans);
+  letter-spacing: 0.28em;
+  font-size: clamp(1.85rem, 4.5vw, 2.55rem);
+  font-weight: 700;
+  line-height: 1;
+}
+.mast h1 a { color: inherit; }
+.mast h1 .reg,
+.mast h1 sup.reg {
+  color: var(--accent);
+  font-size: 0.42em;
+  font-weight: 700;
+  letter-spacing: 0;
+  vertical-align: super;
+  line-height: 0;
+  margin-left: 0.06em;
+  position: relative;
+  top: -0.05em;
+}
+.mast-magazine {
+  margin: 0.35rem 0 0;
+  font-family: var(--sans);
+  font-size: clamp(0.78rem, 2vw, 0.98rem);
+  letter-spacing: 0.62em;
+  text-transform: uppercase;
+  color: var(--ink);
+  font-weight: 600;
+  padding-left: 0.62em; /* optical center with letter-spacing */
+}
+.tag { margin: 0.4rem 0 0; font-family: var(--sans); font-size: 0.68rem; letter-spacing: 0.18em; text-transform: uppercase; color: var(--muted); }
 .nav {
   display: flex; flex-wrap: wrap; justify-content: center; gap: 0.35rem 0.85rem;
   padding: 0.65rem 1rem; border-bottom: 1px solid var(--rule);
@@ -113,12 +142,67 @@ a:hover { text-decoration: underline; }
 .edition.summit { background: #120c18; color: #f7f3eb; border-color: rgba(201,154,59,.45); }
 .edition.summit .ed-num { color: #c99a3b; }
 .edition.summit em { color: #b9b0c4; }
+
+/* Print year-rail — Roman numeral edition lines */
+.year-line {
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+  margin: 2.1rem 0 0.85rem;
+  font-family: var(--sans);
+}
+.year-line::before,
+.year-line::after {
+  content: "";
+  flex: 1 1 auto;
+  height: 3px;
+  border-top: 1px solid var(--ink);
+  border-bottom: 1px solid var(--ink);
+  opacity: 0.55;
+}
+.year-line .roman {
+  flex: 0 0 auto;
+  font-size: 0.72rem;
+  letter-spacing: 0.32em;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: var(--ink);
+  padding: 0 0.15rem;
+}
+.year-line .year-arabic {
+  flex: 0 0 auto;
+  font-size: 0.62rem;
+  letter-spacing: 0.14em;
+  color: var(--muted);
+  font-weight: 500;
+}
+.year-line.archive::before,
+.year-line.archive::after {
+  border-color: var(--rule);
+  opacity: 1;
+}
+.year-line.archive .roman {
+  letter-spacing: 0.22em;
+  color: var(--muted);
+  font-weight: 600;
+}
+.year-group { margin-bottom: 0.35rem; }
+.year-group > .grid { margin-top: 0.85rem; }
+.year-line.summit-year::before,
+.year-line.summit-year::after {
+  border-color: #c99a3b;
+  opacity: 0.7;
+}
+.year-line.summit-year .roman { color: #c99a3b; }
+.year-line.summit-year .year-arabic { color: #b9b0c4; }
+
 </style>
 </head>
 <body>
 <header class="mast">
-  <h1><a href="/index.html" style="color:inherit;text-decoration:none">LIKE<span>®</span></a></h1>
-  <p class="tag">Magazine · Style · Leaders · likeleaders.com</p>
+  <h1><a href="/index.html" style="color:inherit;text-decoration:none">LIKE<sup class="reg">®</sup></a></h1>
+  <p class="mast-magazine">Magazine</p>
+  <p class="tag">Style · Leaders · likeleaders.com</p>
 </header>
 <nav class="nav">
   <a href="/index.html">Home</a>
@@ -126,6 +210,7 @@ a:hover { text-decoration: underline; }
   <a href="/sections/automotive.html">Automotive Features</a>
   <a href="/sections/leaders.html">Leaders</a>
   <a href="/sections/style.html">Style</a>
+  <a href="/sections/fashion.html">Fashion</a>
   <a href="/sections/sports.html">Sports</a>
   <a href="/sections/travel.html">Travel &amp; Tourism</a>
   <a href="/sections/diplomacy.html">Diplomacy</a>
@@ -133,6 +218,11 @@ a:hover { text-decoration: underline; }
   <a href="/sections/law.html">Law</a>
   <a href="/sections/science.html">Science</a>
   <a href="/sections/music.html">Music</a>
+  <a href="/sections/film.html">Film</a>
+  <a href="/sections/film-festivals.html">Film Festivals</a>
+  <a href="/sections/books.html">Books</a>
+  <a href="/sections/art.html">Art</a>
+  <a href="/sections/museums.html">Museums</a>
   <a href="/sections/spotlight.html">Spotlight</a>
   <a href="/sections/features.html">Features</a>
   <a href="/sections/apparel.html" class="shop">Apparel</a>
@@ -165,18 +255,24 @@ a:hover { text-decoration: underline; }
 
 <section class="archive-band">
   <h3 class="section-title">Featured Archive Editions</h3>
-  <p class="archive-lede">Print-minded collections from the LIKE® run — open an edition, or browse by department below.</p>
+  <p class="archive-lede">Print-minded collections from the LIKE® run — open an edition, browse by department, or see the <a href="/archive/index.html">Archive by Year</a>.</p>
   <div class="edition-grid">
     <a class="edition summit" href="/summit-season/index.html"><span class="ed-num">Special</span><strong>Summit Season</strong><em>G20 · WAIC · global high tables</em></a>
 
     <a class="edition" href="/sections/leaders.html#women"><span class="ed-num">Vol. LXI</span><strong>Leaders</strong><em>Profiles, American legacy &amp; Women Leaders</em></a>
     <a class="edition" href="/sections/style.html"><span class="ed-num">Style</span><strong>LIKE® Style</strong><em>Fashion, shoots &amp; society</em></a>
+    <a class="edition" href="/sections/fashion.html"><span class="ed-num">Fashion</span><strong>LIKE® Fashion</strong><em>Shows &amp; runway</em></a>
     <a class="edition" href="/sections/sports.html"><span class="ed-num">Sports</span><strong>LIKE® Sports</strong><em>Teams, sidelines &amp; capsules</em></a>
     <a class="edition" href="/sections/travel.html"><span class="ed-num">Travel</span><strong>Travel &amp; Tourism</strong><em>Culture on the road</em></a>
     <a class="edition" href="/sections/diplomacy.html"><span class="ed-num">World</span><strong>Diplomacy</strong><em>International affairs</em></a>
     <a class="edition" href="/sections/health.html"><span class="ed-num">Health</span><strong>Health &amp; Medicine</strong><em>Longevity &amp; care</em></a>
     <a class="edition" href="/sections/law.html"><span class="ed-num">Law</span><strong>LIKE® Law</strong><em>Justice &amp; duty</em></a>
     <a class="edition" href="/sections/science.html"><span class="ed-num">Science</span><strong>LIKE® Science</strong><em>Discovery &amp; invention</em></a>
+    <a class="edition" href="/sections/film.html"><span class="ed-num">Film</span><strong>LIKE® Film</strong><em>Cinema &amp; nights</em></a>
+    <a class="edition" href="/sections/film-festivals.html"><span class="ed-num">Festivals</span><strong>Film Festivals</strong><em>Outtakes &amp; the circuit</em></a>
+    <a class="edition" href="/sections/books.html"><span class="ed-num">Books</span><strong>LIKE® Books</strong><em>Shelves &amp; memoir</em></a>
+    <a class="edition" href="/sections/art.html"><span class="ed-num">Art</span><strong>LIKE® Art</strong><em>Studios &amp; sittings</em></a>
+    <a class="edition" href="/sections/museums.html"><span class="ed-num">Museums</span><strong>LIKE® Museums</strong><em>Public collections</em></a>
   </div>
 </section>
 
@@ -184,31 +280,20 @@ a:hover { text-decoration: underline; }
 <section class="dept-band" id="departments">
 <h3 class="section-title">Departments</h3>
 <div class="dept-rail">
-<a class="dept-tile" href="/sections/leaders.html#women"><span class="label">Department</span><strong>Leaders · Women</strong></a><a class="dept-tile" href="/sections/style.html"><span class="label">Department</span><strong>Style</strong></a><a class="dept-tile" href="/sections/sports.html"><span class="label">Department</span><strong>Sports</strong></a><a class="dept-tile" href="/sections/travel.html"><span class="label">Department</span><strong>Travel &amp; Tourism</strong></a><a class="dept-tile" href="/sections/diplomacy.html"><span class="label">Department</span><strong>Diplomacy</strong></a><a class="dept-tile" href="/sections/health.html"><span class="label">Department</span><strong>Health</strong></a><a class="dept-tile" href="/sections/law.html"><span class="label">Department</span><strong>Law</strong></a><a class="dept-tile" href="/sections/science.html"><span class="label">Department</span><strong>Science</strong></a><a class="dept-tile" href="/sections/music.html"><span class="label">Department</span><strong>Music</strong></a><a class="dept-tile" href="/sections/spotlight.html"><span class="label">Department</span><strong>Spotlight</strong></a><a class="dept-tile" href="/sections/features.html"><span class="label">Department</span><strong>Features</strong></a><a class="dept-tile shop" href="/sections/apparel.html"><span class="label">Department</span><strong>Apparel</strong></a>
+<a class="dept-tile" href="/sections/leaders.html#women"><span class="label">Department</span><strong>Leaders · Women</strong></a><a class="dept-tile" href="/sections/style.html"><span class="label">Department</span><strong>Style</strong></a><a class="dept-tile" href="/sections/fashion.html"><span class="label">Department</span><strong>Fashion</strong></a><a class="dept-tile" href="/sections/sports.html"><span class="label">Department</span><strong>Sports</strong></a><a class="dept-tile" href="/sections/travel.html"><span class="label">Department</span><strong>Travel &amp; Tourism</strong></a><a class="dept-tile" href="/sections/diplomacy.html"><span class="label">Department</span><strong>Diplomacy</strong></a><a class="dept-tile" href="/sections/health.html"><span class="label">Department</span><strong>Health</strong></a><a class="dept-tile" href="/sections/law.html"><span class="label">Department</span><strong>Law</strong></a><a class="dept-tile" href="/sections/science.html"><span class="label">Department</span><strong>Science</strong></a><a class="dept-tile" href="/sections/music.html"><span class="label">Department</span><strong>Music</strong></a><a class="dept-tile" href="/sections/film.html"><span class="label">Department</span><strong>Film</strong></a><a class="dept-tile" href="/sections/film-festivals.html"><span class="label">Department</span><strong>Film Festivals</strong></a><a class="dept-tile" href="/sections/books.html"><span class="label">Department</span><strong>Books</strong></a><a class="dept-tile" href="/sections/art.html"><span class="label">Department</span><strong>Art</strong></a><a class="dept-tile" href="/sections/museums.html"><span class="label">Department</span><strong>Museums</strong></a><a class="dept-tile" href="/sections/spotlight.html"><span class="label">Department</span><strong>Spotlight</strong></a><a class="dept-tile" href="/sections/features.html"><span class="label">Department</span><strong>Features</strong></a><a class="dept-tile shop" href="/sections/apparel.html"><span class="label">Department</span><strong>Apparel</strong></a>
 </div>
 </section>
 
 <h3 class="section-title">From the latest issue</h3>
+<p class="archive-lede">Demarcated by original publication year — Roman numerals as in the print folio.</p>
+<div class="year-group">
+<div class="year-line" data-year="2026"><span class="roman">MMXXVI</span><span class="year-arabic">2026</span></div>
 <div class="grid">
-<a class="card" href="/articles/like-statesman-henry-kissinger-camp-david-dealmakers.html">
-      <img src="/images/henry-kissinger-statesman.jpg" alt="Henry Kissinger — LIKE® Statesman"/>
-      <div class="meta">
-        <p class="kicker">LIKE® Statesman · Leaders</p>
-        <h2>IN LIFE THERE ARE DEALMAKERS AND DEALBREAKERS · HENRY KISSINGER</h2>
-      </div>
-    </a>
 <a class="card" href="/articles/like-technology-chips-on-shoulders-puts-chips-in-pockets.html">
       <img src="/images/chips-on-shoulders-panel.jpg" alt="LIKE Technology panel"/>
       <div class="meta">
         <p class="kicker">(LIKE® Technology)</p>
         <h2>INVESTING IN THE FUTURE · CHIPS ON SHOULDERS PUTS CHIPS IN POCKETS</h2>
-      </div>
-    </a>
-<a class="card" href="/articles/like-leaders-melinda-katz-queens-da.html">
-      <img src="/images/melinda-katz-queens-da.jpg" alt="Melinda Katz, Queens District Attorney"/>
-      <div class="meta">
-        <p class="kicker">(LIKE® Women Leaders · Law)</p>
-        <h2>MELINDA KATZ · QUEENS DISTRICT ATTORNEY</h2>
       </div>
     </a>
 <a class="card" href="/articles/like-leaders-king-charles-iii-andy-burnham-buckingham-palace.html">
@@ -218,13 +303,6 @@ a:hover { text-decoration: underline; }
         <h2>KING CHARLES III · ANDY BURNHAM · BUCKINGHAM PALACE AUDIENCE</h2>
       </div>
     </a>
-<a class="card" href="/articles/like-leaders-donald-trump-forty-fifth-president-early-years.html">
-      <img src="/images/donald-trump-like-magazine.jpg" alt=""/>
-      <div class="meta">
-        <p class="kicker">(LIKE® Leaders)</p>
-        <h2>FORTY-FIFTH PRESIDENT OF THE UNITED STATES, DONALD JOHN TRUMP</h2>
-      </div>
-    </a>
 <a class="card" href="/articles/like-leaders-jd-vance-trump-orban-budapest-common-sense.html">
       <img src="/images/jd-vance-phone-call-trump.jpg" alt=""/>
       <div class="meta">
@@ -232,6 +310,92 @@ a:hover { text-decoration: underline; }
         <h2>U.S. VICE PRESIDENT JD VANCE, PRESIDENT DONALD TRUMP, AND HUNGARIAN PRIME MINISTER VIKTOR ORBÁN PITCH POLITICAL COMMON SENSE IN BUDAPEST</h2>
       </div>
     </a>
+<a class="card" href="/articles/like-travel-tourism-entertainment-culture.html">
+      <img src='/images/like-travel-tourism-entertainment-culture-1.jpg' alt=''/>
+      <div class="meta">
+        <p class="kicker">(LIKE® Travel, Tourism, Entertainment &amp; Culture)</p>
+        <h2>250 YEARS OF AMERICA: CROWN FOR A CROONER</h2>
+      </div>
+    </a>
+<a class="card" href="/articles/like-music-tony-bennett-at-one-hundred-the-gentleman-of-central-park-south-who-l.html">
+      <img src='/images/like-music-tony-bennett-at-one-hundred-the-gentleman-of-central-park-south-who-l-1.jpg' alt=''/>
+      <div class="meta">
+        <p class="kicker">(LIKE® Music)</p>
+        <h2>TONY BENNETT AT ONE HUNDRED: THE GENTLEMAN OF CENTRAL PARK SOUTH WHO LEFT HIS HEART IN EVERY CITY HE SANG</h2>
+      </div>
+    </a>
+<a class="card" href="/articles/hollywood-nights.html">
+      <img src='/images/hollywood-nights-1.jpg' alt=''/>
+      <div class="meta">
+        <p class="kicker">(LIKE® Features)</p>
+        <h2>HOLLYWOOD NIGHTS</h2>
+      </div>
+    </a>
+<a class="card" href="/articles/like-history-of-community-service.html">
+      <img src='/images/like-history-of-community-service-1.jpg' alt=''/>
+      <div class="meta">
+        <p class="kicker">(LIKE® History of Community Service)</p>
+        <h2>250 YEARS OF AMERICA: THE ONE-MAN MORALE MACHINE</h2>
+      </div>
+    </a>
+<a class="card" href="/articles/like-leaders-gloria-steinem-walks-on-ink-the-apollo-stump-and-the-women-who-walk.html">
+      <img src='/images/like-leaders-gloria-steinem-walks-on-ink-the-apollo-stump-and-the-women-who-walk-1.jpg' alt=''/>
+      <div class="meta">
+        <p class="kicker">(LIKE® Leaders)</p>
+        <h2>GLORIA STEINEM WALKS ON: INK, THE APOLLO STUMP, AND THE WOMEN WHO WALKED WITH HER</h2>
+      </div>
+    </a>
+<a class="card" href="/articles/like-medicine-the-heart-of-resilience-how-dr-dawn-mussallem-defied-death-to-revo.html">
+      <img src='/images/like-medicine-the-heart-of-resilience-how-dr-dawn-mussallem-defied-death-to-revo-1.jpg' alt=''/>
+      <div class="meta">
+        <p class="kicker">(LIKE® Medicine)</p>
+        <h2>THE HEART OF RESILIENCE: HOW DR. DAWN MUSSALLEM DEFIED DEATH TO REVOLUTIONIZE LONGEVITY MEDICINE</h2>
+      </div>
+    </a>
+<a class="card" href="/articles/like-leaders-250-years-of-america-muhammad-ali.html">
+      <img src='/images/like-leaders-250-years-of-america-muhammad-ali-1.jpg' alt=''/>
+      <div class="meta">
+        <p class="kicker">(LIKE® Leaders)</p>
+        <h2>250 YEARS OF AMERICA: MUHAMMAD ALI</h2>
+      </div>
+    </a>
+</div></div>
+<div class="year-group">
+<div class="year-line" data-year="2024"><span class="roman">MMXXIV</span><span class="year-arabic">2024</span></div>
+<div class="grid">
+<a class="card" href="/articles/like-leaders-donald-trump-forty-fifth-president-early-years.html">
+      <img src="/images/donald-trump-like-magazine.jpg" alt=""/>
+      <div class="meta">
+        <p class="kicker">(LIKE® Leaders)</p>
+        <h2>FORTY-FIFTH PRESIDENT OF THE UNITED STATES, DONALD JOHN TRUMP</h2>
+      </div>
+    </a>
+</div></div>
+<div class="year-group">
+<div class="year-line" data-year="2023"><span class="roman">MMXXIII</span><span class="year-arabic">2023</span></div>
+<div class="grid">
+<a class="card" href="/articles/like-statesman-henry-kissinger-camp-david-dealmakers.html">
+      <img src="/images/henry-kissinger-statesman.jpg" alt="Henry Kissinger — LIKE® Statesman"/>
+      <div class="meta">
+        <p class="kicker">LIKE® Statesman · Leaders</p>
+        <h2>IN LIFE THERE ARE DEALMAKERS AND DEALBREAKERS · HENRY KISSINGER</h2>
+      </div>
+    </a>
+</div></div>
+<div class="year-group">
+<div class="year-line" data-year="2021"><span class="roman">MMXXI</span><span class="year-arabic">2021</span></div>
+<div class="grid">
+<a class="card" href="/articles/like-leaders-melinda-katz-queens-da.html">
+      <img src="/images/melinda-katz-queens-da.jpg" alt="Melinda Katz, Queens District Attorney"/>
+      <div class="meta">
+        <p class="kicker">(LIKE® Women Leaders · Law)</p>
+        <h2>MELINDA KATZ · QUEENS DISTRICT ATTORNEY</h2>
+      </div>
+    </a>
+</div></div>
+<div class="year-group">
+<div class="year-line archive" data-year="archive"><span class="roman">Archive</span></div>
+<div class="grid">
 <a class="card" href="/articles/like-leaders-maye-musk-a-woman-makes-a-plan.html">
       <img src="/images/maye-musk-leaders-card.jpg" alt="Maye Musk"/>
       <div class="meta">
@@ -239,98 +403,63 @@ a:hover { text-decoration: underline; }
         <h2>MAYE MUSK: A WOMAN MAKES A PLAN</h2>
       </div>
     </a>
-
-<a class="card" href="/articles/like-travel-tourism-entertainment-culture.html">
-      <img src='/images/like-travel-tourism-entertainment-culture-1.jpg' alt=''/>
-      <div class="meta">
-        <p class="kicker">(LIKE® Travel, Tourism, Entertainment &amp; Culture)</p>
-        <h2>250 YEARS OF AMERICA: CROWN FOR A CROONER</h2>
-      </div>
-    </a><a class="card" href="/articles/like-music-tony-bennett-at-one-hundred-the-gentleman-of-central-park-south-who-l.html">
-      <img src='/images/like-music-tony-bennett-at-one-hundred-the-gentleman-of-central-park-south-who-l-1.jpg' alt=''/>
-      <div class="meta">
-        <p class="kicker">(LIKE® Music)</p>
-        <h2>TONY BENNETT AT ONE HUNDRED: THE GENTLEMAN OF CENTRAL PARK SOUTH WHO LEFT HIS HEART IN EVERY CITY HE SANG</h2>
-      </div>
-    </a><a class="card" href="/articles/like-american-legacy-250-years-of-america-from-monmouth-s-track-by-the-sea-to-th.html">
+<a class="card" href="/articles/like-american-legacy-250-years-of-america-from-monmouth-s-track-by-the-sea-to-th.html">
       <img src='/images/like-american-legacy-250-years-of-america-from-monmouth-s-track-by-the-sea-to-th-1.jpg' alt=''/>
       <div class="meta">
         <p class="kicker">(LIKE® American Legacy)</p>
         <h2>250 YEARS OF AMERICA: FROM MONMOUTH’S TRACK BY THE SEA TO THE GLOBAL TURF — HOW GUGGENHEIM’S AVIATION VISION AND ISELIN’S SEASIDE EMPIRE HELPED CARRY AMERICAN RACING ACROSS OCEANS AND INTO THE WORLD</h2>
       </div>
-    </a><a class="card" href="/articles/hollywood-nights.html">
-      <img src='/images/hollywood-nights-1.jpg' alt=''/>
-      <div class="meta">
-        <p class="kicker">(LIKE® Features)</p>
-        <h2>HOLLYWOOD NIGHTS</h2>
-      </div>
-    </a><a class="card" href="/articles/on-this-day-eighty-seasons-at-the-rail-fifteen-years-after-monmouth-park-s-65th-.html">
+    </a>
+<a class="card" href="/articles/on-this-day-eighty-seasons-at-the-rail-fifteen-years-after-monmouth-park-s-65th-.html">
       <img src='/images/on-this-day-eighty-seasons-at-the-rail-fifteen-years-after-monmouth-park-s-65th--1.jpg' alt=''/>
       <div class="meta">
         <p class="kicker">(ON THIS DAY)</p>
         <h2>EIGHTY SEASONS AT THE RAIL: FIFTEEN YEARS AFTER MONMOUTH PARK’S 65TH CHARITY BALL</h2>
       </div>
-    </a><a class="card" href="/articles/like-history-of-community-service.html">
-      <img src='/images/like-history-of-community-service-1.jpg' alt=''/>
-      <div class="meta">
-        <p class="kicker">(LIKE® History of Community Service)</p>
-        <h2>250 YEARS OF AMERICA: THE ONE-MAN MORALE MACHINE</h2>
-      </div>
-    </a><a class="card" href="/articles/like-international-250-years-of-america-friendships-across-the-shore-across-the-.html">
+    </a>
+<a class="card" href="/articles/like-international-250-years-of-america-friendships-across-the-shore-across-the-.html">
       <img src='/images/like-international-250-years-of-america-friendships-across-the-shore-across-the--1.jpg' alt=''/>
       <div class="meta">
         <p class="kicker">(LIKE® International)</p>
         <h2>250 YEARS OF AMERICA: FRIENDSHIPS ACROSS THE SHORE &amp; ACROSS THE OCEAN</h2>
       </div>
-    </a><a class="card" href="/articles/like-industry-250-years-of-america-from-private-detectives-to-real-time-surveill.html">
+    </a>
+<a class="card" href="/articles/like-industry-250-years-of-america-from-private-detectives-to-real-time-surveill.html">
       <img src='/images/like-industry-250-years-of-america-from-private-detectives-to-real-time-surveill-1.jpg' alt=''/>
       <div class="meta">
         <p class="kicker">(LIKE® Industry)</p>
         <h2>250 YEARS OF AMERICA: FROM PRIVATE DETECTIVES TO REAL-TIME SURVEILLANCE — TRUCKING DYNASTIES, KENTUCKY COLONELS, AND THE NEW JERSEY SHORE IN LIKE® MAGAZINE</h2>
       </div>
-    </a><a class="card" href="/articles/like-magazine-250-years-of-america-power-pageantry-and-the-track-in-the-autumn-o.html">
+    </a>
+<a class="card" href="/articles/like-magazine-250-years-of-america-power-pageantry-and-the-track-in-the-autumn-o.html">
       <img src='/images/like-magazine-250-years-of-america-power-pageantry-and-the-track-in-the-autumn-o-1.jpg' alt=''/>
       <div class="meta">
         <p class="kicker">(LIKE® Magazine)</p>
         <h2>250 YEARS OF AMERICA: POWER, PAGEANTRY, AND THE TRACK IN THE AUTUMN OF 1966</h2>
       </div>
-    </a><a class="card" href="/articles/like-leaders-gloria-steinem-walks-on-ink-the-apollo-stump-and-the-women-who-walk.html">
-      <img src='/images/like-leaders-gloria-steinem-walks-on-ink-the-apollo-stump-and-the-women-who-walk-1.jpg' alt=''/>
-      <div class="meta">
-        <p class="kicker">(LIKE® Leaders)</p>
-        <h2>GLORIA STEINEM WALKS ON: INK, THE APOLLO STUMP, AND THE WOMEN WHO WALKED WITH HER</h2>
-      </div>
-    </a><a class="card" href="/articles/like-medicine-the-heart-of-resilience-how-dr-dawn-mussallem-defied-death-to-revo.html">
-      <img src='/images/like-medicine-the-heart-of-resilience-how-dr-dawn-mussallem-defied-death-to-revo-1.jpg' alt=''/>
-      <div class="meta">
-        <p class="kicker">(LIKE® Medicine)</p>
-        <h2>THE HEART OF RESILIENCE: HOW DR. DAWN MUSSALLEM DEFIED DEATH TO REVOLUTIONIZE LONGEVITY MEDICINE</h2>
-      </div>
-    </a><a class="card" href="/articles/like-leaders-250-years-of-america-the-work-and-influence-of-fine-american-vice-p.html">
+    </a>
+<a class="card" href="/articles/like-leaders-250-years-of-america-the-work-and-influence-of-fine-american-vice-p.html">
       <img src='/images/like-leaders-250-years-of-america-the-work-and-influence-of-fine-american-vice-p-1.jpg' alt=''/>
       <div class="meta">
         <p class="kicker">(LIKE® Leaders)</p>
         <h2>250 YEARS OF AMERICA: THE WORK AND INFLUENCE OF FINE AMERICAN VICE-PRESIDENCIES</h2>
       </div>
-    </a><a class="card" href="/articles/like-leaders-250-years-of-america-muhammad-ali.html">
-      <img src='/images/like-leaders-250-years-of-america-muhammad-ali-1.jpg' alt=''/>
-      <div class="meta">
-        <p class="kicker">(LIKE® Leaders)</p>
-        <h2>250 YEARS OF AMERICA: MUHAMMAD ALI</h2>
-      </div>
-    </a><a class="card" href="/articles/like-music-simply-red-holding-back-the-years-at-40.html">
+    </a>
+<a class="card" href="/articles/like-music-simply-red-holding-back-the-years-at-40.html">
       <img src='/images/like-music-simply-red-holding-back-the-years-at-40-1.jpg' alt=''/>
       <div class="meta">
         <p class="kicker">(LIKE® Music)</p>
         <h2>LIKE® MUSIC: SIMPLY RED — “HOLDING BACK THE YEARS” AT 40</h2>
       </div>
-    </a><a class="card" href="/articles/spotlight-history-of-the-bonfire-navigational-beacons.html">
+    </a>
+<a class="card" href="/articles/spotlight-history-of-the-bonfire-navigational-beacons.html">
       <img src='/images/spotlight-history-of-the-bonfire-navigational-beacons-1.jpg' alt=''/>
       <div class="meta">
         <p class="kicker">(LIKE® Spotlight)</p>
         <h2>SPOTLIGHT: HISTORY OF THE BONFIRE &amp; ROTATING NAVIGATIONAL BEACONS, ESPECIALLY FOR FLIGHT &amp; MARITIME SAFETY</h2>
       </div>
-    </a></div></main>
+    </a>
+</div></div></main>
 <footer class="footer">
   <p class="disclosure">Affiliate disclosure: LIKE® Magazine may earn a commission from qualifying purchases made through links on this site. Editorial coverage remains independent.</p>
   © LIKE Magazine · likeleaders.com · Photography &amp; editorial by Michael de la Force · Print-on-demand editions coming soon
