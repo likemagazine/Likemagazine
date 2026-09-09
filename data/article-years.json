@@ -29,6 +29,14 @@
       "confidence": "none",
       "detail": ""
     },
+    "articles/like-art-carnegie-hall-hosts-comic-relief.html": {
+      "path": "articles/like-art-carnegie-hall-hosts-comic-relief.html",
+      "year": 2025,
+      "roman": "MMXXV",
+      "source": "facebook",
+      "confidence": "high",
+      "detail": "facebook:2025-12-11 post date; body credit LIKE® Magazine, Carnegie Hall, Manhattan, 12.10.2025 — dept-fills/texts/art-carnegie-hall-comic-relief.txt"
+    },
     "articles/like-automotive-black-badge-ghost-ekleipsis-featuring-starlight-headliner.html": {
       "path": "articles/like-automotive-black-badge-ghost-ekleipsis-featuring-starlight-headliner.html",
       "year": 2023,
@@ -61,6 +69,14 @@
       "confidence": "high",
       "detail": "facebook:2025-08-26 rolls-royce-posts.json"
     },
+    "articles/like-features-rothschild-swiss-wealth-award.html": {
+      "path": "articles/like-features-rothschild-swiss-wealth-award.html",
+      "year": 2025,
+      "roman": "MMXXV",
+      "source": "facebook",
+      "confidence": "high",
+      "detail": "facebook:2025-06-21 Rothschild Swiss wealth award — dept-fills/texts/finance_rothschild_swiss_wealth_award.txt"
+    },
     "articles/like-history-of-community-service.html": {
       "path": "articles/like-history-of-community-service.html",
       "year": 2026,
@@ -92,6 +108,14 @@
       "source": "unknown",
       "confidence": "none",
       "detail": ""
+    },
+    "articles/like-international-thailand-princess-bha-grand-palace.html": {
+      "path": "articles/like-international-thailand-princess-bha-grand-palace.html",
+      "year": 2026,
+      "roman": "MMXXVI",
+      "source": "facebook",
+      "confidence": "high",
+      "detail": "facebook:2026-06-24 Bangkok — credit 6.24.26; dept-fills/texts/travel_thailand_grand_palace.txt"
     },
     "articles/like-leaders-250-years-of-america-muhammad-ali.html": {
       "path": "articles/like-leaders-250-years-of-america-muhammad-ali.html",
@@ -229,6 +253,30 @@
       "confidence": "high",
       "detail": "facebook:2023-10-05 leaders-culture/posts.json"
     },
+    "articles/like-style-diamond-district-shopping-season-2024.html": {
+      "path": "articles/like-style-diamond-district-shopping-season-2024.html",
+      "year": 2024,
+      "roman": "MMXXIV",
+      "source": "facebook",
+      "confidence": "high",
+      "detail": "facebook:2024-12-13 Diamond District Shopping Season 2024 (photo credit 12.13.24)"
+    },
+    "articles/like-style-sothebys-enters-fashion-market-via-frame.html": {
+      "path": "articles/like-style-sothebys-enters-fashion-market-via-frame.html",
+      "year": 2025,
+      "roman": "MMXXV",
+      "source": "facebook",
+      "confidence": "high",
+      "detail": "facebook:2025 Sotheby’s × FRAME collab launched June 2025"
+    },
+    "articles/like-summit-season-nato-75th-ai-strategy.html": {
+      "path": "articles/like-summit-season-nato-75th-ai-strategy.html",
+      "year": 2024,
+      "roman": "MMXXIV",
+      "source": "facebook",
+      "confidence": "high",
+      "detail": "facebook NATO 75th anniversary (1949+75=2024) — dept-fills/texts/diplomacy_nato_75th_ai_strategy.txt"
+    },
     "articles/like-technology-chips-on-shoulders-puts-chips-in-pockets.html": {
       "path": "articles/like-technology-chips-on-shoulders-puts-chips-in-pockets.html",
       "year": 2026,
@@ -237,6 +285,14 @@
       "confidence": "high",
       "detail": "facebook:2026-06-01 beijing-ai/posts.json"
     },
+    "articles/like-technology-statesman-one-air-force-one.html": {
+      "path": "articles/like-technology-statesman-one-air-force-one.html",
+      "year": 2026,
+      "roman": "MMXXVI",
+      "source": "facebook",
+      "confidence": "high",
+      "detail": "facebook:2026-06-19 Washington D.C. — dept-fills/texts/science_air_force_one.txt"
+    },
     "articles/like-travel-tourism-entertainment-culture.html": {
       "path": "articles/like-travel-tourism-entertainment-culture.html",
       "year": 2026,
@@ -244,6 +300,14 @@
       "source": "body-credit",
       "confidence": "medium",
       "detail": "New York City, August 8, 2026"
+    },
+    "articles/like-visit-america-old-glory-and-the-golden-gate.html": {
+      "path": "articles/like-visit-america-old-glory-and-the-golden-gate.html",
+      "year": 2027,
+      "roman": "MMXXVII",
+      "source": "facebook",
+      "confidence": "high",
+      "detail": "facebook credit LIKE® Magazine, 7.7.27 — dept-fills/texts/travel_visit_america_old_glory.txt"
     },
     "articles/on-this-day-eighty-seasons-at-the-rail-fifteen-years-after-monmouth-park-s-65th-.html": {
       "path": "articles/on-this-day-eighty-seasons-at-the-rail-fifteen-years-after-monmouth-park-s-65th-.html",
@@ -340,62 +404,6 @@
       "source": "facebook",
       "confidence": "high",
       "detail": "facebook:2026-07-10 summit-season/posts.json"
-    },
-    "articles/like-style-diamond-district-shopping-season-2024.html": {
-      "path": "articles/like-style-diamond-district-shopping-season-2024.html",
-      "year": 2024,
-      "roman": "MMXXIV",
-      "source": "facebook",
-      "confidence": "high",
-      "detail": "facebook:2024-12-13 Diamond District Shopping Season 2024 (photo credit 12.13.24)"
-    },
-    "articles/like-style-sothebys-enters-fashion-market-via-frame.html": {
-      "path": "articles/like-style-sothebys-enters-fashion-market-via-frame.html",
-      "year": 2025,
-      "roman": "MMXXV",
-      "source": "facebook",
-      "confidence": "high",
-      "detail": "facebook:2025 Sotheby’s × FRAME collab launched June 2025"
-    },
-    "articles/like-international-thailand-princess-bha-grand-palace.html": {
-      "path": "articles/like-international-thailand-princess-bha-grand-palace.html",
-      "year": 2026,
-      "roman": "MMXXVI",
-      "source": "facebook",
-      "confidence": "high",
-      "detail": "facebook:2026-06-24 Bangkok — credit 6.24.26; dept-fills/texts/travel_thailand_grand_palace.txt"
-    },
-    "articles/like-visit-america-old-glory-and-the-golden-gate.html": {
-      "path": "articles/like-visit-america-old-glory-and-the-golden-gate.html",
-      "year": 2027,
-      "roman": "MMXXVII",
-      "source": "facebook",
-      "confidence": "high",
-      "detail": "facebook credit LIKE® Magazine, 7.7.27 — dept-fills/texts/travel_visit_america_old_glory.txt"
-    },
-    "articles/like-technology-statesman-one-air-force-one.html": {
-      "path": "articles/like-technology-statesman-one-air-force-one.html",
-      "year": 2026,
-      "roman": "MMXXVI",
-      "source": "facebook",
-      "confidence": "high",
-      "detail": "facebook:2026-06-19 Washington D.C. — dept-fills/texts/science_air_force_one.txt"
-    },
-    "articles/like-features-rothschild-swiss-wealth-award.html": {
-      "path": "articles/like-features-rothschild-swiss-wealth-award.html",
-      "year": 2025,
-      "roman": "MMXXV",
-      "source": "facebook",
-      "confidence": "high",
-      "detail": "facebook:2025-06-21 Rothschild Swiss wealth award — dept-fills/texts/finance_rothschild_swiss_wealth_award.txt"
-    },
-    "articles/like-summit-season-nato-75th-ai-strategy.html": {
-      "path": "articles/like-summit-season-nato-75th-ai-strategy.html",
-      "year": 2024,
-      "roman": "MMXXIV",
-      "source": "facebook",
-      "confidence": "high",
-      "detail": "facebook NATO 75th anniversary (1949+75=2024) — dept-fills/texts/diplomacy_nato_75th_ai_strategy.txt"
     }
   }
 }
