@@ -1,6 +1,6 @@
 # Luxury Guide image attribution
 
-All images sourced from Wikimedia Commons. Resized for web use (longest edge ≤1600px). Licenses verified on each file page. Prefer Public domain / CC0 / CC BY / CC BY-SA only.
+All images sourced from Wikimedia Commons. Resized for web use (longest edge ≤1600px). Licenses verified on each file page. Prefer Public domain / CC0 (no license fee; attribution not required — still recorded here for editorial honesty). CC BY / CC BY-SA retained only where no comparable PD/CC0 upgrade was found.
 
 ---
 
@@ -208,6 +208,81 @@ All images sourced from Wikimedia Commons. Resized for web use (longest edge ≤
 
 ---
 
+---
+
+## watchmakers-hero.jpg
+
+| Field | Value |
+| --- | --- |
+| **Filename** | watchmakers-hero.jpg |
+| **Title** | Clock watch (open case with movement) |
+| **Author** | Michael Nouwen (or Nouen); photo: Metropolitan Museum of Art |
+| **Source URL** | https://commons.wikimedia.org/wiki/File:Clock_watch_MET_DP168608.jpg |
+| **License** | CC0 1.0 |
+| **Note** | PD/CC0 — no license fee |
+| **Credit** | Metropolitan Museum of Art (CC0) via Wikimedia Commons |
+
+## watchmakers-2.jpg (dial)
+
+| Field | Value |
+| --- | --- |
+| **Filename** | watchmakers-2.jpg |
+| **Title** | Watch movement / dial (Cabrier, London) |
+| **Author** | Charles Cabrier; photo: Metropolitan Museum of Art |
+| **Source URL** | https://commons.wikimedia.org/wiki/File:Watch_movement_MET_DP-12675-065.jpg |
+| **License** | CC0 1.0 |
+| **Note** | PD/CC0 — no license fee |
+| **Credit** | Metropolitan Museum of Art (CC0) via Wikimedia Commons |
+
+## watchmakers-3.jpg (movement)
+
+| Field | Value |
+| --- | --- |
+| **Filename** | watchmakers-3.jpg |
+| **Title** | Lip pocket watch (movement) |
+| **Author** | Peccando |
+| **Source URL** | https://commons.wikimedia.org/wiki/File:Lip_pocket_watch.jpg |
+| **License** | CC0 1.0 |
+| **Note** | PD/CC0 — no license fee |
+| **Credit** | Photo: Peccando (CC0) via Wikimedia Commons |
+
+## jewelers-hero.jpg
+
+| Field | Value |
+| --- | --- |
+| **Filename** | jewelers-hero.jpg |
+| **Title** | Tiffany and Company — Necklace |
+| **Author** | Tiffany and Company; photo: Walters Art Museum |
+| **Source URL** | https://commons.wikimedia.org/wiki/File:Tiffany_and_Company_-_Necklace_-_Walters_572121.jpg |
+| **License** | Public domain |
+| **Note** | PD/CC0 — no license fee |
+| **Credit** | Walters Art Museum (Public domain) via Wikimedia Commons |
+
+## jewelers-2.jpg (gold chain)
+
+| Field | Value |
+| --- | --- |
+| **Filename** | jewelers-2.jpg |
+| **Title** | Gold chain with gemstones and enamel, late 16th century, The Royal Armoury, Sweden |
+| **Author** | Unknown artist; photo: Livrustkammaren (The Royal Armoury) |
+| **Source URL** | https://commons.wikimedia.org/wiki/File:Gold_chain_with_gemstones_and_enamel,_late_16th_century,_The_Royal_Armoury,_Sweden.jpg |
+| **License** | Public domain |
+| **Note** | PD/CC0 — no license fee |
+| **Credit** | Livrustkammaren / The Royal Armoury (Public domain) via Wikimedia Commons |
+
+## jewelers-3.jpg (Art Deco necklace)
+
+| Field | Value |
+| --- | --- |
+| **Filename** | jewelers-3.jpg |
+| **Title** | "Perruches" (Parakeets) Necklace |
+| **Author** | René-Jules Lalique; photo: Metropolitan Museum of Art |
+| **Source URL** | https://commons.wikimedia.org/wiki/File:%22Perruches%22_(Parakeets)_Necklace_MET_DP290886.jpg |
+| **License** | CC0 1.0 |
+| **Note** | PD/CC0 — no license fee |
+| **Credit** | Metropolitan Museum of Art (CC0) via Wikimedia Commons |
+
+
 ## Footer credit strings (copy-paste)
 
 - Hotels: Photo: Mark Wordy / Wikimedia Commons (CC BY 2.0)
@@ -215,6 +290,11 @@ All images sourced from Wikimedia Commons. Resized for web use (longest edge ≤
 - Shopping: Photo: Halley Oliveira / Wikimedia Commons (CC BY-SA 2.0)
 - Airlines: Photo: David Lytle / Wikimedia Commons (CC BY 2.0)
 - Wineries: Photo: Sebastien Gabriel (CC0) via Wikimedia Commons
+- Trains: Photo: Tim Adams / Wikimedia Commons (CC BY 3.0)
+- Aviation: Photo: flybyeigenheer / Wikimedia Commons (CC BY-SA 2.0)
+- Watchmakers: Metropolitan Museum of Art / Peccando (CC0) via Wikimedia Commons — PD/CC0 — no license fee
+- Jewelers: Walters Art Museum / Livrustkammaren / Metropolitan Museum of Art (Public domain / CC0) — PD/CC0 — no license fee
 - Overview: Photo: UggBoy♥UggGirl / Wikimedia Commons (CC BY 2.0)
 
 CC BY-SA works require share-alike for derivatives of those images; attribution must be retained as shown above.
+PD/CC0 images require no license fee; attribution not legally required but recorded above for editorial honesty.
