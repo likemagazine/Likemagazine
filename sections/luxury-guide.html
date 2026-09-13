@@ -3,8 +3,28 @@
 <head>
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>LIKE® Travel &amp; Tourism · LIKE Magazine</title>
-<meta name="description" content="LIKE® Magazine — Leaders, Style, Travel, Culture. Print magazine online."/>
+<title>LIKE® Magazine Luxury Guide · Hotels, Dining, Shopping, Airlines & Wineries</title>
+<meta name="description" content="Editorial luxury indexes curated for LIKE® Magazine — hotels, Michelin dining, shopping streets, Skytrax airlines, and world’s best vineyards on likeleaders.com."/>
+<meta name="robots" content="index,follow"/>
+<meta name="author" content="LIKE® Magazine / Michael de la Force"/>
+<link rel="canonical" href="https://likeleaders.com/sections/luxury-guide.html"/>
+<meta name="keywords" content="LIKE Magazine, LIKE®, likeleaders, luxury guide, luxury hotels, Michelin, shopping streets, Skytrax, vineyards"/>
+<meta property="og:type" content="website"/>
+<meta property="og:site_name" content="LIKE Magazine"/>
+<meta property="og:title" content="LIKE® Magazine Luxury Guide · Hotels, Dining, Shopping, Airlines & Wineries"/>
+<meta property="og:description" content="Editorial luxury indexes curated for LIKE® Magazine — hotels, Michelin dining, shopping streets, Skytrax airlines, and world’s best vineyards on likeleaders.com."/>
+<meta property="og:url" content="https://likeleaders.com/sections/luxury-guide.html"/>
+<meta property="og:image" content="https://likeleaders.com/images/luxury-guide/luxury-guide-hero.jpg"/>
+<meta property="article:author" content="Michael de la Force"/>
+<meta property="article:section" content="Luxury Guide"/>
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:title" content="LIKE® Magazine Luxury Guide · Hotels, Dining, Shopping, Airlines & Wineries"/>
+<meta name="twitter:description" content="Editorial luxury indexes curated for LIKE® Magazine — hotels, Michelin dining, shopping streets, Skytrax airlines, and world’s best vineyards on likeleaders.com."/>
+<meta name="twitter:image" content="https://likeleaders.com/images/luxury-guide/luxury-guide-hero.jpg"/>
+<link rel="stylesheet" href="/css/luxury-guide.css"/>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://likeleaders.com/#organization","name":"LIKE® Magazine","alternateName":["LIKE Magazine","LIKE®","likeleaders","LIKE Leaders"],"url":"https://likeleaders.com","sameAs":["https://likeleaders.com"],"logo":{"@type":"ImageObject","url":"https://likeleaders.com/assets/like-magazine-logo.png"}},{"@type":"WebSite","@id":"https://likeleaders.com/#website","name":"LIKE® Magazine","url":"https://likeleaders.com","publisher":{"@id":"https://likeleaders.com/#organization"},"inLanguage":"en"}]}
+</script>
 <style>
 :root {
   --ink: #111;
@@ -196,6 +216,14 @@ a:hover { text-decoration: underline; }
 .year-line.summit-year .roman { color: #c99a3b; }
 .year-line.summit-year .year-arabic { color: #b9b0c4; }
 
+/* Luxury Guide / Safari compat */
+@media (max-width: 700px) {
+  .nav { max-height: 42vh; overflow-y: auto; -webkit-overflow-scrolling: touch; }
+}
+@supports not (aspect-ratio: 16/10) {
+  .feature img, .card img { height: 200px; }
+}
+
 </style>
 </head>
 <body>
@@ -204,69 +232,76 @@ a:hover { text-decoration: underline; }
   <p class="mast-magazine">Magazine</p>
   <p class="tag">Style · Leaders · likeleaders.com</p>
 </header>
-<nav class="nav">
+<nav class="nav" aria-label="Primary">
   <a href="/index.html">Home</a>
   <a href="/summit-season/index.html" class="summit">Summit Season</a>
-<!-- luxury-guide-nav -->
   <a href="/sections/luxury-guide.html" class="guide">Luxury Guide</a>
   <a href="/sections/luxury-hotels.html" class="guide">Hotels</a>
   <a href="/sections/luxury-dining.html" class="guide">Dining</a>
   <a href="/sections/luxury-shopping.html" class="guide">Shopping</a>
   <a href="/sections/luxury-airlines.html" class="guide">Airlines</a>
   <a href="/sections/luxury-wineries.html" class="guide">Wineries</a>
-  <!-- /luxury-guide-nav -->
-
-  <a href="/sections/automotive.html">Automotive Features</a>
   <a href="/sections/leaders.html">Leaders</a>
   <a href="/sections/style.html">Style</a>
-  <a href="/sections/fashion.html">Fashion</a>
-  <a href="/sections/sports.html">Sports</a>
   <a href="/sections/travel.html">Travel &amp; Tourism</a>
-  <a href="/sections/diplomacy.html">Diplomacy</a>
-  <a href="/sections/like-global.html">LIKE® Global</a>
-  <a href="/sections/conferences.html">Conferences</a>
-  <a href="/sections/trade-shows.html">Trade Shows</a>
-  <a href="/sections/health.html">Health</a>
-  <a href="/sections/law.html">Law</a>
-  <a href="/sections/science.html">Science</a>
-  <a href="/sections/music.html">Music</a>
-  <a href="/sections/film.html">Film</a>
-  <a href="/sections/film-festivals.html">Film Festivals</a>
-  <a href="/sections/books.html">Books</a>
-  <a href="/sections/art.html">Art</a>
-  <a href="/sections/museums.html">Museums</a>
-  <a href="/sections/spotlight.html">Spotlight</a>
-  <a href="/sections/features.html">Features</a>
   <a href="/sections/apparel.html" class="shop">Apparel</a>
   <a href="/about.html">About</a>
 </nav>
-<main class="wrap"><h2 class="section-title">LIKE® Travel &amp; Tourism</h2>
-<p class="panel-lede" style="font-family:var(--sans);font-size:0.9rem;color:var(--muted);margin:0 0 1rem">Destination features and tourism culture from the LIKE® archive. Visit America series found; exact Visit Thailand / Visit France titles not yet confirmed publicly.</p>
-<div class="grid">
-<a class="card" href="/articles/like-international-thailand-princess-bha-grand-palace.html">
-  <img src="/images/like-international-thailand-princess-bha-grand-palace.jpg" alt="Princess Bha — Grand Palace, Bangkok"/>
-  <div class="meta"><p class="kicker">(LIKE® International)</p><h2>THAILAND’S TIME FOR PRINCESS BHA: MOURNING AT THE GRAND PALACE, DIPLOMACY IN FRANCE, AND A SHARED FUTURE</h2></div>
-</a>
-<a class="card" href="/articles/like-visit-america-old-glory-and-the-golden-gate.html">
-  <img src="/images/like-visit-america-old-glory-golden-gate.jpg" alt="Old Glory and the Golden Gate"/>
-  <div class="meta"><p class="kicker">(LIKE® Visit America, Semiquincentennial Edition)</p><h2>OLD GLORY AND THE GOLDEN GATE: HOW ONE BAY HELPED BUILD AMERICA’S FUTURE</h2></div>
-</a>
-<a class="card" href="/articles/like-travel-tourism-entertainment-culture.html">
-  <img src="/images/like-travel-tourism-entertainment-culture-1.jpg" alt="Crown for a Crooner"/>
-  <div class="meta"><p class="kicker">(LIKE® Travel, Tourism, Entertainment &amp; Culture)</p><h2>250 YEARS OF AMERICA: CROWN FOR A CROONER</h2></div>
-</a>
-<a class="card" href="/articles/like-international-life-of-law-mercy-and-duty-the-royal-fiftieth-day-merit-makin.html">
-  <img src="/images/like-international-life-of-law-mercy-and-duty-the-royal-fiftieth-day-merit-makin-1.jpg" alt="Princess Bajrakitiyabha — Thailand"/>
-  <div class="meta"><p class="kicker">(LIKE® International · Thailand)</p><h2>LIFE OF LAW, MERCY, AND DUTY: THE ROYAL FIFTIETH-DAY MERIT-MAKING FOR HRH PRINCESS BAJRAKITIYABHA</h2></div>
-</a>
-<a class="card" href="/articles/like-automotive-royal-rolls-royce-phantoms-of-the-thai-court.html">
-  <img src="/images/like-international-life-of-law-mercy-and-duty-the-royal-fiftieth-day-merit-makin-1.jpg" alt="Royal Rolls-Royce Phantoms of the Thai Court"/>
-  <div class="meta"><p class="kicker">(LIKE® Automotive · Travel Thailand)</p><h2>ROYAL ROLLS-ROYCE PHANTOMS OF THE THAI COURT</h2></div>
-</a>
-</div></main>
+<main class="lg-wrap">
+  <article class="lg-hero">
+    <img class="lg-hero-media" src="/images/luxury-guide/luxury-guide-hero.jpg" alt="The Peninsula Hotel, Kowloon, Hong Kong" width="1600" height="1068" loading="lazy"/>
+    <div class="lg-hero-body">
+      <p class="lg-eyebrow">LIKE® Magazine · Luxury Guide</p>
+      <h1 class="lg-title">Luxury Guide</h1>
+      <hr class="lg-gold-rule"/>
+      <p class="lg-lede">Curated editorial indexes of the world’s great hotels, restaurants, shopping streets, airlines, and vineyards — published for LIKE® Magazine on likeleaders.com.</p>
+      <p class="lg-credit">Photo: UggBoy♥UggGirl / Wikimedia Commons (CC BY 2.0)</p>
+    </div>
+  </article>
+  <nav class="lg-subnav" aria-label="Luxury Guide">
+  <a href="/sections/luxury-guide.html" class="is-active">Overview</a>
+  <a href="/sections/luxury-hotels.html">Hotels</a>
+  <a href="/sections/luxury-dining.html">Dining</a>
+  <a href="/sections/luxury-shopping.html">Shopping</a>
+  <a href="/sections/luxury-airlines.html">Airlines</a>
+  <a href="/sections/luxury-wineries.html">Wineries</a>
+</nav>
+  <div class="lg-hub-grid">
+    <a class="lg-hub-card" href="/sections/luxury-hotels.html">
+      <p class="label">680 listings</p>
+      <strong>Luxury Hotels</strong>
+      <p>Forbes Five-Star, AAA Five Diamond & Leading Hotels of the World.</p>
+    </a>
+    <a class="lg-hub-card" href="/sections/luxury-dining.html">
+      <p class="label">3,606 listings</p>
+      <strong>Fine Dining</strong>
+      <p>Michelin-starred restaurants worldwide from the MICHELIN Guide.</p>
+    </a>
+    <a class="lg-hub-card" href="/sections/luxury-shopping.html">
+      <p class="label">179 listings</p>
+      <strong>Shopping Streets</strong>
+      <p>Major luxury shopping streets and districts worldwide.</p>
+    </a>
+    <a class="lg-hub-card" href="/sections/luxury-airlines.html">
+      <p class="label">100 listings</p>
+      <strong>Best Airlines</strong>
+      <p>Skytrax Top 100 Airlines 2025 by primary hub.</p>
+    </a>
+    <a class="lg-hub-card" href="/sections/luxury-wineries.html">
+      <p class="label">100 listings</p>
+      <strong>Best Vineyards</strong>
+      <p>World’s Best Vineyards Top 100 (2025 edition).</p>
+    </a>
+  </div>
+  <p class="lg-credit" style="margin-top:1.75rem">Curated for LIKE® Magazine Luxury Guide · likeleaders.com</p>
+</main>
 <footer class="footer">
   <p class="disclosure">Affiliate disclosure: LIKE® Magazine may earn a commission from qualifying purchases made through links on this site. Editorial coverage remains independent.</p>
   © LIKE Magazine · likeleaders.com · Photography &amp; editorial by Michael de la Force · Print-on-demand editions coming soon
 </footer>
+<script>
+window.LIKE_LUXURY_GUIDE = { slug: "luxury-guide", dataUrl: "", pageType: "hub" };
+</script>
+<script src="/js/luxury-seo.js" defer></script>
 </body>
 </html>
