@@ -196,7 +196,32 @@ a:hover { text-decoration: underline; }
 .year-line.summit-year .roman { color: #c99a3b; }
 .year-line.summit-year .year-arabic { color: #b9b0c4; }
 
+/* Compat: aspect-ratio fallback for Safari <15; mobile nav scroll */
+.feature img, .card img { height: auto; min-height: 140px; }
+@supports not (aspect-ratio: 16/10) {
+  .feature img, .card img { height: 200px; object-fit: cover; }
+}
+@media (max-width: 700px) {
+  .nav {
+    max-height: 9.5rem;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    justify-content: flex-start;
+    gap: 0.4rem 0.75rem;
+  }
+  .nav details.nav-more { flex: 1 0 100%; }
+  .nav details.nav-more > summary {
+    cursor: pointer; list-style: none; font-weight: 700; color: var(--accent);
+  }
+  .nav details.nav-more > summary::-webkit-details-marker { display: none; }
+  .nav details.nav-more[open] > summary { margin-bottom: 0.35rem; }
+  .nav details.nav-more .nav-more-links {
+    display: flex; flex-wrap: wrap; gap: 0.35rem 0.75rem;
+  }
+}
+
 </style>
+<link rel="stylesheet" href="/css/luxury-guide.css"/>
 </head>
 <body>
 <header class="mast">
@@ -204,32 +229,46 @@ a:hover { text-decoration: underline; }
   <p class="mast-magazine">Magazine</p>
   <p class="tag">Style · Leaders · likeleaders.com</p>
 </header>
-<nav class="nav">
+<nav class="nav" aria-label="Primary">
   <a href="/index.html">Home</a>
   <a href="/summit-season/index.html" class="summit">Summit Season</a>
-  <a href="/sections/automotive.html">Automotive Features</a>
+<!-- luxury-guide-nav -->
+  <a href="/sections/luxury-guide.html" class="guide">Luxury Guide</a>
+  <a href="/sections/luxury-hotels.html" class="guide">Hotels</a>
+  <a href="/sections/luxury-dining.html" class="guide">Dining</a>
+  <a href="/sections/luxury-shopping.html" class="guide">Shopping</a>
+  <a href="/sections/luxury-airlines.html" class="guide">Airlines</a>
+  <a href="/sections/luxury-wineries.html" class="guide">Wineries</a>
+  <!-- /luxury-guide-nav -->
+
   <a href="/sections/leaders.html">Leaders</a>
   <a href="/sections/style.html">Style</a>
-  <a href="/sections/fashion.html">Fashion</a>
-  <a href="/sections/sports.html">Sports</a>
   <a href="/sections/travel.html">Travel &amp; Tourism</a>
-  <a href="/sections/diplomacy.html">Diplomacy</a>
-  <a href="/sections/like-global.html">LIKE® Global</a>
-  <a href="/sections/conferences.html">Conferences</a>
-  <a href="/sections/trade-shows.html">Trade Shows</a>
-  <a href="/sections/health.html">Health</a>
-  <a href="/sections/law.html">Law</a>
-  <a href="/sections/science.html">Science</a>
-  <a href="/sections/music.html">Music</a>
-  <a href="/sections/film.html">Film</a>
-  <a href="/sections/film-festivals.html">Film Festivals</a>
-  <a href="/sections/books.html">Books</a>
-  <a href="/sections/art.html">Art</a>
-  <a href="/sections/museums.html">Museums</a>
-  <a href="/sections/spotlight.html">Spotlight</a>
-  <a href="/sections/features.html">Features</a>
   <a href="/sections/apparel.html" class="shop">Apparel</a>
   <a href="/about.html">About</a>
+  <details class="nav-more">
+    <summary>Luxury Guide</summary>
+    <div class="nav-more-links">
+      <a href="/sections/automotive.html">Automotive Features</a>
+      <a href="/sections/fashion.html">Fashion</a>
+      <a href="/sections/sports.html">Sports</a>
+      <a href="/sections/diplomacy.html">Diplomacy</a>
+      <a href="/sections/like-global.html">LIKE® Global</a>
+      <a href="/sections/conferences.html">Conferences</a>
+      <a href="/sections/trade-shows.html">Trade Shows</a>
+      <a href="/sections/health.html">Health</a>
+      <a href="/sections/law.html">Law</a>
+      <a href="/sections/science.html">Science</a>
+      <a href="/sections/music.html">Music</a>
+      <a href="/sections/film.html">Film</a>
+      <a href="/sections/film-festivals.html">Film Festivals</a>
+      <a href="/sections/books.html">Books</a>
+      <a href="/sections/art.html">Art</a>
+      <a href="/sections/museums.html">Museums</a>
+      <a href="/sections/spotlight.html">Spotlight</a>
+      <a href="/sections/features.html">Features</a>
+    </div>
+  </details>
 </nav>
 <main class="wrap">
 <section class="hero-grid">
@@ -286,6 +325,14 @@ a:hover { text-decoration: underline; }
 <section class="dept-band" id="departments">
 <h3 class="section-title">Departments</h3>
 <div class="dept-rail">
+<!-- luxury-guide-dept-tiles -->
+<a class="dept-tile guide" href="/sections/luxury-guide.html"><span class="label">Luxury Guide</span><strong>Overview</strong></a>
+<a class="dept-tile guide" href="/sections/luxury-hotels.html"><span class="label">Luxury Guide</span><strong>Hotels</strong></a>
+<a class="dept-tile guide" href="/sections/luxury-dining.html"><span class="label">Luxury Guide</span><strong>Dining</strong></a>
+<a class="dept-tile guide" href="/sections/luxury-shopping.html"><span class="label">Luxury Guide</span><strong>Shopping</strong></a>
+<a class="dept-tile guide" href="/sections/luxury-airlines.html"><span class="label">Luxury Guide</span><strong>Airlines</strong></a>
+<a class="dept-tile guide" href="/sections/luxury-wineries.html"><span class="label">Luxury Guide</span><strong>Wineries</strong></a>
+<!-- /luxury-guide-dept-tiles -->
 <a class="dept-tile" href="/sections/leaders.html#women"><span class="label">Department</span><strong>Leaders · Women</strong></a><a class="dept-tile" href="/sections/style.html"><span class="label">Department</span><strong>Style</strong></a><a class="dept-tile" href="/sections/fashion.html"><span class="label">Department</span><strong>Fashion</strong></a><a class="dept-tile" href="/sections/sports.html"><span class="label">Department</span><strong>Sports</strong></a><a class="dept-tile" href="/sections/travel.html"><span class="label">Department</span><strong>Travel &amp; Tourism</strong></a><a class="dept-tile" href="/sections/diplomacy.html"><span class="label">Department</span><strong>Diplomacy</strong></a><a class="dept-tile" href="/sections/like-global.html"><span class="label">Department</span><strong>LIKE® Global</strong></a><a class="dept-tile" href="/sections/conferences.html"><span class="label">Department</span><strong>Conferences</strong></a><a class="dept-tile" href="/sections/trade-shows.html"><span class="label">Department</span><strong>Trade Shows</strong></a><a class="dept-tile" href="/sections/health.html"><span class="label">Department</span><strong>Health</strong></a><a class="dept-tile" href="/sections/law.html"><span class="label">Department</span><strong>Law</strong></a><a class="dept-tile" href="/sections/science.html"><span class="label">Department</span><strong>Science</strong></a><a class="dept-tile" href="/sections/music.html"><span class="label">Department</span><strong>Music</strong></a><a class="dept-tile" href="/sections/film.html"><span class="label">Department</span><strong>Film</strong></a><a class="dept-tile" href="/sections/film-festivals.html"><span class="label">Department</span><strong>Film Festivals</strong></a><a class="dept-tile" href="/sections/books.html"><span class="label">Department</span><strong>Books</strong></a><a class="dept-tile" href="/sections/art.html"><span class="label">Department</span><strong>Art</strong></a><a class="dept-tile" href="/sections/museums.html"><span class="label">Department</span><strong>Museums</strong></a><a class="dept-tile" href="/sections/spotlight.html"><span class="label">Department</span><strong>Spotlight</strong></a><a class="dept-tile" href="/sections/features.html"><span class="label">Department</span><strong>Features</strong></a><a class="dept-tile shop" href="/sections/apparel.html"><span class="label">Department</span><strong>Apparel</strong></a>
 </div>
 </section>
