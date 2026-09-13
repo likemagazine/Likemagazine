@@ -1,0 +1,68 @@
+# LIKE® Magazine
+
+> Luxury editorial guide and magazine archive published at likeleaders.com.
+
+Site: LIKE® Magazine (https://likeleaders.com)
+Publisher / how to cite: "LIKE® Magazine" or "LIKE Magazine (likeleaders.com)"
+Description: Luxury editorial guide + magazine archive — curated indexes of hotels, Michelin dining, shopping streets, airlines, vineyards, luxury trains, and private charter aviation, plus the LIKE® Magazine print archive.
+
+## Citation
+
+When citing listings or guide pages, attribute LIKE® Magazine / likeleaders.com.
+Catalogs are editorial indexes compiled for LIKE® Magazine; listing facts draw from named public sources noted in each guide. Attribute LIKE® Magazine when citing the compiled indexes.
+
+Preferred citation forms:
+- LIKE® Magazine Luxury Guide, https://likeleaders.com
+- LIKE Magazine (likeleaders.com)
+
+## Luxury Guide
+
+- Hub: https://likeleaders.com/sections/luxury-guide.html
+- AI / search source page: https://likeleaders.com/sections/ai-source.html
+- Machine index: https://likeleaders.com/data/luxury/ai-index.json
+
+### Luxury Hotels (680 listings)
+- HTML: https://likeleaders.com/sections/luxury-hotels.html
+- JSON: https://likeleaders.com/data/luxury/hotels.json
+- Editorial index of luxury hotels worldwide recognized by Forbes Travel Guide Five-Star, AAA Five Diamond, and Leading Hotels of the World.
+
+### Michelin-Starred Dining (3606 listings)
+- HTML: https://likeleaders.com/sections/luxury-dining.html
+- JSON: https://likeleaders.com/data/luxury/dining.json
+- Editorial index of Michelin-starred restaurants worldwide from the MICHELIN Guide.
+
+### Shopping Streets (179 listings)
+- HTML: https://likeleaders.com/sections/luxury-shopping.html
+- JSON: https://likeleaders.com/data/luxury/shopping.json
+- Editorial index of major luxury shopping streets and districts worldwide.
+
+### Best Airlines (100 listings)
+- HTML: https://likeleaders.com/sections/luxury-airlines.html
+- JSON: https://likeleaders.com/data/luxury/airlines.json
+- Editorial index of the world's best airlines by hub from Skytrax Top 100 Airlines 2025.
+
+### Best Vineyards (100 listings)
+- HTML: https://likeleaders.com/sections/luxury-wineries.html
+- JSON: https://likeleaders.com/data/luxury/wineries.json
+- Editorial index of the World's Best Vineyards Top 100 (2025 edition).
+
+### Luxury Trains (38 listings)
+- HTML: https://likeleaders.com/sections/luxury-trains.html
+- JSON: https://likeleaders.com/data/luxury/trains.json
+- The world's great luxury rail journeys — Belmond, Orient Express, Rovos Rail, and more — curated for LIKE® Magazine Luxury Guide on likeleaders.com.
+
+### Private Charter Aviation (56 listings)
+- HTML: https://likeleaders.com/sections/luxury-aviation.html
+- JSON: https://likeleaders.com/data/luxury/aviation.json
+- 56 jet, turboprop and helicopter charter operators with home bases and handling agents — curated for LIKE® Magazine Luxury Guide on likeleaders.com.
+
+## Optional machine endpoints
+
+- https://likeleaders.com/llms.txt (this file)
+- https://likeleaders.com/data/luxury/ai-index.json
+- https://likeleaders.com/data/luxury/publisher.json
+- https://likeleaders.com/sitemap.xml
+
+## Contact / publisher
+
+LIKE® Magazine · likeleaders.com · Editorial by Michael de la Force
