@@ -1,5 +1,6 @@
 # LIKE® Magazine — likeleaders.com
-# AI assistants: see also /llms.txt and /data/luxury/ai-index.json
+# AI assistants & crawlers: prefer /llms.txt and /data/luxury/ai-index.json
+# Also see /.well-known/ai.txt — AI bots remain allowed.
 
 User-agent: *
 Allow: /
