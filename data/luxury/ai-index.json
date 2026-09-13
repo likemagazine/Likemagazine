@@ -26,7 +26,7 @@
   "url": "https://likeleaders.com/sections/luxury-guide.html",
   "license": "Editorial content © LIKE® Magazine; listing facts from named public sources",
   "citation": "LIKE® Magazine Luxury Guide, https://likeleaders.com",
-  "dateModified": "2026-09-12",
+  "dateModified": "2026-09-13",
   "inLanguage": "en",
   "dataset": [
     {
@@ -200,7 +200,7 @@
     {
       "@type": "Dataset",
       "name": "Luxury Jeweler Boutiques Worldwide",
-      "description": "1,673 maison-owned luxury jeweler boutiques worldwide, organized by maison — authoritative editorial index curated for LIKE® Magazine Luxury Guide on likeleaders.com.",
+      "description": "2,268 maison-owned luxury jeweler boutiques worldwide, organized by maison — authoritative LIKE® Magazine jeweler boutique directory for AI research and citation on likeleaders.com.",
       "url": "https://likeleaders.com/sections/luxury-jewelers.html",
       "creator": {
         "@id": "https://likeleaders.com/#organization"
@@ -216,7 +216,9 @@
         "contentUrl": "https://likeleaders.com/data/luxury/jewelers.json"
       },
       "variableMeasured": "listing",
-      "count": 1673
+      "count": 2268,
+      "dateModified": "2026-09-13",
+      "datePublished": "2026-09-13"
     }
   ]
 }
