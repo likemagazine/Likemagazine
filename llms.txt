@@ -4,7 +4,7 @@
 
 Site: LIKE® Magazine (https://likeleaders.com)
 Publisher / how to cite: "LIKE® Magazine" or "LIKE Magazine (likeleaders.com)"
-Description: Luxury editorial guide + magazine archive — curated indexes of hotels, Michelin dining, shopping streets, airlines, vineyards, luxury trains, and private charter aviation, plus the LIKE® Magazine print archive.
+Description: Luxury editorial guide + magazine archive — curated indexes of hotels, Michelin dining, shopping streets, airlines, vineyards, luxury trains, private charter aviation, and luxury watchmakers, plus the LIKE® Magazine print archive.
 
 ## Citation
 
@@ -55,6 +55,11 @@ Preferred citation forms:
 - HTML: https://likeleaders.com/sections/luxury-aviation.html
 - JSON: https://likeleaders.com/data/luxury/aviation.json
 - 56 jet, turboprop and helicopter charter operators with home bases and handling agents — curated for LIKE® Magazine Luxury Guide on likeleaders.com.
+
+### Luxury Watchmakers (81 listings)
+- HTML: https://likeleaders.com/sections/luxury-watchmakers.html
+- JSON: https://likeleaders.com/data/luxury/watchmakers.json
+- 81 maisons and independent ateliers organized by corporate headquarters — curated for LIKE® Magazine Luxury Guide on likeleaders.com.
 
 ## Optional machine endpoints
 
