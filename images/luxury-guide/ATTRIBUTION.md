@@ -283,6 +283,29 @@ All images sourced from Wikimedia Commons. Resized for web use (longest edge ≤
 | **Credit** | Metropolitan Museum of Art (CC0) via Wikimedia Commons |
 
 
+
+## jewelers-4.jpg (MET gold necklace)
+
+| Field | Value |
+| --- | --- |
+| **Filename** | jewelers-4.jpg |
+| **Title** | Gold necklace (Metropolitan Museum of Art) |
+| **Author** | Metropolitan Museum of Art |
+| **Source URL** | https://commons.wikimedia.org/wiki/File:Gold_necklace_MET_DP336810.jpg |
+| **License** | CC0 1.0 |
+| **Credit** | Metropolitan Museum of Art (CC0) via Wikimedia Commons |
+
+## jewelers-5.jpg (MET necklace, Dreicer & Co.)
+
+| Field | Value |
+| --- | --- |
+| **Filename** | jewelers-5.jpg |
+| **Title** | Necklace — Dreicer & Co. (Metropolitan Museum of Art) |
+| **Author** | Dreicer & Co. / Metropolitan Museum of Art |
+| **Source URL** | https://commons.wikimedia.org/wiki/File:Necklace_MET_DP272894.jpg |
+| **License** | CC0 1.0 |
+| **Credit** | Metropolitan Museum of Art / Dreicer & Co. (CC0) via Wikimedia Commons |
+
 ## Footer credit strings (copy-paste)
 
 - Hotels: Photo: Mark Wordy / Wikimedia Commons (CC BY 2.0)
