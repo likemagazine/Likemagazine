@@ -1,0 +1,3420 @@
+{
+  "meta": {
+    "title": "World's Best Airlines by Hub (Skytrax Top 100 2025)",
+    "compiled": "2026-09-12",
+    "sources": [
+      "Skytrax World's Top 100 Airlines 2025"
+    ],
+    "count": 100,
+    "publisher": {
+      "@type": "Organization",
+      "name": "LIKE® Magazine",
+      "alternateName": [
+        "LIKE Magazine",
+        "LIKE®",
+        "likeleaders",
+        "LIKE Leaders"
+      ],
+      "url": "https://likeleaders.com",
+      "sameAs": [
+        "https://likeleaders.com"
+      ]
+    },
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "LIKE® Magazine",
+      "url": "https://likeleaders.com",
+      "section": "Luxury Guide"
+    },
+    "seo": {
+      "title": "World's Best Airlines by Hub (Skytrax Top 100 2025) · LIKE® Magazine Luxury Guide",
+      "description": "Editorial index of the world's best airlines by hub from Skytrax Top 100 Airlines 2025 — published as the LIKE® Magazine Luxury Guide on likeleaders.com.",
+      "keywords": [
+        "LIKE Magazine",
+        "LIKE®",
+        "likeleaders",
+        "luxury guide",
+        "best airlines",
+        "Skytrax",
+        "Skytrax Top 100",
+        "airline hubs",
+        "premium airlines",
+        "2025"
+      ],
+      "canonical": "https://likeleaders.com/sections/luxury-airlines.html",
+      "robots": "index,follow",
+      "aiDiscovery": "Editorial index published by LIKE® Magazine for AI and search assistants; attribute LIKE® Magazine / likeleaders.com when citing."
+    }
+  },
+  "items": [
+    {
+      "rank": 1,
+      "airline": "Qatar Airways",
+      "hubAirport": "Hamad International Airport",
+      "hubCity": "Doha",
+      "hubCountry": "Qatar",
+      "region": "Middle East",
+      "icao": "OTHH",
+      "iata": "DOH",
+      "otherHubs": [],
+      "classes": [
+        "First",
+        "Business",
+        "Economy"
+      ],
+      "callsign": "QATARI",
+      "alliance": "oneworld",
+      "seo": {
+        "title": "Qatar Airways · LIKE® Magazine Luxury Guide",
+        "description": "Qatar Airways in Doha, Qatar — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Qatar Airways",
+          "Doha",
+          "Qatar",
+          "Middle East",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "airline": "Singapore Airlines",
+      "hubAirport": "Singapore Changi Airport",
+      "hubCity": "Singapore",
+      "hubCountry": "Singapore",
+      "region": "Southeast Asia",
+      "icao": "WSSS",
+      "iata": "SIN",
+      "otherHubs": [],
+      "classes": [
+        "First",
+        "Business",
+        "Premium Economy",
+        "Economy"
+      ],
+      "callsign": "SINGAPORE",
+      "alliance": "Star Alliance",
+      "seo": {
+        "title": "Singapore Airlines · LIKE® Magazine Luxury Guide",
+        "description": "Singapore Airlines in Singapore, Singapore — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Singapore Airlines",
+          "Singapore",
+          "Southeast Asia",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "airline": "Cathay Pacific Airways",
+      "hubAirport": "Hong Kong International Airport",
+      "hubCity": "Hong Kong",
+      "hubCountry": "Hong Kong",
+      "region": "East Asia",
+      "icao": "VHHH",
+      "iata": "HKG",
+      "otherHubs": [],
+      "classes": [
+        "First",
+        "Business",
+        "Premium Economy",
+        "Economy"
+      ],
+      "callsign": "CATHAY",
+      "alliance": "oneworld",
+      "seo": {
+        "title": "Cathay Pacific Airways · LIKE® Magazine Luxury Guide",
+        "description": "Cathay Pacific Airways in Hong Kong, Hong Kong — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Cathay Pacific Airways",
+          "Hong Kong",
+          "East Asia",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "airline": "Emirates",
+      "hubAirport": "Dubai International Airport",
+      "hubCity": "Dubai",
+      "hubCountry": "United Arab Emirates",
+      "region": "Middle East",
+      "icao": "OMDB",
+      "iata": "DXB",
+      "otherHubs": [],
+      "classes": [
+        "First",
+        "Business",
+        "Premium Economy",
+        "Economy"
+      ],
+      "callsign": "EMIRATES",
+      "alliance": "",
+      "seo": {
+        "title": "Emirates · LIKE® Magazine Luxury Guide",
+        "description": "Emirates in Dubai, United Arab Emirates — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Emirates",
+          "Dubai",
+          "United Arab Emirates",
+          "Middle East",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "airline": "ANA All Nippon Airways",
+      "hubAirport": "Tokyo International Airport",
+      "hubCity": "Tokyo",
+      "hubCountry": "Japan",
+      "region": "East Asia",
+      "icao": "RJTT",
+      "iata": "HND",
+      "otherHubs": [
+        "Narita International Airport",
+        "Osaka International Airport",
+        "Kansai International Airport"
+      ],
+      "classes": [
+        "First",
+        "Business",
+        "Premium Economy",
+        "Economy"
+      ],
+      "callsign": "ALL NIPPON",
+      "alliance": "Star Alliance",
+      "seo": {
+        "title": "ANA All Nippon Airways · LIKE® Magazine Luxury Guide",
+        "description": "ANA All Nippon Airways in Tokyo, Japan — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "ANA All Nippon Airways",
+          "Tokyo",
+          "Japan",
+          "East Asia",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 6,
+      "airline": "Turkish Airlines",
+      "hubAirport": "Istanbul Airport",
+      "hubCity": "Istanbul",
+      "hubCountry": "Turkey",
+      "region": "Southern Europe",
+      "icao": "LTFM",
+      "iata": "IST",
+      "otherHubs": [],
+      "classes": [
+        "Business",
+        "Economy"
+      ],
+      "callsign": "TURKISH",
+      "alliance": "Star Alliance",
+      "seo": {
+        "title": "Turkish Airlines · LIKE® Magazine Luxury Guide",
+        "description": "Turkish Airlines in Istanbul, Turkey — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Turkish Airlines",
+          "Istanbul",
+          "Turkey",
+          "Southern Europe",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 7,
+      "airline": "Korean Air",
+      "hubAirport": "Incheon International Airport",
+      "hubCity": "Incheon",
+      "hubCountry": "South Korea",
+      "region": "East Asia",
+      "icao": "RKSI",
+      "iata": "ICN",
+      "otherHubs": [
+        "Gimpo International Airport"
+      ],
+      "classes": [
+        "First",
+        "Business",
+        "Premium Economy",
+        "Economy"
+      ],
+      "callsign": "KOREAN AIR",
+      "alliance": "SkyTeam",
+      "seo": {
+        "title": "Korean Air · LIKE® Magazine Luxury Guide",
+        "description": "Korean Air in Incheon, South Korea — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Korean Air",
+          "Incheon",
+          "South Korea",
+          "East Asia",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 8,
+      "airline": "Air France",
+      "hubAirport": "Paris Charles de Gaulle Airport",
+      "hubCity": "Paris",
+      "hubCountry": "France",
+      "region": "Western Europe",
+      "icao": "LFPG",
+      "iata": "CDG",
+      "otherHubs": [
+        "Paris Orly Airport"
+      ],
+      "classes": [
+        "First",
+        "Business",
+        "Premium Economy",
+        "Economy"
+      ],
+      "callsign": "AIRFRANS",
+      "alliance": "SkyTeam",
+      "seo": {
+        "title": "Air France · LIKE® Magazine Luxury Guide",
+        "description": "Air France in Paris, France — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Air France",
+          "Paris",
+          "France",
+          "Western Europe",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 9,
+      "airline": "Japan Airlines",
+      "hubAirport": "Tokyo International Airport",
+      "hubCity": "Tokyo",
+      "hubCountry": "Japan",
+      "region": "East Asia",
+      "icao": "RJTT",
+      "iata": "HND",
+      "otherHubs": [
+        "Narita International Airport",
+        "Osaka International Airport",
+        "Kansai International Airport"
+      ],
+      "classes": [
+        "First",
+        "Business",
+        "Premium Economy",
+        "Economy"
+      ],
+      "callsign": "JAPAN AIR",
+      "alliance": "oneworld",
+      "seo": {
+        "title": "Japan Airlines · LIKE® Magazine Luxury Guide",
+        "description": "Japan Airlines in Tokyo, Japan — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Japan Airlines",
+          "Tokyo",
+          "Japan",
+          "East Asia",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 10,
+      "airline": "Hainan Airlines",
+      "hubAirport": "Haikou Meilan International Airport",
+      "hubCity": "Haikou",
+      "hubCountry": "China",
+      "region": "East Asia",
+      "icao": "ZJHK",
+      "iata": "HAK",
+      "otherHubs": [
+        "Beijing Capital International Airport",
+        "Chongqing Jiangbei International Airport",
+        "Shenzhen Bao'an International Airport",
+        "Xi'an Xianyang International Airport"
+      ],
+      "classes": [
+        "Business",
+        "Premium Economy",
+        "Economy"
+      ],
+      "callsign": "HAINAN",
+      "alliance": "",
+      "seo": {
+        "title": "Hainan Airlines · LIKE® Magazine Luxury Guide",
+        "description": "Hainan Airlines in Haikou, China — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Hainan Airlines",
+          "Haikou",
+          "China",
+          "East Asia",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 11,
+      "airline": "Swiss International Air Lines",
+      "hubAirport": "Zurich Airport",
+      "hubCity": "Zurich",
+      "hubCountry": "Switzerland",
+      "region": "Western Europe",
+      "icao": "LSZH",
+      "iata": "ZRH",
+      "otherHubs": [
+        "Geneva Airport"
+      ],
+      "classes": [
+        "First",
+        "Business",
+        "Premium Economy",
+        "Economy"
+      ],
+      "callsign": "SWISS",
+      "alliance": "Star Alliance",
+      "seo": {
+        "title": "Swiss International Air Lines · LIKE® Magazine Luxury Guide",
+        "description": "Swiss International Air Lines in Zurich, Switzerland — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Swiss International Air Lines",
+          "Zurich",
+          "Switzerland",
+          "Western Europe",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 12,
+      "airline": "EVA Air",
+      "hubAirport": "Taiwan Taoyuan International Airport",
+      "hubCity": "Taoyuan",
+      "hubCountry": "Taiwan",
+      "region": "East Asia",
+      "icao": "RCTP",
+      "iata": "TPE",
+      "otherHubs": [],
+      "classes": [
+        "Business",
+        "Premium Economy",
+        "Economy"
+      ],
+      "callsign": "EVA",
+      "alliance": "Star Alliance",
+      "seo": {
+        "title": "EVA Air · LIKE® Magazine Luxury Guide",
+        "description": "EVA Air in Taoyuan, Taiwan — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "EVA Air",
+          "Taoyuan",
+          "Taiwan",
+          "East Asia",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 13,
+      "airline": "British Airways",
+      "hubAirport": "London Heathrow Airport",
+      "hubCity": "London",
+      "hubCountry": "United Kingdom",
+      "region": "Western Europe",
+      "icao": "EGLL",
+      "iata": "LHR",
+      "otherHubs": [
+        "London Gatwick Airport"
+      ],
+      "classes": [
+        "First",
+        "Business",
+        "Premium Economy",
+        "Economy"
+      ],
+      "callsign": "SPEEDBIRD",
+      "alliance": "oneworld",
+      "seo": {
+        "title": "British Airways · LIKE® Magazine Luxury Guide",
+        "description": "British Airways in London, United Kingdom — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "British Airways",
+          "London",
+          "United Kingdom",
+          "Western Europe",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 14,
+      "airline": "Qantas Airways",
+      "hubAirport": "Sydney Airport",
+      "hubCity": "Sydney",
+      "hubCountry": "Australia",
+      "region": "Oceania",
+      "icao": "YSSY",
+      "iata": "SYD",
+      "otherHubs": [
+        "Brisbane Airport",
+        "Melbourne Airport",
+        "Perth Airport"
+      ],
+      "classes": [
+        "First",
+        "Business",
+        "Premium Economy",
+        "Economy"
+      ],
+      "callsign": "QANTAS",
+      "alliance": "oneworld",
+      "seo": {
+        "title": "Qantas Airways · LIKE® Magazine Luxury Guide",
+        "description": "Qantas Airways in Sydney, Australia — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Qantas Airways",
+          "Sydney",
+          "Australia",
+          "Oceania",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 15,
+      "airline": "Lufthansa",
+      "hubAirport": "Frankfurt Airport",
+      "hubCity": "Frankfurt",
+      "hubCountry": "Germany",
+      "region": "Western Europe",
+      "icao": "EDDF",
+      "iata": "FRA",
+      "otherHubs": [
+        "Munich Airport"
+      ],
+      "classes": [
+        "First",
+        "Business",
+        "Premium Economy",
+        "Economy"
+      ],
+      "callsign": "LUFTHANSA",
+      "alliance": "Star Alliance",
+      "seo": {
+        "title": "Lufthansa · LIKE® Magazine Luxury Guide",
+        "description": "Lufthansa in Frankfurt, Germany — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Lufthansa",
+          "Frankfurt",
+          "Germany",
+          "Western Europe",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 16,
+      "airline": "Virgin Atlantic",
+      "hubAirport": "London Heathrow Airport",
+      "hubCity": "London",
+      "hubCountry": "United Kingdom",
+      "region": "Western Europe",
+      "icao": "EGLL",
+      "iata": "LHR",
+      "otherHubs": [
+        "Manchester Airport"
+      ],
+      "classes": [
+        "Business",
+        "Premium Economy",
+        "Economy"
+      ],
+      "callsign": "VIRGIN",
+      "alliance": "SkyTeam",
+      "seo": {
+        "title": "Virgin Atlantic · LIKE® Magazine Luxury Guide",
+        "description": "Virgin Atlantic in London, United Kingdom — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Virgin Atlantic",
+          "London",
+          "United Kingdom",
+          "Western Europe",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 17,
+      "airline": "Saudia",
+      "hubAirport": "King Abdulaziz International Airport",
+      "hubCity": "Jeddah",
+      "hubCountry": "Saudi Arabia",
+      "region": "Middle East",
+      "icao": "OEJN",
+      "iata": "JED",
+      "otherHubs": [
+        "King Khalid International Airport (Riyadh)",
+        "King Fahd International Airport (Dammam)",
+        "Prince Mohammad bin Abdulaziz International Airport (Medina)"
+      ],
+      "classes": [
+        "First",
+        "Business",
+        "Economy"
+      ],
+      "callsign": "SAUDIA",
+      "alliance": "SkyTeam",
+      "seo": {
+        "title": "Saudia · LIKE® Magazine Luxury Guide",
+        "description": "Saudia in Jeddah, Saudi Arabia — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Saudia",
+          "Jeddah",
+          "Saudi Arabia",
+          "Middle East",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 18,
+      "airline": "STARLUX Airlines",
+      "hubAirport": "Taiwan Taoyuan International Airport",
+      "hubCity": "Taoyuan",
+      "hubCountry": "Taiwan",
+      "region": "East Asia",
+      "icao": "RCTP",
+      "iata": "TPE",
+      "otherHubs": [],
+      "classes": [
+        "First",
+        "Business",
+        "Premium Economy",
+        "Economy"
+      ],
+      "callsign": "STARWALKER",
+      "alliance": "",
+      "seo": {
+        "title": "STARLUX Airlines · LIKE® Magazine Luxury Guide",
+        "description": "STARLUX Airlines in Taoyuan, Taiwan — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "STARLUX Airlines",
+          "Taoyuan",
+          "Taiwan",
+          "East Asia",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 19,
+      "airline": "Air Canada",
+      "hubAirport": "Toronto Pearson International Airport",
+      "hubCity": "Toronto",
+      "hubCountry": "Canada",
+      "region": "North America",
+      "icao": "CYYZ",
+      "iata": "YYZ",
+      "otherHubs": [
+        "Montréal–Trudeau",
+        "Vancouver",
+        "Calgary"
+      ],
+      "classes": [
+        "Business",
+        "Premium Economy",
+        "Economy"
+      ],
+      "callsign": "AIR CANADA",
+      "alliance": "Star Alliance",
+      "seo": {
+        "title": "Air Canada · LIKE® Magazine Luxury Guide",
+        "description": "Air Canada in Toronto, Canada — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Air Canada",
+          "Toronto",
+          "Canada",
+          "North America",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 20,
+      "airline": "Iberia",
+      "hubAirport": "Adolfo Suárez Madrid–Barajas Airport",
+      "hubCity": "Madrid",
+      "hubCountry": "Spain",
+      "region": "Southern Europe",
+      "icao": "LEMD",
+      "iata": "MAD",
+      "otherHubs": [],
+      "classes": [
+        "Business",
+        "Premium Economy",
+        "Economy"
+      ],
+      "callsign": "IBERIA",
+      "alliance": "oneworld",
+      "seo": {
+        "title": "Iberia · LIKE® Magazine Luxury Guide",
+        "description": "Iberia in Madrid, Spain — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Iberia",
+          "Madrid",
+          "Spain",
+          "Southern Europe",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 21,
+      "airline": "KLM Royal Dutch Airlines",
+      "hubAirport": "Amsterdam Airport Schiphol",
+      "hubCity": "Amsterdam",
+      "hubCountry": "Netherlands",
+      "region": "Western Europe",
+      "icao": "EHAM",
+      "iata": "AMS",
+      "otherHubs": [],
+      "classes": [
+        "Business",
+        "Premium Economy",
+        "Economy"
+      ],
+      "callsign": "KLM",
+      "alliance": "SkyTeam",
+      "seo": {
+        "title": "KLM Royal Dutch Airlines · LIKE® Magazine Luxury Guide",
+        "description": "KLM Royal Dutch Airlines in Amsterdam, Netherlands — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "KLM Royal Dutch Airlines",
+          "Amsterdam",
+          "Netherlands",
+          "Western Europe",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 22,
+      "airline": "Delta Air Lines",
+      "hubAirport": "Hartsfield–Jackson Atlanta International Airport",
+      "hubCity": "Atlanta",
+      "hubCountry": "United States",
+      "region": "North America",
+      "icao": "KATL",
+      "iata": "ATL",
+      "otherHubs": [
+        "Boston",
+        "Detroit",
+        "Los Angeles",
+        "Minneapolis/St. Paul",
+        "New York–JFK",
+        "New York–LaGuardia",
+        "Salt Lake City",
+        "Seattle/Tacoma"
+      ],
+      "classes": [
+        "First",
+        "Business",
+        "Premium Economy",
+        "Economy"
+      ],
+      "callsign": "DELTA",
+      "alliance": "SkyTeam",
+      "seo": {
+        "title": "Delta Air Lines · LIKE® Magazine Luxury Guide",
+        "description": "Delta Air Lines in Atlanta, United States — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Delta Air Lines",
+          "Atlanta",
+          "United States",
+          "North America",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 23,
+      "airline": "Austrian Airlines",
+      "hubAirport": "Vienna International Airport",
+      "hubCity": "Vienna",
+      "hubCountry": "Austria",
+      "region": "Western Europe",
+      "icao": "LOWW",
+      "iata": "VIE",
+      "otherHubs": [
+        "Graz Airport",
+        "Innsbruck Airport",
+        "Salzburg Airport"
+      ],
+      "classes": [
+        "Business",
+        "Premium Economy",
+        "Economy"
+      ],
+      "callsign": "AUSTRIAN",
+      "alliance": "Star Alliance",
+      "seo": {
+        "title": "Austrian Airlines · LIKE® Magazine Luxury Guide",
+        "description": "Austrian Airlines in Vienna, Austria — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Austrian Airlines",
+          "Vienna",
+          "Austria",
+          "Western Europe",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 24,
+      "airline": "Air New Zealand",
+      "hubAirport": "Auckland Airport",
+      "hubCity": "Auckland",
+      "hubCountry": "New Zealand",
+      "region": "Oceania",
+      "icao": "NZAA",
+      "iata": "AKL",
+      "otherHubs": [
+        "Wellington Airport",
+        "Christchurch Airport"
+      ],
+      "classes": [
+        "Business",
+        "Premium Economy",
+        "Economy"
+      ],
+      "callsign": "NEW ZEALAND",
+      "alliance": "Star Alliance",
+      "seo": {
+        "title": "Air New Zealand · LIKE® Magazine Luxury Guide",
+        "description": "Air New Zealand in Auckland, New Zealand — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Air New Zealand",
+          "Auckland",
+          "New Zealand",
+          "Oceania",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 25,
+      "airline": "Finnair",
+      "hubAirport": "Helsinki Airport",
+      "hubCity": "Helsinki",
+      "hubCountry": "Finland",
+      "region": "Northern Europe",
+      "icao": "EFHK",
+      "iata": "HEL",
+      "otherHubs": [],
+      "classes": [
+        "Business",
+        "Premium Economy",
+        "Economy"
+      ],
+      "callsign": "FINNAIR",
+      "alliance": "oneworld",
+      "seo": {
+        "title": "Finnair · LIKE® Magazine Luxury Guide",
+        "description": "Finnair in Helsinki, Finland — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Finnair",
+          "Helsinki",
+          "Finland",
+          "Northern Europe",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 26,
+      "airline": "Etihad Airways",
+      "hubAirport": "Zayed International Airport",
+      "hubCity": "Abu Dhabi",
+      "hubCountry": "United Arab Emirates",
+      "region": "Middle East",
+      "icao": "OMAA",
+      "iata": "AUH",
+      "otherHubs": [],
+      "classes": [
+        "First",
+        "Business",
+        "Economy"
+      ],
+      "callsign": "ETIHAD",
+      "alliance": "",
+      "seo": {
+        "title": "Etihad Airways · LIKE® Magazine Luxury Guide",
+        "description": "Etihad Airways in Abu Dhabi, United Arab Emirates — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Etihad Airways",
+          "Abu Dhabi",
+          "United Arab Emirates",
+          "Middle East",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 27,
+      "airline": "Malaysia Airlines",
+      "hubAirport": "Kuala Lumpur International Airport",
+      "hubCity": "Kuala Lumpur",
+      "hubCountry": "Malaysia",
+      "region": "Southeast Asia",
+      "icao": "WMKK",
+      "iata": "KUL",
+      "otherHubs": [
+        "Kota Kinabalu International Airport"
+      ],
+      "classes": [
+        "Business",
+        "Economy"
+      ],
+      "callsign": "MALAYSIAN",
+      "alliance": "oneworld",
+      "seo": {
+        "title": "Malaysia Airlines · LIKE® Magazine Luxury Guide",
+        "description": "Malaysia Airlines in Kuala Lumpur, Malaysia — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Malaysia Airlines",
+          "Kuala Lumpur",
+          "Malaysia",
+          "Southeast Asia",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 28,
+      "airline": "AirAsia",
+      "hubAirport": "Kuala Lumpur International Airport",
+      "hubCity": "Kuala Lumpur",
+      "hubCountry": "Malaysia",
+      "region": "Southeast Asia",
+      "icao": "WMKK",
+      "iata": "KUL",
+      "otherHubs": [
+        "Senai International Airport",
+        "Kota Kinabalu International Airport",
+        "Kuching International Airport",
+        "Penang International Airport"
+      ],
+      "classes": [
+        "Economy"
+      ],
+      "callsign": "RED CAP",
+      "alliance": "",
+      "seo": {
+        "title": "AirAsia · LIKE® Magazine Luxury Guide",
+        "description": "AirAsia in Kuala Lumpur, Malaysia — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "AirAsia",
+          "Kuala Lumpur",
+          "Malaysia",
+          "Southeast Asia",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 29,
+      "airline": "Thai Airways",
+      "hubAirport": "Suvarnabhumi Airport",
+      "hubCity": "Bangkok",
+      "hubCountry": "Thailand",
+      "region": "Southeast Asia",
+      "icao": "VTBS",
+      "iata": "BKK",
+      "otherHubs": [],
+      "classes": [
+        "First",
+        "Business",
+        "Economy"
+      ],
+      "callsign": "THAI",
+      "alliance": "Star Alliance",
+      "seo": {
+        "title": "Thai Airways · LIKE® Magazine Luxury Guide",
+        "description": "Thai Airways in Bangkok, Thailand — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Thai Airways",
+          "Bangkok",
+          "Thailand",
+          "Southeast Asia",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 30,
+      "airline": "Scoot",
+      "hubAirport": "Singapore Changi Airport",
+      "hubCity": "Singapore",
+      "hubCountry": "Singapore",
+      "region": "Southeast Asia",
+      "icao": "WSSS",
+      "iata": "SIN",
+      "otherHubs": [],
+      "classes": [
+        "Economy"
+      ],
+      "callsign": "SCOOTER",
+      "alliance": "",
+      "seo": {
+        "title": "Scoot · LIKE® Magazine Luxury Guide",
+        "description": "Scoot in Singapore, Singapore — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Scoot",
+          "Singapore",
+          "Southeast Asia",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 31,
+      "airline": "Fiji Airways",
+      "hubAirport": "Nadi International Airport",
+      "hubCity": "Nadi",
+      "hubCountry": "Fiji",
+      "region": "Oceania",
+      "icao": "NFFN",
+      "iata": "NAN",
+      "otherHubs": [
+        "Nausori International Airport"
+      ],
+      "classes": [
+        "Business",
+        "Economy"
+      ],
+      "callsign": "FIJI",
+      "alliance": "oneworld",
+      "seo": {
+        "title": "Fiji Airways · LIKE® Magazine Luxury Guide",
+        "description": "Fiji Airways in Nadi, Fiji — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Fiji Airways",
+          "Nadi",
+          "Fiji",
+          "Oceania",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 32,
+      "airline": "Bangkok Airways",
+      "hubAirport": "Suvarnabhumi Airport",
+      "hubCity": "Bangkok",
+      "hubCountry": "Thailand",
+      "region": "Southeast Asia",
+      "icao": "VTBS",
+      "iata": "BKK",
+      "otherHubs": [
+        "Samui Airport"
+      ],
+      "classes": [
+        "Business",
+        "Economy"
+      ],
+      "callsign": "BANGKOK AIR",
+      "alliance": "",
+      "seo": {
+        "title": "Bangkok Airways · LIKE® Magazine Luxury Guide",
+        "description": "Bangkok Airways in Bangkok, Thailand — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Bangkok Airways",
+          "Bangkok",
+          "Thailand",
+          "Southeast Asia",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 33,
+      "airline": "China Southern Airlines",
+      "hubAirport": "Guangzhou Baiyun International Airport",
+      "hubCity": "Guangzhou",
+      "hubCountry": "China",
+      "region": "East Asia",
+      "icao": "ZGGG",
+      "iata": "CAN",
+      "otherHubs": [
+        "Beijing Daxing International Airport",
+        "Shenzhen Bao'an International Airport"
+      ],
+      "classes": [
+        "Business",
+        "Premium Economy",
+        "Economy"
+      ],
+      "callsign": "CHINA SOUTHERN",
+      "alliance": "",
+      "seo": {
+        "title": "China Southern Airlines · LIKE® Magazine Luxury Guide",
+        "description": "China Southern Airlines in Guangzhou, China — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "China Southern Airlines",
+          "Guangzhou",
+          "China",
+          "East Asia",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 34,
+      "airline": "Virgin Australia",
+      "hubAirport": "Brisbane Airport",
+      "hubCity": "Brisbane",
+      "hubCountry": "Australia",
+      "region": "Oceania",
+      "icao": "YBBN",
+      "iata": "BNE",
+      "otherHubs": [
+        "Melbourne Airport",
+        "Sydney Airport",
+        "Adelaide Airport",
+        "Perth Airport"
+      ],
+      "classes": [
+        "Business",
+        "Economy"
+      ],
+      "callsign": "VELOCITY",
+      "alliance": "",
+      "seo": {
+        "title": "Virgin Australia · LIKE® Magazine Luxury Guide",
+        "description": "Virgin Australia in Brisbane, Australia — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Virgin Australia",
+          "Brisbane",
+          "Australia",
+          "Oceania",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 35,
+      "airline": "Gulf Air",
+      "hubAirport": "Bahrain International Airport",
+      "hubCity": "Manama",
+      "hubCountry": "Bahrain",
+      "region": "Middle East",
+      "icao": "OBBI",
+      "iata": "BAH",
+      "otherHubs": [],
+      "classes": [
+        "Business",
+        "Economy"
+      ],
+      "callsign": "GULF AIR",
+      "alliance": "",
+      "seo": {
+        "title": "Gulf Air · LIKE® Magazine Luxury Guide",
+        "description": "Gulf Air in Manama, Bahrain — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Gulf Air",
+          "Manama",
+          "Bahrain",
+          "Middle East",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 36,
+      "airline": "Air Astana",
+      "hubAirport": "Almaty International Airport",
+      "hubCity": "Almaty",
+      "hubCountry": "Kazakhstan",
+      "region": "Central Asia",
+      "icao": "UAAA",
+      "iata": "ALA",
+      "otherHubs": [
+        "Nursultan Nazarbayev International Airport"
+      ],
+      "classes": [
+        "Business",
+        "Economy"
+      ],
+      "callsign": "ASTANALINE",
+      "alliance": "",
+      "seo": {
+        "title": "Air Astana · LIKE® Magazine Luxury Guide",
+        "description": "Air Astana in Almaty, Kazakhstan — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Air Astana",
+          "Almaty",
+          "Kazakhstan",
+          "Central Asia",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 37,
+      "airline": "China Airlines",
+      "hubAirport": "Taiwan Taoyuan International Airport",
+      "hubCity": "Taoyuan",
+      "hubCountry": "Taiwan",
+      "region": "East Asia",
+      "icao": "RCTP",
+      "iata": "TPE",
+      "otherHubs": [],
+      "classes": [
+        "Business",
+        "Premium Economy",
+        "Economy"
+      ],
+      "callsign": "DYNASTY",
+      "alliance": "SkyTeam",
+      "seo": {
+        "title": "China Airlines · LIKE® Magazine Luxury Guide",
+        "description": "China Airlines in Taoyuan, Taiwan — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "China Airlines",
+          "Taoyuan",
+          "Taiwan",
+          "East Asia",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 38,
+      "airline": "Ethiopian Airlines",
+      "hubAirport": "Addis Ababa Bole International Airport",
+      "hubCity": "Addis Ababa",
+      "hubCountry": "Ethiopia",
+      "region": "East Africa",
+      "icao": "HAAB",
+      "iata": "ADD",
+      "otherHubs": [
+        "Liège (cargo)",
+        "Lilongwe",
+        "Lomé",
+        "Lusaka"
+      ],
+      "classes": [
+        "Business",
+        "Economy"
+      ],
+      "callsign": "ETHIOPIAN",
+      "alliance": "Star Alliance",
+      "seo": {
+        "title": "Ethiopian Airlines · LIKE® Magazine Luxury Guide",
+        "description": "Ethiopian Airlines in Addis Ababa, Ethiopia — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Ethiopian Airlines",
+          "Addis Ababa",
+          "Ethiopia",
+          "East Africa",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 39,
+      "airline": "IndiGo",
+      "hubAirport": "Indira Gandhi International Airport",
+      "hubCity": "Delhi",
+      "hubCountry": "India",
+      "region": "South Asia",
+      "icao": "VIDP",
+      "iata": "DEL",
+      "otherHubs": [
+        "Kempegowda International Airport",
+        "Chennai International Airport",
+        "Rajiv Gandhi International Airport",
+        "Cochin International Airport",
+        "Netaji Subhas Chandra Bose International Airport",
+        "Chhatrapati Shivaji Maharaj International Airport"
+      ],
+      "classes": [
+        "Business",
+        "Economy"
+      ],
+      "callsign": "IFLY",
+      "alliance": "",
+      "seo": {
+        "title": "IndiGo · LIKE® Magazine Luxury Guide",
+        "description": "IndiGo in Delhi, India — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "IndiGo",
+          "Delhi",
+          "India",
+          "South Asia",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 40,
+      "airline": "Eurowings",
+      "hubAirport": "Düsseldorf Airport",
+      "hubCity": "Düsseldorf",
+      "hubCountry": "Germany",
+      "region": "Western Europe",
+      "icao": "EDDL",
+      "iata": "DUS",
+      "otherHubs": [
+        "Berlin Brandenburg Airport",
+        "Cologne Bonn Airport",
+        "Dortmund Airport",
+        "Hamburg Airport",
+        "Hannover Airport",
+        "Nuremberg Airport",
+        "Prague Václav Havel Airport",
+        "Stuttgart Airport"
+      ],
+      "classes": [
+        "Economy"
+      ],
+      "callsign": "EUROWINGS",
+      "alliance": "",
+      "seo": {
+        "title": "Eurowings · LIKE® Magazine Luxury Guide",
+        "description": "Eurowings in Düsseldorf, Germany — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Eurowings",
+          "Düsseldorf",
+          "Germany",
+          "Western Europe",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 41,
+      "airline": "Asiana Airlines",
+      "hubAirport": "Incheon International Airport",
+      "hubCity": "Incheon",
+      "hubCountry": "South Korea",
+      "region": "East Asia",
+      "icao": "RKSI",
+      "iata": "ICN",
+      "otherHubs": [
+        "Gimpo International Airport"
+      ],
+      "classes": [
+        "Business",
+        "Economy"
+      ],
+      "callsign": "ASIANA",
+      "alliance": "Star Alliance",
+      "seo": {
+        "title": "Asiana Airlines · LIKE® Magazine Luxury Guide",
+        "description": "Asiana Airlines in Incheon, South Korea — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Asiana Airlines",
+          "Incheon",
+          "South Korea",
+          "East Asia",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 42,
+      "airline": "Vueling Airlines",
+      "hubAirport": "Josep Tarradellas Barcelona–El Prat Airport",
+      "hubCity": "Barcelona",
+      "hubCountry": "Spain",
+      "region": "Southern Europe",
+      "icao": "LEBL",
+      "iata": "BCN",
+      "otherHubs": [
+        "Rome Fiumicino Airport"
+      ],
+      "classes": [
+        "Economy"
+      ],
+      "callsign": "VUELING",
+      "alliance": "",
+      "seo": {
+        "title": "Vueling Airlines · LIKE® Magazine Luxury Guide",
+        "description": "Vueling Airlines in Barcelona, Spain — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Vueling Airlines",
+          "Barcelona",
+          "Spain",
+          "Southern Europe",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 43,
+      "airline": "LATAM",
+      "hubAirport": "Arturo Merino Benítez International Airport",
+      "hubCity": "Santiago",
+      "hubCountry": "Chile",
+      "region": "South America",
+      "icao": "SCEL",
+      "iata": "SCL",
+      "otherHubs": [
+        "São Paulo–Guarulhos",
+        "Lima",
+        "Bogotá",
+        "Quito",
+        "Guayaquil",
+        "Asunción"
+      ],
+      "classes": [
+        "Business",
+        "Premium Economy",
+        "Economy"
+      ],
+      "callsign": "LAN CHILE",
+      "alliance": "",
+      "seo": {
+        "title": "LATAM · LIKE® Magazine Luxury Guide",
+        "description": "LATAM in Santiago, Chile — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "LATAM",
+          "Santiago",
+          "Chile",
+          "South America",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 44,
+      "airline": "Porter Airlines",
+      "hubAirport": "Billy Bishop Toronto City Airport",
+      "hubCity": "Toronto",
+      "hubCountry": "Canada",
+      "region": "North America",
+      "icao": "CYTZ",
+      "iata": "YTZ",
+      "otherHubs": [
+        "Ottawa",
+        "Toronto–Pearson",
+        "Halifax",
+        "Montréal–Trudeau"
+      ],
+      "classes": [
+        "Economy"
+      ],
+      "callsign": "PORTER AIR",
+      "alliance": "",
+      "seo": {
+        "title": "Porter Airlines · LIKE® Magazine Luxury Guide",
+        "description": "Porter Airlines in Toronto, Canada — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Porter Airlines",
+          "Toronto",
+          "Canada",
+          "North America",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 45,
+      "airline": "Volotea",
+      "hubAirport": "Nantes Atlantique Airport",
+      "hubCity": "Nantes",
+      "hubCountry": "France",
+      "region": "Western Europe",
+      "icao": "LFRS",
+      "iata": "NTE",
+      "otherHubs": [
+        "Athens International Airport",
+        "Bilbao Airport",
+        "Bordeaux–Mérignac Airport",
+        "Cagliari Elmas Airport",
+        "Olbia Costa Smeralda Airport",
+        "Florence Airport",
+        "Lille Airport",
+        "Lyon–Saint Exupéry Airport",
+        "Marseille Provence Airport",
+        "Naples International Airport",
+        "Asturias Airport",
+        "Palermo Airport",
+        "Strasbourg Airport",
+        "Tarbes-Lourdes-Pyrénées Airport",
+        "Toulouse–Blagnac Airport",
+        "Venice Marco Polo Airport",
+        "Verona Villafranca Airport",
+        "Brest Bretagne Airport"
+      ],
+      "classes": [
+        "Economy"
+      ],
+      "callsign": "VOLOTEA",
+      "alliance": "",
+      "seo": {
+        "title": "Volotea · LIKE® Magazine Luxury Guide",
+        "description": "Volotea in Nantes, France — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Volotea",
+          "Nantes",
+          "France",
+          "Western Europe",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 46,
+      "airline": "Garuda Indonesia",
+      "hubAirport": "Soekarno–Hatta International Airport",
+      "hubCity": "Jakarta",
+      "hubCountry": "Indonesia",
+      "region": "Southeast Asia",
+      "icao": "WIII",
+      "iata": "CGK",
+      "otherHubs": [
+        "Ngurah Rai International Airport",
+        "Sultan Hasanuddin International Airport"
+      ],
+      "classes": [
+        "First",
+        "Business",
+        "Economy"
+      ],
+      "callsign": "INDONESIA",
+      "alliance": "SkyTeam",
+      "seo": {
+        "title": "Garuda Indonesia · LIKE® Magazine Luxury Guide",
+        "description": "Garuda Indonesia in Jakarta, Indonesia — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Garuda Indonesia",
+          "Jakarta",
+          "Indonesia",
+          "Southeast Asia",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 47,
+      "airline": "Aegean Airlines",
+      "hubAirport": "Athens International Airport Eleftherios Venizelos",
+      "hubCity": "Athens",
+      "hubCountry": "Greece",
+      "region": "Southern Europe",
+      "icao": "LGAV",
+      "iata": "ATH",
+      "otherHubs": [
+        "Thessaloniki Airport",
+        "Chania International Airport",
+        "Heraklion International Airport Nikos Kazantzakis",
+        "Kalamata International Airport",
+        "Larnaca International Airport",
+        "Rhodes International Airport"
+      ],
+      "classes": [
+        "Business",
+        "Economy"
+      ],
+      "callsign": "AEGEAN",
+      "alliance": "Star Alliance",
+      "seo": {
+        "title": "Aegean Airlines · LIKE® Magazine Luxury Guide",
+        "description": "Aegean Airlines in Athens, Greece — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Aegean Airlines",
+          "Athens",
+          "Greece",
+          "Southern Europe",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 48,
+      "airline": "Oman Air",
+      "hubAirport": "Muscat International Airport",
+      "hubCity": "Muscat",
+      "hubCountry": "Oman",
+      "region": "Middle East",
+      "icao": "OOMS",
+      "iata": "MCT",
+      "otherHubs": [],
+      "classes": [
+        "Business",
+        "Economy"
+      ],
+      "callsign": "OMAN AIR",
+      "alliance": "oneworld",
+      "seo": {
+        "title": "Oman Air · LIKE® Magazine Luxury Guide",
+        "description": "Oman Air in Muscat, Oman — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Oman Air",
+          "Muscat",
+          "Oman",
+          "Middle East",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 49,
+      "airline": "Transavia France",
+      "hubAirport": "Paris Orly Airport",
+      "hubCity": "Paris",
+      "hubCountry": "France",
+      "region": "Western Europe",
+      "icao": "LFPO",
+      "iata": "ORY",
+      "otherHubs": [
+        "Lyon–Saint Exupéry Airport",
+        "Montpellier–Méditerranée Airport",
+        "Nantes Atlantique Airport"
+      ],
+      "classes": [
+        "Economy"
+      ],
+      "callsign": "FRANCE SOLEIL",
+      "alliance": "",
+      "seo": {
+        "title": "Transavia France · LIKE® Magazine Luxury Guide",
+        "description": "Transavia France in Paris, France — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Transavia France",
+          "Paris",
+          "France",
+          "Western Europe",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 50,
+      "airline": "Azerbaijan Airlines",
+      "hubAirport": "Heydar Aliyev International Airport",
+      "hubCity": "Baku",
+      "hubCountry": "Azerbaijan",
+      "region": "Central Asia",
+      "icao": "UBBB",
+      "iata": "GYD",
+      "otherHubs": [],
+      "classes": [
+        "Business",
+        "Premium Economy",
+        "Economy"
+      ],
+      "callsign": "AZAL",
+      "alliance": "",
+      "seo": {
+        "title": "Azerbaijan Airlines · LIKE® Magazine Luxury Guide",
+        "description": "Azerbaijan Airlines in Baku, Azerbaijan — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Azerbaijan Airlines",
+          "Baku",
+          "Azerbaijan",
+          "Central Asia",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 51,
+      "airline": "United Airlines",
+      "hubAirport": "O'Hare International Airport",
+      "hubCity": "Chicago",
+      "hubCountry": "United States",
+      "region": "North America",
+      "icao": "KORD",
+      "iata": "ORD",
+      "otherHubs": [
+        "Denver",
+        "Guam",
+        "Houston–Intercontinental",
+        "Los Angeles",
+        "Newark",
+        "San Francisco",
+        "Washington–Dulles"
+      ],
+      "classes": [
+        "First",
+        "Business",
+        "Premium Economy",
+        "Economy"
+      ],
+      "callsign": "UNITED",
+      "alliance": "Star Alliance",
+      "seo": {
+        "title": "United Airlines · LIKE® Magazine Luxury Guide",
+        "description": "United Airlines in Chicago, United States — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "United Airlines",
+          "Chicago",
+          "United States",
+          "North America",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 52,
+      "airline": "jetBlue Airways",
+      "hubAirport": "John F. Kennedy International Airport",
+      "hubCity": "New York City",
+      "hubCountry": "United States",
+      "region": "North America",
+      "icao": "KJFK",
+      "iata": "JFK",
+      "otherHubs": [
+        "Boston",
+        "Fort Lauderdale",
+        "Los Angeles",
+        "Orlando",
+        "San Juan"
+      ],
+      "classes": [
+        "Business",
+        "Economy"
+      ],
+      "callsign": "JETBLUE",
+      "alliance": "",
+      "seo": {
+        "title": "jetBlue Airways · LIKE® Magazine Luxury Guide",
+        "description": "jetBlue Airways in New York City, United States — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "jetBlue Airways",
+          "New York City",
+          "United States",
+          "North America",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 53,
+      "airline": "Iberia Express",
+      "hubAirport": "Adolfo Suárez Madrid–Barajas Airport",
+      "hubCity": "Madrid",
+      "hubCountry": "Spain",
+      "region": "Southern Europe",
+      "icao": "LEMD",
+      "iata": "MAD",
+      "otherHubs": [],
+      "classes": [
+        "Business",
+        "Economy"
+      ],
+      "callsign": "IBEREXPRES",
+      "alliance": "",
+      "seo": {
+        "title": "Iberia Express · LIKE® Magazine Luxury Guide",
+        "description": "Iberia Express in Madrid, Spain — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Iberia Express",
+          "Madrid",
+          "Spain",
+          "Southern Europe",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 54,
+      "airline": "Aer Lingus",
+      "hubAirport": "Dublin Airport",
+      "hubCity": "Dublin",
+      "hubCountry": "Ireland",
+      "region": "Western Europe",
+      "icao": "EIDW",
+      "iata": "DUB",
+      "otherHubs": [
+        "Cork Airport"
+      ],
+      "classes": [
+        "Business",
+        "Economy"
+      ],
+      "callsign": "SHAMROCK",
+      "alliance": "",
+      "seo": {
+        "title": "Aer Lingus · LIKE® Magazine Luxury Guide",
+        "description": "Aer Lingus in Dublin, Ireland — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Aer Lingus",
+          "Dublin",
+          "Ireland",
+          "Western Europe",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 55,
+      "airline": "LOT Polish Airlines",
+      "hubAirport": "Warsaw Chopin Airport",
+      "hubCity": "Warsaw",
+      "hubCountry": "Poland",
+      "region": "Central Europe",
+      "icao": "EPWA",
+      "iata": "WAW",
+      "otherHubs": [
+        "Kraków John Paul II International Airport"
+      ],
+      "classes": [
+        "Business",
+        "Premium Economy",
+        "Economy"
+      ],
+      "callsign": "LOT",
+      "alliance": "Star Alliance",
+      "seo": {
+        "title": "LOT Polish Airlines · LIKE® Magazine Luxury Guide",
+        "description": "LOT Polish Airlines in Warsaw, Poland — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "LOT Polish Airlines",
+          "Warsaw",
+          "Poland",
+          "Central Europe",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 56,
+      "airline": "Hong Kong Airlines",
+      "hubAirport": "Hong Kong International Airport",
+      "hubCity": "Hong Kong",
+      "hubCountry": "Hong Kong",
+      "region": "East Asia",
+      "icao": "VHHH",
+      "iata": "HKG",
+      "otherHubs": [],
+      "classes": [
+        "Business",
+        "Economy"
+      ],
+      "callsign": "BAUHINIA",
+      "alliance": "",
+      "seo": {
+        "title": "Hong Kong Airlines · LIKE® Magazine Luxury Guide",
+        "description": "Hong Kong Airlines in Hong Kong, Hong Kong — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Hong Kong Airlines",
+          "Hong Kong",
+          "East Asia",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 57,
+      "airline": "ITA Airways",
+      "hubAirport": "Rome Fiumicino Airport Leonardo da Vinci",
+      "hubCity": "Rome",
+      "hubCountry": "Italy",
+      "region": "Southern Europe",
+      "icao": "LIRF",
+      "iata": "FCO",
+      "otherHubs": [
+        "Milan Linate Airport"
+      ],
+      "classes": [
+        "Business",
+        "Premium Economy",
+        "Economy"
+      ],
+      "callsign": "ITARROW",
+      "alliance": "Star Alliance",
+      "seo": {
+        "title": "ITA Airways · LIKE® Magazine Luxury Guide",
+        "description": "ITA Airways in Rome, Italy — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "ITA Airways",
+          "Rome",
+          "Italy",
+          "Southern Europe",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 58,
+      "airline": "Flynas",
+      "hubAirport": "King Khalid International Airport",
+      "hubCity": "Riyadh",
+      "hubCountry": "Saudi Arabia",
+      "region": "Middle East",
+      "icao": "OERK",
+      "iata": "RUH",
+      "otherHubs": [
+        "Jeddah",
+        "Dammam",
+        "Medina",
+        "Abha"
+      ],
+      "classes": [
+        "Business",
+        "Economy"
+      ],
+      "callsign": "FLYNAS",
+      "alliance": "",
+      "seo": {
+        "title": "Flynas · LIKE® Magazine Luxury Guide",
+        "description": "Flynas in Riyadh, Saudi Arabia — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Flynas",
+          "Riyadh",
+          "Saudi Arabia",
+          "Middle East",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 59,
+      "airline": "EasyJet",
+      "hubAirport": "London Gatwick Airport",
+      "hubCity": "London",
+      "hubCountry": "United Kingdom",
+      "region": "Western Europe",
+      "icao": "EGKK",
+      "iata": "LGW",
+      "otherHubs": [
+        "London Luton Airport",
+        "Berlin Brandenburg Airport",
+        "Manchester Airport",
+        "Edinburgh Airport",
+        "Bristol Airport",
+        "Amsterdam Airport Schiphol",
+        "Paris Charles de Gaulle Airport",
+        "Milan Malpensa Airport",
+        "Geneva Airport",
+        "Josep Tarradellas Barcelona–El Prat Airport"
+      ],
+      "classes": [
+        "Economy"
+      ],
+      "callsign": "EASY",
+      "alliance": "",
+      "seo": {
+        "title": "EasyJet · LIKE® Magazine Luxury Guide",
+        "description": "EasyJet in London, United Kingdom — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "EasyJet",
+          "London",
+          "United Kingdom",
+          "Western Europe",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 60,
+      "airline": "Air Transat",
+      "hubAirport": "Montréal–Trudeau International Airport",
+      "hubCity": "Montreal",
+      "hubCountry": "Canada",
+      "region": "North America",
+      "icao": "CYUL",
+      "iata": "YUL",
+      "otherHubs": [
+        "Toronto–Pearson",
+        "Ottawa",
+        "Québec City"
+      ],
+      "classes": [
+        "Business",
+        "Economy"
+      ],
+      "callsign": "AIR TRANSAT",
+      "alliance": "",
+      "seo": {
+        "title": "Air Transat · LIKE® Magazine Luxury Guide",
+        "description": "Air Transat in Montreal, Canada — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Air Transat",
+          "Montreal",
+          "Canada",
+          "North America",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 61,
+      "airline": "Ryanair",
+      "hubAirport": "Dublin Airport",
+      "hubCity": "Dublin",
+      "hubCountry": "Ireland",
+      "region": "Western Europe",
+      "icao": "EIDW",
+      "iata": "DUB",
+      "otherHubs": [
+        "London Stansted Airport",
+        "Milan Bergamo Airport"
+      ],
+      "classes": [
+        "Economy"
+      ],
+      "callsign": "RYANAIR",
+      "alliance": "",
+      "seo": {
+        "title": "Ryanair · LIKE® Magazine Luxury Guide",
+        "description": "Ryanair in Dublin, Ireland — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Ryanair",
+          "Dublin",
+          "Ireland",
+          "Western Europe",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 62,
+      "airline": "Vietnam Airlines",
+      "hubAirport": "Noi Bai International Airport",
+      "hubCity": "Hanoi",
+      "hubCountry": "Vietnam",
+      "region": "Southeast Asia",
+      "icao": "VVNB",
+      "iata": "HAN",
+      "otherHubs": [
+        "Tan Son Nhat International Airport",
+        "Da Nang International Airport"
+      ],
+      "classes": [
+        "Business",
+        "Premium Economy",
+        "Economy"
+      ],
+      "callsign": "VIET NAM AIRLINES",
+      "alliance": "SkyTeam",
+      "seo": {
+        "title": "Vietnam Airlines · LIKE® Magazine Luxury Guide",
+        "description": "Vietnam Airlines in Hanoi, Vietnam — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Vietnam Airlines",
+          "Hanoi",
+          "Vietnam",
+          "Southeast Asia",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 63,
+      "airline": "Air Mauritius",
+      "hubAirport": "Sir Seewoosagur Ramgoolam International Airport",
+      "hubCity": "Port Louis",
+      "hubCountry": "Mauritius",
+      "region": "Indian Ocean",
+      "icao": "FIMP",
+      "iata": "MRU",
+      "otherHubs": [],
+      "classes": [
+        "Business",
+        "Economy"
+      ],
+      "callsign": "AIR MAURITIUS",
+      "alliance": "",
+      "seo": {
+        "title": "Air Mauritius · LIKE® Magazine Luxury Guide",
+        "description": "Air Mauritius in Port Louis, Mauritius — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Air Mauritius",
+          "Port Louis",
+          "Mauritius",
+          "Indian Ocean",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 64,
+      "airline": "RwandAir",
+      "hubAirport": "Kigali International Airport",
+      "hubCity": "Kigali",
+      "hubCountry": "Rwanda",
+      "region": "East Africa",
+      "icao": "HRYR",
+      "iata": "KGL",
+      "otherHubs": [
+        "Cadjehoun Airport (Cotonou)"
+      ],
+      "classes": [
+        "Business",
+        "Premium Economy",
+        "Economy"
+      ],
+      "callsign": "RWANDAIR",
+      "alliance": "",
+      "seo": {
+        "title": "RwandAir · LIKE® Magazine Luxury Guide",
+        "description": "RwandAir in Kigali, Rwanda — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "RwandAir",
+          "Kigali",
+          "Rwanda",
+          "East Africa",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 65,
+      "airline": "TAP Portugal",
+      "hubAirport": "Lisbon Airport Humberto Delgado",
+      "hubCity": "Lisbon",
+      "hubCountry": "Portugal",
+      "region": "Southern Europe",
+      "icao": "LPPT",
+      "iata": "LIS",
+      "otherHubs": [
+        "Porto Airport Francisco Sá Carneiro"
+      ],
+      "classes": [
+        "Business",
+        "Economy"
+      ],
+      "callsign": "AIR PORTUGAL",
+      "alliance": "Star Alliance",
+      "seo": {
+        "title": "TAP Portugal · LIKE® Magazine Luxury Guide",
+        "description": "TAP Portugal in Lisbon, Portugal — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "TAP Portugal",
+          "Lisbon",
+          "Portugal",
+          "Southern Europe",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 66,
+      "airline": "Jet2.com",
+      "hubAirport": "Leeds Bradford Airport",
+      "hubCity": "Leeds",
+      "hubCountry": "United Kingdom",
+      "region": "Western Europe",
+      "icao": "EGNM",
+      "iata": "LBA",
+      "otherHubs": [
+        "Belfast International Airport",
+        "Birmingham Airport",
+        "Bournemouth Airport",
+        "Bristol Airport",
+        "East Midlands Airport",
+        "Edinburgh Airport",
+        "Glasgow Airport",
+        "Liverpool John Lennon Airport",
+        "London Luton Airport",
+        "London Stansted Airport",
+        "Manchester Airport",
+        "Newcastle International Airport"
+      ],
+      "classes": [
+        "Economy"
+      ],
+      "callsign": "CHANNEX",
+      "alliance": "",
+      "seo": {
+        "title": "Jet2.com · LIKE® Magazine Luxury Guide",
+        "description": "Jet2.com in Leeds, United Kingdom — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Jet2.com",
+          "Leeds",
+          "United Kingdom",
+          "Western Europe",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 67,
+      "airline": "South African Airways",
+      "hubAirport": "O. R. Tambo International Airport",
+      "hubCity": "Johannesburg",
+      "hubCountry": "South Africa",
+      "region": "Southern Africa",
+      "icao": "FAOR",
+      "iata": "JNB",
+      "otherHubs": [
+        "Cape Town International Airport"
+      ],
+      "classes": [
+        "Business",
+        "Economy"
+      ],
+      "callsign": "SPRINGBOK",
+      "alliance": "Star Alliance",
+      "seo": {
+        "title": "South African Airways · LIKE® Magazine Luxury Guide",
+        "description": "South African Airways in Johannesburg, South Africa — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "South African Airways",
+          "Johannesburg",
+          "South Africa",
+          "Southern Africa",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 68,
+      "airline": "Egyptair",
+      "hubAirport": "Cairo International Airport",
+      "hubCity": "Cairo",
+      "hubCountry": "Egypt",
+      "region": "North Africa",
+      "icao": "HECA",
+      "iata": "CAI",
+      "otherHubs": [],
+      "classes": [
+        "Business",
+        "Economy"
+      ],
+      "callsign": "EGYPTAIR",
+      "alliance": "Star Alliance",
+      "seo": {
+        "title": "Egyptair · LIKE® Magazine Luxury Guide",
+        "description": "Egyptair in Cairo, Egypt — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Egyptair",
+          "Cairo",
+          "Egypt",
+          "North Africa",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 69,
+      "airline": "Alaska Airlines",
+      "hubAirport": "Seattle–Tacoma International Airport",
+      "hubCity": "Seattle",
+      "hubCountry": "United States",
+      "region": "North America",
+      "icao": "KSEA",
+      "iata": "SEA",
+      "otherHubs": [
+        "Anchorage",
+        "Los Angeles",
+        "Portland (OR)",
+        "San Diego",
+        "San Francisco"
+      ],
+      "classes": [
+        "First",
+        "Economy"
+      ],
+      "callsign": "ALASKA",
+      "alliance": "oneworld",
+      "seo": {
+        "title": "Alaska Airlines · LIKE® Magazine Luxury Guide",
+        "description": "Alaska Airlines in Seattle, United States — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Alaska Airlines",
+          "Seattle",
+          "United States",
+          "North America",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 70,
+      "airline": "Royal Air Maroc",
+      "hubAirport": "Mohammed V International Airport",
+      "hubCity": "Casablanca",
+      "hubCountry": "Morocco",
+      "region": "North Africa",
+      "icao": "GMMN",
+      "iata": "CMN",
+      "otherHubs": [
+        "Ibn Battouta Airport (Tangier)"
+      ],
+      "classes": [
+        "Business",
+        "Economy"
+      ],
+      "callsign": "ROYAL AIR MAROC",
+      "alliance": "oneworld",
+      "seo": {
+        "title": "Royal Air Maroc · LIKE® Magazine Luxury Guide",
+        "description": "Royal Air Maroc in Casablanca, Morocco — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Royal Air Maroc",
+          "Casablanca",
+          "Morocco",
+          "North Africa",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 71,
+      "airline": "Azul Brazilian Airlines",
+      "hubAirport": "Viracopos International Airport",
+      "hubCity": "Campinas",
+      "hubCountry": "Brazil",
+      "region": "South America",
+      "icao": "SBKP",
+      "iata": "VCP",
+      "otherHubs": [
+        "Belo Horizonte",
+        "Recife",
+        "Cuiabá",
+        "Curitiba"
+      ],
+      "classes": [
+        "Business",
+        "Economy"
+      ],
+      "callsign": "AZUL",
+      "alliance": "",
+      "seo": {
+        "title": "Azul Brazilian Airlines · LIKE® Magazine Luxury Guide",
+        "description": "Azul Brazilian Airlines in Campinas, Brazil — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Azul Brazilian Airlines",
+          "Campinas",
+          "Brazil",
+          "South America",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 72,
+      "airline": "HK Express",
+      "hubAirport": "Hong Kong International Airport",
+      "hubCity": "Hong Kong",
+      "hubCountry": "Hong Kong",
+      "region": "East Asia",
+      "icao": "VHHH",
+      "iata": "HKG",
+      "otherHubs": [],
+      "classes": [
+        "Economy"
+      ],
+      "callsign": "HONGKONG SHUTTLE",
+      "alliance": "",
+      "seo": {
+        "title": "HK Express · LIKE® Magazine Luxury Guide",
+        "description": "HK Express in Hong Kong, Hong Kong — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "HK Express",
+          "Hong Kong",
+          "East Asia",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 73,
+      "airline": "Breeze Airways",
+      "hubAirport": "Charleston International Airport",
+      "hubCity": "Charleston",
+      "hubCountry": "United States",
+      "region": "North America",
+      "icao": "KCHS",
+      "iata": "CHS",
+      "otherHubs": [
+        "Hartford",
+        "New Orleans",
+        "Norfolk",
+        "Orlando",
+        "Providence",
+        "Provo",
+        "Raleigh/Durham",
+        "Tampa",
+        "Akron/Canton",
+        "Fort Myers",
+        "Vero Beach"
+      ],
+      "classes": [
+        "First",
+        "Economy"
+      ],
+      "callsign": "MOXY",
+      "alliance": "",
+      "seo": {
+        "title": "Breeze Airways · LIKE® Magazine Luxury Guide",
+        "description": "Breeze Airways in Charleston, United States — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Breeze Airways",
+          "Charleston",
+          "United States",
+          "North America",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 74,
+      "airline": "flyDubai",
+      "hubAirport": "Dubai International Airport",
+      "hubCity": "Dubai",
+      "hubCountry": "United Arab Emirates",
+      "region": "Middle East",
+      "icao": "OMDB",
+      "iata": "DXB",
+      "otherHubs": [],
+      "classes": [
+        "Business",
+        "Economy"
+      ],
+      "callsign": "SKYDUBAI",
+      "alliance": "",
+      "seo": {
+        "title": "flyDubai · LIKE® Magazine Luxury Guide",
+        "description": "flyDubai in Dubai, United Arab Emirates — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "flyDubai",
+          "Dubai",
+          "United Arab Emirates",
+          "Middle East",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 75,
+      "airline": "WestJet",
+      "hubAirport": "Calgary International Airport",
+      "hubCity": "Calgary",
+      "hubCountry": "Canada",
+      "region": "North America",
+      "icao": "CYYC",
+      "iata": "YYC",
+      "otherHubs": [
+        "Toronto–Pearson",
+        "Vancouver",
+        "Edmonton",
+        "Halifax",
+        "Montréal–Trudeau",
+        "Winnipeg"
+      ],
+      "classes": [
+        "Business",
+        "Premium Economy",
+        "Economy"
+      ],
+      "callsign": "WESTJET",
+      "alliance": "",
+      "seo": {
+        "title": "WestJet · LIKE® Magazine Luxury Guide",
+        "description": "WestJet in Calgary, Canada — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "WestJet",
+          "Calgary",
+          "Canada",
+          "North America",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 76,
+      "airline": "Southwest Airlines",
+      "hubAirport": "Dallas Love Field",
+      "hubCity": "Dallas",
+      "hubCountry": "United States",
+      "region": "North America",
+      "icao": "KDAL",
+      "iata": "DAL",
+      "otherHubs": [
+        "Baltimore",
+        "Chicago–Midway",
+        "Denver",
+        "Houston–Hobby",
+        "Las Vegas",
+        "Los Angeles",
+        "Oakland",
+        "Orlando",
+        "Phoenix–Sky Harbor"
+      ],
+      "classes": [
+        "Economy"
+      ],
+      "callsign": "SOUTHWEST",
+      "alliance": "",
+      "seo": {
+        "title": "Southwest Airlines · LIKE® Magazine Luxury Guide",
+        "description": "Southwest Airlines in Dallas, United States — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Southwest Airlines",
+          "Dallas",
+          "United States",
+          "North America",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 77,
+      "airline": "airBaltic",
+      "hubAirport": "Riga International Airport",
+      "hubCity": "Riga",
+      "hubCountry": "Latvia",
+      "region": "Northern Europe",
+      "icao": "EVRA",
+      "iata": "RIX",
+      "otherHubs": [
+        "Tallinn Airport",
+        "Vilnius International Airport",
+        "Tampere–Pirkkala Airport"
+      ],
+      "classes": [
+        "Economy"
+      ],
+      "callsign": "AIR BALTIC",
+      "alliance": "",
+      "seo": {
+        "title": "airBaltic · LIKE® Magazine Luxury Guide",
+        "description": "airBaltic in Riga, Latvia — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "airBaltic",
+          "Riga",
+          "Latvia",
+          "Northern Europe",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 78,
+      "airline": "TUI Airways",
+      "hubAirport": "London Gatwick Airport",
+      "hubCity": "London",
+      "hubCountry": "United Kingdom",
+      "region": "Western Europe",
+      "icao": "EGKK",
+      "iata": "LGW",
+      "otherHubs": [
+        "Belfast International Airport",
+        "Birmingham Airport",
+        "Bournemouth Airport",
+        "Bristol Airport",
+        "Cardiff Airport",
+        "East Midlands Airport",
+        "Exeter Airport",
+        "Glasgow Airport",
+        "London Stansted Airport",
+        "Manchester Airport",
+        "Newcastle International Airport",
+        "Norwich Airport"
+      ],
+      "classes": [
+        "Premium Economy",
+        "Economy"
+      ],
+      "callsign": "TOMJET",
+      "alliance": "",
+      "seo": {
+        "title": "TUI Airways · LIKE® Magazine Luxury Guide",
+        "description": "TUI Airways in London, United Kingdom — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "TUI Airways",
+          "London",
+          "United Kingdom",
+          "Western Europe",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 79,
+      "airline": "SunExpress",
+      "hubAirport": "Antalya Airport",
+      "hubCity": "Antalya",
+      "hubCountry": "Turkey",
+      "region": "Southern Europe",
+      "icao": "LTAI",
+      "iata": "AYT",
+      "otherHubs": [
+        "■zmir Adnan Menderes Airport"
+      ],
+      "classes": [
+        "Economy"
+      ],
+      "callsign": "SUNEXPRESS",
+      "alliance": "",
+      "seo": {
+        "title": "SunExpress · LIKE® Magazine Luxury Guide",
+        "description": "SunExpress in Antalya, Turkey — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "SunExpress",
+          "Antalya",
+          "Turkey",
+          "Southern Europe",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 80,
+      "airline": "SAS Scandinavian Airlines",
+      "hubAirport": "Copenhagen Airport, Kastrup",
+      "hubCity": "Copenhagen",
+      "hubCountry": "Denmark",
+      "region": "Northern Europe",
+      "icao": "EKCH",
+      "iata": "CPH",
+      "otherHubs": [
+        "Oslo Gardermoen Airport",
+        "Stockholm Arlanda Airport"
+      ],
+      "classes": [
+        "Business",
+        "Premium Economy",
+        "Economy"
+      ],
+      "callsign": "SCANDINAVIAN",
+      "alliance": "SkyTeam",
+      "seo": {
+        "title": "SAS Scandinavian Airlines · LIKE® Magazine Luxury Guide",
+        "description": "SAS Scandinavian Airlines in Copenhagen, Denmark — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "SAS Scandinavian Airlines",
+          "Copenhagen",
+          "Denmark",
+          "Northern Europe",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 81,
+      "airline": "JetSMART Airlines",
+      "hubAirport": "Arturo Merino Benítez International Airport",
+      "hubCity": "Santiago",
+      "hubCountry": "Chile",
+      "region": "South America",
+      "icao": "SCEL",
+      "iata": "SCL",
+      "otherHubs": [
+        "Concepción (Carriel Sur)"
+      ],
+      "classes": [
+        "Economy"
+      ],
+      "callsign": "ROCKSMART",
+      "alliance": "",
+      "seo": {
+        "title": "JetSMART Airlines · LIKE® Magazine Luxury Guide",
+        "description": "JetSMART Airlines in Santiago, Chile — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "JetSMART Airlines",
+          "Santiago",
+          "Chile",
+          "South America",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 82,
+      "airline": "Air Dolomiti",
+      "hubAirport": "Munich Airport Franz Josef Strauss",
+      "hubCity": "Munich",
+      "hubCountry": "Germany",
+      "region": "Western Europe",
+      "icao": "EDDM",
+      "iata": "MUC",
+      "otherHubs": [
+        "Frankfurt Airport"
+      ],
+      "classes": [
+        "Economy"
+      ],
+      "callsign": "DOLOMITI",
+      "alliance": "",
+      "seo": {
+        "title": "Air Dolomiti · LIKE® Magazine Luxury Guide",
+        "description": "Air Dolomiti in Munich, Germany — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Air Dolomiti",
+          "Munich",
+          "Germany",
+          "Western Europe",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 83,
+      "airline": "American Airlines",
+      "hubAirport": "Dallas Fort Worth International Airport",
+      "hubCity": "Dallas/Fort Worth",
+      "hubCountry": "United States",
+      "region": "North America",
+      "icao": "KDFW",
+      "iata": "DFW",
+      "otherHubs": [
+        "Charlotte",
+        "Chicago–O'Hare",
+        "Los Angeles",
+        "Miami",
+        "New York–JFK",
+        "New York–LaGuardia",
+        "Philadelphia",
+        "Phoenix–Sky Harbor",
+        "Washington–National"
+      ],
+      "classes": [
+        "First",
+        "Business",
+        "Premium Economy",
+        "Economy"
+      ],
+      "callsign": "AMERICAN",
+      "alliance": "oneworld",
+      "seo": {
+        "title": "American Airlines · LIKE® Magazine Luxury Guide",
+        "description": "American Airlines in Dallas/Fort Worth, United States — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "American Airlines",
+          "Dallas/Fort Worth",
+          "United States",
+          "North America",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 84,
+      "airline": "Air India",
+      "hubAirport": "Indira Gandhi International Airport",
+      "hubCity": "Delhi",
+      "hubCountry": "India",
+      "region": "South Asia",
+      "icao": "VIDP",
+      "iata": "DEL",
+      "otherHubs": [
+        "Kempegowda International Airport",
+        "Chhatrapati Shivaji Maharaj International Airport"
+      ],
+      "classes": [
+        "First",
+        "Business",
+        "Premium Economy",
+        "Economy"
+      ],
+      "callsign": "AIRINDIA",
+      "alliance": "Star Alliance",
+      "seo": {
+        "title": "Air India · LIKE® Magazine Luxury Guide",
+        "description": "Air India in Delhi, India — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Air India",
+          "Delhi",
+          "India",
+          "South Asia",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 85,
+      "airline": "Royal Brunei Airlines",
+      "hubAirport": "Brunei International Airport",
+      "hubCity": "Bandar Seri Begawan",
+      "hubCountry": "Brunei",
+      "region": "Southeast Asia",
+      "icao": "WBSB",
+      "iata": "BWN",
+      "otherHubs": [],
+      "classes": [
+        "Business",
+        "Economy"
+      ],
+      "callsign": "BRUNEI",
+      "alliance": "",
+      "seo": {
+        "title": "Royal Brunei Airlines · LIKE® Magazine Luxury Guide",
+        "description": "Royal Brunei Airlines in Bandar Seri Begawan, Brunei — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Royal Brunei Airlines",
+          "Bandar Seri Begawan",
+          "Brunei",
+          "Southeast Asia",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 86,
+      "airline": "SKY Airline",
+      "hubAirport": "Arturo Merino Benítez International Airport",
+      "hubCity": "Santiago",
+      "hubCountry": "Chile",
+      "region": "South America",
+      "icao": "SCEL",
+      "iata": "SCL",
+      "otherHubs": [],
+      "classes": [
+        "Economy"
+      ],
+      "callsign": "AEROSKY",
+      "alliance": "",
+      "seo": {
+        "title": "SKY Airline · LIKE® Magazine Luxury Guide",
+        "description": "SKY Airline in Santiago, Chile — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "SKY Airline",
+          "Santiago",
+          "Chile",
+          "South America",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 87,
+      "airline": "FlyArystan",
+      "hubAirport": "Almaty International Airport",
+      "hubCity": "Almaty",
+      "hubCountry": "Kazakhstan",
+      "region": "Central Asia",
+      "icao": "UAAA",
+      "iata": "ALA",
+      "otherHubs": [
+        "Nursultan Nazarbayev International Airport",
+        "Aqtau Airport"
+      ],
+      "classes": [
+        "Economy"
+      ],
+      "callsign": "ARYSTAN",
+      "alliance": "",
+      "seo": {
+        "title": "FlyArystan · LIKE® Magazine Luxury Guide",
+        "description": "FlyArystan in Almaty, Kazakhstan — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "FlyArystan",
+          "Almaty",
+          "Kazakhstan",
+          "Central Asia",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 88,
+      "airline": "Jetstar Airways",
+      "hubAirport": "Melbourne Airport",
+      "hubCity": "Melbourne",
+      "hubCountry": "Australia",
+      "region": "Oceania",
+      "icao": "YMML",
+      "iata": "MEL",
+      "otherHubs": [
+        "Adelaide Airport",
+        "Auckland Airport",
+        "Brisbane Airport",
+        "Cairns Airport",
+        "Christchurch Airport",
+        "Ngurah Rai International Airport",
+        "Gold Coast Airport",
+        "Perth Airport",
+        "Sydney Airport"
+      ],
+      "classes": [
+        "Business",
+        "Economy"
+      ],
+      "callsign": "JETSTAR",
+      "alliance": "",
+      "seo": {
+        "title": "Jetstar Airways · LIKE® Magazine Luxury Guide",
+        "description": "Jetstar Airways in Melbourne, Australia — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Jetstar Airways",
+          "Melbourne",
+          "Australia",
+          "Oceania",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 89,
+      "airline": "Kenya Airways",
+      "hubAirport": "Jomo Kenyatta International Airport",
+      "hubCity": "Nairobi",
+      "hubCountry": "Kenya",
+      "region": "East Africa",
+      "icao": "HKJK",
+      "iata": "NBO",
+      "otherHubs": [],
+      "classes": [
+        "Business",
+        "Economy"
+      ],
+      "callsign": "KENYA",
+      "alliance": "SkyTeam",
+      "seo": {
+        "title": "Kenya Airways · LIKE® Magazine Luxury Guide",
+        "description": "Kenya Airways in Nairobi, Kenya — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Kenya Airways",
+          "Nairobi",
+          "Kenya",
+          "East Africa",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 90,
+      "airline": "Allegiant Air",
+      "hubAirport": "Harry Reid International Airport",
+      "hubCity": "Las Vegas",
+      "hubCountry": "United States",
+      "region": "North America",
+      "icao": "KLAS",
+      "iata": "LAS",
+      "otherHubs": [
+        "Fort Lauderdale",
+        "Orlando/Sanford",
+        "Phoenix/Mesa",
+        "Punta Gorda",
+        "St. Petersburg/Clearwater"
+      ],
+      "classes": [
+        "Economy"
+      ],
+      "callsign": "ALLEGIANT",
+      "alliance": "",
+      "seo": {
+        "title": "Allegiant Air · LIKE® Magazine Luxury Guide",
+        "description": "Allegiant Air in Las Vegas, United States — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Allegiant Air",
+          "Las Vegas",
+          "United States",
+          "North America",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 91,
+      "airline": "Sun Country Airlines",
+      "hubAirport": "Minneapolis–Saint Paul International Airport",
+      "hubCity": "Minneapolis",
+      "hubCountry": "United States",
+      "region": "North America",
+      "icao": "KMSP",
+      "iata": "MSP",
+      "otherHubs": [
+        "Cincinnati"
+      ],
+      "classes": [
+        "Economy"
+      ],
+      "callsign": "SUN COUNTRY",
+      "alliance": "",
+      "seo": {
+        "title": "Sun Country Airlines · LIKE® Magazine Luxury Guide",
+        "description": "Sun Country Airlines in Minneapolis, United States — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Sun Country Airlines",
+          "Minneapolis",
+          "United States",
+          "North America",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 92,
+      "airline": "StarFlyer",
+      "hubAirport": "Kitakyushu Airport",
+      "hubCity": "Kitakyushu",
+      "hubCountry": "Japan",
+      "region": "East Asia",
+      "icao": "RJFR",
+      "iata": "KKJ",
+      "otherHubs": [
+        "Tokyo International Airport"
+      ],
+      "classes": [
+        "Economy"
+      ],
+      "callsign": "STARFLYER",
+      "alliance": "",
+      "seo": {
+        "title": "StarFlyer · LIKE® Magazine Luxury Guide",
+        "description": "StarFlyer in Kitakyushu, Japan — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "StarFlyer",
+          "Kitakyushu",
+          "Japan",
+          "East Asia",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 93,
+      "airline": "Jetstar Asia",
+      "hubAirport": "Singapore Changi Airport",
+      "hubCity": "Singapore",
+      "hubCountry": "Singapore",
+      "region": "Southeast Asia",
+      "icao": "WSSS",
+      "iata": "SIN",
+      "otherHubs": [],
+      "classes": [
+        "Economy"
+      ],
+      "callsign": "JETSTAR ASIA",
+      "alliance": "",
+      "seo": {
+        "title": "Jetstar Asia · LIKE® Magazine Luxury Guide",
+        "description": "Jetstar Asia in Singapore, Singapore — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Jetstar Asia",
+          "Singapore",
+          "Southeast Asia",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 94,
+      "airline": "Air Canada rouge",
+      "hubAirport": "Toronto Pearson International Airport",
+      "hubCity": "Toronto",
+      "hubCountry": "Canada",
+      "region": "North America",
+      "icao": "CYYZ",
+      "iata": "YYZ",
+      "otherHubs": [
+        "Montréal–Trudeau",
+        "Vancouver"
+      ],
+      "classes": [
+        "Premium Economy",
+        "Economy"
+      ],
+      "callsign": "ROUGE",
+      "alliance": "Star Alliance (affiliate)",
+      "seo": {
+        "title": "Air Canada rouge · LIKE® Magazine Luxury Guide",
+        "description": "Air Canada rouge in Toronto, Canada — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Air Canada rouge",
+          "Toronto",
+          "Canada",
+          "North America",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 95,
+      "airline": "Peach",
+      "hubAirport": "Kansai International Airport",
+      "hubCity": "Osaka",
+      "hubCountry": "Japan",
+      "region": "East Asia",
+      "icao": "RJBB",
+      "iata": "KIX",
+      "otherHubs": [
+        "Naha Airport",
+        "Sendai Airport",
+        "Narita International Airport"
+      ],
+      "classes": [
+        "Economy"
+      ],
+      "callsign": "AIR PEACH",
+      "alliance": "",
+      "seo": {
+        "title": "Peach · LIKE® Magazine Luxury Guide",
+        "description": "Peach in Osaka, Japan — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Peach",
+          "Osaka",
+          "Japan",
+          "East Asia",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 96,
+      "airline": "Copa Airlines",
+      "hubAirport": "Tocumen International Airport",
+      "hubCity": "Panama City",
+      "hubCountry": "Panama",
+      "region": "North America",
+      "icao": "MPTO",
+      "iata": "PTY",
+      "otherHubs": [
+        "San José (CR)"
+      ],
+      "classes": [
+        "Business",
+        "Economy"
+      ],
+      "callsign": "COPA",
+      "alliance": "Star Alliance",
+      "seo": {
+        "title": "Copa Airlines · LIKE® Magazine Luxury Guide",
+        "description": "Copa Airlines in Panama City, Panama — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Copa Airlines",
+          "Panama City",
+          "Panama",
+          "North America",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 97,
+      "airline": "QantasLink",
+      "hubAirport": "Sydney Airport",
+      "hubCity": "Sydney",
+      "hubCountry": "Australia",
+      "region": "Oceania",
+      "icao": "YSSY",
+      "iata": "SYD",
+      "otherHubs": [
+        "Adelaide Airport",
+        "Brisbane Airport",
+        "Cairns Airport",
+        "Canberra Airport",
+        "Darwin Airport",
+        "Hobart Airport",
+        "Melbourne Airport",
+        "Perth Airport"
+      ],
+      "classes": [
+        "Business",
+        "Economy"
+      ],
+      "callsign": "Q-LINK",
+      "alliance": "",
+      "seo": {
+        "title": "QantasLink · LIKE® Magazine Luxury Guide",
+        "description": "QantasLink in Sydney, Australia — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "QantasLink",
+          "Sydney",
+          "Australia",
+          "Oceania",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 98,
+      "airline": "China Eastern Airlines",
+      "hubAirport": "Shanghai Pudong International Airport",
+      "hubCity": "Shanghai",
+      "hubCountry": "China",
+      "region": "East Asia",
+      "icao": "ZSPD",
+      "iata": "PVG",
+      "otherHubs": [
+        "Shanghai Hongqiao International Airport",
+        "Kunming Changshui International Airport",
+        "Xi'an Xianyang International Airport"
+      ],
+      "classes": [
+        "First",
+        "Business",
+        "Premium Economy",
+        "Economy"
+      ],
+      "callsign": "CHINA EASTERN",
+      "alliance": "SkyTeam",
+      "seo": {
+        "title": "China Eastern Airlines · LIKE® Magazine Luxury Guide",
+        "description": "China Eastern Airlines in Shanghai, China — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "China Eastern Airlines",
+          "Shanghai",
+          "China",
+          "East Asia",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 99,
+      "airline": "Air Serbia",
+      "hubAirport": "Belgrade Nikola Tesla Airport",
+      "hubCity": "Belgrade",
+      "hubCountry": "Serbia",
+      "region": "Southern Europe",
+      "icao": "LYBE",
+      "iata": "BEG",
+      "otherHubs": [
+        "Niš Constantine the Great Airport"
+      ],
+      "classes": [
+        "Business",
+        "Economy"
+      ],
+      "callsign": "AIR SERBIA",
+      "alliance": "",
+      "seo": {
+        "title": "Air Serbia · LIKE® Magazine Luxury Guide",
+        "description": "Air Serbia in Belgrade, Serbia — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Air Serbia",
+          "Belgrade",
+          "Serbia",
+          "Southern Europe",
+          "airlines"
+        ]
+      }
+    },
+    {
+      "rank": 100,
+      "airline": "Hawaiian Airlines",
+      "hubAirport": "Daniel K. Inouye International Airport",
+      "hubCity": "Honolulu",
+      "hubCountry": "United States",
+      "region": "North America",
+      "icao": "PHNL",
+      "iata": "HNL",
+      "otherHubs": [
+        "Kahului"
+      ],
+      "classes": [
+        "First",
+        "Premium Economy",
+        "Economy"
+      ],
+      "callsign": "HAWAIIAN",
+      "alliance": "oneworld",
+      "seo": {
+        "title": "Hawaiian Airlines · LIKE® Magazine Luxury Guide",
+        "description": "Hawaiian Airlines in Honolulu, United States — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Hawaiian Airlines",
+          "Honolulu",
+          "United States",
+          "North America",
+          "airlines"
+        ]
+      }
+    }
+  ]
+}

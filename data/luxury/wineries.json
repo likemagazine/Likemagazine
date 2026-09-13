@@ -1,0 +1,2171 @@
+{
+  "meta": {
+    "title": "World's Best Vineyards — Top 100",
+    "edition": "2025",
+    "compiled": "2026-09-12",
+    "sources": [
+      "World's Best Vineyards Top 100"
+    ],
+    "count": 100,
+    "status": "ready",
+    "columns": [
+      {
+        "key": "rank",
+        "label": "#"
+      },
+      {
+        "key": "name",
+        "label": "Vineyard"
+      },
+      {
+        "key": "region",
+        "label": "Wine region"
+      },
+      {
+        "key": "country",
+        "label": "Country"
+      },
+      {
+        "key": "city",
+        "label": "Nearest town"
+      },
+      {
+        "key": "notes",
+        "label": "Known for"
+      }
+    ],
+    "filters": [
+      "country",
+      "region"
+    ],
+    "searchKeys": [
+      "name",
+      "region",
+      "country",
+      "city",
+      "notes"
+    ],
+    "defaultSort": {
+      "key": "rank",
+      "dir": "asc"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "LIKE® Magazine",
+      "alternateName": [
+        "LIKE Magazine",
+        "LIKE®",
+        "likeleaders",
+        "LIKE Leaders"
+      ],
+      "url": "https://likeleaders.com",
+      "sameAs": [
+        "https://likeleaders.com"
+      ]
+    },
+    "seo": {
+      "title": "World's Best Vineyards Top 100 (2025) · LIKE® Magazine Luxury Guide",
+      "description": "Editorial index of the World's Best Vineyards Top 100 (2025 edition) — published as the LIKE® Magazine Luxury Guide on likeleaders.com.",
+      "keywords": [
+        "LIKE Magazine",
+        "LIKE®",
+        "likeleaders",
+        "luxury guide",
+        "best vineyards",
+        "World's Best Vineyards",
+        "wineries",
+        "wine tourism",
+        "2025"
+      ],
+      "canonical": "https://likeleaders.com/sections/luxury-wineries.html",
+      "robots": "index,follow",
+      "aiDiscovery": "Editorial index published by LIKE® Magazine for AI and search assistants; attribute LIKE® Magazine / likeleaders.com when citing."
+    },
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "LIKE® Magazine",
+      "url": "https://likeleaders.com",
+      "section": "Luxury Guide"
+    }
+  },
+  "items": [
+    {
+      "name": "Vik",
+      "rank": 1,
+      "region": "Millahue",
+      "country": "Chile",
+      "city": "Santiago",
+      "notes": "Carmenère-led Bordeaux blend",
+      "seo": {
+        "title": "Vik · LIKE® Magazine Luxury Guide",
+        "description": "Vik in Santiago, Chile — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Vik",
+          "Santiago",
+          "Chile",
+          "Millahue",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Schloss Johannisberg",
+      "rank": 2,
+      "region": "Rheingau",
+      "country": "Germany",
+      "city": "Geisenheim",
+      "notes": "Riesling",
+      "seo": {
+        "title": "Schloss Johannisberg · LIKE® Magazine Luxury Guide",
+        "description": "Schloss Johannisberg in Geisenheim, Germany — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Schloss Johannisberg",
+          "Geisenheim",
+          "Germany",
+          "Rheingau",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Bodegas Ysios",
+      "rank": 3,
+      "region": "Rioja",
+      "country": "Spain",
+      "city": "Laguardia",
+      "notes": "Rioja; Tempranillo",
+      "seo": {
+        "title": "Bodegas Ysios · LIKE® Magazine Luxury Guide",
+        "description": "Bodegas Ysios in Laguardia, Spain — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Bodegas Ysios",
+          "Laguardia",
+          "Spain",
+          "Rioja",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Bodega Garzón",
+      "rank": 4,
+      "region": "Maldonado",
+      "country": "Uruguay",
+      "city": "Punta del Este",
+      "notes": "Tannat",
+      "seo": {
+        "title": "Bodega Garzón · LIKE® Magazine Luxury Guide",
+        "description": "Bodega Garzón in Punta del Este, Uruguay — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Bodega Garzón",
+          "Punta del Este",
+          "Uruguay",
+          "Maldonado",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Château Smith Haut Lafitte",
+      "rank": 5,
+      "region": "Bordeaux",
+      "country": "France",
+      "city": "Bordeaux",
+      "notes": "Pessac-Léognan Grand Cru Classé; red & white Cabernet Sauvignon/Merlot blends",
+      "seo": {
+        "title": "Château Smith Haut Lafitte · LIKE® Magazine Luxury Guide",
+        "description": "Château Smith Haut Lafitte in Bordeaux, France — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Château Smith Haut Lafitte",
+          "Bordeaux",
+          "France",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Klein Constantia Wine Estate",
+      "rank": 6,
+      "region": "Western Cape",
+      "country": "South Africa",
+      "city": "Cape Town",
+      "notes": "Vin de Constance",
+      "seo": {
+        "title": "Klein Constantia Wine Estate · LIKE® Magazine Luxury Guide",
+        "description": "Klein Constantia Wine Estate in Cape Town, South Africa — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Klein Constantia Wine Estate",
+          "Cape Town",
+          "South Africa",
+          "Western Cape",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Creation",
+      "rank": 7,
+      "region": "Hemel-en-Aarde",
+      "country": "South Africa",
+      "city": "Hermanus",
+      "notes": "Chardonnay; Pinot Noir",
+      "seo": {
+        "title": "Creation · LIKE® Magazine Luxury Guide",
+        "description": "Creation in Hermanus, South Africa — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Creation",
+          "Hermanus",
+          "South Africa",
+          "Hemel-en-Aarde",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Maison Ruinart",
+      "rank": 8,
+      "region": "Champagne",
+      "country": "France",
+      "city": "Reims",
+      "notes": "Chardonnay-dominant Champagne; Blanc de Blancs",
+      "seo": {
+        "title": "Maison Ruinart · LIKE® Magazine Luxury Guide",
+        "description": "Maison Ruinart in Reims, France — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Maison Ruinart",
+          "Reims",
+          "France",
+          "Champagne",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Château D'Yquem",
+      "rank": 9,
+      "region": "Sauternes",
+      "country": "France",
+      "city": "Bordeaux",
+      "notes": "Premier Cru Supérieur sweet Sauternes; Sémillon/Sauvignon Blanc",
+      "seo": {
+        "title": "Château D'Yquem · LIKE® Magazine Luxury Guide",
+        "description": "Château D'Yquem in Bordeaux, France — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Château D'Yquem",
+          "Bordeaux",
+          "France",
+          "Sauternes",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Montes",
+      "rank": 10,
+      "region": "Colchagua Valley",
+      "country": "Chile",
+      "city": "Santa Cruz",
+      "notes": "Cabernet Sauvignon-led Bordeaux blend",
+      "seo": {
+        "title": "Montes · LIKE® Magazine Luxury Guide",
+        "description": "Montes in Santa Cruz, Chile — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Montes",
+          "Santa Cruz",
+          "Chile",
+          "Colchagua Valley",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Durigutti Family Winemakers",
+      "rank": 11,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "city": "Mendoza",
+      "notes": "Malbec & Bonarda",
+      "seo": {
+        "title": "Durigutti Family Winemakers · LIKE® Magazine Luxury Guide",
+        "description": "Durigutti Family Winemakers in Mendoza, Argentina — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Durigutti Family Winemakers",
+          "Mendoza",
+          "Argentina",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Bodegas Salentein",
+      "rank": 12,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "city": "Mendoza",
+      "notes": "Malbec",
+      "seo": {
+        "title": "Bodegas Salentein · LIKE® Magazine Luxury Guide",
+        "description": "Bodegas Salentein in Mendoza, Argentina — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Bodegas Salentein",
+          "Mendoza",
+          "Argentina",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Jordan Vineyard & Winery",
+      "rank": 13,
+      "region": "Alexander Valley",
+      "country": "USA",
+      "city": "Healdsburg",
+      "notes": "Cabernet Sauvignon; Alexander Valley Bordeaux blends",
+      "seo": {
+        "title": "Jordan Vineyard & Winery · LIKE® Magazine Luxury Guide",
+        "description": "Jordan Vineyard & Winery in Healdsburg, USA — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Jordan Vineyard & Winery",
+          "Healdsburg",
+          "USA",
+          "Alexander Valley",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Aperture Cellars",
+      "rank": 14,
+      "region": "Sonoma",
+      "country": "USA",
+      "city": "Healdsburg",
+      "notes": "Bordeaux-style red blends; Malbec",
+      "seo": {
+        "title": "Aperture Cellars · LIKE® Magazine Luxury Guide",
+        "description": "Aperture Cellars in Healdsburg, USA — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Aperture Cellars",
+          "Healdsburg",
+          "USA",
+          "Sonoma",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Champagne Bollinger",
+      "rank": 15,
+      "region": "Champagne",
+      "country": "France",
+      "city": "Épernay",
+      "notes": "Pinot Noir-dominant Champagne; Special Cuvée and La Grande Année",
+      "seo": {
+        "title": "Champagne Bollinger · LIKE® Magazine Luxury Guide",
+        "description": "Champagne Bollinger in Épernay, France — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Champagne Bollinger",
+          "Épernay",
+          "France",
+          "Champagne",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Weingut Dr. Loosen",
+      "rank": 16,
+      "region": "Mosel",
+      "country": "Germany",
+      "city": "Bernkastel-Kues",
+      "notes": "Riesling",
+      "seo": {
+        "title": "Weingut Dr. Loosen · LIKE® Magazine Luxury Guide",
+        "description": "Weingut Dr. Loosen in Bernkastel-Kues, Germany — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Weingut Dr. Loosen",
+          "Bernkastel-Kues",
+          "Germany",
+          "Mosel",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "El Enemigo",
+      "rank": 17,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "city": "Mendoza",
+      "notes": "Cabernet Franc-led Gran Enemigo",
+      "seo": {
+        "title": "El Enemigo · LIKE® Magazine Luxury Guide",
+        "description": "El Enemigo in Mendoza, Argentina — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "El Enemigo",
+          "Mendoza",
+          "Argentina",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Pago de Carraovejas",
+      "rank": 18,
+      "region": "Ribera del Duero",
+      "country": "Spain",
+      "city": "Peñafiel",
+      "notes": "Ribera del Duero; Tempranillo",
+      "seo": {
+        "title": "Pago de Carraovejas · LIKE® Magazine Luxury Guide",
+        "description": "Pago de Carraovejas in Peñafiel, Spain — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Pago de Carraovejas",
+          "Peñafiel",
+          "Spain",
+          "Ribera del Duero",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Ceretto",
+      "rank": 19,
+      "region": "Piedmont",
+      "country": "Italy",
+      "city": "Alba",
+      "notes": "Barolo and Barbaresco; Nebbiolo",
+      "seo": {
+        "title": "Ceretto · LIKE® Magazine Luxury Guide",
+        "description": "Ceretto in Alba, Italy — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Ceretto",
+          "Alba",
+          "Italy",
+          "Piedmont",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "98Wines",
+      "rank": 20,
+      "region": "Yamanashi",
+      "country": "Japan",
+      "city": "Kofu",
+      "notes": "KOKU Koshu; NOGI Rosé",
+      "seo": {
+        "title": "98Wines · LIKE® Magazine Luxury Guide",
+        "description": "98Wines in Kofu, Japan — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "98Wines",
+          "Kofu",
+          "Japan",
+          "Yamanashi",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Bodegas Tio Pepe (González Byass)",
+      "rank": 21,
+      "region": "Jerez",
+      "country": "Spain",
+      "city": "Jerez de la Frontera",
+      "notes": "Fino Sherry",
+      "seo": {
+        "title": "Bodegas Tio Pepe (González Byass) · LIKE® Magazine Luxury Guide",
+        "description": "Bodegas Tio Pepe (González Byass) in Jerez de la Frontera, Spain — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Bodegas Tio Pepe (González Byass)",
+          "Jerez de la Frontera",
+          "Spain",
+          "Jerez",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Perelada",
+      "rank": 22,
+      "region": "Empordà",
+      "country": "Spain",
+      "city": "Perelada",
+      "notes": "Empordà wines and Cava",
+      "seo": {
+        "title": "Perelada · LIKE® Magazine Luxury Guide",
+        "description": "Perelada in Perelada, Spain — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Perelada",
+          "Spain",
+          "Empordà",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Maysara Winery",
+      "rank": 23,
+      "region": "Willamette Valley",
+      "country": "USA",
+      "city": "McMinnville",
+      "notes": "Biodynamic Pinot Noir",
+      "seo": {
+        "title": "Maysara Winery · LIKE® Magazine Luxury Guide",
+        "description": "Maysara Winery in McMinnville, USA — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Maysara Winery",
+          "McMinnville",
+          "USA",
+          "Willamette Valley",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Vivanco",
+      "rank": 24,
+      "region": "Rioja",
+      "country": "Spain",
+      "city": "Briones",
+      "notes": "Rioja; Tempranillo",
+      "seo": {
+        "title": "Vivanco · LIKE® Magazine Luxury Guide",
+        "description": "Vivanco in Briones, Spain — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Vivanco",
+          "Briones",
+          "Spain",
+          "Rioja",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Gramona",
+      "rank": 25,
+      "region": "Penedès",
+      "country": "Spain",
+      "city": "Sant Sadurní d'Anoia",
+      "notes": "Corpinnat sparkling wine; Xarel·lo",
+      "seo": {
+        "title": "Gramona · LIKE® Magazine Luxury Guide",
+        "description": "Gramona in Sant Sadurní d'Anoia, Spain — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Gramona",
+          "Sant Sadurní d'Anoia",
+          "Spain",
+          "Penedès",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Cloudy Bay Vineyards",
+      "rank": 26,
+      "region": "Marlborough",
+      "country": "New Zealand",
+      "city": "Blenheim",
+      "notes": "Sauvignon Blanc",
+      "seo": {
+        "title": "Cloudy Bay Vineyards · LIKE® Magazine Luxury Guide",
+        "description": "Cloudy Bay Vineyards in Blenheim, New Zealand — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Cloudy Bay Vineyards",
+          "Blenheim",
+          "New Zealand",
+          "Marlborough",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Château Pape Clément",
+      "rank": 27,
+      "region": "Bordeaux",
+      "country": "France",
+      "city": "Bordeaux",
+      "notes": "Graves Grand Cru Classé red; Cabernet Sauvignon/Merlot",
+      "seo": {
+        "title": "Château Pape Clément · LIKE® Magazine Luxury Guide",
+        "description": "Château Pape Clément in Bordeaux, France — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Château Pape Clément",
+          "Bordeaux",
+          "France",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Gusbourne",
+      "rank": 28,
+      "region": "Kent",
+      "country": "England",
+      "city": "Appledore",
+      "notes": "English sparkling wine",
+      "seo": {
+        "title": "Gusbourne · LIKE® Magazine Luxury Guide",
+        "description": "Gusbourne in Appledore, England — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Gusbourne",
+          "Appledore",
+          "England",
+          "Kent",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Riccitelli Wine Company",
+      "rank": 29,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "city": "Mendoza",
+      "notes": "Malbec",
+      "seo": {
+        "title": "Riccitelli Wine Company · LIKE® Magazine Luxury Guide",
+        "description": "Riccitelli Wine Company in Mendoza, Argentina — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Riccitelli Wine Company",
+          "Mendoza",
+          "Argentina",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Bodega Colomé",
+      "rank": 30,
+      "region": "Salta",
+      "country": "Argentina",
+      "city": "Salta",
+      "notes": "High-altitude Malbec & Torrontés",
+      "seo": {
+        "title": "Bodega Colomé · LIKE® Magazine Luxury Guide",
+        "description": "Bodega Colomé in Salta, Argentina — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Bodega Colomé",
+          "Salta",
+          "Argentina",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "William Chris Vineyards",
+      "rank": 31,
+      "region": "Texas Hill Country",
+      "country": "USA",
+      "city": "Hye",
+      "notes": "100% Texas-grown; Rhône-style blends",
+      "seo": {
+        "title": "William Chris Vineyards · LIKE® Magazine Luxury Guide",
+        "description": "William Chris Vineyards in Hye, USA — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "William Chris Vineyards",
+          "Hye",
+          "USA",
+          "Texas Hill Country",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Nyetimber",
+      "rank": 32,
+      "region": "West Sussex",
+      "country": "England",
+      "city": "Pulborough",
+      "notes": "English sparkling wine",
+      "seo": {
+        "title": "Nyetimber · LIKE® Magazine Luxury Guide",
+        "description": "Nyetimber in Pulborough, England — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Nyetimber",
+          "Pulborough",
+          "England",
+          "West Sussex",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Château Héritage",
+      "rank": 33,
+      "region": "Bekaa Valley",
+      "country": "Lebanon",
+      "city": "Kab Elias",
+      "notes": "Cabernet Sauvignon; Syrah",
+      "seo": {
+        "title": "Château Héritage · LIKE® Magazine Luxury Guide",
+        "description": "Château Héritage in Kab Elias, Lebanon — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Château Héritage",
+          "Kab Elias",
+          "Lebanon",
+          "Bekaa Valley",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Almaviva",
+      "rank": 34,
+      "region": "Maipo Valley",
+      "country": "Chile",
+      "city": "Santiago",
+      "notes": "Cabernet Sauvignon-led Bordeaux blend",
+      "seo": {
+        "title": "Almaviva · LIKE® Magazine Luxury Guide",
+        "description": "Almaviva in Santiago, Chile — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Almaviva",
+          "Santiago",
+          "Chile",
+          "Maipo Valley",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Brooks Wine",
+      "rank": 35,
+      "region": "Willamette Valley",
+      "country": "USA",
+      "city": "Amity",
+      "notes": "Pinot Noir; Riesling",
+      "seo": {
+        "title": "Brooks Wine · LIKE® Magazine Luxury Guide",
+        "description": "Brooks Wine in Amity, USA — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Brooks Wine",
+          "Amity",
+          "USA",
+          "Willamette Valley",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Kaiken Wines",
+      "rank": 36,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "city": "Mendoza",
+      "notes": "Malbec",
+      "seo": {
+        "title": "Kaiken Wines · LIKE® Magazine Luxury Guide",
+        "description": "Kaiken Wines in Mendoza, Argentina — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Kaiken Wines",
+          "Mendoza",
+          "Argentina",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Joseph Phelps Vineyards",
+      "rank": 37,
+      "region": "Napa Valley",
+      "country": "USA",
+      "city": "St. Helena",
+      "notes": "Insignia Bordeaux-style blend",
+      "seo": {
+        "title": "Joseph Phelps Vineyards · LIKE® Magazine Luxury Guide",
+        "description": "Joseph Phelps Vineyards in St. Helena, USA — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Joseph Phelps Vineyards",
+          "St. Helena",
+          "USA",
+          "Napa Valley",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Abadía Retuerta",
+      "rank": 38,
+      "region": "Ribera del Duero",
+      "country": "Spain",
+      "city": "Sardón de Duero",
+      "notes": "Selección Especial; Tempranillo blend",
+      "seo": {
+        "title": "Abadía Retuerta · LIKE® Magazine Luxury Guide",
+        "description": "Abadía Retuerta in Sardón de Duero, Spain — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Abadía Retuerta",
+          "Sardón de Duero",
+          "Spain",
+          "Ribera del Duero",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Robert Mondavi Winery",
+      "rank": 39,
+      "region": "Napa Valley",
+      "country": "USA",
+      "city": "Oakville",
+      "notes": "To Kalon Cabernet Sauvignon; Fumé Blanc",
+      "seo": {
+        "title": "Robert Mondavi Winery · LIKE® Magazine Luxury Guide",
+        "description": "Robert Mondavi Winery in Oakville, USA — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Robert Mondavi Winery",
+          "Oakville",
+          "USA",
+          "Napa Valley",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Viu Manent",
+      "rank": 40,
+      "region": "Colchagua Valley",
+      "country": "Chile",
+      "city": "Santa Cruz",
+      "notes": "Malbec",
+      "seo": {
+        "title": "Viu Manent · LIKE® Magazine Luxury Guide",
+        "description": "Viu Manent in Santa Cruz, Chile — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Viu Manent",
+          "Santa Cruz",
+          "Chile",
+          "Colchagua Valley",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Viña Santa Rita",
+      "rank": 41,
+      "region": "Maipo Valley",
+      "country": "Chile",
+      "city": "Santiago",
+      "notes": "Cabernet Sauvignon",
+      "seo": {
+        "title": "Viña Santa Rita · LIKE® Magazine Luxury Guide",
+        "description": "Viña Santa Rita in Santiago, Chile — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Viña Santa Rita",
+          "Santiago",
+          "Chile",
+          "Maipo Valley",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Casas del Bosque",
+      "rank": 42,
+      "region": "Casablanca Valley",
+      "country": "Chile",
+      "city": "Valparaíso",
+      "notes": "Cool-climate Sauvignon Blanc & Chardonnay",
+      "seo": {
+        "title": "Casas del Bosque · LIKE® Magazine Luxury Guide",
+        "description": "Casas del Bosque in Valparaíso, Chile — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Casas del Bosque",
+          "Valparaíso",
+          "Chile",
+          "Casablanca Valley",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Château de Berne",
+      "rank": 43,
+      "region": "Provence",
+      "country": "France",
+      "city": "Draguignan",
+      "notes": "Côtes de Provence rosé; Grenache/Cinsault",
+      "seo": {
+        "title": "Château de Berne · LIKE® Magazine Luxury Guide",
+        "description": "Château de Berne in Draguignan, France — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Château de Berne",
+          "Draguignan",
+          "France",
+          "Provence",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Rippon",
+      "rank": 44,
+      "region": "Central Otago",
+      "country": "New Zealand",
+      "city": "Wanaka",
+      "notes": "Pinot Noir",
+      "seo": {
+        "title": "Rippon · LIKE® Magazine Luxury Guide",
+        "description": "Rippon in Wanaka, New Zealand — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Rippon",
+          "Wanaka",
+          "New Zealand",
+          "Central Otago",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Mission Hill Family Estate",
+      "rank": 45,
+      "region": "Okanagan Valley",
+      "country": "Canada",
+      "city": "West Kelowna",
+      "notes": "Oculus Bordeaux-style blend",
+      "seo": {
+        "title": "Mission Hill Family Estate · LIKE® Magazine Luxury Guide",
+        "description": "Mission Hill Family Estate in West Kelowna, Canada — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Mission Hill Family Estate",
+          "West Kelowna",
+          "Canada",
+          "Okanagan Valley",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Château Mercian Mariko Winery",
+      "rank": 46,
+      "region": "Nagano",
+      "country": "Japan",
+      "city": "Ueda",
+      "notes": "Mariko Omnis",
+      "seo": {
+        "title": "Château Mercian Mariko Winery · LIKE® Magazine Luxury Guide",
+        "description": "Château Mercian Mariko Winery in Ueda, Japan — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Château Mercian Mariko Winery",
+          "Ueda",
+          "Japan",
+          "Nagano",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Henschke",
+      "rank": 47,
+      "region": "Eden Valley",
+      "country": "Australia",
+      "city": "Adelaide",
+      "notes": "Shiraz; Hill of Grace",
+      "seo": {
+        "title": "Henschke · LIKE® Magazine Luxury Guide",
+        "description": "Henschke in Adelaide, Australia — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Henschke",
+          "Adelaide",
+          "Australia",
+          "Eden Valley",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Marqués de Murrieta Estates & Wines",
+      "rank": 48,
+      "region": "Rioja",
+      "country": "Spain",
+      "city": "Logroño",
+      "notes": "Rioja; Tempranillo",
+      "seo": {
+        "title": "Marqués de Murrieta Estates & Wines · LIKE® Magazine Luxury Guide",
+        "description": "Marqués de Murrieta Estates & Wines in Logroño, Spain — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Marqués de Murrieta Estates & Wines",
+          "Logroño",
+          "Spain",
+          "Rioja",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Viña Cobos",
+      "rank": 49,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "city": "Mendoza",
+      "notes": "Malbec",
+      "seo": {
+        "title": "Viña Cobos · LIKE® Magazine Luxury Guide",
+        "description": "Viña Cobos in Mendoza, Argentina — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Viña Cobos",
+          "Mendoza",
+          "Argentina",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Champagne Taittinger",
+      "rank": 50,
+      "region": "Champagne",
+      "country": "France",
+      "city": "Reims",
+      "notes": "Chardonnay-dominant Champagne; Brut Réserve and Comtes de Champagne",
+      "seo": {
+        "title": "Champagne Taittinger · LIKE® Magazine Luxury Guide",
+        "description": "Champagne Taittinger in Reims, France — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Champagne Taittinger",
+          "Reims",
+          "France",
+          "Champagne",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Veuve Clicquot",
+      "rank": 51,
+      "region": "Champagne",
+      "country": "France",
+      "city": "Reims",
+      "notes": "Yellow Label Brut Champagne; Pinot Noir-dominant",
+      "seo": {
+        "title": "Veuve Clicquot · LIKE® Magazine Luxury Guide",
+        "description": "Veuve Clicquot in Reims, France — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Veuve Clicquot",
+          "Reims",
+          "France",
+          "Champagne",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Wairau River Wines",
+      "rank": 52,
+      "region": "Marlborough",
+      "country": "New Zealand",
+      "city": "Blenheim",
+      "notes": "Sauvignon Blanc",
+      "seo": {
+        "title": "Wairau River Wines · LIKE® Magazine Luxury Guide",
+        "description": "Wairau River Wines in Blenheim, New Zealand — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Wairau River Wines",
+          "Blenheim",
+          "New Zealand",
+          "Marlborough",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Bodegas Muga",
+      "rank": 53,
+      "region": "Rioja",
+      "country": "Spain",
+      "city": "Haro",
+      "notes": "Rioja; Tempranillo",
+      "seo": {
+        "title": "Bodegas Muga · LIKE® Magazine Luxury Guide",
+        "description": "Bodegas Muga in Haro, Spain — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Bodegas Muga",
+          "Haro",
+          "Spain",
+          "Rioja",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Midalidare Estate",
+      "rank": 54,
+      "region": "Thracian Lowlands",
+      "country": "Bulgaria",
+      "city": "Stara Zagora",
+      "notes": "Traditional-method sparkling wines",
+      "seo": {
+        "title": "Midalidare Estate · LIKE® Magazine Luxury Guide",
+        "description": "Midalidare Estate in Stara Zagora, Bulgaria — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Midalidare Estate",
+          "Stara Zagora",
+          "Bulgaria",
+          "Thracian Lowlands",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Bodega Bouza",
+      "rank": 55,
+      "region": "Montevideo",
+      "country": "Uruguay",
+      "city": "Montevideo",
+      "notes": "Tannat",
+      "seo": {
+        "title": "Bodega Bouza · LIKE® Magazine Luxury Guide",
+        "description": "Bodega Bouza in Montevideo, Uruguay — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Bodega Bouza",
+          "Montevideo",
+          "Uruguay",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Leonardslee Family Vineyards",
+      "rank": 56,
+      "region": "West Sussex",
+      "country": "England",
+      "city": "Horsham",
+      "notes": "English sparkling wine",
+      "seo": {
+        "title": "Leonardslee Family Vineyards · LIKE® Magazine Luxury Guide",
+        "description": "Leonardslee Family Vineyards in Horsham, England — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Leonardslee Family Vineyards",
+          "Horsham",
+          "England",
+          "West Sussex",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Moët & Chandon",
+      "rank": 57,
+      "region": "Champagne",
+      "country": "France",
+      "city": "Épernay",
+      "notes": "Champagne; Moët Impérial and Dom Pérignon",
+      "seo": {
+        "title": "Moët & Chandon · LIKE® Magazine Luxury Guide",
+        "description": "Moët & Chandon in Épernay, France — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Moët & Chandon",
+          "Épernay",
+          "France",
+          "Champagne",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Tokaj-Hétszőlő Organic Vineyards",
+      "rank": 58,
+      "region": "Tokaj",
+      "country": "Hungary",
+      "city": "Tokaj",
+      "notes": "Furmint; Tokaji Aszú",
+      "seo": {
+        "title": "Tokaj-Hétszőlő Organic Vineyards · LIKE® Magazine Luxury Guide",
+        "description": "Tokaj-Hétszőlő Organic Vineyards in Tokaj, Hungary — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Tokaj-Hétszőlő Organic Vineyards",
+          "Tokaj",
+          "Hungary",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Domaine Faiveley",
+      "rank": 59,
+      "region": "Burgundy",
+      "country": "France",
+      "city": "Nuits-Saint-Georges",
+      "notes": "Burgundy Grands Crus; Pinot Noir/Chardonnay",
+      "seo": {
+        "title": "Domaine Faiveley · LIKE® Magazine Luxury Guide",
+        "description": "Domaine Faiveley in Nuits-Saint-Georges, France — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Domaine Faiveley",
+          "Nuits-Saint-Georges",
+          "France",
+          "Burgundy",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Château Pichon Baron",
+      "rank": 60,
+      "region": "Bordeaux",
+      "country": "France",
+      "city": "Pauillac",
+      "notes": "Pauillac Second Grand Cru Classé; Cabernet Sauvignon-dominant red",
+      "seo": {
+        "title": "Château Pichon Baron · LIKE® Magazine Luxury Guide",
+        "description": "Château Pichon Baron in Pauillac, France — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Château Pichon Baron",
+          "Pauillac",
+          "France",
+          "Bordeaux",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Castello Banfi",
+      "rank": 61,
+      "region": "Tuscany",
+      "country": "Italy",
+      "city": "Montalcino",
+      "notes": "Brunello di Montalcino; Sangiovese",
+      "seo": {
+        "title": "Castello Banfi · LIKE® Magazine Luxury Guide",
+        "description": "Castello Banfi in Montalcino, Italy — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Castello Banfi",
+          "Montalcino",
+          "Italy",
+          "Tuscany",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Quinta do Seixo (Sandeman)",
+      "rank": 62,
+      "region": "Douro Valley",
+      "country": "Portugal",
+      "city": "Pinhão",
+      "notes": "Port; Touriga Nacional blends",
+      "seo": {
+        "title": "Quinta do Seixo (Sandeman) · LIKE® Magazine Luxury Guide",
+        "description": "Quinta do Seixo (Sandeman) in Pinhão, Portugal — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Quinta do Seixo (Sandeman)",
+          "Pinhão",
+          "Portugal",
+          "Douro Valley",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Disznókő Vineyards",
+      "rank": 63,
+      "region": "Tokaj",
+      "country": "Hungary",
+      "city": "Mezőzombor",
+      "notes": "Furmint; Tokaji Aszú",
+      "seo": {
+        "title": "Disznókő Vineyards · LIKE® Magazine Luxury Guide",
+        "description": "Disznókő Vineyards in Mezőzombor, Hungary — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Disznókő Vineyards",
+          "Mezőzombor",
+          "Hungary",
+          "Tokaj",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Bodegas Arzuaga",
+      "rank": 64,
+      "region": "Ribera del Duero",
+      "country": "Spain",
+      "city": "Quintanilla de Onésimo",
+      "notes": "Ribera del Duero; Tempranillo",
+      "seo": {
+        "title": "Bodegas Arzuaga · LIKE® Magazine Luxury Guide",
+        "description": "Bodegas Arzuaga in Quintanilla de Onésimo, Spain — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Bodegas Arzuaga",
+          "Quintanilla de Onésimo",
+          "Spain",
+          "Ribera del Duero",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Clos Apalta",
+      "rank": 65,
+      "region": "Colchagua Valley",
+      "country": "Chile",
+      "city": "Santa Cruz",
+      "notes": "Carmenère-led Bordeaux blend",
+      "seo": {
+        "title": "Clos Apalta · LIKE® Magazine Luxury Guide",
+        "description": "Clos Apalta in Santa Cruz, Chile — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Clos Apalta",
+          "Santa Cruz",
+          "Chile",
+          "Colchagua Valley",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Quinta do Bomfim (Symington Family Estates)",
+      "rank": 66,
+      "region": "Douro Valley",
+      "country": "Portugal",
+      "city": "Pinhão",
+      "notes": "Vintage Port; Touriga Nacional blends",
+      "seo": {
+        "title": "Quinta do Bomfim (Symington Family Estates) · LIKE® Magazine Luxury Guide",
+        "description": "Quinta do Bomfim (Symington Family Estates) in Pinhão, Portugal — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Quinta do Bomfim (Symington Family Estates)",
+          "Pinhão",
+          "Portugal",
+          "Douro Valley",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Quinta do Crasto",
+      "rank": 67,
+      "region": "Douro Valley",
+      "country": "Portugal",
+      "city": "Sabrosa",
+      "notes": "Douro reds and Port; Touriga Nacional blends",
+      "seo": {
+        "title": "Quinta do Crasto · LIKE® Magazine Luxury Guide",
+        "description": "Quinta do Crasto in Sabrosa, Portugal — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Quinta do Crasto",
+          "Sabrosa",
+          "Portugal",
+          "Douro Valley",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Domäne Wachau",
+      "rank": 68,
+      "region": "Wachau",
+      "country": "Austria",
+      "city": "Dürnstein",
+      "notes": "Grüner Veltliner; Riesling",
+      "seo": {
+        "title": "Domäne Wachau · LIKE® Magazine Luxury Guide",
+        "description": "Domäne Wachau in Dürnstein, Austria — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Domäne Wachau",
+          "Dürnstein",
+          "Austria",
+          "Wachau",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Herdade do Esporão",
+      "rank": 69,
+      "region": "Alentejo",
+      "country": "Portugal",
+      "city": "Reguengos de Monsaraz",
+      "notes": "Alentejo blends; native Portuguese varieties",
+      "seo": {
+        "title": "Herdade do Esporão · LIKE® Magazine Luxury Guide",
+        "description": "Herdade do Esporão in Reguengos de Monsaraz, Portugal — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Herdade do Esporão",
+          "Reguengos de Monsaraz",
+          "Portugal",
+          "Alentejo",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Finca El Paraíso – Luigi Bosca",
+      "rank": 70,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "city": "Mendoza",
+      "notes": "Malbec",
+      "seo": {
+        "title": "Finca El Paraíso – Luigi Bosca · LIKE® Magazine Luxury Guide",
+        "description": "Finca El Paraíso – Luigi Bosca in Mendoza, Argentina — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Finca El Paraíso – Luigi Bosca",
+          "Mendoza",
+          "Argentina",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Tokara Wine and Olive Estate",
+      "rank": 71,
+      "region": "Stellenbosch",
+      "country": "South Africa",
+      "city": "Stellenbosch",
+      "notes": "Cabernet Sauvignon; Sauvignon Blanc",
+      "seo": {
+        "title": "Tokara Wine and Olive Estate · LIKE® Magazine Luxury Guide",
+        "description": "Tokara Wine and Olive Estate in Stellenbosch, South Africa — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Tokara Wine and Olive Estate",
+          "Stellenbosch",
+          "South Africa",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Château Buera",
+      "rank": 72,
+      "region": "Kakheti",
+      "country": "Georgia",
+      "city": "Napareuli",
+      "notes": "Saperavi",
+      "seo": {
+        "title": "Château Buera · LIKE® Magazine Luxury Guide",
+        "description": "Château Buera in Napareuli, Georgia — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Château Buera",
+          "Napareuli",
+          "Georgia",
+          "Kakheti",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Quinta do Noval",
+      "rank": 73,
+      "region": "Douro Valley",
+      "country": "Portugal",
+      "city": "Pinhão",
+      "notes": "Vintage Port; Touriga Nacional blends",
+      "seo": {
+        "title": "Quinta do Noval · LIKE® Magazine Luxury Guide",
+        "description": "Quinta do Noval in Pinhão, Portugal — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Quinta do Noval",
+          "Pinhão",
+          "Portugal",
+          "Douro Valley",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Quinta Nova de Nossa Senhora do Carmo",
+      "rank": 74,
+      "region": "Douro Valley",
+      "country": "Portugal",
+      "city": "Covas do Douro",
+      "notes": "Douro DOC reds; Touriga Nacional",
+      "seo": {
+        "title": "Quinta Nova de Nossa Senhora do Carmo · LIKE® Magazine Luxury Guide",
+        "description": "Quinta Nova de Nossa Senhora do Carmo in Covas do Douro, Portugal — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Quinta Nova de Nossa Senhora do Carmo",
+          "Covas do Douro",
+          "Portugal",
+          "Douro Valley",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Château Mukhrani",
+      "rank": 75,
+      "region": "Kartli",
+      "country": "Georgia",
+      "city": "Mtskheta",
+      "notes": "Saperavi",
+      "seo": {
+        "title": "Château Mukhrani · LIKE® Magazine Luxury Guide",
+        "description": "Château Mukhrani in Mtskheta, Georgia — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Château Mukhrani",
+          "Mtskheta",
+          "Georgia",
+          "Kartli",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Philipponnat",
+      "rank": 76,
+      "region": "Champagne",
+      "country": "France",
+      "city": "Épernay",
+      "notes": "Pinot Noir-dominant Champagne; Clos des Goisses",
+      "seo": {
+        "title": "Philipponnat · LIKE® Magazine Luxury Guide",
+        "description": "Philipponnat in Épernay, France — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Philipponnat",
+          "Épernay",
+          "France",
+          "Champagne",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "M. Chapoutier",
+      "rank": 77,
+      "region": "Rhône Valley",
+      "country": "France",
+      "city": "Tain-l'Hermitage",
+      "notes": "Hermitage and Rhône reds; biodynamic Syrah",
+      "seo": {
+        "title": "M. Chapoutier · LIKE® Magazine Luxury Guide",
+        "description": "M. Chapoutier in Tain-l'Hermitage, France — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "M. Chapoutier",
+          "Tain-l'Hermitage",
+          "France",
+          "Rhône Valley",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Azienda Agricola Arianna Occhipinti",
+      "rank": 78,
+      "region": "Sicily",
+      "country": "Italy",
+      "city": "Vittoria",
+      "notes": "Cerasuolo di Vittoria; Frappato and Nero d'Avola",
+      "seo": {
+        "title": "Azienda Agricola Arianna Occhipinti · LIKE® Magazine Luxury Guide",
+        "description": "Azienda Agricola Arianna Occhipinti in Vittoria, Italy — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Azienda Agricola Arianna Occhipinti",
+          "Vittoria",
+          "Italy",
+          "Sicily",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Delaire Graff Estate",
+      "rank": 79,
+      "region": "Stellenbosch",
+      "country": "South Africa",
+      "city": "Stellenbosch",
+      "notes": "Laurence Graff Reserve",
+      "seo": {
+        "title": "Delaire Graff Estate · LIKE® Magazine Luxury Guide",
+        "description": "Delaire Graff Estate in Stellenbosch, South Africa — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Delaire Graff Estate",
+          "Stellenbosch",
+          "South Africa",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Marchesi di Barolo",
+      "rank": 80,
+      "region": "Piedmont",
+      "country": "Italy",
+      "city": "Barolo",
+      "notes": "Barolo; Nebbiolo",
+      "seo": {
+        "title": "Marchesi di Barolo · LIKE® Magazine Luxury Guide",
+        "description": "Marchesi di Barolo in Barolo, Italy — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Marchesi di Barolo",
+          "Barolo",
+          "Italy",
+          "Piedmont",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Tenuta Cavalier Pepe",
+      "rank": 81,
+      "region": "Campania",
+      "country": "Italy",
+      "city": "Sant'Angelo all'Esca",
+      "notes": "Taurasi; Aglianico",
+      "seo": {
+        "title": "Tenuta Cavalier Pepe · LIKE® Magazine Luxury Guide",
+        "description": "Tenuta Cavalier Pepe in Sant'Angelo all'Esca, Italy — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Tenuta Cavalier Pepe",
+          "Sant'Angelo all'Esca",
+          "Italy",
+          "Campania",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Weingut Tement",
+      "rank": 82,
+      "region": "Styria",
+      "country": "Austria",
+      "city": "Ehrenhausen",
+      "notes": "Sauvignon Blanc",
+      "seo": {
+        "title": "Weingut Tement · LIKE® Magazine Luxury Guide",
+        "description": "Weingut Tement in Ehrenhausen, Austria — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Weingut Tement",
+          "Ehrenhausen",
+          "Austria",
+          "Styria",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Masi",
+      "rank": 83,
+      "region": "Veneto",
+      "country": "Italy",
+      "city": "Sant'Ambrogio di Valpolicella",
+      "notes": "Amarone; Corvina blends",
+      "seo": {
+        "title": "Masi · LIKE® Magazine Luxury Guide",
+        "description": "Masi in Sant'Ambrogio di Valpolicella, Italy — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Masi",
+          "Sant'Ambrogio di Valpolicella",
+          "Italy",
+          "Veneto",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Quinta do Vallado",
+      "rank": 84,
+      "region": "Douro Valley",
+      "country": "Portugal",
+      "city": "Peso da Régua",
+      "notes": "Douro reds and Port; Touriga Nacional blends",
+      "seo": {
+        "title": "Quinta do Vallado · LIKE® Magazine Luxury Guide",
+        "description": "Quinta do Vallado in Peso da Régua, Portugal — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Quinta do Vallado",
+          "Peso da Régua",
+          "Portugal",
+          "Douro Valley",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Taylor's Port Cellars",
+      "rank": 85,
+      "region": "Porto",
+      "country": "Portugal",
+      "city": "Vila Nova de Gaia",
+      "notes": "Port; Touriga Nacional blends",
+      "seo": {
+        "title": "Taylor's Port Cellars · LIKE® Magazine Luxury Guide",
+        "description": "Taylor's Port Cellars in Vila Nova de Gaia, Portugal — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Taylor's Port Cellars",
+          "Vila Nova de Gaia",
+          "Portugal",
+          "Porto",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Bodegas Granbazán",
+      "rank": 86,
+      "region": "Rías Baixas",
+      "country": "Spain",
+      "city": "Vilanova de Arousa",
+      "notes": "Rías Baixas; Albariño",
+      "seo": {
+        "title": "Bodegas Granbazán · LIKE® Magazine Luxury Guide",
+        "description": "Bodegas Granbazán in Vilanova de Arousa, Spain — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Bodegas Granbazán",
+          "Vilanova de Arousa",
+          "Spain",
+          "Rías Baixas",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Casanova di Neri",
+      "rank": 87,
+      "region": "Tuscany",
+      "country": "Italy",
+      "city": "Montalcino",
+      "notes": "Brunello di Montalcino; Sangiovese",
+      "seo": {
+        "title": "Casanova di Neri · LIKE® Magazine Luxury Guide",
+        "description": "Casanova di Neri in Montalcino, Italy — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Casanova di Neri",
+          "Montalcino",
+          "Italy",
+          "Tuscany",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Beringer Vineyards",
+      "rank": 88,
+      "region": "Napa Valley",
+      "country": "USA",
+      "city": "St. Helena",
+      "notes": "Private Reserve Cabernet Sauvignon",
+      "seo": {
+        "title": "Beringer Vineyards · LIKE® Magazine Luxury Guide",
+        "description": "Beringer Vineyards in St. Helena, USA — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Beringer Vineyards",
+          "St. Helena",
+          "USA",
+          "Napa Valley",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Greystone Winery",
+      "rank": 89,
+      "region": "Waipara",
+      "country": "New Zealand",
+      "city": "Waipara",
+      "notes": "Pinot Noir; Chardonnay",
+      "seo": {
+        "title": "Greystone Winery · LIKE® Magazine Luxury Guide",
+        "description": "Greystone Winery in Waipara, New Zealand — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Greystone Winery",
+          "Waipara",
+          "New Zealand",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Kumeu River Wines",
+      "rank": 90,
+      "region": "Auckland",
+      "country": "New Zealand",
+      "city": "Auckland",
+      "notes": "Chardonnay",
+      "seo": {
+        "title": "Kumeu River Wines · LIKE® Magazine Luxury Guide",
+        "description": "Kumeu River Wines in Auckland, New Zealand — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Kumeu River Wines",
+          "Auckland",
+          "New Zealand",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Sitio La Estocada",
+      "rank": 91,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "city": "Mendoza",
+      "notes": "Sauvignon Blanc (Agua de Roca)",
+      "seo": {
+        "title": "Sitio La Estocada · LIKE® Magazine Luxury Guide",
+        "description": "Sitio La Estocada in Mendoza, Argentina — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Sitio La Estocada",
+          "Mendoza",
+          "Argentina",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Chateau Kefraya",
+      "rank": 92,
+      "region": "West Bekaa Valley",
+      "country": "Lebanon",
+      "city": "Kefraya",
+      "notes": "Red blends; Cabernet Sauvignon/Syrah",
+      "seo": {
+        "title": "Chateau Kefraya · LIKE® Magazine Luxury Guide",
+        "description": "Chateau Kefraya in Kefraya, Lebanon — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Chateau Kefraya",
+          "Kefraya",
+          "Lebanon",
+          "West Bekaa Valley",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Bodega DiamAndes",
+      "rank": 93,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "city": "Mendoza",
+      "notes": "Malbec",
+      "seo": {
+        "title": "Bodega DiamAndes · LIKE® Magazine Luxury Guide",
+        "description": "Bodega DiamAndes in Mendoza, Argentina — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Bodega DiamAndes",
+          "Mendoza",
+          "Argentina",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "La Motte Wine Estate",
+      "rank": 94,
+      "region": "Franschhoek Valley",
+      "country": "South Africa",
+      "city": "Franschhoek",
+      "notes": "Hanneli R",
+      "seo": {
+        "title": "La Motte Wine Estate · LIKE® Magazine Luxury Guide",
+        "description": "La Motte Wine Estate in Franschhoek, South Africa — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "La Motte Wine Estate",
+          "Franschhoek",
+          "South Africa",
+          "Franschhoek Valley",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Bodega Lagarde",
+      "rank": 95,
+      "region": "Mendoza",
+      "country": "Argentina",
+      "city": "Mendoza",
+      "notes": "Malbec",
+      "seo": {
+        "title": "Bodega Lagarde · LIKE® Magazine Luxury Guide",
+        "description": "Bodega Lagarde in Mendoza, Argentina — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Bodega Lagarde",
+          "Mendoza",
+          "Argentina",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Balfour Winery",
+      "rank": 96,
+      "region": "Kent",
+      "country": "England",
+      "city": "Staplehurst",
+      "notes": "English sparkling wine",
+      "seo": {
+        "title": "Balfour Winery · LIKE® Magazine Luxury Guide",
+        "description": "Balfour Winery in Staplehurst, England — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Balfour Winery",
+          "Staplehurst",
+          "England",
+          "Kent",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Cos d'Estournel",
+      "rank": 97,
+      "region": "Bordeaux",
+      "country": "France",
+      "city": "Bordeaux",
+      "notes": "Saint-Estèphe Second Grand Cru Classé; Cabernet Sauvignon/Merlot",
+      "seo": {
+        "title": "Cos d'Estournel · LIKE® Magazine Luxury Guide",
+        "description": "Cos d'Estournel in Bordeaux, France — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Cos d'Estournel",
+          "Bordeaux",
+          "France",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Felton Road",
+      "rank": 98,
+      "region": "Central Otago",
+      "country": "New Zealand",
+      "city": "Cromwell",
+      "notes": "Pinot Noir",
+      "seo": {
+        "title": "Felton Road · LIKE® Magazine Luxury Guide",
+        "description": "Felton Road in Cromwell, New Zealand — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Felton Road",
+          "Cromwell",
+          "New Zealand",
+          "Central Otago",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Hamilton Russell Vineyards",
+      "rank": 99,
+      "region": "Hemel-en-Aarde",
+      "country": "South Africa",
+      "city": "Hermanus",
+      "notes": "Pinot Noir; Chardonnay",
+      "seo": {
+        "title": "Hamilton Russell Vineyards · LIKE® Magazine Luxury Guide",
+        "description": "Hamilton Russell Vineyards in Hermanus, South Africa — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Hamilton Russell Vineyards",
+          "Hermanus",
+          "South Africa",
+          "Hemel-en-Aarde",
+          "wineries"
+        ]
+      }
+    },
+    {
+      "name": "Ata Rangi",
+      "rank": 100,
+      "region": "Martinborough",
+      "country": "New Zealand",
+      "city": "Martinborough",
+      "notes": "Pinot Noir",
+      "seo": {
+        "title": "Ata Rangi · LIKE® Magazine Luxury Guide",
+        "description": "Ata Rangi in Martinborough, New Zealand — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Ata Rangi",
+          "Martinborough",
+          "New Zealand",
+          "wineries"
+        ]
+      }
+    }
+  ]
+}

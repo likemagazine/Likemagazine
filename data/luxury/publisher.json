@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://likeleaders.com/#organization",
+      "name": "LIKE® Magazine",
+      "alternateName": [
+        "LIKE Magazine",
+        "LIKE®",
+        "likeleaders",
+        "LIKE Leaders"
+      ],
+      "url": "https://likeleaders.com",
+      "sameAs": [
+        "https://likeleaders.com"
+      ],
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://likeleaders.com/assets/like-magazine-logo.png"
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://likeleaders.com/#website",
+      "name": "LIKE® Magazine",
+      "url": "https://likeleaders.com",
+      "publisher": {
+        "@id": "https://likeleaders.com/#organization"
+      },
+      "inLanguage": "en"
+    }
+  ]
+}
