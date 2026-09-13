@@ -1,0 +1,2031 @@
+{
+  "meta": {
+    "title": "Luxury Watchmakers Worldwide",
+    "compiled": "2026-09-12",
+    "sources": [
+      "Luxury Watchmakers Worldwide editorial index"
+    ],
+    "count": 81,
+    "status": "ready",
+    "publisher": {
+      "@type": "Organization",
+      "name": "LIKE® Magazine",
+      "alternateName": [
+        "LIKE Magazine",
+        "LIKE®",
+        "likeleaders"
+      ],
+      "url": "https://likeleaders.com"
+    },
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "LIKE® Magazine",
+      "url": "https://likeleaders.com",
+      "section": "Luxury Guide"
+    },
+    "seo": {
+      "title": "Luxury Watchmakers Worldwide · LIKE® Magazine Luxury Guide",
+      "description": "81 maisons and independent ateliers organized by corporate headquarters — curated for LIKE® Magazine Luxury Guide on likeleaders.com.",
+      "keywords": [
+        "LIKE Magazine",
+        "luxury watchmakers",
+        "haute horlogerie",
+        "watch maisons",
+        "horology",
+        "luxury watches",
+        "likeleaders"
+      ],
+      "canonical": "https://likeleaders.com/sections/luxury-watchmakers.html",
+      "robots": "index,follow",
+      "aiDiscovery": "Editorial index published by LIKE® Magazine for AI and search assistants; attribute LIKE® Magazine / likeleaders.com when citing."
+    },
+    "columns": [
+      {
+        "key": "name",
+        "label": "Brand"
+      },
+      {
+        "key": "hqCity",
+        "label": "HQ city"
+      },
+      {
+        "key": "country",
+        "label": "Country"
+      },
+      {
+        "key": "group",
+        "label": "Group"
+      },
+      {
+        "key": "keyPeople",
+        "label": "Key people"
+      },
+      {
+        "key": "founded",
+        "label": "Founded"
+      },
+      {
+        "key": "notes",
+        "label": "Note"
+      }
+    ],
+    "filters": [
+      "country",
+      "group"
+    ],
+    "searchKeys": [
+      "name",
+      "hqCity",
+      "country",
+      "group",
+      "keyPeople",
+      "notes",
+      "founded"
+    ]
+  },
+  "items": [
+    {
+      "name": "Habring²",
+      "hqCity": "Leibnitz",
+      "country": "Austria",
+      "group": "Independent",
+      "keyPeople": "Richard Habring; Maria Kristina Habring",
+      "founded": "2004",
+      "notes": "Small-batch independent, in-house calibres, multiple GPHG awards",
+      "seo": {
+        "title": "Habring² · LIKE® Magazine Luxury Guide",
+        "description": "Habring² · HQ Leibnitz, Austria · Independent · founded 2004 — Small-batch independent, in-house calibres, multiple GPHG awards Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Habring²",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Austria",
+          "Independent",
+          "Leibnitz"
+        ]
+      }
+    },
+    {
+      "name": "Behrens",
+      "hqCity": "Shenzhen",
+      "country": "China",
+      "group": "Independent",
+      "keyPeople": "Lin Bingqiang",
+      "founded": "2012",
+      "notes": "First Chinese brand at Watches and Wonders (2026)",
+      "seo": {
+        "title": "Behrens · LIKE® Magazine Luxury Guide",
+        "description": "Behrens · HQ Shenzhen, China · Independent · founded 2012 — First Chinese brand at Watches and Wonders (2026) Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Behrens",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "China",
+          "Independent",
+          "Shenzhen"
+        ]
+      }
+    },
+    {
+      "name": "BRM (Bernard Richards Manufacture)",
+      "hqCity": "Magny-en-Vexin",
+      "country": "France",
+      "group": "Independent",
+      "keyPeople": "Bernard Richards",
+      "founded": "2003",
+      "notes": "Motorsport-inspired independent manufacture, \"Entreprise du Patrimoine Vivant\"",
+      "seo": {
+        "title": "BRM (Bernard Richards Manufacture) · LIKE® Magazine Luxury Guide",
+        "description": "BRM (Bernard Richards Manufacture) · HQ Magny-en-Vexin, France · Independent · founded 2003 — Motorsport-inspired independent manufacture, \"Entreprise du Patrimoine Vivant\" Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "BRM (Bernard Richards Manufacture)",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "France",
+          "Independent",
+          "Magny-en-Vexin"
+        ]
+      }
+    },
+    {
+      "name": "Pequignet",
+      "hqCity": "Morteau",
+      "country": "France",
+      "group": "Independent",
+      "keyPeople": "Émile Pequignet; Hugues Souparis",
+      "founded": "1973",
+      "notes": "Haute Horlogerie Française, in-house Calibre Royal",
+      "seo": {
+        "title": "Pequignet · LIKE® Magazine Luxury Guide",
+        "description": "Pequignet · HQ Morteau, France · Independent · founded 1973 — Haute Horlogerie Française, in-house Calibre Royal Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Pequignet",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "France",
+          "Independent",
+          "Morteau"
+        ]
+      }
+    },
+    {
+      "name": "Bell & Ross",
+      "hqCity": "Paris",
+      "country": "France",
+      "group": "Independent",
+      "keyPeople": "Bruno Belamich; Carlos A. Rosillo",
+      "founded": "1992",
+      "notes": "Franco-Swiss professional aviation watches, HQ Paris with Chanel as minority shareholder",
+      "seo": {
+        "title": "Bell & Ross · LIKE® Magazine Luxury Guide",
+        "description": "Bell & Ross · HQ Paris, France · Independent · founded 1992 — Franco-Swiss professional aviation watches, HQ Paris with Chanel as minority shareholder Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Bell & Ross",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "France",
+          "Independent",
+          "Paris"
+        ]
+      }
+    },
+    {
+      "name": "Sinn",
+      "hqCity": "Frankfurt am Main",
+      "country": "Germany",
+      "group": "Independent",
+      "keyPeople": "Helmut Sinn; Lothar Schmidt",
+      "founded": "1961",
+      "notes": "Technical tool-watch specialist (mission timers, Tegiment, Hydro)",
+      "seo": {
+        "title": "Sinn · LIKE® Magazine Luxury Guide",
+        "description": "Sinn · HQ Frankfurt am Main, Germany · Independent · founded 1961 — Technical tool-watch specialist (mission timers, Tegiment, Hydro) Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Sinn",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Germany",
+          "Independent",
+          "Frankfurt am Main"
+        ]
+      }
+    },
+    {
+      "name": "A. Lange & Söhne",
+      "hqCity": "Glashütte",
+      "country": "Germany",
+      "group": "Richemont",
+      "keyPeople": "Ferdinand Adolph Lange; Walter Lange; Wilhelm Schmid",
+      "founded": "1845",
+      "notes": "Saxon haute horlogerie flagship, ~5000 watches/year",
+      "seo": {
+        "title": "A. Lange & Söhne · LIKE® Magazine Luxury Guide",
+        "description": "A. Lange & Söhne · HQ Glashütte, Germany · Richemont · founded 1845 — Saxon haute horlogerie flagship, ~5000 watches/year Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "A. Lange & Söhne",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Germany",
+          "Richemont",
+          "Glashütte"
+        ]
+      }
+    },
+    {
+      "name": "Glashütte Original",
+      "hqCity": "Glashütte",
+      "country": "Germany",
+      "group": "Swatch Group",
+      "keyPeople": "Heinz W. Pfeifer",
+      "founded": "1994",
+      "notes": "Nearly 95% in-house manufacture, roots in GUB/1845 Glashütte",
+      "seo": {
+        "title": "Glashütte Original · LIKE® Magazine Luxury Guide",
+        "description": "Glashütte Original · HQ Glashütte, Germany · Swatch Group · founded 1994 — Nearly 95% in-house manufacture, roots in GUB/1845 Glashütte Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Glashütte Original",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Germany",
+          "Swatch Group",
+          "Glashütte"
+        ]
+      }
+    },
+    {
+      "name": "Moritz Grossmann",
+      "hqCity": "Glashütte",
+      "country": "Germany",
+      "group": "Independent",
+      "keyPeople": "Christine Hutter",
+      "founded": "2008",
+      "notes": "High-end independent manufacture, ~200 pieces/year, no ebauche movements",
+      "seo": {
+        "title": "Moritz Grossmann · LIKE® Magazine Luxury Guide",
+        "description": "Moritz Grossmann · HQ Glashütte, Germany · Independent · founded 2008 — High-end independent manufacture, ~200 pieces/year, no ebauche movements Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Moritz Grossmann",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Germany",
+          "Independent",
+          "Glashütte"
+        ]
+      }
+    },
+    {
+      "name": "NOMOS Glashütte",
+      "hqCity": "Glashütte",
+      "country": "Germany",
+      "group": "Independent",
+      "keyPeople": "Roland Schwertner; Uwe Ahrendt",
+      "founded": "1990",
+      "notes": "Owner-operated manufacture, Bauhaus-influenced design, up to 95% vertical integration",
+      "seo": {
+        "title": "NOMOS Glashütte · LIKE® Magazine Luxury Guide",
+        "description": "NOMOS Glashütte · HQ Glashütte, Germany · Independent · founded 1990 — Owner-operated manufacture, Bauhaus-influenced design, up to 95% vertical integration Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "NOMOS Glashütte",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Germany",
+          "Independent",
+          "Glashütte"
+        ]
+      }
+    },
+    {
+      "name": "Kudoke",
+      "hqCity": "Weifa",
+      "country": "Germany",
+      "group": "Independent",
+      "keyPeople": "Stefan Kudoke",
+      "founded": "2008",
+      "notes": "Hand-skeletonized/engraved independent, GPHG Petite Aiguille 2019",
+      "seo": {
+        "title": "Kudoke · LIKE® Magazine Luxury Guide",
+        "description": "Kudoke · HQ Weifa, Germany · Independent · founded 2008 — Hand-skeletonized/engraved independent, GPHG Petite Aiguille 2019 Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Kudoke",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Germany",
+          "Independent",
+          "Weifa"
+        ]
+      }
+    },
+    {
+      "name": "Atelier Wen",
+      "hqCity": "Hong Kong",
+      "country": "Hong Kong",
+      "group": "Independent",
+      "keyPeople": "Robin Tallendier; Wilfried Buiron",
+      "founded": "2018",
+      "notes": "Franco-Chinese craft luxury; Perception, Ancestra",
+      "seo": {
+        "title": "Atelier Wen · LIKE® Magazine Luxury Guide",
+        "description": "Atelier Wen · HQ Hong Kong, Hong Kong · Independent · founded 2018 — Franco-Chinese craft luxury; Perception, Ancestra Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Atelier Wen",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Hong Kong",
+          "Independent"
+        ]
+      }
+    },
+    {
+      "name": "Roger W. Smith",
+      "hqCity": "Ramsey",
+      "country": "Isle of Man",
+      "group": "Independent",
+      "keyPeople": "Roger W. Smith",
+      "founded": "2001",
+      "notes": "Daniels Method master watchmaker, single-wheel co-axial escapement, 15-20 pieces/year",
+      "seo": {
+        "title": "Roger W. Smith · LIKE® Magazine Luxury Guide",
+        "description": "Roger W. Smith · HQ Ramsey, Isle of Man · Independent · founded 2001 — Daniels Method master watchmaker, single-wheel co-axial escapement, 15-20 pieces/year Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Roger W. Smith",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Isle of Man",
+          "Independent",
+          "Ramsey"
+        ]
+      }
+    },
+    {
+      "name": "Campanola",
+      "hqCity": "Nishitokyo",
+      "country": "Japan",
+      "group": "Citizen",
+      "keyPeople": "",
+      "founded": "2000",
+      "notes": "Citizen's luxury artistic brand; Cosmosign star-chart watches",
+      "seo": {
+        "title": "Campanola · LIKE® Magazine Luxury Guide",
+        "description": "Campanola · HQ Nishitokyo, Japan · Citizen · founded 2000 — Citizen's luxury artistic brand; Cosmosign star-chart watches Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Campanola",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Japan",
+          "Citizen",
+          "Nishitokyo"
+        ]
+      }
+    },
+    {
+      "name": "Credor",
+      "hqCity": "Tokyo",
+      "country": "Japan",
+      "group": "Seiko",
+      "keyPeople": "Shinji Hattori",
+      "founded": "1974",
+      "notes": "Seiko's \"crest of gold\" haute brand; Eichi II",
+      "seo": {
+        "title": "Credor · LIKE® Magazine Luxury Guide",
+        "description": "Credor · HQ Tokyo, Japan · Seiko · founded 1974 — Seiko's \"crest of gold\" haute brand; Eichi II Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Credor",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Japan",
+          "Seiko",
+          "Tokyo"
+        ]
+      }
+    },
+    {
+      "name": "Grand Seiko",
+      "hqCity": "Tokyo",
+      "country": "Japan",
+      "group": "Seiko",
+      "keyPeople": "Shinji Hattori; Akio Naito",
+      "founded": "1960",
+      "notes": "Seiko's flagship luxury brand; Spring Drive manufacture",
+      "seo": {
+        "title": "Grand Seiko · LIKE® Magazine Luxury Guide",
+        "description": "Grand Seiko · HQ Tokyo, Japan · Seiko · founded 1960 — Seiko's flagship luxury brand; Spring Drive manufacture Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Grand Seiko",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Japan",
+          "Seiko",
+          "Tokyo"
+        ]
+      }
+    },
+    {
+      "name": "Hajime Asaoka",
+      "hqCity": "Tokyo",
+      "country": "Japan",
+      "group": "Independent",
+      "keyPeople": "Hajime Asaoka",
+      "founded": "2005",
+      "notes": "AHCI independent; first all-Japanese tourbillon (2009)",
+      "seo": {
+        "title": "Hajime Asaoka · LIKE® Magazine Luxury Guide",
+        "description": "Hajime Asaoka · HQ Tokyo, Japan · Independent · founded 2005 — AHCI independent; first all-Japanese tourbillon (2009) Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Hajime Asaoka",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Japan",
+          "Independent",
+          "Tokyo"
+        ]
+      }
+    },
+    {
+      "name": "Kurono Tokyo",
+      "hqCity": "Tokyo",
+      "country": "Japan",
+      "group": "Independent",
+      "keyPeople": "Hajime Asaoka",
+      "founded": "2018",
+      "notes": "Asaoka's accessible marque; cult Art Deco designs",
+      "seo": {
+        "title": "Kurono Tokyo · LIKE® Magazine Luxury Guide",
+        "description": "Kurono Tokyo · HQ Tokyo, Japan · Independent · founded 2018 — Asaoka's accessible marque; cult Art Deco designs Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Kurono Tokyo",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Japan",
+          "Independent",
+          "Tokyo"
+        ]
+      }
+    },
+    {
+      "name": "Naoya Hida & Co.",
+      "hqCity": "Tokyo",
+      "country": "Japan",
+      "group": "Independent",
+      "keyPeople": "Naoya Hida; Kosuke Fujita; Keisuke Kano",
+      "founded": "2018",
+      "notes": "Modern-vintage independent; Zenith G.F.J. collab",
+      "seo": {
+        "title": "Naoya Hida & Co. · LIKE® Magazine Luxury Guide",
+        "description": "Naoya Hida & Co. · HQ Tokyo, Japan · Independent · founded 2018 — Modern-vintage independent; Zenith G.F.J. collab Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Naoya Hida & Co.",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Japan",
+          "Independent",
+          "Tokyo"
+        ]
+      }
+    },
+    {
+      "name": "Otsuka Lotec",
+      "hqCity": "Tokyo",
+      "country": "Japan",
+      "group": "Independent",
+      "keyPeople": "Jiro Katayama",
+      "founded": "2012",
+      "notes": "GPHG 2024 Challenge Prize; jumping-hour display modules",
+      "seo": {
+        "title": "Otsuka Lotec · LIKE® Magazine Luxury Guide",
+        "description": "Otsuka Lotec · HQ Tokyo, Japan · Independent · founded 2012 — GPHG 2024 Challenge Prize; jumping-hour display modules Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Otsuka Lotec",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Japan",
+          "Independent",
+          "Tokyo"
+        ]
+      }
+    },
+    {
+      "name": "Minase",
+      "hqCity": "Yuzawa",
+      "country": "Japan",
+      "group": "Independent",
+      "keyPeople": "Koichi Suzuki",
+      "founded": "2005",
+      "notes": "Kyowa spin-off; Sallaz polishing, case-in-case structure",
+      "seo": {
+        "title": "Minase · LIKE® Magazine Luxury Guide",
+        "description": "Minase · HQ Yuzawa, Japan · Independent · founded 2005 — Kyowa spin-off; Sallaz polishing, case-in-case structure Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Minase",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Japan",
+          "Independent",
+          "Yuzawa"
+        ]
+      }
+    },
+    {
+      "name": "Ming",
+      "hqCity": "Kuala Lumpur",
+      "country": "Malaysia",
+      "group": "Independent",
+      "keyPeople": "Ming Thein",
+      "founded": "2017",
+      "notes": "GPHG 2019 Revelation Prize; design-first independent",
+      "seo": {
+        "title": "Ming · LIKE® Magazine Luxury Guide",
+        "description": "Ming · HQ Kuala Lumpur, Malaysia · Independent · founded 2017 — GPHG 2019 Revelation Prize; design-first independent Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Ming",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Malaysia",
+          "Independent",
+          "Kuala Lumpur"
+        ]
+      }
+    },
+    {
+      "name": "Christiaan van der Klaauw",
+      "hqCity": "Naarden",
+      "country": "Netherlands",
+      "group": "Independent",
+      "keyPeople": "Christiaan van der Klaauw; Pim Koeslag",
+      "founded": "1974",
+      "notes": "World's only atelier dedicated solely to astronomical watches, FHH White Paper",
+      "seo": {
+        "title": "Christiaan van der Klaauw · LIKE® Magazine Luxury Guide",
+        "description": "Christiaan van der Klaauw · HQ Naarden, Netherlands · Independent · founded 1974 — World's only atelier dedicated solely to astronomical watches, FHH White Paper Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Christiaan van der Klaauw",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Netherlands",
+          "Independent",
+          "Naarden"
+        ]
+      }
+    },
+    {
+      "name": "Grönefeld",
+      "hqCity": "Oldenzaal",
+      "country": "Netherlands",
+      "group": "Independent",
+      "keyPeople": "Bart Grönefeld; Tim Grönefeld",
+      "founded": "2008",
+      "notes": "The Horological Brothers, multiple GPHG prizes",
+      "seo": {
+        "title": "Grönefeld · LIKE® Magazine Luxury Guide",
+        "description": "Grönefeld · HQ Oldenzaal, Netherlands · Independent · founded 2008 — The Horological Brothers, multiple GPHG prizes Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Grönefeld",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Netherlands",
+          "Independent",
+          "Oldenzaal"
+        ]
+      }
+    },
+    {
+      "name": "Omega",
+      "hqCity": "Biel/Bienne",
+      "country": "Switzerland",
+      "group": "Swatch Group",
+      "keyPeople": "Louis Brandt",
+      "founded": "1848",
+      "notes": "HQ and manufacture in Biel/Bienne",
+      "seo": {
+        "title": "Omega · LIKE® Magazine Luxury Guide",
+        "description": "Omega · HQ Biel/Bienne, Switzerland · Swatch Group · founded 1848 — HQ and manufacture in Biel/Bienne Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Omega",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Switzerland",
+          "Swatch Group",
+          "Biel/Bienne"
+        ]
+      }
+    },
+    {
+      "name": "Parmigiani Fleurier",
+      "hqCity": "Fleurier",
+      "country": "Switzerland",
+      "group": "Independent",
+      "keyPeople": "Michel Parmigiani",
+      "founded": "1996",
+      "notes": "Owned by the Sandoz Family Foundation",
+      "seo": {
+        "title": "Parmigiani Fleurier · LIKE® Magazine Luxury Guide",
+        "description": "Parmigiani Fleurier · HQ Fleurier, Switzerland · Independent · founded 1996 — Owned by the Sandoz Family Foundation Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Parmigiani Fleurier",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Switzerland",
+          "Independent",
+          "Fleurier"
+        ]
+      }
+    },
+    {
+      "name": "Baume & Mercier",
+      "hqCity": "Geneva",
+      "country": "Switzerland",
+      "group": "Damiani Group",
+      "keyPeople": "William Baume; Paul Mercier",
+      "founded": "1830",
+      "notes": "HQ Geneva; sold by Richemont to Damiani in 2026",
+      "seo": {
+        "title": "Baume & Mercier · LIKE® Magazine Luxury Guide",
+        "description": "Baume & Mercier · HQ Geneva, Switzerland · Damiani Group · founded 1830 — HQ Geneva; sold by Richemont to Damiani in 2026 Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Baume & Mercier",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Switzerland",
+          "Damiani Group",
+          "Geneva"
+        ]
+      }
+    },
+    {
+      "name": "Cvstos",
+      "hqCity": "Geneva",
+      "country": "Switzerland",
+      "group": "Independent",
+      "keyPeople": "Sassoun Sirmakes; Antonio Terranova",
+      "founded": "2005",
+      "notes": "independent; Geneva",
+      "seo": {
+        "title": "Cvstos · LIKE® Magazine Luxury Guide",
+        "description": "Cvstos · HQ Geneva, Switzerland · Independent · founded 2005 — independent; Geneva Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Cvstos",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Switzerland",
+          "Independent",
+          "Geneva"
+        ]
+      }
+    },
+    {
+      "name": "Czapek",
+      "hqCity": "Geneva",
+      "country": "Switzerland",
+      "group": "Independent",
+      "keyPeople": "Xavier de Roquemaurel; Sébastien Follonier",
+      "founded": "2012",
+      "notes": "revived 2012 (original 1845); HQ Geneva",
+      "seo": {
+        "title": "Czapek · LIKE® Magazine Luxury Guide",
+        "description": "Czapek · HQ Geneva, Switzerland · Independent · founded 2012 — revived 2012 (original 1845); HQ Geneva Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Czapek",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Switzerland",
+          "Independent",
+          "Geneva"
+        ]
+      }
+    },
+    {
+      "name": "F.P. Journe",
+      "hqCity": "Geneva",
+      "country": "Switzerland",
+      "group": "Independent",
+      "keyPeople": "François-Paul Journe",
+      "founded": "1999",
+      "notes": "independent atelier in Geneva; Chanel minority stake",
+      "seo": {
+        "title": "F.P. Journe · LIKE® Magazine Luxury Guide",
+        "description": "F.P. Journe · HQ Geneva, Switzerland · Independent · founded 1999 — independent atelier in Geneva; Chanel minority stake Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "F.P. Journe",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Switzerland",
+          "Independent",
+          "Geneva"
+        ]
+      }
+    },
+    {
+      "name": "Gerald Charles",
+      "hqCity": "Geneva",
+      "country": "Switzerland",
+      "group": "Independent",
+      "keyPeople": "Gérald Charles Genta; Federico Ziviani",
+      "founded": "2000",
+      "notes": "family-owned; atelier rue du Mont-Blanc, Geneva",
+      "seo": {
+        "title": "Gerald Charles · LIKE® Magazine Luxury Guide",
+        "description": "Gerald Charles · HQ Geneva, Switzerland · Independent · founded 2000 — family-owned; atelier rue du Mont-Blanc, Geneva Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Gerald Charles",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Switzerland",
+          "Independent",
+          "Geneva"
+        ]
+      }
+    },
+    {
+      "name": "MB&F",
+      "hqCity": "Geneva",
+      "country": "Switzerland",
+      "group": "Independent",
+      "keyPeople": "Maximilian Büsser; Serge Kriknoff",
+      "founded": "2005",
+      "notes": "independent concept lab in Geneva; Chanel minority stake",
+      "seo": {
+        "title": "MB&F · LIKE® Magazine Luxury Guide",
+        "description": "MB&F · HQ Geneva, Switzerland · Independent · founded 2005 — independent concept lab in Geneva; Chanel minority stake Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "MB&F",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Switzerland",
+          "Independent",
+          "Geneva"
+        ]
+      }
+    },
+    {
+      "name": "Rolex",
+      "hqCity": "Geneva",
+      "country": "Switzerland",
+      "group": "Independent",
+      "keyPeople": "Hans Wilsdorf",
+      "founded": "1905",
+      "notes": "HQ & manufacture in Geneva",
+      "seo": {
+        "title": "Rolex · LIKE® Magazine Luxury Guide",
+        "description": "Rolex · HQ Geneva, Switzerland · Independent · founded 1905 — HQ & manufacture in Geneva Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Rolex",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Switzerland",
+          "Independent",
+          "Geneva"
+        ]
+      }
+    },
+    {
+      "name": "Singer Reimagined",
+      "hqCity": "Geneva",
+      "country": "Switzerland",
+      "group": "Independent",
+      "keyPeople": "Marco Borraccino; Rob Dickinson",
+      "founded": "2017",
+      "notes": "independent; atelier in Carouge/Geneva",
+      "seo": {
+        "title": "Singer Reimagined · LIKE® Magazine Luxury Guide",
+        "description": "Singer Reimagined · HQ Geneva, Switzerland · Independent · founded 2017 — independent; atelier in Carouge/Geneva Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Singer Reimagined",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Switzerland",
+          "Independent",
+          "Geneva"
+        ]
+      }
+    },
+    {
+      "name": "Speake-Marin",
+      "hqCity": "Geneva",
+      "country": "Switzerland",
+      "group": "Independent",
+      "keyPeople": "Peter Speake-Marin; Christelle Rosnoblet",
+      "founded": "2002",
+      "notes": "HQ Geneva; atelier Le Cercle des Horlogers (La Chaux-de-Fonds)",
+      "seo": {
+        "title": "Speake-Marin · LIKE® Magazine Luxury Guide",
+        "description": "Speake-Marin · HQ Geneva, Switzerland · Independent · founded 2002 — HQ Geneva; atelier Le Cercle des Horlogers (La Chaux-de-Fonds) Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Speake-Marin",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Switzerland",
+          "Independent",
+          "Geneva"
+        ]
+      }
+    },
+    {
+      "name": "Tudor",
+      "hqCity": "Geneva",
+      "country": "Switzerland",
+      "group": "Independent",
+      "keyPeople": "Hans Wilsdorf",
+      "founded": "1926",
+      "notes": "Rolex sister brand; HQ Geneva",
+      "seo": {
+        "title": "Tudor · LIKE® Magazine Luxury Guide",
+        "description": "Tudor · HQ Geneva, Switzerland · Independent · founded 1926 — Rolex sister brand; HQ Geneva Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Tudor",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Switzerland",
+          "Independent",
+          "Geneva"
+        ]
+      }
+    },
+    {
+      "name": "Urwerk",
+      "hqCity": "Geneva",
+      "country": "Switzerland",
+      "group": "Independent",
+      "keyPeople": "Felix Baumgartner; Martin Frei",
+      "founded": "1997",
+      "notes": "independent; HQ Geneva; ateliers in Geneva and Zurich",
+      "seo": {
+        "title": "Urwerk · LIKE® Magazine Luxury Guide",
+        "description": "Urwerk · HQ Geneva, Switzerland · Independent · founded 1997 — independent; HQ Geneva; ateliers in Geneva and Zurich Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Urwerk",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Switzerland",
+          "Independent",
+          "Geneva"
+        ]
+      }
+    },
+    {
+      "name": "Franck Muller",
+      "hqCity": "Genthod",
+      "country": "Switzerland",
+      "group": "Independent",
+      "keyPeople": "Franck Muller; Vartan Sirmakes",
+      "founded": "1992",
+      "notes": "Watchland manufacture in Genthod",
+      "seo": {
+        "title": "Franck Muller · LIKE® Magazine Luxury Guide",
+        "description": "Franck Muller · HQ Genthod, Switzerland · Independent · founded 1992 — Watchland manufacture in Genthod Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Franck Muller",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Switzerland",
+          "Independent",
+          "Genthod"
+        ]
+      }
+    },
+    {
+      "name": "Raymond Weil",
+      "hqCity": "Grand-Lancy",
+      "country": "Switzerland",
+      "group": "Independent",
+      "keyPeople": "Raymond Weil; Elie Bernheim; Olivier Bernheim",
+      "founded": "1976",
+      "notes": "HQ in Grand-Lancy; family-owned",
+      "seo": {
+        "title": "Raymond Weil · LIKE® Magazine Luxury Guide",
+        "description": "Raymond Weil · HQ Grand-Lancy, Switzerland · Independent · founded 1976 — HQ in Grand-Lancy; family-owned Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Raymond Weil",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Switzerland",
+          "Independent",
+          "Grand-Lancy"
+        ]
+      }
+    },
+    {
+      "name": "Breguet",
+      "hqCity": "L'Abbaye",
+      "country": "Switzerland",
+      "group": "Swatch Group",
+      "keyPeople": "Abraham-Louis Breguet",
+      "founded": "1775",
+      "notes": "Head office and manufacture in L'Abbaye, Vallée de Joux",
+      "seo": {
+        "title": "Breguet · LIKE® Magazine Luxury Guide",
+        "description": "Breguet · HQ L'Abbaye, Switzerland · Swatch Group · founded 1775 — Head office and manufacture in L'Abbaye, Vallée de Joux Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Breguet",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Switzerland",
+          "Swatch Group",
+          "L'Abbaye"
+        ]
+      }
+    },
+    {
+      "name": "De Bethune",
+      "hqCity": "L'Auberson",
+      "country": "Switzerland",
+      "group": "Independent",
+      "keyPeople": "Denis Flageollet; David Zanetta",
+      "founded": "2002",
+      "notes": "Independent manufacture in L'Auberson",
+      "seo": {
+        "title": "De Bethune · LIKE® Magazine Luxury Guide",
+        "description": "De Bethune · HQ L'Auberson, Switzerland · Independent · founded 2002 — Independent manufacture in L'Auberson Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "De Bethune",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Switzerland",
+          "Independent",
+          "L'Auberson"
+        ]
+      }
+    },
+    {
+      "name": "Corum",
+      "hqCity": "La Chaux-de-Fonds",
+      "country": "Switzerland",
+      "group": "Independent",
+      "keyPeople": "René Bannwart; Gaston Ries; Simone Ries",
+      "founded": "1955",
+      "notes": "Founded 1955 by three co-founders; independent after reported 2025 management buyout",
+      "seo": {
+        "title": "Corum · LIKE® Magazine Luxury Guide",
+        "description": "Corum · HQ La Chaux-de-Fonds, Switzerland · Independent · founded 1955 — Founded 1955 by three co-founders; independent after reported 2025 management buyout Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Corum",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Switzerland",
+          "Independent",
+          "La Chaux-de-Fonds"
+        ]
+      }
+    },
+    {
+      "name": "Girard-Perregaux",
+      "hqCity": "La Chaux-de-Fonds",
+      "country": "Switzerland",
+      "group": "Independent",
+      "keyPeople": "Constant Girard; Jean-François Bautte",
+      "founded": "1791",
+      "notes": "Independent since Kering sold Sowind Group to management in 2022",
+      "seo": {
+        "title": "Girard-Perregaux · LIKE® Magazine Luxury Guide",
+        "description": "Girard-Perregaux · HQ La Chaux-de-Fonds, Switzerland · Independent · founded 1791 — Independent since Kering sold Sowind Group to management in 2022 Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Girard-Perregaux",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Switzerland",
+          "Independent",
+          "La Chaux-de-Fonds"
+        ]
+      }
+    },
+    {
+      "name": "Greubel Forsey",
+      "hqCity": "La Chaux-de-Fonds",
+      "country": "Switzerland",
+      "group": "Independent",
+      "keyPeople": "Robert Greubel; Stephen Forsey",
+      "founded": "2004",
+      "notes": "Richemont sold its 20% stake in 2022; founders and Antonio Calce own the shares",
+      "seo": {
+        "title": "Greubel Forsey · LIKE® Magazine Luxury Guide",
+        "description": "Greubel Forsey · HQ La Chaux-de-Fonds, Switzerland · Independent · founded 2004 — Richemont sold its 20% stake in 2022; founders and Antonio Calce own the shares Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Greubel Forsey",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Switzerland",
+          "Independent",
+          "La Chaux-de-Fonds"
+        ]
+      }
+    },
+    {
+      "name": "Schwarz Etienne",
+      "hqCity": "La Chaux-de-Fonds",
+      "country": "Switzerland",
+      "group": "Independent",
+      "keyPeople": "Paul Arthur Schwarz; Olga Etienne",
+      "founded": "1902",
+      "notes": "Privately held manufacture; Radicchi ownership",
+      "seo": {
+        "title": "Schwarz Etienne · LIKE® Magazine Luxury Guide",
+        "description": "Schwarz Etienne · HQ La Chaux-de-Fonds, Switzerland · Independent · founded 1902 — Privately held manufacture; Radicchi ownership Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Schwarz Etienne",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Switzerland",
+          "Independent",
+          "La Chaux-de-Fonds"
+        ]
+      }
+    },
+    {
+      "name": "TAG Heuer",
+      "hqCity": "La Chaux-de-Fonds",
+      "country": "Switzerland",
+      "group": "LVMH",
+      "keyPeople": "Edouard Heuer",
+      "founded": "1860",
+      "notes": "Founded Saint-Imier 1860; HQ in La Chaux-de-Fonds",
+      "seo": {
+        "title": "TAG Heuer · LIKE® Magazine Luxury Guide",
+        "description": "TAG Heuer · HQ La Chaux-de-Fonds, Switzerland · LVMH · founded 1860 — Founded Saint-Imier 1860; HQ in La Chaux-de-Fonds Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "TAG Heuer",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Switzerland",
+          "LVMH",
+          "La Chaux-de-Fonds"
+        ]
+      }
+    },
+    {
+      "name": "Audemars Piguet",
+      "hqCity": "Le Brassus",
+      "country": "Switzerland",
+      "group": "Independent",
+      "keyPeople": "Jules Louis Audemars; Edward Auguste Piguet",
+      "founded": "1875",
+      "notes": "Independent family-owned maison anchored in Le Brassus",
+      "seo": {
+        "title": "Audemars Piguet · LIKE® Magazine Luxury Guide",
+        "description": "Audemars Piguet · HQ Le Brassus, Switzerland · Independent · founded 1875 — Independent family-owned maison anchored in Le Brassus Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Audemars Piguet",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Switzerland",
+          "Independent",
+          "Le Brassus"
+        ]
+      }
+    },
+    {
+      "name": "Blancpain",
+      "hqCity": "Le Brassus",
+      "country": "Switzerland",
+      "group": "Swatch Group",
+      "keyPeople": "Jehan-Jacques Blancpain",
+      "founded": "1735",
+      "notes": "Blancpain SA address Le Rocher 12, Le Brassus; some references also cite Paudex",
+      "seo": {
+        "title": "Blancpain · LIKE® Magazine Luxury Guide",
+        "description": "Blancpain · HQ Le Brassus, Switzerland · Swatch Group · founded 1735 — Blancpain SA address Le Rocher 12, Le Brassus; some references also cite Paudex Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Blancpain",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Switzerland",
+          "Swatch Group",
+          "Le Brassus"
+        ]
+      }
+    },
+    {
+      "name": "Ulysse Nardin",
+      "hqCity": "Le Locle",
+      "country": "Switzerland",
+      "group": "Independent",
+      "keyPeople": "Ulysse Nardin",
+      "founded": "1846",
+      "notes": "Independent since Kering sold Sowind Group to management in 2022",
+      "seo": {
+        "title": "Ulysse Nardin · LIKE® Magazine Luxury Guide",
+        "description": "Ulysse Nardin · HQ Le Locle, Switzerland · Independent · founded 1846 — Independent since Kering sold Sowind Group to management in 2022 Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Ulysse Nardin",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Switzerland",
+          "Independent",
+          "Le Locle"
+        ]
+      }
+    },
+    {
+      "name": "Zenith",
+      "hqCity": "Le Locle",
+      "country": "Switzerland",
+      "group": "LVMH",
+      "keyPeople": "Georges Favre-Jacot",
+      "founded": "1865",
+      "notes": "Integrated manufacture in Le Locle since 1865",
+      "seo": {
+        "title": "Zenith · LIKE® Magazine Luxury Guide",
+        "description": "Zenith · HQ Le Locle, Switzerland · LVMH · founded 1865 — Integrated manufacture in Le Locle since 1865 Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Zenith",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Switzerland",
+          "LVMH",
+          "Le Locle"
+        ]
+      }
+    },
+    {
+      "name": "Jaeger-LeCoultre",
+      "hqCity": "Le Sentier",
+      "country": "Switzerland",
+      "group": "Richemont",
+      "keyPeople": "Antoine LeCoultre",
+      "founded": "1833",
+      "notes": "Grande Maison of the Vallée de Joux; registered office in Le Sentier",
+      "seo": {
+        "title": "Jaeger-LeCoultre · LIKE® Magazine Luxury Guide",
+        "description": "Jaeger-LeCoultre · HQ Le Sentier, Switzerland · Richemont · founded 1833 — Grande Maison of the Vallée de Joux; registered office in Le Sentier Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Jaeger-LeCoultre",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Switzerland",
+          "Richemont",
+          "Le Sentier"
+        ]
+      }
+    },
+    {
+      "name": "Romain Gauthier",
+      "hqCity": "Le Sentier",
+      "country": "Switzerland",
+      "group": "Independent",
+      "keyPeople": "Romain Gauthier",
+      "founded": "2005",
+      "notes": "Own manufacture in Le Sentier; brand launched 2005",
+      "seo": {
+        "title": "Romain Gauthier · LIKE® Magazine Luxury Guide",
+        "description": "Romain Gauthier · HQ Le Sentier, Switzerland · Independent · founded 2005 — Own manufacture in Le Sentier; brand launched 2005 Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Romain Gauthier",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Switzerland",
+          "Independent",
+          "Le Sentier"
+        ]
+      }
+    },
+    {
+      "name": "Richard Mille",
+      "hqCity": "Les Breuleux",
+      "country": "Switzerland",
+      "group": "Independent",
+      "keyPeople": "Richard Mille; Dominique Guenat",
+      "founded": "2001",
+      "notes": "HQ and manufacture in Les Breuleux",
+      "seo": {
+        "title": "Richard Mille · LIKE® Magazine Luxury Guide",
+        "description": "Richard Mille · HQ Les Breuleux, Switzerland · Independent · founded 2001 — HQ and manufacture in Les Breuleux Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Richard Mille",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Switzerland",
+          "Independent",
+          "Les Breuleux"
+        ]
+      }
+    },
+    {
+      "name": "Cartier",
+      "hqCity": "Meyrin",
+      "country": "Switzerland",
+      "group": "Richemont",
+      "keyPeople": "Louis-François Cartier",
+      "founded": "1847",
+      "notes": "Cartier SA watch HQ in Meyrin; Maison HQ Paris",
+      "seo": {
+        "title": "Cartier · LIKE® Magazine Luxury Guide",
+        "description": "Cartier · HQ Meyrin, Switzerland · Richemont · founded 1847 — Cartier SA watch HQ in Meyrin; Maison HQ Paris Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Cartier",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Switzerland",
+          "Richemont",
+          "Meyrin"
+        ]
+      }
+    },
+    {
+      "name": "Chopard",
+      "hqCity": "Meyrin",
+      "country": "Switzerland",
+      "group": "Independent",
+      "keyPeople": "Louis-Ulysse Chopard; Karl-Friedrich Scheufele; Caroline Scheufele",
+      "founded": "1860",
+      "notes": "HQ & manufacture in Meyrin; family-owned",
+      "seo": {
+        "title": "Chopard · LIKE® Magazine Luxury Guide",
+        "description": "Chopard · HQ Meyrin, Switzerland · Independent · founded 1860 — HQ & manufacture in Meyrin; family-owned Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Chopard",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Switzerland",
+          "Independent",
+          "Meyrin"
+        ]
+      }
+    },
+    {
+      "name": "Louis Vuitton",
+      "hqCity": "Meyrin",
+      "country": "Switzerland",
+      "group": "LVMH",
+      "keyPeople": "Michel Navas; Enrico Barbasini",
+      "founded": "2007",
+      "notes": "La Fabrique du Temps in Meyrin; Maison HQ Paris",
+      "seo": {
+        "title": "Louis Vuitton · LIKE® Magazine Luxury Guide",
+        "description": "Louis Vuitton · HQ Meyrin, Switzerland · LVMH · founded 2007 — La Fabrique du Temps in Meyrin; Maison HQ Paris Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Louis Vuitton",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Switzerland",
+          "LVMH",
+          "Meyrin"
+        ]
+      }
+    },
+    {
+      "name": "Roger Dubuis",
+      "hqCity": "Meyrin",
+      "country": "Switzerland",
+      "group": "Richemont",
+      "keyPeople": "Roger Dubuis; Carlos Dias",
+      "founded": "1995",
+      "notes": "manufacture in Meyrin; Poinçon de Genève",
+      "seo": {
+        "title": "Roger Dubuis · LIKE® Magazine Luxury Guide",
+        "description": "Roger Dubuis · HQ Meyrin, Switzerland · Richemont · founded 1995 — manufacture in Meyrin; Poinçon de Genève Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Roger Dubuis",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Switzerland",
+          "Richemont",
+          "Meyrin"
+        ]
+      }
+    },
+    {
+      "name": "Van Cleef & Arpels",
+      "hqCity": "Meyrin",
+      "country": "Switzerland",
+      "group": "Richemont",
+      "keyPeople": "Alfred Van Cleef; Estelle Arpels",
+      "founded": "1906",
+      "notes": "watch atelier in Meyrin; Maison HQ Paris",
+      "seo": {
+        "title": "Van Cleef & Arpels · LIKE® Magazine Luxury Guide",
+        "description": "Van Cleef & Arpels · HQ Meyrin, Switzerland · Richemont · founded 1906 — watch atelier in Meyrin; Maison HQ Paris Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Van Cleef & Arpels",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Switzerland",
+          "Richemont",
+          "Meyrin"
+        ]
+      }
+    },
+    {
+      "name": "Bovet 1822",
+      "hqCity": "Môtiers",
+      "country": "Switzerland",
+      "group": "Independent",
+      "keyPeople": "Edouard Bovet; Pascal Raffy",
+      "founded": "1822",
+      "notes": "HQ at the Château de Môtiers",
+      "seo": {
+        "title": "Bovet 1822 · LIKE® Magazine Luxury Guide",
+        "description": "Bovet 1822 · HQ Môtiers, Switzerland · Independent · founded 1822 — HQ at the Château de Môtiers Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Bovet 1822",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Switzerland",
+          "Independent",
+          "Môtiers"
+        ]
+      }
+    },
+    {
+      "name": "Voutilainen",
+      "hqCity": "Môtiers",
+      "country": "Switzerland",
+      "group": "Independent",
+      "keyPeople": "Kari Voutilainen",
+      "founded": "2002",
+      "notes": "Independent atelier in Môtiers",
+      "seo": {
+        "title": "Voutilainen · LIKE® Magazine Luxury Guide",
+        "description": "Voutilainen · HQ Môtiers, Switzerland · Independent · founded 2002 — Independent atelier in Môtiers Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Voutilainen",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Switzerland",
+          "Independent",
+          "Môtiers"
+        ]
+      }
+    },
+    {
+      "name": "H. Moser & Cie.",
+      "hqCity": "Neuhausen am Rheinfall",
+      "country": "Switzerland",
+      "group": "Independent",
+      "keyPeople": "Heinrich Moser; Edouard Meylan",
+      "founded": "1828",
+      "notes": "Original firm founded 1828; modern manufacture re-founded 2002 and relaunched 2005; MELB family ownership",
+      "seo": {
+        "title": "H. Moser & Cie. · LIKE® Magazine Luxury Guide",
+        "description": "H. Moser & Cie. · HQ Neuhausen am Rheinfall, Switzerland · Independent · founded 1828 — Original firm founded 1828; modern manufacture re-founded 2002 and relaunched 2005; MELB family ownership Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "H. Moser & Cie.",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Switzerland",
+          "Independent",
+          "Neuhausen am Rheinfall"
+        ]
+      }
+    },
+    {
+      "name": "Hautlence",
+      "hqCity": "Neuhausen am Rheinfall",
+      "country": "Switzerland",
+      "group": "Independent",
+      "keyPeople": "Guillaume Tetu; Renaud de Retz",
+      "founded": "2004",
+      "notes": "Founded in Neuchâtel 2004; now in Neuhausen am Rheinfall; MELB family ownership",
+      "seo": {
+        "title": "Hautlence · LIKE® Magazine Luxury Guide",
+        "description": "Hautlence · HQ Neuhausen am Rheinfall, Switzerland · Independent · founded 2004 — Founded in Neuchâtel 2004; now in Neuhausen am Rheinfall; MELB family ownership Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Hautlence",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Switzerland",
+          "Independent",
+          "Neuhausen am Rheinfall"
+        ]
+      }
+    },
+    {
+      "name": "Hublot",
+      "hqCity": "Nyon",
+      "country": "Switzerland",
+      "group": "LVMH",
+      "keyPeople": "Carlo Crocco",
+      "founded": "1980",
+      "notes": "Manufacture in Nyon",
+      "seo": {
+        "title": "Hublot · LIKE® Magazine Luxury Guide",
+        "description": "Hublot · HQ Nyon, Switzerland · LVMH · founded 1980 — Manufacture in Nyon Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Hublot",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Switzerland",
+          "LVMH",
+          "Nyon"
+        ]
+      }
+    },
+    {
+      "name": "Ateliers deMonaco",
+      "hqCity": "Plan-les-Ouates",
+      "country": "Switzerland",
+      "group": "Citizen",
+      "keyPeople": "Peter Stas; Pim Koeslag",
+      "founded": "2008",
+      "notes": "manufacture in Plan-les-Ouates; Citizen-owned",
+      "seo": {
+        "title": "Ateliers deMonaco · LIKE® Magazine Luxury Guide",
+        "description": "Ateliers deMonaco · HQ Plan-les-Ouates, Switzerland · Citizen · founded 2008 — manufacture in Plan-les-Ouates; Citizen-owned Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Ateliers deMonaco",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Switzerland",
+          "Citizen",
+          "Plan-les-Ouates"
+        ]
+      }
+    },
+    {
+      "name": "Frédérique Constant",
+      "hqCity": "Plan-les-Ouates",
+      "country": "Switzerland",
+      "group": "Citizen",
+      "keyPeople": "Peter Stas; Aletta Stas",
+      "founded": "1988",
+      "notes": "manufacture in Plan-les-Ouates; Citizen-owned since 2016",
+      "seo": {
+        "title": "Frédérique Constant · LIKE® Magazine Luxury Guide",
+        "description": "Frédérique Constant · HQ Plan-les-Ouates, Switzerland · Citizen · founded 1988 — manufacture in Plan-les-Ouates; Citizen-owned since 2016 Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Frédérique Constant",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Switzerland",
+          "Citizen",
+          "Plan-les-Ouates"
+        ]
+      }
+    },
+    {
+      "name": "Laurent Ferrier",
+      "hqCity": "Plan-les-Ouates",
+      "country": "Switzerland",
+      "group": "Independent",
+      "keyPeople": "Laurent Ferrier; François Servanin",
+      "founded": "2009",
+      "notes": "independent atelier in Plan-les-Ouates",
+      "seo": {
+        "title": "Laurent Ferrier · LIKE® Magazine Luxury Guide",
+        "description": "Laurent Ferrier · HQ Plan-les-Ouates, Switzerland · Independent · founded 2009 — independent atelier in Plan-les-Ouates Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Laurent Ferrier",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Switzerland",
+          "Independent",
+          "Plan-les-Ouates"
+        ]
+      }
+    },
+    {
+      "name": "Patek Philippe",
+      "hqCity": "Plan-les-Ouates",
+      "country": "Switzerland",
+      "group": "Independent",
+      "keyPeople": "Antoni Patek; Adrien Philippe; Thierry Stern",
+      "founded": "1839",
+      "notes": "manufacture in Plan-les-Ouates; family-owned",
+      "seo": {
+        "title": "Patek Philippe · LIKE® Magazine Luxury Guide",
+        "description": "Patek Philippe · HQ Plan-les-Ouates, Switzerland · Independent · founded 1839 — manufacture in Plan-les-Ouates; family-owned Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Patek Philippe",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Switzerland",
+          "Independent",
+          "Plan-les-Ouates"
+        ]
+      }
+    },
+    {
+      "name": "Piaget",
+      "hqCity": "Plan-les-Ouates",
+      "country": "Switzerland",
+      "group": "Richemont",
+      "keyPeople": "Georges-Édouard Piaget",
+      "founded": "1874",
+      "notes": "HQ & haute horlogerie manufacture in Plan-les-Ouates",
+      "seo": {
+        "title": "Piaget · LIKE® Magazine Luxury Guide",
+        "description": "Piaget · HQ Plan-les-Ouates, Switzerland · Richemont · founded 1874 — HQ & haute horlogerie manufacture in Plan-les-Ouates Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Piaget",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Switzerland",
+          "Richemont",
+          "Plan-les-Ouates"
+        ]
+      }
+    },
+    {
+      "name": "Vacheron Constantin",
+      "hqCity": "Plan-les-Ouates",
+      "country": "Switzerland",
+      "group": "Richemont",
+      "keyPeople": "Jean-Marc Vacheron",
+      "founded": "1755",
+      "notes": "manufacture & HQ in Plan-les-Ouates",
+      "seo": {
+        "title": "Vacheron Constantin · LIKE® Magazine Luxury Guide",
+        "description": "Vacheron Constantin · HQ Plan-les-Ouates, Switzerland · Richemont · founded 1755 — manufacture & HQ in Plan-les-Ouates Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Vacheron Constantin",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Switzerland",
+          "Richemont",
+          "Plan-les-Ouates"
+        ]
+      }
+    },
+    {
+      "name": "Louis Moinet",
+      "hqCity": "Saint-Blaise",
+      "country": "Switzerland",
+      "group": "Independent",
+      "keyPeople": "Jean-Marie Schaller",
+      "founded": "2004",
+      "notes": "Ateliers in Saint-Blaise; FHH partner brand",
+      "seo": {
+        "title": "Louis Moinet · LIKE® Magazine Luxury Guide",
+        "description": "Louis Moinet · HQ Saint-Blaise, Switzerland · Independent · founded 2004 — Ateliers in Saint-Blaise; FHH partner brand Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Louis Moinet",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Switzerland",
+          "Independent",
+          "Saint-Blaise"
+        ]
+      }
+    },
+    {
+      "name": "Longines",
+      "hqCity": "Saint-Imier",
+      "country": "Switzerland",
+      "group": "Swatch Group",
+      "keyPeople": "Auguste Agassiz",
+      "founded": "1832",
+      "notes": "HQ and workshops in Saint-Imier; Ernest Francillon later founded the modern manufacture",
+      "seo": {
+        "title": "Longines · LIKE® Magazine Luxury Guide",
+        "description": "Longines · HQ Saint-Imier, Switzerland · Swatch Group · founded 1832 — HQ and workshops in Saint-Imier; Ernest Francillon later founded the modern manufacture Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Longines",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Switzerland",
+          "Swatch Group",
+          "Saint-Imier"
+        ]
+      }
+    },
+    {
+      "name": "IWC Schaffhausen",
+      "hqCity": "Schaffhausen",
+      "country": "Switzerland",
+      "group": "Richemont",
+      "keyPeople": "Florentine Ariosto Jones",
+      "founded": "1868",
+      "notes": "Only major manufacture in German-speaking Switzerland",
+      "seo": {
+        "title": "IWC Schaffhausen · LIKE® Magazine Luxury Guide",
+        "description": "IWC Schaffhausen · HQ Schaffhausen, Switzerland · Richemont · founded 1868 — Only major manufacture in German-speaking Switzerland Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "IWC Schaffhausen",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "Switzerland",
+          "Richemont",
+          "Schaffhausen"
+        ]
+      }
+    },
+    {
+      "name": "Fears",
+      "hqCity": "Bristol",
+      "country": "United Kingdom",
+      "group": "Independent",
+      "keyPeople": "Edwin Fear; Nicholas Bowman-Scargill",
+      "founded": "1846",
+      "notes": "Historic British brand revived 2016 by founder's great-great-great-grandson",
+      "seo": {
+        "title": "Fears · LIKE® Magazine Luxury Guide",
+        "description": "Fears · HQ Bristol, United Kingdom · Independent · founded 1846 — Historic British brand revived 2016 by founder's great-great-great-grandson Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Fears",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "United Kingdom",
+          "Independent",
+          "Bristol"
+        ]
+      }
+    },
+    {
+      "name": "anOrdain",
+      "hqCity": "Glasgow",
+      "country": "United Kingdom",
+      "group": "Independent",
+      "keyPeople": "Lewis Heath",
+      "founded": "2015",
+      "notes": "Scottish watchmaker crafting in-house enamel dials",
+      "seo": {
+        "title": "anOrdain · LIKE® Magazine Luxury Guide",
+        "description": "anOrdain · HQ Glasgow, United Kingdom · Independent · founded 2015 — Scottish watchmaker crafting in-house enamel dials Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "anOrdain",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "United Kingdom",
+          "Independent",
+          "Glasgow"
+        ]
+      }
+    },
+    {
+      "name": "Schofield",
+      "hqCity": "Henfield",
+      "country": "United Kingdom",
+      "group": "Independent",
+      "keyPeople": "Giles Ellis",
+      "founded": "2008",
+      "notes": "Eccentric design-led British independent, West Sussex",
+      "seo": {
+        "title": "Schofield · LIKE® Magazine Luxury Guide",
+        "description": "Schofield · HQ Henfield, United Kingdom · Independent · founded 2008 — Eccentric design-led British independent, West Sussex Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Schofield",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "United Kingdom",
+          "Independent",
+          "Henfield"
+        ]
+      }
+    },
+    {
+      "name": "Bremont",
+      "hqCity": "Henley-on-Thames",
+      "country": "United Kingdom",
+      "group": "Independent",
+      "keyPeople": "Nick English; Giles English",
+      "founded": "2002",
+      "notes": "British aviation chronometers, built at The Wing manufacture",
+      "seo": {
+        "title": "Bremont · LIKE® Magazine Luxury Guide",
+        "description": "Bremont · HQ Henley-on-Thames, United Kingdom · Independent · founded 2002 — British aviation chronometers, built at The Wing manufacture Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Bremont",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "United Kingdom",
+          "Independent",
+          "Henley-on-Thames"
+        ]
+      }
+    },
+    {
+      "name": "Garrick",
+      "hqCity": "Norwich",
+      "country": "United Kingdom",
+      "group": "Independent",
+      "keyPeople": "David Brailsford; Simon Michlmayr",
+      "founded": "2014",
+      "notes": "Bespoke Norfolk watchmaker with in-house movements",
+      "seo": {
+        "title": "Garrick · LIKE® Magazine Luxury Guide",
+        "description": "Garrick · HQ Norwich, United Kingdom · Independent · founded 2014 — Bespoke Norfolk watchmaker with in-house movements Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Garrick",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "United Kingdom",
+          "Independent",
+          "Norwich"
+        ]
+      }
+    },
+    {
+      "name": "Keaton Myrick",
+      "hqCity": "Bend",
+      "country": "United States",
+      "group": "Independent",
+      "keyPeople": "Keaton Myrick",
+      "founded": "2012",
+      "notes": "Handmade \"1 in 30\" chronometer; Bend, Oregon",
+      "seo": {
+        "title": "Keaton Myrick · LIKE® Magazine Luxury Guide",
+        "description": "Keaton Myrick · HQ Bend, United States · Independent · founded 2012 — Handmade \"1 in 30\" chronometer; Bend, Oregon Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Keaton Myrick",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "United States",
+          "Independent",
+          "Bend"
+        ]
+      }
+    },
+    {
+      "name": "RGM",
+      "hqCity": "Mount Joy",
+      "country": "United States",
+      "group": "Independent",
+      "keyPeople": "Roland G. Murphy",
+      "founded": "1992",
+      "notes": "America's serial manufacture; in-house movements, hand guilloche",
+      "seo": {
+        "title": "RGM · LIKE® Magazine Luxury Guide",
+        "description": "RGM · HQ Mount Joy, United States · Independent · founded 1992 — America's serial manufacture; in-house movements, hand guilloche Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "RGM",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "United States",
+          "Independent",
+          "Mount Joy"
+        ]
+      }
+    },
+    {
+      "name": "Weiss Watch Company",
+      "hqCity": "Nashville",
+      "country": "United States",
+      "group": "Independent",
+      "keyPeople": "Cameron Weiss",
+      "founded": "2013",
+      "notes": "American-made mechanical atelier",
+      "seo": {
+        "title": "Weiss Watch Company · LIKE® Magazine Luxury Guide",
+        "description": "Weiss Watch Company · HQ Nashville, United States · Independent · founded 2013 — American-made mechanical atelier Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Weiss Watch Company",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "United States",
+          "Independent",
+          "Nashville"
+        ]
+      }
+    },
+    {
+      "name": "Jacob & Co",
+      "hqCity": "New York",
+      "country": "United States",
+      "group": "Independent",
+      "keyPeople": "Jacob Arabo; Benjamin Arabov",
+      "founded": "1986",
+      "notes": "High-jewellery complication house; Astronomia",
+      "seo": {
+        "title": "Jacob & Co · LIKE® Magazine Luxury Guide",
+        "description": "Jacob & Co · HQ New York, United States · Independent · founded 1986 — High-jewellery complication house; Astronomia Featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Jacob & Co",
+          "luxury watchmakers",
+          "horology",
+          "likeleaders",
+          "United States",
+          "Independent",
+          "New York"
+        ]
+      }
+    }
+  ]
+}

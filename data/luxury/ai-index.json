@@ -175,6 +175,27 @@
       },
       "variableMeasured": "listing",
       "count": 56
+    },
+    {
+      "@type": "Dataset",
+      "name": "Luxury Watchmakers Worldwide",
+      "description": "81 maisons and independent ateliers organized by corporate headquarters — curated for LIKE® Magazine Luxury Guide on likeleaders.com.",
+      "url": "https://likeleaders.com/sections/luxury-watchmakers.html",
+      "creator": {
+        "@id": "https://likeleaders.com/#organization"
+      },
+      "isPartOf": {
+        "@type": "CreativeWork",
+        "name": "LIKE® Magazine Luxury Guide",
+        "url": "https://likeleaders.com/sections/luxury-guide.html"
+      },
+      "distribution": {
+        "@type": "DataDownload",
+        "encodingFormat": "application/json",
+        "contentUrl": "https://likeleaders.com/data/luxury/watchmakers.json"
+      },
+      "variableMeasured": "listing",
+      "count": 81
     }
   ]
 }
