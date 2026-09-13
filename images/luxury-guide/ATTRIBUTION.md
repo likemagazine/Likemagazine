@@ -59,6 +59,30 @@ All images sourced from Wikimedia Commons. Resized for web use (longest edge ≤
 | **License** | CC0 1.0 |
 | **Credit** | Photo: Sebastien Gabriel (CC0) via Wikimedia Commons |
 
+
+## trains-hero.jpg
+
+| Field | Value |
+| --- | --- |
+| **Filename** | trains-hero.jpg |
+| **Title** | Glacier Express train east of Andermatt in Swiss Alps en route to Zermatt |
+| **Author** | Tim Adams |
+| **Source URL** | https://commons.wikimedia.org/wiki/File:Glacier_Express_train_east_of_Andermatt_in_Swiss_Alps_en_route_to_Zermatt.jpg |
+| **License** | CC BY 3.0 |
+| **Credit** | Photo: Tim Adams / Wikimedia Commons (CC BY 3.0) |
+
+## aviation-hero.jpg
+
+| Field | Value |
+| --- | --- |
+| **Filename** | aviation-hero.jpg |
+| **Title** | N652BA Gulfstream G-VI G650 GLF6 - Bank of Amerika |
+| **Author** | flybyeigenheer (Markus Eigenheer) |
+| **Source URL** | https://commons.wikimedia.org/wiki/File:N652BA_Gulfstream_G-VI_G650_GLF6_-_Bank_of_Amerika_(21051837908).jpg |
+| **License** | CC BY-SA 2.0 |
+| **Credit** | Photo: flybyeigenheer / Wikimedia Commons (CC BY-SA 2.0) |
+
+
 ## luxury-guide-hero.jpg
 
 | Field | Value |
