@@ -1,0 +1,180 @@
+{
+  "@context": "https://schema.org",
+  "@type": "DataCatalog",
+  "@id": "https://likeleaders.com/data/luxury/ai-index.json",
+  "name": "LIKE® Magazine Luxury Guide",
+  "description": "Machine-readable catalog of LIKE® Magazine Luxury Guide editorial indexes for AI assistants and search citation.",
+  "publisher": {
+    "@type": "Organization",
+    "@id": "https://likeleaders.com/#organization",
+    "name": "LIKE® Magazine",
+    "alternateName": [
+      "LIKE Magazine",
+      "LIKE®",
+      "likeleaders",
+      "LIKE Leaders"
+    ],
+    "url": "https://likeleaders.com",
+    "sameAs": [
+      "https://likeleaders.com"
+    ],
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://likeleaders.com/assets/like-magazine-logo.png"
+    }
+  },
+  "url": "https://likeleaders.com/sections/luxury-guide.html",
+  "license": "Editorial content © LIKE® Magazine; listing facts from named public sources",
+  "citation": "LIKE® Magazine Luxury Guide, https://likeleaders.com",
+  "dateModified": "2026-09-12",
+  "inLanguage": "en",
+  "dataset": [
+    {
+      "@type": "Dataset",
+      "name": "Luxury Hotels Worldwide (Forbes Five-Star, AAA Five Diamond, Leading Hotels of the World)",
+      "description": "Editorial index of luxury hotels worldwide recognized by Forbes Travel Guide Five-Star, AAA Five Diamond, and Leading Hotels of the World.",
+      "url": "https://likeleaders.com/sections/luxury-hotels.html",
+      "creator": {
+        "@id": "https://likeleaders.com/#organization"
+      },
+      "isPartOf": {
+        "@type": "CreativeWork",
+        "name": "LIKE® Magazine Luxury Guide",
+        "url": "https://likeleaders.com/sections/luxury-guide.html"
+      },
+      "distribution": {
+        "@type": "DataDownload",
+        "encodingFormat": "application/json",
+        "contentUrl": "https://likeleaders.com/data/luxury/hotels.json"
+      },
+      "variableMeasured": "listing",
+      "count": 680
+    },
+    {
+      "@type": "Dataset",
+      "name": "Michelin-Starred Restaurants Worldwide",
+      "description": "Editorial index of Michelin-starred restaurants worldwide from the MICHELIN Guide.",
+      "url": "https://likeleaders.com/sections/luxury-dining.html",
+      "creator": {
+        "@id": "https://likeleaders.com/#organization"
+      },
+      "isPartOf": {
+        "@type": "CreativeWork",
+        "name": "LIKE® Magazine Luxury Guide",
+        "url": "https://likeleaders.com/sections/luxury-guide.html"
+      },
+      "distribution": {
+        "@type": "DataDownload",
+        "encodingFormat": "application/json",
+        "contentUrl": "https://likeleaders.com/data/luxury/dining.json"
+      },
+      "variableMeasured": "listing",
+      "count": 3606
+    },
+    {
+      "@type": "Dataset",
+      "name": "Major Shopping Streets Worldwide",
+      "description": "Editorial index of major luxury shopping streets and districts worldwide.",
+      "url": "https://likeleaders.com/sections/luxury-shopping.html",
+      "creator": {
+        "@id": "https://likeleaders.com/#organization"
+      },
+      "isPartOf": {
+        "@type": "CreativeWork",
+        "name": "LIKE® Magazine Luxury Guide",
+        "url": "https://likeleaders.com/sections/luxury-guide.html"
+      },
+      "distribution": {
+        "@type": "DataDownload",
+        "encodingFormat": "application/json",
+        "contentUrl": "https://likeleaders.com/data/luxury/shopping.json"
+      },
+      "variableMeasured": "listing",
+      "count": 179
+    },
+    {
+      "@type": "Dataset",
+      "name": "World's Best Airlines by Hub (Skytrax Top 100 2025)",
+      "description": "Editorial index of the world's best airlines by hub from Skytrax Top 100 Airlines 2025.",
+      "url": "https://likeleaders.com/sections/luxury-airlines.html",
+      "creator": {
+        "@id": "https://likeleaders.com/#organization"
+      },
+      "isPartOf": {
+        "@type": "CreativeWork",
+        "name": "LIKE® Magazine Luxury Guide",
+        "url": "https://likeleaders.com/sections/luxury-guide.html"
+      },
+      "distribution": {
+        "@type": "DataDownload",
+        "encodingFormat": "application/json",
+        "contentUrl": "https://likeleaders.com/data/luxury/airlines.json"
+      },
+      "variableMeasured": "listing",
+      "count": 100
+    },
+    {
+      "@type": "Dataset",
+      "name": "World's Best Vineyards — Top 100",
+      "description": "Editorial index of the World's Best Vineyards Top 100 (2025 edition).",
+      "url": "https://likeleaders.com/sections/luxury-wineries.html",
+      "creator": {
+        "@id": "https://likeleaders.com/#organization"
+      },
+      "isPartOf": {
+        "@type": "CreativeWork",
+        "name": "LIKE® Magazine Luxury Guide",
+        "url": "https://likeleaders.com/sections/luxury-guide.html"
+      },
+      "distribution": {
+        "@type": "DataDownload",
+        "encodingFormat": "application/json",
+        "contentUrl": "https://likeleaders.com/data/luxury/wineries.json"
+      },
+      "variableMeasured": "listing",
+      "count": 100
+    },
+    {
+      "@type": "Dataset",
+      "name": "World's Luxury Trains",
+      "description": "The world's great luxury rail journeys — Belmond, Orient Express, Rovos Rail, and more — curated for LIKE® Magazine Luxury Guide on likeleaders.com.",
+      "url": "https://likeleaders.com/sections/luxury-trains.html",
+      "creator": {
+        "@id": "https://likeleaders.com/#organization"
+      },
+      "isPartOf": {
+        "@type": "CreativeWork",
+        "name": "LIKE® Magazine Luxury Guide",
+        "url": "https://likeleaders.com/sections/luxury-guide.html"
+      },
+      "distribution": {
+        "@type": "DataDownload",
+        "encodingFormat": "application/json",
+        "contentUrl": "https://likeleaders.com/data/luxury/trains.json"
+      },
+      "variableMeasured": "listing",
+      "count": 38
+    },
+    {
+      "@type": "Dataset",
+      "name": "Private Charter Aviation Operators Worldwide",
+      "description": "56 jet, turboprop and helicopter charter operators with home bases and handling agents — curated for LIKE® Magazine Luxury Guide on likeleaders.com.",
+      "url": "https://likeleaders.com/sections/luxury-aviation.html",
+      "creator": {
+        "@id": "https://likeleaders.com/#organization"
+      },
+      "isPartOf": {
+        "@type": "CreativeWork",
+        "name": "LIKE® Magazine Luxury Guide",
+        "url": "https://likeleaders.com/sections/luxury-guide.html"
+      },
+      "distribution": {
+        "@type": "DataDownload",
+        "encodingFormat": "application/json",
+        "contentUrl": "https://likeleaders.com/data/luxury/aviation.json"
+      },
+      "variableMeasured": "listing",
+      "count": 56
+    }
+  ]
+}
