@@ -253,7 +253,7 @@
       "<tbody>" +
       slice
         .map(function (it) {
-          var brand = it[brandKey] || it.name || it.airline || it.street || "";
+          var brand = it[brandKey] || it.name || it.maison || it.boutique || it.airline || it.street || "";
           var attrs =
             ' data-brand="' +
             esc(brand) +
@@ -265,7 +265,7 @@
               var v = it[c.key];
               var cls = c.key === "rank" ? ' class="lg-rank"' : "";
               var itemprop = "";
-              if (c.key === "name" || c.key === "airline" || c.key === "street") itemprop = ' itemprop="name"';
+              if (c.key === "name" || c.key === "airline" || c.key === "street" || c.key === "maison" || c.key === "boutique") itemprop = ' itemprop="name"';
               else if (c.key === "city" || c.key === "hub_city") itemprop = ' itemprop="addressLocality"';
               else if (c.key === "country" || c.key === "hub_country") itemprop = ' itemprop="addressCountry"';
               return "<td" + cls + itemprop + ">" + esc(v == null ? "" : v) + "</td>";
