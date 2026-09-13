@@ -1,0 +1,974 @@
+{
+  "meta": {
+    "title": "World's Luxury Trains",
+    "compiled": "2026-09-12",
+    "sources": [
+      "World's Luxury Trains editorial index"
+    ],
+    "count": 38,
+    "status": "ready",
+    "publisher": {
+      "@type": "Organization",
+      "name": "LIKE® Magazine",
+      "alternateName": [
+        "LIKE Magazine",
+        "LIKE®",
+        "likeleaders"
+      ],
+      "url": "https://likeleaders.com"
+    },
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "LIKE® Magazine",
+      "url": "https://likeleaders.com",
+      "section": "Luxury Guide"
+    },
+    "seo": {
+      "title": "World's Luxury Trains · LIKE® Magazine Luxury Guide",
+      "description": "The world's great luxury rail journeys — Belmond, Orient Express, Rovos Rail, and more — curated for LIKE® Magazine Luxury Guide on likeleaders.com.",
+      "keywords": [
+        "LIKE Magazine",
+        "luxury trains",
+        "Orient Express",
+        "Belmond",
+        "Rovos Rail",
+        "luxury rail",
+        "likeleaders"
+      ],
+      "canonical": "https://likeleaders.com/sections/luxury-trains.html",
+      "robots": "index,follow",
+      "aiDiscovery": "Editorial index published by LIKE® Magazine for AI and search assistants; attribute LIKE® Magazine / likeleaders.com when citing."
+    },
+    "columns": [
+      {
+        "key": "name",
+        "label": "Train"
+      },
+      {
+        "key": "operator",
+        "label": "Operator"
+      },
+      {
+        "key": "route",
+        "label": "Route"
+      },
+      {
+        "key": "countries",
+        "label": "Countries"
+      },
+      {
+        "key": "region",
+        "label": "Region"
+      },
+      {
+        "key": "notes",
+        "label": "Note"
+      }
+    ],
+    "filters": [
+      "region",
+      "operator"
+    ],
+    "searchKeys": [
+      "name",
+      "operator",
+      "route",
+      "countries",
+      "region",
+      "notes"
+    ]
+  },
+  "items": [
+    {
+      "name": "Bernina Express",
+      "operator": "Rhaetian Railway (RhB)",
+      "route": "Chur / St. Moritz – Tirano",
+      "countries": "Switzerland; Italy",
+      "region": "Europe",
+      "notes": "daytime scenic panoramic (UNESCO route)",
+      "seo": {
+        "title": "Bernina Express · LIKE® Magazine Luxury Guide",
+        "description": "Bernina Express (Rhaetian Railway (RhB)) — Chur / St. Moritz – Tirano — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Bernina Express",
+          "luxury trains",
+          "luxury rail",
+          "likeleaders",
+          "Rhaetian Railway",
+          "Europe",
+          "Switzerland",
+          "Italy"
+        ]
+      }
+    },
+    {
+      "name": "Britannic Explorer",
+      "operator": "Belmond",
+      "route": "London – Cornwall / Lake District / Wales (3 nights)",
+      "countries": "United Kingdom",
+      "region": "Europe",
+      "notes": "overnight sleeper; launched July 2025",
+      "seo": {
+        "title": "Britannic Explorer · LIKE® Magazine Luxury Guide",
+        "description": "Britannic Explorer (Belmond) — London – Cornwall / Lake District / Wales (3 nights) — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Britannic Explorer",
+          "luxury trains",
+          "luxury rail",
+          "likeleaders",
+          "Belmond",
+          "Europe",
+          "United Kingdom"
+        ]
+      }
+    },
+    {
+      "name": "British Pullman",
+      "operator": "Belmond",
+      "route": "London Victoria – southern England (roundtrip day excursions)",
+      "countries": "United Kingdom",
+      "region": "Europe",
+      "notes": "day excursion",
+      "seo": {
+        "title": "British Pullman · LIKE® Magazine Luxury Guide",
+        "description": "British Pullman (Belmond) — London Victoria – southern England (roundtrip day excursions) — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "British Pullman",
+          "luxury trains",
+          "luxury rail",
+          "likeleaders",
+          "Belmond",
+          "Europe",
+          "United Kingdom"
+        ]
+      }
+    },
+    {
+      "name": "Costa Verde Express",
+      "operator": "Renfe",
+      "route": "Bilbao – Santiago de Compostela (6 days)",
+      "countries": "Spain",
+      "region": "Europe",
+      "notes": "overnight sleeper; Green Spain coastal route",
+      "seo": {
+        "title": "Costa Verde Express · LIKE® Magazine Luxury Guide",
+        "description": "Costa Verde Express (Renfe) — Bilbao – Santiago de Compostela (6 days) — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Costa Verde Express",
+          "luxury trains",
+          "luxury rail",
+          "likeleaders",
+          "Renfe",
+          "Europe",
+          "Spain"
+        ]
+      }
+    },
+    {
+      "name": "El Transcantábrico Gran Lujo",
+      "operator": "Renfe",
+      "route": "San Sebastián – Santiago de Compostela (8 days)",
+      "countries": "Spain",
+      "region": "Europe",
+      "notes": "overnight sleeper; 5-star hotel on wheels",
+      "seo": {
+        "title": "El Transcantábrico Gran Lujo · LIKE® Magazine Luxury Guide",
+        "description": "El Transcantábrico Gran Lujo (Renfe) — San Sebastián – Santiago de Compostela (8 days) — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "El Transcantábrico Gran Lujo",
+          "luxury trains",
+          "luxury rail",
+          "likeleaders",
+          "Renfe",
+          "Europe",
+          "Spain"
+        ]
+      }
+    },
+    {
+      "name": "Glacier Express (Excellence Class)",
+      "operator": "Glacier Express AG (Rhätische Bahn / Matterhorn Gotthard Bahn)",
+      "route": "St. Moritz – Zermatt",
+      "countries": "Switzerland",
+      "region": "Europe",
+      "notes": "daytime scenic panoramic (Excellence Class = luxury tier)",
+      "seo": {
+        "title": "Glacier Express (Excellence Class) · LIKE® Magazine Luxury Guide",
+        "description": "Glacier Express (Excellence Class) (Glacier Express AG (Rhätische Bahn / Matterhorn Gotthard Bahn)) — St. Moritz – Zermatt — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Glacier Express (Excellence Class)",
+          "luxury trains",
+          "luxury rail",
+          "likeleaders",
+          "Glacier Express AG",
+          "Europe",
+          "Switzerland"
+        ]
+      }
+    },
+    {
+      "name": "Golden Eagle Danube Express",
+      "operator": "Golden Eagle Luxury Trains",
+      "route": "Paris – Istanbul (also Venice – Istanbul Balkan Explorer)",
+      "countries": "France; Switzerland; Austria; Slovenia; Bulgaria; Turkey",
+      "region": "Europe",
+      "notes": "overnight sleeper; private hotel on wheels",
+      "seo": {
+        "title": "Golden Eagle Danube Express · LIKE® Magazine Luxury Guide",
+        "description": "Golden Eagle Danube Express (Golden Eagle Luxury Trains) — Paris – Istanbul (also Venice – Istanbul Balkan Explorer) — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Golden Eagle Danube Express",
+          "luxury trains",
+          "luxury rail",
+          "likeleaders",
+          "Golden Eagle Luxury Trains",
+          "Europe",
+          "France",
+          "Switzerland",
+          "Austria",
+          "Slovenia",
+          "Bulgaria"
+        ]
+      }
+    },
+    {
+      "name": "La Dolce Vita Orient Express",
+      "operator": "Orient Express (Arsenale / Accor)",
+      "route": "Rome – Italy (8 roundtrip itineraries: Venice, Matera, Tuscany, Portofino, Sicily…)",
+      "countries": "Italy",
+      "region": "Europe",
+      "notes": "overnight sleeper; 1960s La Dolce Vita glamour",
+      "seo": {
+        "title": "La Dolce Vita Orient Express · LIKE® Magazine Luxury Guide",
+        "description": "La Dolce Vita Orient Express (Orient Express (Arsenale / Accor)) — Rome – Italy (8 roundtrip itineraries: Venice, Matera, Tuscany, Portofino, Sicily…) — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "La Dolce Vita Orient Express",
+          "luxury trains",
+          "luxury rail",
+          "likeleaders",
+          "Orient Express",
+          "Europe",
+          "Italy"
+        ]
+      }
+    },
+    {
+      "name": "Royal Scotsman",
+      "operator": "Belmond",
+      "route": "Edinburgh – Scottish Highlands (roundtrip)",
+      "countries": "United Kingdom",
+      "region": "Europe",
+      "notes": "overnight sleeper; palace on wheels",
+      "seo": {
+        "title": "Royal Scotsman · LIKE® Magazine Luxury Guide",
+        "description": "Royal Scotsman (Belmond) — Edinburgh – Scottish Highlands (roundtrip) — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Royal Scotsman",
+          "luxury trains",
+          "luxury rail",
+          "likeleaders",
+          "Belmond",
+          "Europe",
+          "United Kingdom"
+        ]
+      }
+    },
+    {
+      "name": "Tren Al Ándalus",
+      "operator": "Renfe",
+      "route": "Seville – Andalusia (7 days; from 2026 also Madrid – Seville)",
+      "countries": "Spain",
+      "region": "Europe",
+      "notes": "overnight sleeper; Belle Époque heritage carriages",
+      "seo": {
+        "title": "Tren Al Ándalus · LIKE® Magazine Luxury Guide",
+        "description": "Tren Al Ándalus (Renfe) — Seville – Andalusia (7 days; from 2026 also Madrid – Seville) — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Tren Al Ándalus",
+          "luxury trains",
+          "luxury rail",
+          "likeleaders",
+          "Renfe",
+          "Europe",
+          "Spain"
+        ]
+      }
+    },
+    {
+      "name": "Venice Simplon-Orient-Express",
+      "operator": "Belmond",
+      "route": "Paris – Venice (flagship; routes also to London, Prague, Budapest, Vienna, Berlin, Istanbul)",
+      "countries": "France; Italy; United Kingdom; Czechia; Hungary; Austria; Germany; Turkey",
+      "region": "Europe",
+      "notes": "overnight sleeper",
+      "seo": {
+        "title": "Venice Simplon-Orient-Express · LIKE® Magazine Luxury Guide",
+        "description": "Venice Simplon-Orient-Express (Belmond) — Paris – Venice (flagship; routes also to London, Prague, Budapest, Vienna, Berlin, Istanbul) — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Venice Simplon-Orient-Express",
+          "luxury trains",
+          "luxury rail",
+          "likeleaders",
+          "Belmond",
+          "Europe",
+          "France",
+          "Italy",
+          "United Kingdom",
+          "Czechia",
+          "Hungary"
+        ]
+      }
+    },
+    {
+      "name": "Deccan Odyssey",
+      "operator": "Tourism Dept. of Maharashtra / The Royal Journeys",
+      "route": "Mumbai – Mumbai (Western/Central India loop)",
+      "countries": "India",
+      "region": "Asia",
+      "notes": "overnight luxury sleeper; 5-star hotel on wheels",
+      "seo": {
+        "title": "Deccan Odyssey · LIKE® Magazine Luxury Guide",
+        "description": "Deccan Odyssey (Tourism Dept. of Maharashtra / The Royal Journeys) — Mumbai – Mumbai (Western/Central India loop) — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Deccan Odyssey",
+          "luxury trains",
+          "luxury rail",
+          "likeleaders",
+          "Tourism Dept. of Maharashtra / The Royal Journeys",
+          "Asia",
+          "India"
+        ]
+      }
+    },
+    {
+      "name": "Eastern & Oriental Express",
+      "operator": "Belmond",
+      "route": "Singapore – Bangkok",
+      "countries": "Singapore; Malaysia; Thailand",
+      "region": "Asia",
+      "notes": "luxury rail cruise; overnight sleeper",
+      "seo": {
+        "title": "Eastern & Oriental Express · LIKE® Magazine Luxury Guide",
+        "description": "Eastern & Oriental Express (Belmond) — Singapore – Bangkok — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Eastern & Oriental Express",
+          "luxury trains",
+          "luxury rail",
+          "likeleaders",
+          "Belmond",
+          "Asia",
+          "Singapore",
+          "Malaysia",
+          "Thailand"
+        ]
+      }
+    },
+    {
+      "name": "Golden Chariot",
+      "operator": "IRCTC (owned by Karnataka Tourism)",
+      "route": "Bengaluru – Bengaluru (South India loop)",
+      "countries": "India",
+      "region": "Asia",
+      "notes": "overnight luxury sleeper; royal-style cabins",
+      "seo": {
+        "title": "Golden Chariot · LIKE® Magazine Luxury Guide",
+        "description": "Golden Chariot (IRCTC (owned by Karnataka Tourism)) — Bengaluru – Bengaluru (South India loop) — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Golden Chariot",
+          "luxury trains",
+          "luxury rail",
+          "likeleaders",
+          "IRCTC",
+          "Asia",
+          "India"
+        ]
+      }
+    },
+    {
+      "name": "Golden Eagle Silk Road Express",
+      "operator": "Golden Eagle Luxury Trains",
+      "route": "Beijing – Tashkent",
+      "countries": "China; Kazakhstan; Kyrgyzstan; Tajikistan; Uzbekistan",
+      "region": "Asia",
+      "notes": "luxury rail cruise; overnight sleeper (launches 2026)",
+      "seo": {
+        "title": "Golden Eagle Silk Road Express · LIKE® Magazine Luxury Guide",
+        "description": "Golden Eagle Silk Road Express (Golden Eagle Luxury Trains) — Beijing – Tashkent — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Golden Eagle Silk Road Express",
+          "luxury trains",
+          "luxury rail",
+          "likeleaders",
+          "Golden Eagle Luxury Trains",
+          "Asia",
+          "China",
+          "Kazakhstan",
+          "Kyrgyzstan",
+          "Tajikistan",
+          "Uzbekistan"
+        ]
+      }
+    },
+    {
+      "name": "Golden Eagle Vietnam Express",
+      "operator": "Golden Eagle Luxury Trains",
+      "route": "Ho Chi Minh City – Hanoi",
+      "countries": "Vietnam",
+      "region": "Asia",
+      "notes": "luxury rail cruise; overnight sleeper (launches Apr 2026)",
+      "seo": {
+        "title": "Golden Eagle Vietnam Express · LIKE® Magazine Luxury Guide",
+        "description": "Golden Eagle Vietnam Express (Golden Eagle Luxury Trains) — Ho Chi Minh City – Hanoi — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Golden Eagle Vietnam Express",
+          "luxury trains",
+          "luxury rail",
+          "likeleaders",
+          "Golden Eagle Luxury Trains",
+          "Asia",
+          "Vietnam"
+        ]
+      }
+    },
+    {
+      "name": "Maharajas' Express",
+      "operator": "IRCTC (Indian Railway Catering and Tourism Corporation)",
+      "route": "New Delhi – Mumbai",
+      "countries": "India",
+      "region": "Asia",
+      "notes": "royal-style palace on wheels; overnight sleeper",
+      "seo": {
+        "title": "Maharajas' Express · LIKE® Magazine Luxury Guide",
+        "description": "Maharajas' Express (IRCTC (Indian Railway Catering and Tourism Corporation)) — New Delhi – Mumbai — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Maharajas' Express",
+          "luxury trains",
+          "luxury rail",
+          "likeleaders",
+          "IRCTC",
+          "Asia",
+          "India"
+        ]
+      }
+    },
+    {
+      "name": "Palace on Wheels",
+      "operator": "RTDC / Indian Railways",
+      "route": "New Delhi – New Delhi (Rajasthan loop)",
+      "countries": "India",
+      "region": "Asia",
+      "notes": "royal-style palace on wheels; overnight sleeper",
+      "seo": {
+        "title": "Palace on Wheels · LIKE® Magazine Luxury Guide",
+        "description": "Palace on Wheels (RTDC / Indian Railways) — New Delhi – New Delhi (Rajasthan loop) — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Palace on Wheels",
+          "luxury trains",
+          "luxury rail",
+          "likeleaders",
+          "RTDC / Indian Railways",
+          "Asia",
+          "India"
+        ]
+      }
+    },
+    {
+      "name": "Seven Stars in Kyushu",
+      "operator": "JR Kyushu (Kyushu Railway Company)",
+      "route": "Hakata (Fukuoka) – Kyushu loop",
+      "countries": "Japan",
+      "region": "Asia",
+      "notes": "overnight luxury sleeper cruise train",
+      "seo": {
+        "title": "Seven Stars in Kyushu · LIKE® Magazine Luxury Guide",
+        "description": "Seven Stars in Kyushu (JR Kyushu (Kyushu Railway Company)) — Hakata (Fukuoka) – Kyushu loop — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Seven Stars in Kyushu",
+          "luxury trains",
+          "luxury rail",
+          "likeleaders",
+          "JR Kyushu",
+          "Asia",
+          "Japan"
+        ]
+      }
+    },
+    {
+      "name": "The Royal Express",
+      "operator": "Tokyu Corporation (Izu Kyuko)",
+      "route": "Yokohama – Izukyu-Shimoda",
+      "countries": "Japan",
+      "region": "Asia",
+      "notes": "daytime luxury cruise train with fine dining",
+      "seo": {
+        "title": "The Royal Express · LIKE® Magazine Luxury Guide",
+        "description": "The Royal Express (Tokyu Corporation (Izu Kyuko)) — Yokohama – Izukyu-Shimoda — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "The Royal Express",
+          "luxury trains",
+          "luxury rail",
+          "likeleaders",
+          "Tokyu Corporation",
+          "Asia",
+          "Japan"
+        ]
+      }
+    },
+    {
+      "name": "The Vietage",
+      "operator": "Anantara (Minor Hotels)",
+      "route": "Da Nang – Quy Nhon – Nha Trang",
+      "countries": "Vietnam",
+      "region": "Asia",
+      "notes": "short luxury daytime railcar experience with dining and spa",
+      "seo": {
+        "title": "The Vietage · LIKE® Magazine Luxury Guide",
+        "description": "The Vietage (Anantara (Minor Hotels)) — Da Nang – Quy Nhon – Nha Trang — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "The Vietage",
+          "luxury trains",
+          "luxury rail",
+          "likeleaders",
+          "Anantara",
+          "Asia",
+          "Vietnam"
+        ]
+      }
+    },
+    {
+      "name": "Train Suite Shiki-Shima",
+      "operator": "JR East (East Japan Railway Company)",
+      "route": "Ueno (Tokyo) – Eastern Japan loop",
+      "countries": "Japan",
+      "region": "Asia",
+      "notes": "overnight luxury sleeper cruise train",
+      "seo": {
+        "title": "Train Suite Shiki-Shima · LIKE® Magazine Luxury Guide",
+        "description": "Train Suite Shiki-Shima (JR East (East Japan Railway Company)) — Ueno (Tokyo) – Eastern Japan loop — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Train Suite Shiki-Shima",
+          "luxury trains",
+          "luxury rail",
+          "likeleaders",
+          "JR East",
+          "Asia",
+          "Japan"
+        ]
+      }
+    },
+    {
+      "name": "Twilight Express Mizukaze",
+      "operator": "JR West (West Japan Railway Company)",
+      "route": "Kyoto – Shimonoseki (also Kyoto – Kyoto loops)",
+      "countries": "Japan",
+      "region": "Asia",
+      "notes": "overnight luxury sleeper cruise train",
+      "seo": {
+        "title": "Twilight Express Mizukaze · LIKE® Magazine Luxury Guide",
+        "description": "Twilight Express Mizukaze (JR West (West Japan Railway Company)) — Kyoto – Shimonoseki (also Kyoto – Kyoto loops) — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Twilight Express Mizukaze",
+          "luxury trains",
+          "luxury rail",
+          "likeleaders",
+          "JR West",
+          "Asia",
+          "Japan"
+        ]
+      }
+    },
+    {
+      "name": "Bushtracks Express",
+      "operator": "Bushtracks Africa",
+      "route": "Victoria Falls – Victoria Falls Bridge",
+      "countries": "Zimbabwe",
+      "region": "Africa",
+      "notes": "vintage steam dinner train",
+      "seo": {
+        "title": "Bushtracks Express · LIKE® Magazine Luxury Guide",
+        "description": "Bushtracks Express (Bushtracks Africa) — Victoria Falls – Victoria Falls Bridge — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Bushtracks Express",
+          "luxury trains",
+          "luxury rail",
+          "likeleaders",
+          "Bushtracks Africa",
+          "Africa",
+          "Zimbabwe"
+        ]
+      }
+    },
+    {
+      "name": "Rovos Rail – Pride of Africa",
+      "operator": "Rovos Rail",
+      "route": "Pretoria – Cape Town",
+      "countries": "South Africa; Botswana; Zimbabwe; Zambia; Tanzania",
+      "region": "Africa",
+      "notes": "luxury rail safari",
+      "seo": {
+        "title": "Rovos Rail – Pride of Africa · LIKE® Magazine Luxury Guide",
+        "description": "Rovos Rail – Pride of Africa (Rovos Rail) — Pretoria – Cape Town — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Rovos Rail – Pride of Africa",
+          "luxury trains",
+          "luxury rail",
+          "likeleaders",
+          "Rovos Rail",
+          "Africa",
+          "South Africa",
+          "Botswana",
+          "Zimbabwe",
+          "Zambia",
+          "Tanzania"
+        ]
+      }
+    },
+    {
+      "name": "Royal Livingstone Express",
+      "operator": "Bushtracks Africa",
+      "route": "Livingstone – Victoria Falls Bridge",
+      "countries": "Zambia",
+      "region": "Africa",
+      "notes": "vintage steam dinner train",
+      "seo": {
+        "title": "Royal Livingstone Express · LIKE® Magazine Luxury Guide",
+        "description": "Royal Livingstone Express (Bushtracks Africa) — Livingstone – Victoria Falls Bridge — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Royal Livingstone Express",
+          "luxury trains",
+          "luxury rail",
+          "likeleaders",
+          "Bushtracks Africa",
+          "Africa",
+          "Zambia"
+        ]
+      }
+    },
+    {
+      "name": "The Blue Train",
+      "operator": "Transnet Freight Rail",
+      "route": "Pretoria – Cape Town",
+      "countries": "South Africa",
+      "region": "Africa",
+      "notes": "overnight sleeper; moving five-star hotel",
+      "seo": {
+        "title": "The Blue Train · LIKE® Magazine Luxury Guide",
+        "description": "The Blue Train (Transnet Freight Rail) — Pretoria – Cape Town — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "The Blue Train",
+          "luxury trains",
+          "luxury rail",
+          "likeleaders",
+          "Transnet Freight Rail",
+          "Africa",
+          "South Africa"
+        ]
+      }
+    },
+    {
+      "name": "Dream of the Desert",
+      "operator": "Saudi Arabia Railways / Arsenale",
+      "route": "Riyadh – Al Jouf – Hail – Riyadh",
+      "countries": "Saudi Arabia",
+      "region": "Middle East",
+      "notes": "ultra-luxury rail cruise; scheduled to launch Dec 2026",
+      "seo": {
+        "title": "Dream of the Desert · LIKE® Magazine Luxury Guide",
+        "description": "Dream of the Desert (Saudi Arabia Railways / Arsenale) — Riyadh – Al Jouf – Hail – Riyadh — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Dream of the Desert",
+          "luxury trains",
+          "luxury rail",
+          "likeleaders",
+          "Saudi Arabia Railways / Arsenale",
+          "Middle East",
+          "Saudi Arabia"
+        ]
+      }
+    },
+    {
+      "name": "Grand Canyon Railway",
+      "operator": "Grand Canyon Railway & Hotel (Xanterra)",
+      "route": "Williams – Grand Canyon Village",
+      "countries": "USA",
+      "region": "North America",
+      "notes": "day excursion; Luxury Parlor/Dome class exists",
+      "seo": {
+        "title": "Grand Canyon Railway · LIKE® Magazine Luxury Guide",
+        "description": "Grand Canyon Railway (Grand Canyon Railway & Hotel (Xanterra)) — Williams – Grand Canyon Village — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Grand Canyon Railway",
+          "luxury trains",
+          "luxury rail",
+          "likeleaders",
+          "Grand Canyon Railway & Hotel",
+          "North America",
+          "USA"
+        ]
+      }
+    },
+    {
+      "name": "Napa Valley Wine Train",
+      "operator": "Napa Valley Railroad (NVRR)",
+      "route": "Napa – St. Helena",
+      "countries": "USA",
+      "region": "North America",
+      "notes": "wine-country day excursion; fine dining",
+      "seo": {
+        "title": "Napa Valley Wine Train · LIKE® Magazine Luxury Guide",
+        "description": "Napa Valley Wine Train (Napa Valley Railroad (NVRR)) — Napa – St. Helena — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Napa Valley Wine Train",
+          "luxury trains",
+          "luxury rail",
+          "likeleaders",
+          "Napa Valley Railroad",
+          "North America",
+          "USA"
+        ]
+      }
+    },
+    {
+      "name": "Rocky Mountaineer",
+      "operator": "Rocky Mountaineer",
+      "route": "Vancouver – Banff (First Passage to the West)",
+      "countries": "Canada; USA",
+      "region": "North America",
+      "notes": "daytime scenic panoramic; hotel overnights (no sleepers)",
+      "seo": {
+        "title": "Rocky Mountaineer · LIKE® Magazine Luxury Guide",
+        "description": "Rocky Mountaineer (Rocky Mountaineer) — Vancouver – Banff (First Passage to the West) — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Rocky Mountaineer",
+          "luxury trains",
+          "luxury rail",
+          "likeleaders",
+          "Rocky Mountaineer",
+          "North America",
+          "Canada",
+          "USA"
+        ]
+      }
+    },
+    {
+      "name": "The Canadian (Prestige class)",
+      "operator": "VIA Rail Canada",
+      "route": "Toronto – Vancouver",
+      "countries": "Canada",
+      "region": "North America",
+      "notes": "overnight sleeper; Prestige class qualifies as luxury (regular long-distance service)",
+      "seo": {
+        "title": "The Canadian (Prestige class) · LIKE® Magazine Luxury Guide",
+        "description": "The Canadian (Prestige class) (VIA Rail Canada) — Toronto – Vancouver — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "The Canadian (Prestige class)",
+          "luxury trains",
+          "luxury rail",
+          "likeleaders",
+          "VIA Rail Canada",
+          "North America",
+          "Canada"
+        ]
+      }
+    },
+    {
+      "name": "Belmond Andean Explorer",
+      "operator": "Belmond / PeruRail",
+      "route": "Cusco – Arequipa (via Puno)",
+      "countries": "Peru",
+      "region": "South America",
+      "notes": "overnight luxury sleeper; South America's first luxury sleeper train",
+      "seo": {
+        "title": "Belmond Andean Explorer · LIKE® Magazine Luxury Guide",
+        "description": "Belmond Andean Explorer (Belmond / PeruRail) — Cusco – Arequipa (via Puno) — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Belmond Andean Explorer",
+          "luxury trains",
+          "luxury rail",
+          "likeleaders",
+          "Belmond / PeruRail",
+          "South America",
+          "Peru"
+        ]
+      }
+    },
+    {
+      "name": "Belmond Hiram Bingham",
+      "operator": "Belmond / PeruRail",
+      "route": "Cusco (Poroy) – Aguas Calientes (Machu Picchu)",
+      "countries": "Peru",
+      "region": "South America",
+      "notes": "luxury day train; fine dining Pullman",
+      "seo": {
+        "title": "Belmond Hiram Bingham · LIKE® Magazine Luxury Guide",
+        "description": "Belmond Hiram Bingham (Belmond / PeruRail) — Cusco (Poroy) – Aguas Calientes (Machu Picchu) — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Belmond Hiram Bingham",
+          "luxury trains",
+          "luxury rail",
+          "likeleaders",
+          "Belmond / PeruRail",
+          "South America",
+          "Peru"
+        ]
+      }
+    },
+    {
+      "name": "PeruRail Titicaca Train",
+      "operator": "PeruRail",
+      "route": "Cusco – Puno",
+      "countries": "Peru",
+      "region": "South America",
+      "notes": "luxury day train; gourmet lunch and live entertainment",
+      "seo": {
+        "title": "PeruRail Titicaca Train · LIKE® Magazine Luxury Guide",
+        "description": "PeruRail Titicaca Train (PeruRail) — Cusco – Puno — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "PeruRail Titicaca Train",
+          "luxury trains",
+          "luxury rail",
+          "likeleaders",
+          "PeruRail",
+          "South America",
+          "Peru"
+        ]
+      }
+    },
+    {
+      "name": "Great Southern",
+      "operator": "Journey Beyond",
+      "route": "Adelaide – Brisbane",
+      "countries": "Australia",
+      "region": "Australia",
+      "notes": "luxury rail cruise; overnight sleeper",
+      "seo": {
+        "title": "Great Southern · LIKE® Magazine Luxury Guide",
+        "description": "Great Southern (Journey Beyond) — Adelaide – Brisbane — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Great Southern",
+          "luxury trains",
+          "luxury rail",
+          "likeleaders",
+          "Journey Beyond",
+          "Australia"
+        ]
+      }
+    },
+    {
+      "name": "Indian Pacific",
+      "operator": "Journey Beyond",
+      "route": "Sydney – Perth",
+      "countries": "Australia",
+      "region": "Australia",
+      "notes": "luxury rail cruise; overnight sleeper",
+      "seo": {
+        "title": "Indian Pacific · LIKE® Magazine Luxury Guide",
+        "description": "Indian Pacific (Journey Beyond) — Sydney – Perth — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Indian Pacific",
+          "luxury trains",
+          "luxury rail",
+          "likeleaders",
+          "Journey Beyond",
+          "Australia"
+        ]
+      }
+    },
+    {
+      "name": "The Ghan",
+      "operator": "Journey Beyond",
+      "route": "Adelaide – Darwin",
+      "countries": "Australia",
+      "region": "Australia",
+      "notes": "luxury rail cruise; overnight sleeper",
+      "seo": {
+        "title": "The Ghan · LIKE® Magazine Luxury Guide",
+        "description": "The Ghan (Journey Beyond) — Adelaide – Darwin — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "The Ghan",
+          "luxury trains",
+          "luxury rail",
+          "likeleaders",
+          "Journey Beyond",
+          "Australia"
+        ]
+      }
+    }
+  ]
+}

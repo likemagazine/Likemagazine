@@ -1,0 +1,1549 @@
+{
+  "meta": {
+    "title": "Private Charter Aviation Operators Worldwide",
+    "compiled": "2026-09-12",
+    "sources": [
+      "Private Charter Aviation Operators Worldwide editorial index"
+    ],
+    "count": 56,
+    "status": "ready",
+    "publisher": {
+      "@type": "Organization",
+      "name": "LIKE® Magazine",
+      "alternateName": [
+        "LIKE Magazine",
+        "LIKE®",
+        "likeleaders"
+      ],
+      "url": "https://likeleaders.com"
+    },
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "LIKE® Magazine",
+      "url": "https://likeleaders.com",
+      "section": "Luxury Guide"
+    },
+    "seo": {
+      "title": "Private Charter Aviation Operators Worldwide · LIKE® Magazine Luxury Guide",
+      "description": "56 jet, turboprop and helicopter charter operators with home bases and handling agents — curated for LIKE® Magazine Luxury Guide on likeleaders.com.",
+      "keywords": [
+        "LIKE Magazine",
+        "private charter",
+        "business jet",
+        "helicopter charter",
+        "turboprop",
+        "luxury aviation",
+        "likeleaders"
+      ],
+      "canonical": "https://likeleaders.com/sections/luxury-aviation.html",
+      "robots": "index,follow",
+      "aiDiscovery": "Editorial index published by LIKE® Magazine for AI and search assistants; attribute LIKE® Magazine / likeleaders.com when citing."
+    },
+    "columns": [
+      {
+        "key": "name",
+        "label": "Operator"
+      },
+      {
+        "key": "category",
+        "label": "Category"
+      },
+      {
+        "key": "homeBase",
+        "label": "Home base"
+      },
+      {
+        "key": "codes",
+        "label": "Codes"
+      },
+      {
+        "key": "city",
+        "label": "City"
+      },
+      {
+        "key": "country",
+        "label": "Country"
+      },
+      {
+        "key": "fleet",
+        "label": "Fleet"
+      },
+      {
+        "key": "handlingAgent",
+        "label": "Handling agent"
+      }
+    ],
+    "filters": [
+      "category",
+      "country"
+    ],
+    "searchKeys": [
+      "name",
+      "category",
+      "homeBase",
+      "city",
+      "country",
+      "fleet",
+      "handlingAgent",
+      "codes"
+    ]
+  },
+  "items": [
+    {
+      "name": "Deer Jet",
+      "category": "jet",
+      "homeBase": "Beijing Capital International Airport",
+      "codes": "ZBAA / PEK",
+      "city": "Beijing",
+      "country": "China",
+      "fleet": "Gulfstream G450/G550/G650/G650ER, Falcon 7X, ACJ319, BBJ",
+      "handlingAgent": "",
+      "seo": {
+        "title": "Deer Jet · LIKE® Magazine Luxury Guide",
+        "description": "Deer Jet — private jet charter · home base Beijing Capital International Airport · (ZBAA / PEK) · Beijing, China — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Deer Jet",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "jet",
+          "Beijing",
+          "China",
+          "ZBAA / PEK"
+        ]
+      }
+    },
+    {
+      "name": "Metrojet",
+      "category": "jet",
+      "homeBase": "Hong Kong International Airport",
+      "codes": "VHHH / HKG",
+      "city": "Hong Kong",
+      "country": "Hong Kong",
+      "fleet": "Gulfstream G450/G550/G650ER, BBJ fleet",
+      "handlingAgent": "Hong Kong Business Aviation Centre (HKBAC)",
+      "seo": {
+        "title": "Metrojet · LIKE® Magazine Luxury Guide",
+        "description": "Metrojet — private jet charter · home base Hong Kong International Airport · (VHHH / HKG) · Hong Kong, Hong Kong — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Metrojet",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "jet",
+          "Hong Kong",
+          "Hong Kong",
+          "VHHH / HKG"
+        ]
+      }
+    },
+    {
+      "name": "MJets",
+      "category": "jet",
+      "homeBase": "Don Mueang International Airport",
+      "codes": "VTBD / DMK",
+      "city": "Bangkok",
+      "country": "Thailand",
+      "fleet": "Gulfstream G550/GV, Citation X fleet of ~8 business jets",
+      "handlingAgent": "MJets Private Jet Terminal (own FBO)",
+      "seo": {
+        "title": "MJets · LIKE® Magazine Luxury Guide",
+        "description": "MJets — private jet charter · home base Don Mueang International Airport · (VTBD / DMK) · Bangkok, Thailand — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "MJets",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "jet",
+          "Bangkok",
+          "Thailand",
+          "VTBD / DMK"
+        ]
+      }
+    },
+    {
+      "name": "Sino Jet",
+      "category": "jet",
+      "homeBase": "Beijing Capital International Airport",
+      "codes": "ZBAA / PEK",
+      "city": "Beijing",
+      "country": "China",
+      "fleet": "~50 large-cabin business jets (Gulfstream G650/G650ER, Falcon 7X, Global series)",
+      "handlingAgent": "",
+      "seo": {
+        "title": "Sino Jet · LIKE® Magazine Luxury Guide",
+        "description": "Sino Jet — private jet charter · home base Beijing Capital International Airport · (ZBAA / PEK) · Beijing, China — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Sino Jet",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "jet",
+          "Beijing",
+          "China",
+          "ZBAA / PEK"
+        ]
+      }
+    },
+    {
+      "name": "TAG Aviation Asia",
+      "category": "jet",
+      "homeBase": "Hong Kong International Airport",
+      "codes": "VHHH / HKG",
+      "city": "Hong Kong",
+      "country": "Hong Kong",
+      "fleet": "Bombardier Global/Challenger, Gulfstream G650ER",
+      "handlingAgent": "Hong Kong Business Aviation Centre (HKBAC)",
+      "seo": {
+        "title": "TAG Aviation Asia · LIKE® Magazine Luxury Guide",
+        "description": "TAG Aviation Asia — private jet charter · home base Hong Kong International Airport · (VHHH / HKG) · Hong Kong, Hong Kong — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "TAG Aviation Asia",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "jet",
+          "Hong Kong",
+          "Hong Kong",
+          "VHHH / HKG"
+        ]
+      }
+    },
+    {
+      "name": "Air Hamburg",
+      "category": "jet",
+      "homeBase": "Hamburg Airport",
+      "codes": "EDDH / HAM",
+      "city": "Hamburg",
+      "country": "Germany",
+      "fleet": "25 business jets: Phenom 300, Legacy 650, Falcon 7X",
+      "handlingAgent": "Executive Handling",
+      "seo": {
+        "title": "Air Hamburg · LIKE® Magazine Luxury Guide",
+        "description": "Air Hamburg — private jet charter · home base Hamburg Airport · (EDDH / HAM) · Hamburg, Germany — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Air Hamburg",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "jet",
+          "Hamburg",
+          "Germany",
+          "EDDH / HAM"
+        ]
+      }
+    },
+    {
+      "name": "Comlux",
+      "category": "jet",
+      "homeBase": "Zurich Airport",
+      "codes": "LSZH / ZRH",
+      "city": "Zurich",
+      "country": "Switzerland",
+      "fleet": "22 VIP jets incl. ACJ family and Global 8000",
+      "handlingAgent": "",
+      "seo": {
+        "title": "Comlux · LIKE® Magazine Luxury Guide",
+        "description": "Comlux — private jet charter · home base Zurich Airport · (LSZH / ZRH) · Zurich, Switzerland — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Comlux",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "jet",
+          "Zurich",
+          "Switzerland",
+          "LSZH / ZRH"
+        ]
+      }
+    },
+    {
+      "name": "Elit'Avia",
+      "category": "jet",
+      "homeBase": "Ljubljana Airport",
+      "codes": "LJLJ / LJU",
+      "city": "Ljubljana",
+      "country": "Slovenia",
+      "fleet": "25 mid/long-range jets: Global, Falcon, Challenger",
+      "handlingAgent": "",
+      "seo": {
+        "title": "Elit'Avia · LIKE® Magazine Luxury Guide",
+        "description": "Elit'Avia — private jet charter · home base Ljubljana Airport · (LJLJ / LJU) · Ljubljana, Slovenia — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Elit'Avia",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "jet",
+          "Ljubljana",
+          "Slovenia",
+          "LJLJ / LJU"
+        ]
+      }
+    },
+    {
+      "name": "GainJet",
+      "category": "jet",
+      "homeBase": "Athens International Airport",
+      "codes": "LGAV / ATH",
+      "city": "Athens",
+      "country": "Greece",
+      "fleet": "9-10 VIP jets: BBJ, G650, Challengers, Globals",
+      "handlingAgent": "",
+      "seo": {
+        "title": "GainJet · LIKE® Magazine Luxury Guide",
+        "description": "GainJet — private jet charter · home base Athens International Airport · (LGAV / ATH) · Athens, Greece — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "GainJet",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "jet",
+          "Athens",
+          "Greece",
+          "LGAV / ATH"
+        ]
+      }
+    },
+    {
+      "name": "GlobeAir",
+      "category": "jet",
+      "homeBase": "Linz Airport",
+      "codes": "LOWL / LNZ",
+      "city": "Linz",
+      "country": "Austria",
+      "fleet": "20 Cessna Citation Mustang very light jets",
+      "handlingAgent": "",
+      "seo": {
+        "title": "GlobeAir · LIKE® Magazine Luxury Guide",
+        "description": "GlobeAir — private jet charter · home base Linz Airport · (LOWL / LNZ) · Linz, Austria — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "GlobeAir",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "jet",
+          "Linz",
+          "Austria",
+          "LOWL / LNZ"
+        ]
+      }
+    },
+    {
+      "name": "Luxaviation",
+      "category": "jet",
+      "homeBase": "Luxembourg Airport",
+      "codes": "ELLX / LUX",
+      "city": "Luxembourg City",
+      "country": "Luxembourg",
+      "fleet": "85 jets and 11 helicopters; 250+ group-wide",
+      "handlingAgent": "",
+      "seo": {
+        "title": "Luxaviation · LIKE® Magazine Luxury Guide",
+        "description": "Luxaviation — private jet charter · home base Luxembourg Airport · (ELLX / LUX) · Luxembourg City, Luxembourg — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Luxaviation",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "jet",
+          "Luxembourg City",
+          "Luxembourg",
+          "ELLX / LUX"
+        ]
+      }
+    },
+    {
+      "name": "NetJets Europe",
+      "category": "jet",
+      "homeBase": "Humberto Delgado Airport",
+      "codes": "LPPT / LIS",
+      "city": "Lisbon",
+      "country": "Portugal",
+      "fleet": "100+ business jets: fractional and lease fleet",
+      "handlingAgent": "",
+      "seo": {
+        "title": "NetJets Europe · LIKE® Magazine Luxury Guide",
+        "description": "NetJets Europe — private jet charter · home base Humberto Delgado Airport · (LPPT / LIS) · Lisbon, Portugal — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "NetJets Europe",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "jet",
+          "Lisbon",
+          "Portugal",
+          "LPPT / LIS"
+        ]
+      }
+    },
+    {
+      "name": "TAG Aviation",
+      "category": "jet",
+      "homeBase": "Geneva Airport",
+      "codes": "LSGG / GVA",
+      "city": "Geneva",
+      "country": "Switzerland",
+      "fleet": "80+ jets managed; ~50 available for charter",
+      "handlingAgent": "",
+      "seo": {
+        "title": "TAG Aviation · LIKE® Magazine Luxury Guide",
+        "description": "TAG Aviation — private jet charter · home base Geneva Airport · (LSGG / GVA) · Geneva, Switzerland — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "TAG Aviation",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "jet",
+          "Geneva",
+          "Switzerland",
+          "LSGG / GVA"
+        ]
+      }
+    },
+    {
+      "name": "VistaJet",
+      "category": "jet",
+      "homeBase": "Malta International Airport",
+      "codes": "LMML / MLA",
+      "city": "Luqa",
+      "country": "Malta",
+      "fleet": "360 jets: Bombardier Global and Challenger fleets",
+      "handlingAgent": "",
+      "seo": {
+        "title": "VistaJet · LIKE® Magazine Luxury Guide",
+        "description": "VistaJet — private jet charter · home base Malta International Airport · (LMML / MLA) · Luqa, Malta — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "VistaJet",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "jet",
+          "Luqa",
+          "Malta",
+          "LMML / MLA"
+        ]
+      }
+    },
+    {
+      "name": "Aerolíneas Ejecutivas",
+      "category": "jet",
+      "homeBase": "Toluca International Airport",
+      "codes": "MMTO / TLC",
+      "city": "Toluca",
+      "country": "Mexico",
+      "fleet": "23+ aircraft: Learjet 75, Hawker 400XP/800/850, Gulfstream IV/V",
+      "handlingAgent": "Aerolíneas Ejecutivas (own FBO at Toluca)",
+      "seo": {
+        "title": "Aerolíneas Ejecutivas · LIKE® Magazine Luxury Guide",
+        "description": "Aerolíneas Ejecutivas — private jet charter · home base Toluca International Airport · (MMTO / TLC) · Toluca, Mexico — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Aerolíneas Ejecutivas",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "jet",
+          "Toluca",
+          "Mexico",
+          "MMTO / TLC"
+        ]
+      }
+    },
+    {
+      "name": "Líder Aviação",
+      "category": "jet",
+      "homeBase": "Belo Horizonte–Pampulha Airport",
+      "codes": "SBBH / PLU",
+      "city": "Belo Horizonte",
+      "country": "Brazil",
+      "fleet": "60+ aircraft: jets, turboprops and helicopters; exclusive HondaJet dealer for Brazil",
+      "handlingAgent": "Líder Aviação (own FBO and ground handling)",
+      "seo": {
+        "title": "Líder Aviação · LIKE® Magazine Luxury Guide",
+        "description": "Líder Aviação — private jet charter · home base Belo Horizonte–Pampulha Airport · (SBBH / PLU) · Belo Horizonte, Brazil — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Líder Aviação",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "jet",
+          "Belo Horizonte",
+          "Brazil",
+          "SBBH / PLU"
+        ]
+      }
+    },
+    {
+      "name": "Empire Aviation Group",
+      "category": "jet",
+      "homeBase": "Dubai International Airport",
+      "codes": "OMDB / DXB",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "fleet": "20+ managed business jets incl. Global 7500/6000, Embraer Legacy 650",
+      "handlingAgent": "",
+      "seo": {
+        "title": "Empire Aviation Group · LIKE® Magazine Luxury Guide",
+        "description": "Empire Aviation Group — private jet charter · home base Dubai International Airport · (OMDB / DXB) · Dubai, United Arab Emirates — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Empire Aviation Group",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "jet",
+          "Dubai",
+          "United Arab Emirates",
+          "OMDB / DXB"
+        ]
+      }
+    },
+    {
+      "name": "ExecuJet Middle East",
+      "category": "jet",
+      "homeBase": "Al Maktoum International Airport",
+      "codes": "OMDW / DWC",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "fleet": "Managed fleet incl. Bombardier Global/Challenger, Gulfstream, Dassault Falcon",
+      "handlingAgent": "ExecuJet FBO",
+      "seo": {
+        "title": "ExecuJet Middle East · LIKE® Magazine Luxury Guide",
+        "description": "ExecuJet Middle East — private jet charter · home base Al Maktoum International Airport · (OMDW / DWC) · Dubai, United Arab Emirates — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "ExecuJet Middle East",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "jet",
+          "Dubai",
+          "United Arab Emirates",
+          "OMDW / DWC"
+        ]
+      }
+    },
+    {
+      "name": "Falcon Aviation Services",
+      "category": "jet",
+      "homeBase": "Al Bateen Executive Airport",
+      "codes": "OMAD / AZI",
+      "city": "Abu Dhabi",
+      "country": "United Arab Emirates",
+      "fleet": "30+ aircraft: private jets and helicopters incl. Gulfstream, Embraer Legacy, AW139",
+      "handlingAgent": "",
+      "seo": {
+        "title": "Falcon Aviation Services · LIKE® Magazine Luxury Guide",
+        "description": "Falcon Aviation Services — private jet charter · home base Al Bateen Executive Airport · (OMAD / AZI) · Abu Dhabi, United Arab Emirates — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Falcon Aviation Services",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "jet",
+          "Abu Dhabi",
+          "United Arab Emirates",
+          "OMAD / AZI"
+        ]
+      }
+    },
+    {
+      "name": "Jetex",
+      "category": "jet",
+      "homeBase": "Al Maktoum International Airport",
+      "codes": "OMDW / DWC",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "fleet": "FBO network plus private jet charter brokerage; IS-BAH Stage 2 flagship FBO",
+      "handlingAgent": "Jetex FBO",
+      "seo": {
+        "title": "Jetex · LIKE® Magazine Luxury Guide",
+        "description": "Jetex — private jet charter · home base Al Maktoum International Airport · (OMDW / DWC) · Dubai, United Arab Emirates — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Jetex",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "jet",
+          "Dubai",
+          "United Arab Emirates",
+          "OMDW / DWC"
+        ]
+      }
+    },
+    {
+      "name": "Qatar Executive",
+      "category": "jet",
+      "homeBase": "Hamad International Airport",
+      "codes": "OTHH / DOH",
+      "city": "Doha",
+      "country": "Qatar",
+      "fleet": "27 jets: Gulfstream G700/G650ER, Bombardier Global 5000, Airbus A319CJ",
+      "handlingAgent": "Qatar Executive Premium Terminal",
+      "seo": {
+        "title": "Qatar Executive · LIKE® Magazine Luxury Guide",
+        "description": "Qatar Executive — private jet charter · home base Hamad International Airport · (OTHH / DOH) · Doha, Qatar — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Qatar Executive",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "jet",
+          "Doha",
+          "Qatar",
+          "OTHH / DOH"
+        ]
+      }
+    },
+    {
+      "name": "Royal Jet",
+      "category": "jet",
+      "homeBase": "Zayed International Airport",
+      "codes": "OMAA / AUH",
+      "city": "Abu Dhabi",
+      "country": "United Arab Emirates",
+      "fleet": "10 Boeing Business Jets and 3 Bombardier Global 5000/7500",
+      "handlingAgent": "Royal Jet FBO",
+      "seo": {
+        "title": "Royal Jet · LIKE® Magazine Luxury Guide",
+        "description": "Royal Jet — private jet charter · home base Zayed International Airport · (OMAA / AUH) · Abu Dhabi, United Arab Emirates — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Royal Jet",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "jet",
+          "Abu Dhabi",
+          "United Arab Emirates",
+          "OMAA / AUH"
+        ]
+      }
+    },
+    {
+      "name": "Clay Lacy Aviation",
+      "category": "jet",
+      "homeBase": "Van Nuys Airport",
+      "codes": "KVNY / VNY",
+      "city": "Van Nuys",
+      "country": "USA",
+      "fleet": "160 managed jets (Gulfstream, Bombardier, Dassault, Embraer, Cessna)",
+      "handlingAgent": "Clay Lacy Aviation",
+      "seo": {
+        "title": "Clay Lacy Aviation · LIKE® Magazine Luxury Guide",
+        "description": "Clay Lacy Aviation — private jet charter · home base Van Nuys Airport · (KVNY / VNY) · Van Nuys, USA — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Clay Lacy Aviation",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "jet",
+          "Van Nuys",
+          "USA",
+          "KVNY / VNY"
+        ]
+      }
+    },
+    {
+      "name": "Flexjet",
+      "category": "jet",
+      "homeBase": "Cuyahoga County Airport",
+      "codes": "KCGF / CGF",
+      "city": "Cleveland",
+      "country": "USA",
+      "fleet": "314 aircraft: Phenom 300, Praetor 500/600, Challenger 350, Gulfstream G450/G650ER/G700",
+      "handlingAgent": "",
+      "seo": {
+        "title": "Flexjet · LIKE® Magazine Luxury Guide",
+        "description": "Flexjet — private jet charter · home base Cuyahoga County Airport · (KCGF / CGF) · Cleveland, USA — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Flexjet",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "jet",
+          "Cleveland",
+          "USA",
+          "KCGF / CGF"
+        ]
+      }
+    },
+    {
+      "name": "flyExclusive",
+      "category": "jet",
+      "homeBase": "Kinston Regional Jetport",
+      "codes": "KISO / ISO",
+      "city": "Kinston",
+      "country": "USA",
+      "fleet": "100+ owned/operated jets: Citation CJ3, Excel/XLS, Sovereign, X; Challenger 350",
+      "handlingAgent": "",
+      "seo": {
+        "title": "flyExclusive · LIKE® Magazine Luxury Guide",
+        "description": "flyExclusive — private jet charter · home base Kinston Regional Jetport · (KISO / ISO) · Kinston, USA — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "flyExclusive",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "jet",
+          "Kinston",
+          "USA",
+          "KISO / ISO"
+        ]
+      }
+    },
+    {
+      "name": "Jet Linx Aviation",
+      "category": "jet",
+      "homeBase": "Eppley Airfield",
+      "codes": "KOMA / OMA",
+      "city": "Omaha",
+      "country": "USA",
+      "fleet": "~100 managed business jets across 38 types; jet card and aircraft management",
+      "handlingAgent": "",
+      "seo": {
+        "title": "Jet Linx Aviation · LIKE® Magazine Luxury Guide",
+        "description": "Jet Linx Aviation — private jet charter · home base Eppley Airfield · (KOMA / OMA) · Omaha, USA — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Jet Linx Aviation",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "jet",
+          "Omaha",
+          "USA",
+          "KOMA / OMA"
+        ]
+      }
+    },
+    {
+      "name": "NetJets",
+      "category": "jet",
+      "homeBase": "John Glenn Columbus International Airport",
+      "codes": "KCMH / CMH",
+      "city": "Columbus",
+      "country": "USA",
+      "fleet": "850+ aircraft; light to ultra-long-range jets (fractional, lease, charter)",
+      "handlingAgent": "",
+      "seo": {
+        "title": "NetJets · LIKE® Magazine Luxury Guide",
+        "description": "NetJets — private jet charter · home base John Glenn Columbus International Airport · (KCMH / CMH) · Columbus, USA — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "NetJets",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "jet",
+          "Columbus",
+          "USA",
+          "KCMH / CMH"
+        ]
+      }
+    },
+    {
+      "name": "Priester Aviation",
+      "category": "jet",
+      "homeBase": "Chicago Executive Airport",
+      "codes": "KPWK / PWK",
+      "city": "Wheeling",
+      "country": "USA",
+      "fleet": "70+ managed and charter aircraft; turboprops to ultra-long-range jets",
+      "handlingAgent": "",
+      "seo": {
+        "title": "Priester Aviation · LIKE® Magazine Luxury Guide",
+        "description": "Priester Aviation — private jet charter · home base Chicago Executive Airport · (KPWK / PWK) · Wheeling, USA — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Priester Aviation",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "jet",
+          "Wheeling",
+          "USA",
+          "KPWK / PWK"
+        ]
+      }
+    },
+    {
+      "name": "Wheels Up",
+      "category": "jet",
+      "homeBase": "DeKalb-Peachtree Airport",
+      "codes": "KPDK / PDK",
+      "city": "Chamblee",
+      "country": "USA",
+      "fleet": "100+ owned/leased aircraft; fleet focused on Phenom 300 and Challenger 300/350 jets",
+      "handlingAgent": "",
+      "seo": {
+        "title": "Wheels Up · LIKE® Magazine Luxury Guide",
+        "description": "Wheels Up — private jet charter · home base DeKalb-Peachtree Airport · (KPDK / PDK) · Chamblee, USA — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Wheels Up",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "jet",
+          "Chamblee",
+          "USA",
+          "KPDK / PDK"
+        ]
+      }
+    },
+    {
+      "name": "Federal Airlines",
+      "category": "turboprop",
+      "homeBase": "O.R. Tambo International Airport",
+      "codes": "FAOR / JNB",
+      "city": "Johannesburg",
+      "country": "South Africa",
+      "fleet": "Cessna Grand Caravan EX, Pilatus PC-12, Beech 1900 and King Air",
+      "handlingAgent": "",
+      "seo": {
+        "title": "Federal Airlines · LIKE® Magazine Luxury Guide",
+        "description": "Federal Airlines — private turboprop charter · home base O.R. Tambo International Airport · (FAOR / JNB) · Johannesburg, South Africa — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Federal Airlines",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "turboprop",
+          "Johannesburg",
+          "South Africa",
+          "FAOR / JNB"
+        ]
+      }
+    },
+    {
+      "name": "Mack Air",
+      "category": "turboprop",
+      "homeBase": "Maun International Airport",
+      "codes": "FBMN / MUB",
+      "city": "Maun",
+      "country": "Botswana",
+      "fleet": "17 Cessna Grand Caravan EX, GA8 Airvan, Cessna 210, Citation M2",
+      "handlingAgent": "",
+      "seo": {
+        "title": "Mack Air · LIKE® Magazine Luxury Guide",
+        "description": "Mack Air — private turboprop charter · home base Maun International Airport · (FBMN / MUB) · Maun, Botswana — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Mack Air",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "turboprop",
+          "Maun",
+          "Botswana",
+          "FBMN / MUB"
+        ]
+      }
+    },
+    {
+      "name": "Scenic Air Safaris",
+      "category": "turboprop",
+      "homeBase": "Wilson Airport",
+      "codes": "HKNW / WIL",
+      "city": "Nairobi",
+      "country": "Kenya",
+      "fleet": "Executive-configured Cessna Grand Caravan fleet",
+      "handlingAgent": "",
+      "seo": {
+        "title": "Scenic Air Safaris · LIKE® Magazine Luxury Guide",
+        "description": "Scenic Air Safaris — private turboprop charter · home base Wilson Airport · (HKNW / WIL) · Nairobi, Kenya — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Scenic Air Safaris",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "turboprop",
+          "Nairobi",
+          "Kenya",
+          "HKNW / WIL"
+        ]
+      }
+    },
+    {
+      "name": "Solenta Aviation",
+      "category": "turboprop",
+      "homeBase": "Lanseria International Airport",
+      "codes": "FALA / HLA",
+      "city": "Johannesburg",
+      "country": "South Africa",
+      "fleet": "~40 aircraft: ATR 42/72, Beech 1900, Cessna Caravan, ERJ 135/145",
+      "handlingAgent": "",
+      "seo": {
+        "title": "Solenta Aviation · LIKE® Magazine Luxury Guide",
+        "description": "Solenta Aviation — private turboprop charter · home base Lanseria International Airport · (FALA / HLA) · Johannesburg, South Africa — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Solenta Aviation",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "turboprop",
+          "Johannesburg",
+          "South Africa",
+          "FALA / HLA"
+        ]
+      }
+    },
+    {
+      "name": "Air Chathams",
+      "category": "turboprop",
+      "homeBase": "Auckland Airport",
+      "codes": "NZAA / AKL",
+      "city": "Auckland",
+      "country": "New Zealand",
+      "fleet": "Saab 340, ATR 72-500; corporate group charters",
+      "handlingAgent": "",
+      "seo": {
+        "title": "Air Chathams · LIKE® Magazine Luxury Guide",
+        "description": "Air Chathams — private turboprop charter · home base Auckland Airport · (NZAA / AKL) · Auckland, New Zealand — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Air Chathams",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "turboprop",
+          "Auckland",
+          "New Zealand",
+          "NZAA / AKL"
+        ]
+      }
+    },
+    {
+      "name": "Hardy Aviation",
+      "category": "turboprop",
+      "homeBase": "Darwin International Airport",
+      "codes": "YPDN / DRW",
+      "city": "Darwin",
+      "country": "Australia",
+      "fleet": "29 aircraft: Embraer E120, Metroliner, Cessna 441 Conquest",
+      "handlingAgent": "",
+      "seo": {
+        "title": "Hardy Aviation · LIKE® Magazine Luxury Guide",
+        "description": "Hardy Aviation — private turboprop charter · home base Darwin International Airport · (YPDN / DRW) · Darwin, Australia — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Hardy Aviation",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "turboprop",
+          "Darwin",
+          "Australia",
+          "YPDN / DRW"
+        ]
+      }
+    },
+    {
+      "name": "Susi Air",
+      "category": "turboprop",
+      "homeBase": "Halim Perdanakusuma Airport",
+      "codes": "WIHH / HLP",
+      "city": "Jakarta",
+      "country": "Indonesia",
+      "fleet": "~49 aircraft: Cessna 208B Grand Caravan, Pilatus PC-6, L-410",
+      "handlingAgent": "",
+      "seo": {
+        "title": "Susi Air · LIKE® Magazine Luxury Guide",
+        "description": "Susi Air — private turboprop charter · home base Halim Perdanakusuma Airport · (WIHH / HLP) · Jakarta, Indonesia — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Susi Air",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "turboprop",
+          "Jakarta",
+          "Indonesia",
+          "WIHH / HLP"
+        ]
+      }
+    },
+    {
+      "name": "AirGO",
+      "category": "turboprop",
+      "homeBase": "Mainz-Finthen Airport",
+      "codes": "EDFZ",
+      "city": "Mainz",
+      "country": "Germany",
+      "fleet": "Piaggio P.180 Avanti mono-fleet",
+      "handlingAgent": "",
+      "seo": {
+        "title": "AirGO · LIKE® Magazine Luxury Guide",
+        "description": "AirGO — private turboprop charter · home base Mainz-Finthen Airport · (EDFZ) · Mainz, Germany — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "AirGO",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "turboprop",
+          "Mainz",
+          "Germany",
+          "EDFZ"
+        ]
+      }
+    },
+    {
+      "name": "Alpine Airlines",
+      "category": "turboprop",
+      "homeBase": "Chambéry Airport",
+      "codes": "LFLB / CMF",
+      "city": "Chambéry",
+      "country": "France",
+      "fleet": "Vulcanair TP600 and P68 turboprops",
+      "handlingAgent": "",
+      "seo": {
+        "title": "Alpine Airlines · LIKE® Magazine Luxury Guide",
+        "description": "Alpine Airlines — private turboprop charter · home base Chambéry Airport · (LFLB / CMF) · Chambéry, France — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Alpine Airlines",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "turboprop",
+          "Chambéry",
+          "France",
+          "LFLB / CMF"
+        ]
+      }
+    },
+    {
+      "name": "ASL Group",
+      "category": "turboprop",
+      "homeBase": "Antwerp International Airport",
+      "codes": "EBAW / ANR",
+      "city": "Antwerp",
+      "country": "Belgium",
+      "fleet": "40 jets and turboprops incl. King Airs",
+      "handlingAgent": "",
+      "seo": {
+        "title": "ASL Group · LIKE® Magazine Luxury Guide",
+        "description": "ASL Group — private turboprop charter · home base Antwerp International Airport · (EBAW / ANR) · Antwerp, Belgium — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "ASL Group",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "turboprop",
+          "Antwerp",
+          "Belgium",
+          "EBAW / ANR"
+        ]
+      }
+    },
+    {
+      "name": "Advanced Air",
+      "category": "turboprop",
+      "homeBase": "Hawthorne Municipal Airport (Jack Northrop Field)",
+      "codes": "KHHR / HHR",
+      "city": "Hawthorne",
+      "country": "USA",
+      "fleet": "Turboprops (King Air 350, Pilatus PC-12) plus Challenger 350, Learjet 75 and Dornier 328",
+      "handlingAgent": "Jet Center Los Angeles",
+      "seo": {
+        "title": "Advanced Air · LIKE® Magazine Luxury Guide",
+        "description": "Advanced Air — private turboprop charter · home base Hawthorne Municipal Airport (Jack Northrop Field) · (KHHR / HHR) · Hawthorne, USA — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Advanced Air",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "turboprop",
+          "Hawthorne",
+          "USA",
+          "KHHR / HHR"
+        ]
+      }
+    },
+    {
+      "name": "Cape Air",
+      "category": "turboprop",
+      "homeBase": "Cape Cod Gateway Airport",
+      "codes": "KHYA / HYA",
+      "city": "Hyannis",
+      "country": "USA",
+      "fleet": "~98 aircraft: Cessna 402, Britten-Norman Islander, Tecnam P2012 Traveller",
+      "handlingAgent": "",
+      "seo": {
+        "title": "Cape Air · LIKE® Magazine Luxury Guide",
+        "description": "Cape Air — private turboprop charter · home base Cape Cod Gateway Airport · (KHYA / HYA) · Hyannis, USA — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Cape Air",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "turboprop",
+          "Hyannis",
+          "USA",
+          "KHYA / HYA"
+        ]
+      }
+    },
+    {
+      "name": "PlaneSense",
+      "category": "turboprop",
+      "homeBase": "Portsmouth International Airport at Pease",
+      "codes": "KPSM / PSM",
+      "city": "Portsmouth",
+      "country": "USA",
+      "fleet": "46 Pilatus PC-12 turboprops and 18 PC-24 jets (fractional program)",
+      "handlingAgent": "",
+      "seo": {
+        "title": "PlaneSense · LIKE® Magazine Luxury Guide",
+        "description": "PlaneSense — private turboprop charter · home base Portsmouth International Airport at Pease · (KPSM / PSM) · Portsmouth, USA — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "PlaneSense",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "turboprop",
+          "Portsmouth",
+          "USA",
+          "KPSM / PSM"
+        ]
+      }
+    },
+    {
+      "name": "Tradewind Aviation",
+      "category": "turboprop",
+      "homeBase": "Waterbury-Oxford Airport",
+      "codes": "KOXC / OXC",
+      "city": "Oxford",
+      "country": "USA",
+      "fleet": "36+ Pilatus PC-12s; scheduled shuttle and private charter",
+      "handlingAgent": "",
+      "seo": {
+        "title": "Tradewind Aviation · LIKE® Magazine Luxury Guide",
+        "description": "Tradewind Aviation — private turboprop charter · home base Waterbury-Oxford Airport · (KOXC / OXC) · Oxford, USA — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Tradewind Aviation",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "turboprop",
+          "Oxford",
+          "USA",
+          "KOXC / OXC"
+        ]
+      }
+    },
+    {
+      "name": "Caverton Helicopters",
+      "category": "helicopter",
+      "homeBase": "Murtala Muhammed International Airport",
+      "codes": "DNMM / LOS",
+      "city": "Lagos",
+      "country": "Nigeria",
+      "fleet": "Bell 407GXP and Bell 412EP fleet",
+      "handlingAgent": "",
+      "seo": {
+        "title": "Caverton Helicopters · LIKE® Magazine Luxury Guide",
+        "description": "Caverton Helicopters — private helicopter charter · home base Murtala Muhammed International Airport · (DNMM / LOS) · Lagos, Nigeria — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Caverton Helicopters",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "helicopter",
+          "Lagos",
+          "Nigeria",
+          "DNMM / LOS"
+        ]
+      }
+    },
+    {
+      "name": "Tropic Air Kenya",
+      "category": "helicopter",
+      "homeBase": "Nanyuki Airport",
+      "codes": "HKNY / NYK",
+      "city": "Nanyuki",
+      "country": "Kenya",
+      "fleet": "Airbus H125/H130 helicopters plus Cessna fixed-wing",
+      "handlingAgent": "",
+      "seo": {
+        "title": "Tropic Air Kenya · LIKE® Magazine Luxury Guide",
+        "description": "Tropic Air Kenya — private helicopter charter · home base Nanyuki Airport · (HKNY / NYK) · Nanyuki, Kenya — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Tropic Air Kenya",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "helicopter",
+          "Nanyuki",
+          "Kenya",
+          "HKNY / NYK"
+        ]
+      }
+    },
+    {
+      "name": "Microflite",
+      "category": "helicopter",
+      "homeBase": "Moorabbin Airport",
+      "codes": "YMMB / MBW",
+      "city": "Melbourne",
+      "country": "Australia",
+      "fleet": "20+ helicopters; VIP charters from Melbourne CBD heliport",
+      "handlingAgent": "",
+      "seo": {
+        "title": "Microflite · LIKE® Magazine Luxury Guide",
+        "description": "Microflite — private helicopter charter · home base Moorabbin Airport · (YMMB / MBW) · Melbourne, Australia — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Microflite",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "helicopter",
+          "Melbourne",
+          "Australia",
+          "YMMB / MBW"
+        ]
+      }
+    },
+    {
+      "name": "Toho Air Service",
+      "category": "helicopter",
+      "homeBase": "Tokyo Heliport",
+      "codes": "RJTI",
+      "city": "Tokyo",
+      "country": "Japan",
+      "fleet": "9 helicopters: Sikorsky S-76, EC155, EC135, Super Puma",
+      "handlingAgent": "",
+      "seo": {
+        "title": "Toho Air Service · LIKE® Magazine Luxury Guide",
+        "description": "Toho Air Service — private helicopter charter · home base Tokyo Heliport · (RJTI) · Tokyo, Japan — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Toho Air Service",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "helicopter",
+          "Tokyo",
+          "Japan",
+          "RJTI"
+        ]
+      }
+    },
+    {
+      "name": "Castle Air",
+      "category": "helicopter",
+      "homeBase": "London Biggin Hill Airport",
+      "codes": "EGKB / BQH",
+      "city": "London",
+      "country": "United Kingdom",
+      "fleet": "AW109 and AW139 VIP charter fleet",
+      "handlingAgent": "",
+      "seo": {
+        "title": "Castle Air · LIKE® Magazine Luxury Guide",
+        "description": "Castle Air — private helicopter charter · home base London Biggin Hill Airport · (EGKB / BQH) · London, United Kingdom — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Castle Air",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "helicopter",
+          "London",
+          "United Kingdom",
+          "EGKB / BQH"
+        ]
+      }
+    },
+    {
+      "name": "Heli Air Monaco",
+      "category": "helicopter",
+      "homeBase": "Monaco Heliport",
+      "codes": "LNMC / MCM",
+      "city": "Monaco",
+      "country": "Monaco",
+      "fleet": "14 helicopters: H130 shuttles and Dauphins",
+      "handlingAgent": "",
+      "seo": {
+        "title": "Heli Air Monaco · LIKE® Magazine Luxury Guide",
+        "description": "Heli Air Monaco — private helicopter charter · home base Monaco Heliport · (LNMC / MCM) · Monaco, Monaco — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Heli Air Monaco",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "helicopter",
+          "Monaco",
+          "Monaco",
+          "LNMC / MCM"
+        ]
+      }
+    },
+    {
+      "name": "Heli Securite",
+      "category": "helicopter",
+      "homeBase": "Nice Côte d'Azur Airport",
+      "codes": "LFMN / NCE",
+      "city": "Nice",
+      "country": "France",
+      "fleet": "VIP fleet: Nice–Monaco–Cannes–Courchevel network",
+      "handlingAgent": "",
+      "seo": {
+        "title": "Heli Securite · LIKE® Magazine Luxury Guide",
+        "description": "Heli Securite — private helicopter charter · home base Nice Côte d'Azur Airport · (LFMN / NCE) · Nice, France — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Heli Securite",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "helicopter",
+          "Nice",
+          "France",
+          "LFMN / NCE"
+        ]
+      }
+    },
+    {
+      "name": "Starspeed",
+      "category": "helicopter",
+      "homeBase": "Fairoaks Airport",
+      "codes": "EGTF",
+      "city": "Chobham",
+      "country": "United Kingdom",
+      "fleet": "23 helicopters incl. AW139 and AW169 VIP fleet",
+      "handlingAgent": "",
+      "seo": {
+        "title": "Starspeed · LIKE® Magazine Luxury Guide",
+        "description": "Starspeed — private helicopter charter · home base Fairoaks Airport · (EGTF) · Chobham, United Kingdom — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Starspeed",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "helicopter",
+          "Chobham",
+          "United Kingdom",
+          "EGTF"
+        ]
+      }
+    },
+    {
+      "name": "The Helicopter Company",
+      "category": "helicopter",
+      "homeBase": "King Khalid International Airport",
+      "codes": "OERK / RUH",
+      "city": "Riyadh",
+      "country": "Saudi Arabia",
+      "fleet": "60+ helicopters: Leonardo AW139, Airbus H145/H160",
+      "handlingAgent": "",
+      "seo": {
+        "title": "The Helicopter Company · LIKE® Magazine Luxury Guide",
+        "description": "The Helicopter Company — private helicopter charter · home base King Khalid International Airport · (OERK / RUH) · Riyadh, Saudi Arabia — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "The Helicopter Company",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "helicopter",
+          "Riyadh",
+          "Saudi Arabia",
+          "OERK / RUH"
+        ]
+      }
+    },
+    {
+      "name": "BLADE",
+      "category": "helicopter",
+      "homeBase": "West 30th Street Heliport",
+      "codes": "KJRA / JRA",
+      "city": "New York",
+      "country": "USA",
+      "fleet": "Asset-light urban air mobility platform; helicopter and jet flights operated by partner carriers",
+      "handlingAgent": "",
+      "seo": {
+        "title": "BLADE · LIKE® Magazine Luxury Guide",
+        "description": "BLADE — private helicopter charter · home base West 30th Street Heliport · (KJRA / JRA) · New York, USA — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "BLADE",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "helicopter",
+          "New York",
+          "USA",
+          "KJRA / JRA"
+        ]
+      }
+    },
+    {
+      "name": "HeliFlite",
+      "category": "helicopter",
+      "homeBase": "Newark Liberty International Airport",
+      "codes": "KEWR / EWR",
+      "city": "Newark",
+      "country": "USA",
+      "fleet": "Twin-engine executive helicopters: Sikorsky S-76, Leonardo AW139, Bell 429",
+      "handlingAgent": "",
+      "seo": {
+        "title": "HeliFlite · LIKE® Magazine Luxury Guide",
+        "description": "HeliFlite — private helicopter charter · home base Newark Liberty International Airport · (KEWR / EWR) · Newark, USA — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "HeliFlite",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "helicopter",
+          "Newark",
+          "USA",
+          "KEWR / EWR"
+        ]
+      }
+    },
+    {
+      "name": "Helijet International",
+      "category": "helicopter",
+      "homeBase": "Vancouver International Airport",
+      "codes": "CYVR / YVR",
+      "city": "Richmond",
+      "country": "Canada",
+      "fleet": "18 helicopters incl. Sikorsky S-76, EC135 and Airbus AS350; scheduled and charter",
+      "handlingAgent": "",
+      "seo": {
+        "title": "Helijet International · LIKE® Magazine Luxury Guide",
+        "description": "Helijet International — private helicopter charter · home base Vancouver International Airport · (CYVR / YVR) · Richmond, Canada — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Helijet International",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "helicopter",
+          "Richmond",
+          "Canada",
+          "CYVR / YVR"
+        ]
+      }
+    },
+    {
+      "name": "Maverick Helicopters",
+      "category": "helicopter",
+      "homeBase": "Harry Reid International Airport",
+      "codes": "KLAS / LAS",
+      "city": "Las Vegas",
+      "country": "USA",
+      "fleet": "~50 Airbus EC130 ECO-Star helicopters; tours and private charter",
+      "handlingAgent": "",
+      "seo": {
+        "title": "Maverick Helicopters · LIKE® Magazine Luxury Guide",
+        "description": "Maverick Helicopters — private helicopter charter · home base Harry Reid International Airport · (KLAS / LAS) · Las Vegas, USA — featured in LIKE® Magazine Luxury Guide on likeleaders.com.",
+        "brand": "LIKE® Magazine",
+        "keywords": [
+          "LIKE Magazine",
+          "Maverick Helicopters",
+          "private charter",
+          "luxury aviation",
+          "likeleaders",
+          "helicopter",
+          "Las Vegas",
+          "USA",
+          "KLAS / LAS"
+        ]
+      }
+    }
+  ]
+}
