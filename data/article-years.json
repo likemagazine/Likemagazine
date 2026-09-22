@@ -37,6 +37,14 @@
       "confidence": "high",
       "detail": "facebook:2025-12-11 post date; body credit LIKE® Magazine, Carnegie Hall, Manhattan, 12.10.2025 — dept-fills/texts/art-carnegie-hall-comic-relief.txt"
     },
+    "articles/like-art-signed-94-cherokee-artist-dobson-rooster.html": {
+      "path": "articles/like-art-signed-94-cherokee-artist-dobson-rooster.html",
+      "year": 2026,
+      "roman": "MMXXVI",
+      "source": "body-credit",
+      "confidence": "high",
+      "detail": "Michael de la Force, LIKE Magazine, 9.16.2026"
+    },
     "articles/like-automotive-black-badge-ghost-ekleipsis-featuring-starlight-headliner.html": {
       "path": "articles/like-automotive-black-badge-ghost-ekleipsis-featuring-starlight-headliner.html",
       "year": 2023,
@@ -404,6 +412,14 @@
       "source": "facebook",
       "confidence": "high",
       "detail": "facebook:2026-07-10 summit-season/posts.json"
+    },
+    "summit-season/trump-un-super-intelligence-2026.html": {
+      "path": "summit-season/trump-un-super-intelligence-2026.html",
+      "year": 2026,
+      "roman": "MMXXVI",
+      "source": "body-credit",
+      "confidence": "high",
+      "detail": "September 22, 2026"
     }
   }
 }
