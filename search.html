@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Search · LIKE® Magazine</title>
+<meta name="description" content="Search LIKE® Magazine — leaders, style, travel, culture, diplomacy, and the Luxury Guide."/>
+<link rel="canonical" href="https://likeleaders.com/search.html"/>
+<style>
+:root {
+  --ink: #111;
+  --paper: #f4efe6;
+  --cream: #fffcf6;
+  --rule: #d6ccbc;
+  --accent: #8b1515;
+  --muted: #6a6358;
+  --serif: "Iowan Old Style", Palatino, Georgia, serif;
+  --sans: "Avenir Next", "Segoe UI", Helvetica, Arial, sans-serif;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--paper); color: var(--ink); font-family: var(--serif); line-height: 1.65; }
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+.mast { background: var(--cream); border-bottom: 3px double var(--ink); text-align: center; padding: 1.25rem 1rem 1rem; }
+.mast .mast-title { margin: 0; font-family: var(--sans); white-space: nowrap; letter-spacing: 0.2em; font-size: clamp(1.55rem, 4.4vw, 2.35rem); font-weight: 700; line-height: 1; }
+.mast .mast-magazine { display: none; }
+.mast .mast-title a { color: inherit; }
+.mast .mast-title .reg { color: var(--accent); font-size: 0.42em; font-weight: 700; letter-spacing: 0; vertical-align: super; line-height: 0; margin-left: 0.06em; position: relative; top: -0.05em; }
+.mast-magazine { margin: 0.35rem 0 0; font-family: var(--sans); font-size: clamp(0.78rem, 2vw, 0.98rem); letter-spacing: 0.62em; text-transform: uppercase; color: var(--ink); font-weight: 600; padding-left: 0.62em; }
+.tag { margin: 0.4rem 0 0; font-family: var(--sans); font-size: 0.68rem; letter-spacing: 0.18em; text-transform: uppercase; color: var(--muted); }
+.nav { display: flex; flex-wrap: wrap; justify-content: center; gap: 0.35rem 0.85rem; padding: 0.65rem 1rem; border-bottom: 1px solid var(--rule); font-family: var(--sans); font-size: 0.72rem; letter-spacing: 0.08em; text-transform: uppercase; background: #efe8db; }
+.nav a { color: var(--ink); }
+.nav a.shop { color: var(--accent); font-weight: 700; }
+.wrap { max-width: 860px; margin: 0 auto; padding: 2rem 1.1rem 3rem; }
+h1 { font-size: clamp(1.6rem, 4vw, 2.2rem); line-height: 1.15; margin: 0 0 0.4rem; }
+.lede { font-family: var(--sans); color: var(--muted); font-size: 0.95rem; margin: 0 0 1.4rem; }
+.searchbox { display: flex; gap: 0.6rem; margin: 0 0 1.5rem; }
+.searchbox input { flex: 1; font-family: var(--sans); font-size: 1rem; padding: 0.8rem 1rem; border: 1px solid var(--rule); background: var(--cream); color: var(--ink); border-radius: 2px; }
+.searchbox input:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+.result { display: block; background: var(--cream); border: 1px solid var(--rule); padding: 1rem 1.1rem; margin: 0 0 0.8rem; color: inherit; }
+.result:hover { border-color: var(--ink); text-decoration: none; }
+.result .kicker { font-family: var(--sans); font-size: 0.7rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--accent); font-weight: 700; margin: 0 0 0.3rem; }
+.result h2 { margin: 0 0 0.3rem; font-size: 1.1rem; line-height: 1.25; }
+.result p { margin: 0; font-family: var(--sans); font-size: 0.88rem; color: var(--muted); }
+.result .url { font-family: var(--sans); font-size: 0.72rem; color: var(--muted); margin-top: 0.4rem; }
+.count { font-family: var(--sans); font-size: 0.82rem; color: var(--muted); margin: 0 0 1rem; }
+.footer { text-align: center; padding: 2rem 1rem; font-family: var(--sans); font-size: 0.72rem; color: var(--muted); border-top: 1px solid var(--rule); }
+.disclosure { max-width: 720px; margin: 0 auto 1rem; font-size: 0.7rem; color: var(--muted); }
+
+/* ---- LIKE® unified nav/footer/a11y refinements (site update 2026-09-27) ---- */
+.nav { align-items: center; }
+.nav a { display: inline-flex; align-items: center; min-height: 44px; padding: 0.35rem 0.45rem; }
+.nav a.summit { color: #7a5f14; }
+.nav details.nav-more { position: relative; }
+.nav details.nav-more > summary { cursor: pointer; list-style: none; display: inline-flex; align-items: center; min-height: 44px; padding: 0.35rem 0.45rem; font-weight: 700; color: var(--accent); text-transform: uppercase; letter-spacing: 0.08em; font-size: 0.72rem; }
+.nav details.nav-more > summary::-webkit-details-marker { display: none; }
+.nav details.nav-more > summary::after { content: "\25BE"; font-size: 0.8em; margin-left: 0.3em; }
+.nav details.nav-more .nav-more-links { display: flex; flex-wrap: wrap; gap: 0.35rem 0.8rem; padding: 0.4rem 0 0.2rem; }
+.nav details.nav-more .nav-more-links { display: none; }
+.nav details.nav-more[open] .nav-more-links { display: flex; flex-wrap: wrap; gap: 0.35rem 0.9rem; position: absolute; top: 100%; left: 0; z-index: 60; min-width: 230px; max-width: min(92vw, 560px); background: #fffdf8; border: 1px solid var(--line); border-radius: 2px; box-shadow: 0 12px 28px rgba(60,40,10,.16); padding: 0.7rem 0.9rem; }
+@media (max-width: 700px) {
+  .nav details.nav-more[open] .nav-more-links { position: static; box-shadow: none; border: 0; padding: 0.4rem 0 0.2rem; max-width: none; }
+}
+.year-line.summit-year .roman { color: #7a5f14; }
+.footer-nav { display: flex; flex-wrap: wrap; justify-content: center; gap: 0.5rem 1.2rem; margin: 0 0 1.1rem; font-size: 0.78rem; }
+.footer-nav a { color: var(--ink); font-weight: 600; }
+@media (max-width: 700px) {
+  .nav { gap: 0.25rem 0.6rem; }
+  .nav details.nav-more { flex: 1 0 100%; }
+  .nav details.nav-more[open] .nav-more-links { border-top: 1px solid var(--rule); margin-top: 0.2rem; padding-top: 0.6rem; }
+}
+</style>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%23111111'/%3E%3Ctext x='32' y='45' font-family='Georgia,serif' font-size='38' fill='%23f4efe6' text-anchor='middle'%3EL%3C/text%3E%3C/svg'"/>
+</head>
+<body>
+<header class="mast">
+  <div class="mast-title"><a href="/index.html" style="color:inherit;text-decoration:none">LIKE<span class="reg">®</span> Magazine</a></div>
+  <p class="tag">Style · Leaders · likeleaders.com</p>
+</header>
+<nav class="nav" aria-label="Primary">
+  <a href="/index.html">Home</a>
+  <a href="/summit-season/index.html" class="summit">Summit Season</a>
+  <a href="/sections/leaders.html">Leaders</a>
+  <a href="/sections/style.html">Style</a>
+  <a href="/sections/travel.html">Travel &amp; Tourism</a>
+  <a href="/sections/apparel.html" class="shop">Apparel</a>
+  <a href="/search.html">Search</a>
+  <a href="/about.html">About</a>
+  <details class="nav-more">
+    <summary>Luxury Guide</summary>
+    <div class="nav-more-links">
+      <a href="/sections/luxury-guide.html">Overview</a>
+      <a href="/sections/luxury-hotels.html">Hotels</a>
+      <a href="/sections/luxury-dining.html">Dining</a>
+      <a href="/sections/luxury-shopping.html">Shopping</a>
+      <a href="/sections/luxury-airlines.html">Airlines</a>
+      <a href="/sections/luxury-wineries.html">Wineries</a>
+      <a href="/sections/luxury-trains.html">Trains</a>
+      <a href="/sections/luxury-aviation.html">Aviation</a>
+      <a href="/sections/luxury-watchmakers.html">Watchmakers</a>
+      <a href="/sections/luxury-jewelers.html">Jewelers</a>
+    </div>
+  </details>
+  <details class="nav-more">
+    <summary>More Departments</summary>
+    <div class="nav-more-links">
+      <a href="/sections/automotive.html">Automotive Features</a>
+      <a href="/sections/fashion.html">Fashion</a>
+      <a href="/sections/sports.html">Sports</a>
+      <a href="/sections/diplomacy.html">Diplomacy</a>
+      <a href="/sections/like-global.html">LIKE® Global</a>
+      <a href="/sections/conferences.html">Conferences</a>
+      <a href="/sections/trade-shows.html">Trade Shows</a>
+      <a href="/sections/health.html">Health</a>
+      <a href="/sections/law.html">Law</a>
+      <a href="/sections/science.html">Science</a>
+      <a href="/sections/music.html">Music</a>
+      <a href="/sections/film.html">Film</a>
+      <a href="/sections/film-festivals.html">Film Festivals</a>
+      <a href="/sections/books.html">Books</a>
+      <a href="/sections/art.html">Art</a>
+      <a href="/sections/museums.html">Museums</a>
+      <a href="/sections/spotlight.html">Spotlight</a>
+      <a href="/sections/features.html">Features</a>
+    </div>
+  </details>
+</nav>
+<main class="wrap">
+  <h1>Search LIKE® Magazine</h1>
+  <p class="lede">Stories, departments, and the Luxury Guide — across likeleaders.com.</p>
+  <form class="searchbox" id="search-form" role="search">
+    <input type="search" id="q" name="q" placeholder="Try &quot;hotels&quot;, &quot;Bangkok&quot;, &quot;watchmakers&quot;…" aria-label="Search LIKE Magazine" autocomplete="off"/>
+  </form>
+  <p class="count" id="count" aria-live="polite"></p>
+  <div id="results"></div>
+</main>
+<footer class="footer">
+  <p class="disclosure">Affiliate disclosure: LIKE® Magazine may earn a commission from qualifying purchases made through links on this site. Editorial coverage remains independent.</p>
+  <nav class="footer-nav" aria-label="Footer">
+    <a href="/about.html">About</a>
+    <a href="/archive/index.html">Archive by Year</a>
+    <a href="/sections/luxury-guide.html">Luxury Guide</a>
+    <a href="/summit-season/index.html">Summit Season</a>
+    <a href="/search.html">Search</a>
+  </nav>
+  <p>&copy; LIKE Magazine &middot; likeleaders.com &middot; Photography &amp; editorial by Michael de la Force &middot; Print-on-demand editions coming soon</p>
+</footer>
+<script>
+(function () {
+  var input = document.getElementById('q');
+  var results = document.getElementById('results');
+  var count = document.getElementById('count');
+  var entries = [];
+  function esc(s) {
+    return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  }
+  function score(entry, terms) {
+    var hay = (entry.title + ' ' + entry.kicker + ' ' + entry.description + ' ' + entry.url).toLowerCase();
+    var s = 0;
+    for (var i = 0; i < terms.length; i++) {
+      var t = terms[i];
+      if (!t) continue;
+      if (entry.title.toLowerCase().indexOf(t) !== -1) s += 5;
+      else if (entry.kicker.toLowerCase().indexOf(t) !== -1) s += 3;
+      else if (hay.indexOf(t) !== -1) s += 1;
+      else return -1;
+    }
+    return s;
+  }
+  function render(query) {
+    var terms = query.toLowerCase().split(/\s+/).filter(Boolean);
+    results.innerHTML = '';
+    if (!terms.length) {
+      count.textContent = entries.length + ' pages indexed. Type to search.';
+      return;
+    }
+    var hits = [];
+    for (var i = 0; i < entries.length; i++) {
+      var sc = score(entries[i], terms);
+      if (sc > 0) hits.push({ e: entries[i], s: sc });
+    }
+    hits.sort(function (a, b) { return b.s - a.s; });
+    hits = hits.slice(0, 60);
+    count.textContent = hits.length + (hits.length === 1 ? ' result' : ' results') + ' for \u201C' + query + '\u201D';
+    results.innerHTML = hits.map(function (h) {
+      var e = h.e;
+      return '<a class="result" href="' + esc(e.url) + '">' +
+        (e.kicker ? '<p class="kicker">' + esc(e.kicker) + '</p>' : '') +
+        '<h2>' + esc(e.title) + '</h2>' +
+        (e.description ? '<p>' + esc(e.description) + '</p>' : '') +
+        '<p class="url">likeleaders.com' + esc(e.url) + '</p></a>';
+    }).join('');
+  }
+  fetch('/data/search-index.json')
+    .then(function (r) { return r.json(); })
+    .then(function (data) {
+      entries = data;
+      var initial = new URLSearchParams(window.location.search).get('q') || '';
+      input.value = initial;
+      render(initial);
+    })
+    .catch(function () { count.textContent = 'Search index could not be loaded.'; });
+  var t;
+  input.addEventListener('input', function () {
+    clearTimeout(t);
+    t = setTimeout(function () { render(input.value.trim()); }, 160);
+  });
+  document.getElementById('search-form').addEventListener('submit', function (ev) { ev.preventDefault(); });
+})();
+</script>
+</body>
+</html>

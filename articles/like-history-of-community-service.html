@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<link rel="canonical" href="https://likeleaders.com/articles/like-history-of-community-service.html"/>
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
 <title>250 YEARS OF AMERICA: THE ONE-MAN MORALE MACHINE · LIKE Magazine</title>
@@ -142,46 +143,143 @@ a:hover { text-decoration: underline; }
 .edition.summit { background: #120c18; color: #f7f3eb; border-color: rgba(201,154,59,.45); }
 .edition.summit .ed-num { color: #c99a3b; }
 .edition.summit em { color: #b9b0c4; }
+
+/* ---- LIKE® unified nav/footer/a11y refinements (site update 2026-09-27) ---- */
+.nav { align-items: center; }
+.nav a { display: inline-flex; align-items: center; min-height: 44px; padding: 0.35rem 0.45rem; }
+.nav a.summit { color: #7a5f14; }
+.nav details.nav-more { position: relative; }
+.nav details.nav-more > summary { cursor: pointer; list-style: none; display: inline-flex; align-items: center; min-height: 44px; padding: 0.35rem 0.45rem; font-weight: 700; color: var(--accent); text-transform: uppercase; letter-spacing: 0.08em; font-size: 0.72rem; }
+.nav details.nav-more > summary::-webkit-details-marker { display: none; }
+.nav details.nav-more > summary::after { content: "\25BE"; font-size: 0.8em; margin-left: 0.3em; }
+.nav details.nav-more .nav-more-links { display: flex; flex-wrap: wrap; gap: 0.35rem 0.8rem; padding: 0.4rem 0 0.2rem; }
+.nav details.nav-more .nav-more-links { display: none; }
+.nav details.nav-more[open] .nav-more-links { display: flex; flex-wrap: wrap; gap: 0.35rem 0.9rem; position: absolute; top: 100%; left: 0; z-index: 60; min-width: 230px; max-width: min(92vw, 560px); background: #fffdf8; border: 1px solid var(--line); border-radius: 2px; box-shadow: 0 12px 28px rgba(60,40,10,.16); padding: 0.7rem 0.9rem; }
+@media (max-width: 700px) {
+  .nav details.nav-more[open] .nav-more-links { position: static; box-shadow: none; border: 0; padding: 0.4rem 0 0.2rem; max-width: none; }
+}
+.year-line.summit-year .roman { color: #7a5f14; }
+.footer-nav { display: flex; flex-wrap: wrap; justify-content: center; gap: 0.5rem 1.2rem; margin: 0 0 1.1rem; font-size: 0.78rem; }
+.footer-nav a { color: var(--ink); font-weight: 600; }
+.mast .mast-title { margin: 0; font-family: var(--sans); white-space: nowrap; letter-spacing: 0.2em; font-size: clamp(1.55rem, 4.4vw, 2.35rem); font-weight: 700; line-height: 1; }
+.mast .mast-magazine { display: none; }
+.mast .mast-title a { color: inherit; }
+.mast .mast-title .reg, .mast .mast-title sup.reg { color: var(--accent); font-size: 0.42em; font-weight: 700; letter-spacing: 0; vertical-align: super; line-height: 0; margin-left: 0.06em; position: relative; top: -0.05em; }
+@media (max-width: 700px) {
+  .nav { gap: 0.25rem 0.6rem; }
+  .nav details.nav-more { flex: 1 0 100%; }
+  .nav details.nav-more[open] .nav-more-links { border-top: 1px solid var(--rule); margin-top: 0.2rem; padding-top: 0.6rem; }
+}
+
+/* == LIKE editorial typography v1 == */
+.article-wrap > h1 {
+  font-family: var(--serif);
+  letter-spacing: 0.045em;
+  text-wrap: balance;
+}
+p.lead {
+  font-size: 1.24rem;
+  line-height: 1.55;
+  font-style: italic;
+  color: #4a4036;
+  margin: 0 0 1.6rem;
+  text-wrap: pretty;
+}
+.article-body { font-size: 1.08rem; }
+.article-body > p {
+  line-height: 1.78;
+  margin: 0 0 1.2rem;
+  text-wrap: pretty;
+}
+.article-body > p.dropcap::first-letter {
+  font-family: var(--serif);
+  font-weight: 700;
+  font-size: 3.6em;
+  line-height: 0.82;
+  float: left;
+  padding: 0.06em 0.14em 0 0;
+}
+.article-body h2 {
+  font-family: var(--serif);
+  font-size: 1.45rem;
+  line-height: 1.25;
+  margin: 2.2rem 0 0.9rem;
+  text-wrap: balance;
+}
+.byline {
+  font-size: 0.74rem;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+}
+.figure {
+  border: 1px solid var(--rule);
+  background: #fff;
+  padding: 0.6rem;
+}
 </style>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%23111111'/%3E%3Ctext x='32' y='45' font-family='Georgia,serif' font-size='38' fill='%23f4efe6' text-anchor='middle'%3EL%3C/text%3E%3C/svg'"/>
 </head>
 <body>
 <header class="mast">
-  <h1><a href="/index.html" style="color:inherit;text-decoration:none">LIKE<sup class="reg">®</sup></a></h1>
-  <p class="mast-magazine">Magazine</p>
+  <div class="mast-title"><a href="/index.html" style="color:inherit;text-decoration:none">LIKE<sup class="reg">®</sup> Magazine</a></div>
   <p class="tag">Style · Leaders · likeleaders.com</p>
 </header>
-<nav class="nav">
+<nav class="nav" aria-label="Primary">
   <a href="/index.html">Home</a>
   <a href="/summit-season/index.html" class="summit">Summit Season</a>
-  <a href="/sections/automotive.html">Automotive Features</a>
   <a href="/sections/leaders.html">Leaders</a>
   <a href="/sections/style.html">Style</a>
-  <a href="/sections/fashion.html">Fashion</a>
-  <a href="/sections/sports.html">Sports</a>
   <a href="/sections/travel.html">Travel &amp; Tourism</a>
-  <a href="/sections/diplomacy.html">Diplomacy</a>
-  <a href="/sections/health.html">Health</a>
-  <a href="/sections/law.html">Law</a>
-  <a href="/sections/science.html">Science</a>
-  <a href="/sections/music.html">Music</a>
-  <a href="/sections/film.html">Film</a>
-  <a href="/sections/film-festivals.html">Film Festivals</a>
-  <a href="/sections/books.html">Books</a>
-  <a href="/sections/art.html">Art</a>
-  <a href="/sections/museums.html">Museums</a>
-  <a href="/sections/spotlight.html">Spotlight</a>
-  <a href="/sections/features.html">Features</a>
   <a href="/sections/apparel.html" class="shop">Apparel</a>
+  <a href="/search.html">Search</a>
   <a href="/about.html">About</a>
+  <details class="nav-more">
+    <summary>Luxury Guide</summary>
+    <div class="nav-more-links">
+      <a href="/sections/luxury-guide.html">Overview</a>
+      <a href="/sections/luxury-hotels.html">Hotels</a>
+      <a href="/sections/luxury-dining.html">Dining</a>
+      <a href="/sections/luxury-shopping.html">Shopping</a>
+      <a href="/sections/luxury-airlines.html">Airlines</a>
+      <a href="/sections/luxury-wineries.html">Wineries</a>
+      <a href="/sections/luxury-trains.html">Trains</a>
+      <a href="/sections/luxury-aviation.html">Aviation</a>
+      <a href="/sections/luxury-watchmakers.html">Watchmakers</a>
+      <a href="/sections/luxury-jewelers.html">Jewelers</a>
+    </div>
+  </details>
+  <details class="nav-more">
+    <summary>More Departments</summary>
+    <div class="nav-more-links">
+      <a href="/sections/automotive.html">Automotive Features</a>
+      <a href="/sections/fashion.html">Fashion</a>
+      <a href="/sections/sports.html">Sports</a>
+      <a href="/sections/diplomacy.html">Diplomacy</a>
+      <a href="/sections/like-global.html">LIKE® Global</a>
+      <a href="/sections/conferences.html">Conferences</a>
+      <a href="/sections/trade-shows.html">Trade Shows</a>
+      <a href="/sections/health.html">Health</a>
+      <a href="/sections/law.html">Law</a>
+      <a href="/sections/science.html">Science</a>
+      <a href="/sections/music.html">Music</a>
+      <a href="/sections/film.html">Film</a>
+      <a href="/sections/film-festivals.html">Film Festivals</a>
+      <a href="/sections/books.html">Books</a>
+      <a href="/sections/art.html">Art</a>
+      <a href="/sections/museums.html">Museums</a>
+      <a href="/sections/spotlight.html">Spotlight</a>
+      <a href="/sections/features.html">Features</a>
+    </div>
+  </details>
 </nav>
 
 <main class="article-wrap">
   <p class="kicker">(LIKE® History of Community Service)</p>
   <h1 style="font-size:clamp(1.7rem,4vw,2.5rem);line-height:1.15;margin:0 0 0.8rem">250 YEARS OF AMERICA: THE ONE-MAN MORALE MACHINE</h1>
   <p class="byline">By Michael de la Force · Editor-in-Chief, LIKE® Magazine · <a href="/sections/features.html">Features</a></p>
-  <figure class="figure"><img src="/images/like-history-of-community-service-1.jpg" alt=""/><figcaption class="caption">Photograph: Michael de la Force · LIKE® Magazine</figcaption></figure>
+  <figure class="figure"><img src="/images/like-history-of-community-service-1.jpg" alt="Photograph: Michael de la Force · LIKE® Magazine"/><figcaption class="caption">Photograph: Michael de la Force · LIKE® Magazine</figcaption></figure>
   <article class="article-body"><p class="lead">New York City, August 8, 2026 | How an Immigrant Stonemason’s Son, a Beauty Queen on a LIKE® Cover, Nine Vietnam Christmases, Marilyn Monroe in the Snow, Operation Holly Logistics, and a Lifetime of Bob Hope USO Stages Turned Laughter into National Service</p>
-<p>“The best way to find yourself is to lose yourself in the service of others.&quot; —Mahatma Gandhi</p>
+<p class="dropcap">“The best way to find yourself is to lose yourself in the service of others.&quot; —Mahatma Gandhi</p>
 <p>Bob Hope’s status as the ultimate USO volunteer was so deeply ingrained in American culture that it became a running joke at the highest levels of government. On November 2, 2001, President George W. Bush welcomed USO leaders to The White House to thank them for supporting troops deploying after 9/11. Looking out at crooner Wayne Newton, who had just stepped up to lead the USO’s celebrity recruitment efforts, Bush drew laughs from the East Room crowd by referencing Hope’s unrivaled multi-decade tenure: “I don’t know whether or not you spent much time with Bob Hope before you took the assignment,” Bush joked, “but this job has got a 60-year term limit to it.”</p>
 <p>They called Hope the one-man morale machine.</p>
 <p>For more than half a century, Bob Hope packed a golf club, a monologue, and a suitcase full of punch lines and carried them into the loneliest corners of American military life. Desert airstrips, jungle clearings, hospital wards, carrier decks—wherever the troops were, Hope somehow showed up. Fifty-seven USO tours. Nine consecutive Christmases in Vietnam. An estimated ten million service members who heard “Thanks for the Memory” live. No other entertainer ever came close. As the nation marks 250 years, his story feels less like show-business nostalgia and more like a chapter of the American experiment itself: an immigrant kid who turned laughter into a form of national service.</p>
@@ -205,12 +303,19 @@ a:hover { text-decoration: underline; }
 <p>The USO remains a private 501(c)(3) organization, not a government agency. It operates more than 250 centers worldwide and depends on private support.</p>
 <p>Readers of LIKE® Magazine who want to keep the tradition alive have clear options: Online: uso.org/donate Donation hotline: 1-800-876-7469 or 1-877-USO-GIVE General information: 1-888-484-3876 Mail: United Service Organizations, P.O. Box 96860, Washington, DC 20077-7677 Vehicle donations: 888-578-4288 or 855-500-RIDE Planned giving: plannedgiving@uso.org or 703-579-0845 Funds support entertainment, family connections, and the practical programs that still meet service members where they are.</p>
 <p>Two hundred fifty years after the Declaration, the American story still has room for the immigrant stonemason’s son who became a comedian, the comedian who became the one-man morale machine, and the quiet understanding that sometimes the most useful thing you can send to the front is a well-timed joke and the sound of home. Thanks for the memories—and for the work that is not yet finished.</p>
-<p>Michael de la Force Editor-in-Chief LIKE® Magazine  August 8, 2026 250 YEARS OF AMERICA</p><figure class="figure"><img src="/images/like-history-of-community-service-2.jpg" alt=""/><figcaption class="caption">Photograph: Michael de la Force · LIKE® Magazine</figcaption></figure><figure class="figure"><img src="/images/like-history-of-community-service-3.jpg" alt=""/><figcaption class="caption">Photograph: Michael de la Force · LIKE® Magazine</figcaption></figure></article>
+<p>Michael de la Force Editor-in-Chief LIKE® Magazine  August 8, 2026 250 YEARS OF AMERICA</p><figure class="figure"><img src="/images/like-history-of-community-service-2.jpg" alt="Photograph: Michael de la Force · LIKE® Magazine"/><figcaption class="caption">Photograph: Michael de la Force · LIKE® Magazine</figcaption></figure><figure class="figure"><img src="/images/like-history-of-community-service-3.jpg" alt="Photograph: Michael de la Force · LIKE® Magazine"/><figcaption class="caption">Photograph: Michael de la Force · LIKE® Magazine</figcaption></figure></article>
   <aside class="affiliate-box"><strong>Shop the story</strong>Affiliate product links for this feature will appear here — Style picks, books, travel, and partners tied to the reporting.</aside>
 </main>
 <footer class="footer">
   <p class="disclosure">Affiliate disclosure: LIKE® Magazine may earn a commission from qualifying purchases made through links on this site. Editorial coverage remains independent.</p>
-  © LIKE Magazine · likeleaders.com · Photography &amp; editorial by Michael de la Force · Print-on-demand editions coming soon
+  <nav class="footer-nav" aria-label="Footer">
+    <a href="/about.html">About</a>
+    <a href="/archive/index.html">Archive by Year</a>
+    <a href="/sections/luxury-guide.html">Luxury Guide</a>
+    <a href="/summit-season/index.html">Summit Season</a>
+    <a href="/search.html">Search</a>
+  </nav>
+  <p>&copy; LIKE Magazine &middot; likeleaders.com &middot; Photography &amp; editorial by Michael de la Force &middot; Print-on-demand editions coming soon</p>
 </footer>
 </body>
 </html>

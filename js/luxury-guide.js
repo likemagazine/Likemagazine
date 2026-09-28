@@ -167,6 +167,21 @@
       }, 120);
     });
 
+    // Deep-link: ?q=term pre-fills the search box.
+    // Used by article "Visit [destination]" boxes to open the guide filtered
+    // to that destination. Never blanks the page if the param is absent.
+    try {
+      var qParam = new URLSearchParams(window.location.search).get("q");
+      if (qParam && qParam.trim()) {
+        search.value = qParam.trim();
+        self.q = qParam.trim().toLowerCase();
+        self.page = 1;
+        self.apply();
+      }
+    } catch (e) {
+      if (window.console && console.warn) console.warn("luxury-guide q param", e);
+    }
+
     filters.forEach(function (key) {
       var sel = $('#lg-f-' + key, self.root);
       uniqueValues(self.items, key).forEach(function (v) {
@@ -263,6 +278,9 @@
           var cells = cols
             .map(function (c) {
               var v = it[c.key];
+              if (Array.isArray(v)) v = v.join(", ");
+              if (c.key === "region" && typeof v === "string" && typeof it.continent === "string" &&
+                  v.toLowerCase() === it.continent.toLowerCase()) v = "\u2014";
               var cls = c.key === "rank" ? ' class="lg-rank"' : "";
               var itemprop = "";
               if (c.key === "name" || c.key === "airline" || c.key === "street" || c.key === "maison" || c.key === "boutique") itemprop = ' itemprop="name"';

@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>LIKE® MAGAZINE | A CELEBRATION OF 250 YEARS OF AMERICA · LIKE Magazine</title>
+<meta name="description" content="(LIKE®, 250 YEARS OF AMERICA): FROM THE GRIDIRON TO THE OPEN BOOK — GERALD FORD, BIG AG, FIRST LADIES, AND THE GREAT AMERICAN MISSION TO EDUCATE A NATION"/>
+<link rel="canonical" href="https://likeleaders.com/articles/like-magazine-a-celebration-of-250-years-of-america.html"/>
+<meta property="og:type" content="article"/>
+<meta property="og:site_name" content="LIKE Magazine"/>
+<meta property="og:title" content="LIKE® MAGAZINE | A CELEBRATION OF 250 YEARS OF AMERICA · LIKE Magazine"/>
+<meta property="og:description" content="(LIKE®, 250 YEARS OF AMERICA): FROM THE GRIDIRON TO THE OPEN BOOK — GERALD FORD, BIG AG, FIRST LADIES, AND THE GREAT AMERICAN MISSION TO EDUCATE A NATION"/>
+<meta property="og:url" content="https://likeleaders.com/articles/like-magazine-a-celebration-of-250-years-of-america.html"/>
+<meta property="og:image" content="https://likeleaders.com/images/like-magazine-cover-hero.jpg"/>
+<style>
+:root {
+  --ink: #111;
+  --paper: #f4efe6;
+  --cream: #fffcf6;
+  --rule: #d6ccbc;
+  --accent: #8b1515;
+  --muted: #6a6358;
+  --serif: "Iowan Old Style", Palatino, Georgia, serif;
+  --sans: "Avenir Next", "Segoe UI", Helvetica, Arial, sans-serif;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--paper); color: var(--ink); font-family: var(--serif); line-height: 1.65; }
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+.mast {
+  background: var(--cream);
+  border-bottom: 3px double var(--ink);
+  text-align: center;
+  padding: 1.25rem 1rem 1rem;
+}
+.mast h1 {
+  margin: 0;
+  font-family: var(--sans);
+  letter-spacing: 0.28em;
+  font-size: clamp(1.85rem, 4.5vw, 2.55rem);
+  font-weight: 700;
+  line-height: 1;
+}
+.mast h1 a { color: inherit; }
+.mast h1 .reg,
+.mast h1 sup.reg {
+  color: var(--accent);
+  font-size: 0.42em;
+  font-weight: 700;
+  letter-spacing: 0;
+  vertical-align: super;
+  line-height: 0;
+  margin-left: 0.06em;
+  position: relative;
+  top: -0.05em;
+}
+.mast-magazine {
+  margin: 0.35rem 0 0;
+  font-family: var(--sans);
+  font-size: clamp(0.78rem, 2vw, 0.98rem);
+  letter-spacing: 0.62em;
+  text-transform: uppercase;
+  color: var(--ink);
+  font-weight: 600;
+  padding-left: 0.62em; /* optical center with letter-spacing */
+}
+.tag { margin: 0.4rem 0 0; font-family: var(--sans); font-size: 0.68rem; letter-spacing: 0.18em; text-transform: uppercase; color: var(--muted); }
+.nav {
+  display: flex; flex-wrap: wrap; justify-content: center; gap: 0.35rem 0.85rem;
+  padding: 0.65rem 1rem; border-bottom: 1px solid var(--rule);
+  font-family: var(--sans); font-size: 0.72rem; letter-spacing: 0.08em; text-transform: uppercase;
+  background: #efe8db;
+}
+.nav a { color: var(--ink); }
+.nav a.shop { color: var(--accent); font-weight: 700; }
+.wrap { max-width: 1080px; margin: 0 auto; padding: 1.5rem 1.1rem 3rem; }
+.hero-grid { display: grid; gap: 1.25rem; grid-template-columns: 1.4fr 1fr; }
+@media (max-width: 800px) { .hero-grid { grid-template-columns: 1fr; } }
+.card, .feature {
+  background: var(--cream); border: 1px solid var(--rule); overflow: hidden; color: inherit;
+  display: flex; flex-direction: column;
+}
+.feature img, .card img { width: 100%; aspect-ratio: 16/10; object-fit: cover; background: #ddd4c4; }
+.feature .body, .card .meta { padding: 1rem 1.1rem 1.2rem; }
+.kicker { font-family: var(--sans); font-size: 0.72rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--accent); font-weight: 700; margin: 0 0 0.4rem; }
+.feature h2, .card h2 { margin: 0; font-size: 1.35rem; line-height: 1.2; }
+.card h2 { font-size: 1.05rem; }
+.deck { margin: 0.55rem 0 0; color: var(--muted); font-size: 0.95rem; }
+.grid { display: grid; gap: 1rem; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); margin-top: 1.5rem; }
+.section-title { font-family: var(--sans); letter-spacing: 0.12em; text-transform: uppercase; font-size: 0.85rem; border-bottom: 1px solid var(--ink); padding-bottom: 0.4rem; margin: 2rem 0 1rem; }
+.article-wrap { max-width: 720px; margin: 0 auto; padding: 1.5rem 1.1rem 3rem; }
+.byline { font-family: var(--sans); font-size: 0.82rem; color: var(--muted); border-top: 1px solid var(--rule); border-bottom: 1px solid var(--rule); padding: 0.7rem 0; margin: 0 0 1.4rem; }
+.article-body p { margin: 0 0 1.05rem; font-size: 1.06rem; }
+.article-body p.lead { font-size: 1.18rem; }
+.figure { margin: 1.5rem 0; }
+.figure img { width: 100%; height: auto; display: block; }
+.caption { font-family: var(--sans); font-size: 0.76rem; color: var(--muted); margin-top: 0.4rem; }
+.affiliate-box {
+  margin: 1.75rem 0; padding: 1rem 1.1rem; border: 1px dashed var(--accent);
+  background: #fff8f0; font-family: var(--sans); font-size: 0.85rem;
+}
+.affiliate-box strong { display: block; letter-spacing: 0.08em; text-transform: uppercase; font-size: 0.72rem; margin-bottom: 0.35rem; color: var(--accent); }
+.shop-grid { display: grid; gap: 1rem; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); }
+.shop-card { background: var(--cream); border: 1px solid var(--rule); padding: 1rem; text-align: center; font-family: var(--sans); }
+.shop-card .swatch { height: 160px; background: linear-gradient(135deg,#2a2a2a,#8b1515); margin-bottom: 0.75rem; }
+.footer { text-align: center; padding: 2rem 1rem; font-family: var(--sans); font-size: 0.72rem; color: var(--muted); border-top: 1px solid var(--rule); }
+.disclosure { max-width: 720px; margin: 0 auto 1rem; font-size: 0.7rem; color: var(--muted); }
+
+.dept-rail {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 0.65rem;
+  margin: 1rem 0 1.75rem;
+}
+.dept-tile {
+  display: flex; flex-direction: column; justify-content: flex-end;
+  min-height: 96px; padding: 0.85rem 0.9rem;
+  background: #1a1a1a; color: #f7f3eb !important; text-decoration: none !important;
+  border: 1px solid #1a1a1a; font-family: var(--sans);
+}
+.dept-tile:hover { background: var(--accent); border-color: var(--accent); }
+.dept-tile .label { font-size: 0.65rem; letter-spacing: 0.16em; text-transform: uppercase; opacity: 0.75; }
+.dept-tile strong { font-size: 1rem; letter-spacing: 0.04em; margin-top: 0.25rem; }
+.dept-tile.shop { background: var(--accent); }
+.archive-band { margin: 2rem 0 0.5rem; }
+.archive-lede { font-family: var(--sans); font-size: 0.9rem; color: var(--muted); margin: -0.4rem 0 1rem; }
+.edition-grid { display: grid; gap: 0.75rem; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); }
+.edition {
+  display: block; padding: 1rem 1.05rem 1.1rem; background: var(--cream);
+  border: 1px solid var(--rule); color: inherit !important; text-decoration: none !important;
+}
+.edition:hover { border-color: var(--ink); }
+.edition .ed-num { display:block; font-family: var(--sans); font-size: 0.65rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--accent); margin-bottom: 0.35rem; }
+.edition strong { display:block; font-size: 1.15rem; line-height: 1.2; }
+.edition em { display:block; margin-top: 0.35rem; font-family: var(--sans); font-size: 0.78rem; color: var(--muted); font-style: normal; }
+.nav { gap: 0.45rem 1rem; padding: 0.75rem 1rem; }
+.nav a { font-weight: 600; }
+
+
+.nav a.summit { color: #c99a3b; font-weight: 700; }
+.summit-band {
+  margin: 2rem 0 1rem; padding: 1.25rem 1.2rem; background: #120c18; color: #f7f3eb;
+  border: 1px solid rgba(201,154,59,.4);
+}
+.summit-band a { color: #e3c88a !important; }
+.summit-band .eyebrow { font-family: var(--sans); font-size: 0.7rem; letter-spacing: 0.22em; text-transform: uppercase; color: #c99a3b; margin: 0 0 0.4rem; }
+.summit-band h3 { margin: 0 0 0.45rem; font-size: 1.45rem; }
+.summit-band p { font-family: var(--sans); margin: 0; color: #cfc6d8; font-size: 0.92rem; }
+.edition.summit { background: #120c18; color: #f7f3eb; border-color: rgba(201,154,59,.45); }
+.edition.summit .ed-num { color: #c99a3b; }
+.edition.summit em { color: #b9b0c4; }
+
+/* ---- LIKE® unified nav/footer/a11y refinements (site update 2026-09-27) ---- */
+.nav { align-items: center; }
+.nav a { display: inline-flex; align-items: center; min-height: 44px; padding: 0.35rem 0.45rem; }
+.nav a.summit { color: #7a5f14; }
+.nav details.nav-more { position: relative; }
+.nav details.nav-more > summary { cursor: pointer; list-style: none; display: inline-flex; align-items: center; min-height: 44px; padding: 0.35rem 0.45rem; font-weight: 700; color: var(--accent); text-transform: uppercase; letter-spacing: 0.08em; font-size: 0.72rem; }
+.nav details.nav-more > summary::-webkit-details-marker { display: none; }
+.nav details.nav-more > summary::after { content: "\25BE"; font-size: 0.8em; margin-left: 0.3em; }
+.nav details.nav-more .nav-more-links { display: flex; flex-wrap: wrap; gap: 0.35rem 0.8rem; padding: 0.4rem 0 0.2rem; }
+.nav details.nav-more .nav-more-links { display: none; }
+.nav details.nav-more[open] .nav-more-links { display: flex; flex-wrap: wrap; gap: 0.35rem 0.9rem; position: absolute; top: 100%; left: 0; z-index: 60; min-width: 230px; max-width: min(92vw, 560px); background: #fffdf8; border: 1px solid var(--line); border-radius: 2px; box-shadow: 0 12px 28px rgba(60,40,10,.16); padding: 0.7rem 0.9rem; }
+@media (max-width: 700px) {
+  .nav details.nav-more[open] .nav-more-links { position: static; box-shadow: none; border: 0; padding: 0.4rem 0 0.2rem; max-width: none; }
+}
+.year-line.summit-year .roman { color: #7a5f14; }
+.footer-nav { display: flex; flex-wrap: wrap; justify-content: center; gap: 0.5rem 1.2rem; margin: 0 0 1.1rem; font-size: 0.78rem; }
+.footer-nav a { color: var(--ink); font-weight: 600; }
+.mast .mast-title { margin: 0; font-family: var(--sans); white-space: nowrap; letter-spacing: 0.2em; font-size: clamp(1.55rem, 4.4vw, 2.35rem); font-weight: 700; line-height: 1; }
+.mast .mast-magazine { display: none; }
+.mast .mast-title a { color: inherit; }
+.mast .mast-title .reg, .mast .mast-title sup.reg { color: var(--accent); font-size: 0.42em; font-weight: 700; letter-spacing: 0; vertical-align: super; line-height: 0; margin-left: 0.06em; position: relative; top: -0.05em; }
+@media (max-width: 700px) {
+  .nav { gap: 0.25rem 0.6rem; }
+  .nav details.nav-more { flex: 1 0 100%; }
+  .nav details.nav-more[open] .nav-more-links { border-top: 1px solid var(--rule); margin-top: 0.2rem; padding-top: 0.6rem; }
+}
+
+/* == LIKE editorial typography v1 == */
+.article-wrap > h1 {
+  font-family: var(--serif);
+  letter-spacing: 0.045em;
+  text-wrap: balance;
+}
+p.lead {
+  font-size: 1.24rem;
+  line-height: 1.55;
+  font-style: italic;
+  color: #4a4036;
+  margin: 0 0 1.6rem;
+  text-wrap: pretty;
+}
+.article-body { font-size: 1.08rem; }
+.article-body > p {
+  line-height: 1.78;
+  margin: 0 0 1.2rem;
+  text-wrap: pretty;
+}
+.article-body > p.dropcap::first-letter {
+  font-family: var(--serif);
+  font-weight: 700;
+  font-size: 3.6em;
+  line-height: 0.82;
+  float: left;
+  padding: 0.06em 0.14em 0 0;
+}
+.article-body h2 {
+  font-family: var(--serif);
+  font-size: 1.45rem;
+  line-height: 1.25;
+  margin: 2.2rem 0 0.9rem;
+  text-wrap: balance;
+}
+.byline {
+  font-size: 0.74rem;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+}
+.figure {
+  border: 1px solid var(--rule);
+  background: #fff;
+  padding: 0.6rem;
+}
+</style>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%23111111'/%3E%3Ctext x='32' y='45' font-family='Georgia,serif' font-size='38' fill='%23f4efe6' text-anchor='middle'%3EL%3C/text%3E%3C/svg'"/>
+</head>
+<body>
+<header class="mast">
+  <div class="mast-title"><a href="/index.html" style="color:inherit;text-decoration:none">LIKE<sup class="reg">®</sup> Magazine</a></div>
+  <p class="tag">Style · Leaders · likeleaders.com</p>
+</header>
+<nav class="nav" aria-label="Primary">
+  <a href="/index.html">Home</a>
+  <a href="/summit-season/index.html" class="summit">Summit Season</a>
+  <a href="/sections/leaders.html">Leaders</a>
+  <a href="/sections/style.html">Style</a>
+  <a href="/sections/travel.html">Travel &amp; Tourism</a>
+  <a href="/sections/apparel.html" class="shop">Apparel</a>
+  <a href="/search.html">Search</a>
+  <a href="/about.html">About</a>
+  <details class="nav-more">
+    <summary>Luxury Guide</summary>
+    <div class="nav-more-links">
+      <a href="/sections/luxury-guide.html">Overview</a>
+      <a href="/sections/luxury-hotels.html">Hotels</a>
+      <a href="/sections/luxury-dining.html">Dining</a>
+      <a href="/sections/luxury-shopping.html">Shopping</a>
+      <a href="/sections/luxury-airlines.html">Airlines</a>
+      <a href="/sections/luxury-wineries.html">Wineries</a>
+      <a href="/sections/luxury-trains.html">Trains</a>
+      <a href="/sections/luxury-aviation.html">Aviation</a>
+      <a href="/sections/luxury-watchmakers.html">Watchmakers</a>
+      <a href="/sections/luxury-jewelers.html">Jewelers</a>
+    </div>
+  </details>
+  <details class="nav-more">
+    <summary>More Departments</summary>
+    <div class="nav-more-links">
+      <a href="/sections/automotive.html">Automotive Features</a>
+      <a href="/sections/fashion.html">Fashion</a>
+      <a href="/sections/sports.html">Sports</a>
+      <a href="/sections/diplomacy.html">Diplomacy</a>
+      <a href="/sections/like-global.html">LIKE® Global</a>
+      <a href="/sections/conferences.html">Conferences</a>
+      <a href="/sections/trade-shows.html">Trade Shows</a>
+      <a href="/sections/health.html">Health</a>
+      <a href="/sections/law.html">Law</a>
+      <a href="/sections/science.html">Science</a>
+      <a href="/sections/music.html">Music</a>
+      <a href="/sections/film.html">Film</a>
+      <a href="/sections/film-festivals.html">Film Festivals</a>
+      <a href="/sections/books.html">Books</a>
+      <a href="/sections/art.html">Art</a>
+      <a href="/sections/museums.html">Museums</a>
+      <a href="/sections/spotlight.html">Spotlight</a>
+      <a href="/sections/features.html">Features</a>
+    </div>
+  </details>
+</nav>
+
+<main class="article-wrap">
+  <p class="kicker">(LIKE® Magazine) Features</p>
+  <h1 style="font-size:clamp(1.7rem,4vw,2.5rem);line-height:1.15;margin:0 0 0.8rem">LIKE® MAGAZINE | A CELEBRATION OF 250 YEARS OF AMERICA</h1>
+  <p class="byline">By Michael de la Force · Editor-in-Chief, LIKE® Magazine · <a href="/sections/features.html">Features</a></p>
+  <article class="article-body"><p class="lead">(LIKE®, 250 YEARS OF AMERICA): FROM THE GRIDIRON TO THE OPEN BOOK — GERALD FORD, BIG AG, FIRST LADIES, AND THE GREAT AMERICAN MISSION TO EDUCATE A NATION</p>
+  <figure class="figure"><img src="/images/like-magazine-a-celebration-of-250-years-of-america.jpg" alt="Former President Gerald Ford with LIKE Magazine publisher Michael de la Force."/><figcaption class="caption">Former President Gerald Ford with Michael de la Force. Photograph: Michael de la Force, 6.28.2026. · LIKE® Magazine</figcaption></figure>
+<p class="dropcap">“The advancement and diffusion of knowledge is the only guardian of true liberty.”</p>
+<p>— James Madison, fourth President of the United States and Father of the Constitution</p>
+<p>How a Michigan center who turned down the NFL became the most trusted man in Washington, how an agribusiness titan built a global food empire that still feeds billions, why five First Ladies staked their legacies on putting books in the hands of American children — and what all of it means for your resources and your community.</p>
+<p>United States President Gerald Rudolph Ford and Michael de la Force, publisher of LIKE® Magazine, photograph published here, during their visit to upstate New York to promote literacy and celebrate the opening of a new public library.</p>
+<p>This is a story about a president who never ran for president, a food company whose products are in your kitchen right now, five remarkable women who fought to put books and literacy in the hands of American children, and a publisher who shared with them a belief in the power of an educated nation.</p>
+<p>Here will read about Gerald Ford— Michigan center, MVP on a losing team, the man who turned down the NFL and the presidency arrived at his door anyway. You will learn how Dwayne Andreas built Archer Daniels Midland into one of the most powerful agribusiness empires on earth, what ADM’s stock is doing right now, and what Ford’s character and Andreas’s instincts can teach every investor and saver in America today.</p>
+<p>You will read about five First Ladies — Barbara Bush, who raised $130 million and changed federal law; Laura Bush, the school librarian who took her mission to the White House and the United Nations; Michelle Obama, who read to a homebound nation on Mondays during a pandemic; Melania Trump, who launched the largest youth AI initiative in American history; and Tammy Murphy, First Lady of New Jersey, who read to the state’s children every Tuesday for years. Together they form one of the most consequential and underreported coalitions in modern American life.</p>
+<p>And you will read about LIKE® Magazine publisher Michael de la Force — a Future Farmers of America Greenhand who became the organization’s top national salesperson, a linebacker who played up to the varsity squad as an underclassman, a high school newspaper associate who learned the craft of meeting community leaders, a SAG-AFTRA entertainer, and ultimately a publisher and photojournalist who brought all of it together on a mission to open a library in upstate New York alongside a U.S. president, a network news anchor, and a corporate jet courtesy of one of the world’s great agricultural companies.</p>
+<p>It is a story 250 years in the making. It starts on a football field in Michigan and continues through a library in upstate New York to the current White House. And it is, at its heart, about the single idea that has held this republic together from the beginning: an educated nation is a free nation.</p>
+<p>THE MAN WHO HELD THE LINE</p>
+<p>Two hundred and fifty years ago, a collection of colonies declared themselves a nation — imperfect, fractious, and uncertain of their future. What held them together was not a single ideology but a shared bet on a particular kind of leader: one willing to absorb the punishment of governing in exchange for a republic worth preserving. Gerald Rudolph Ford Jr. was, in the fullest sense of that tradition, exactly that kind of leader.</p>
+<p>President Ford never campaigned for the White House. He never sought a national mandate, made a primetime promise on a debate stage, or printed a bumper sticker with his name above the words “For President.” Yet on Aug. 9, 1974, he stood in the East Room and took the oath of office as the 38th president of the United States — the only person in American history to serve as both vice president and president without being elected to either office.</p>
+<p>“Our long national nightmare is over,” Ford told the nation. It was a sentence written not by a speechwriter reaching for poetry, but by a man who genuinely believed it — whose defining characteristic was, above all else, his integrity.</p>
+<p>Born in Omaha, Neb., on July 14, 1913, and raised in Grand Rapids, Mich., Ford was, at his core, a Midwestern football center — a position that demands selflessness, quick thinking, and the ability to absorb punishment so others can carry the ball. Those qualities, forged on a football field and refined through 25 years in Congress, made him the right man for one of the worst moments in American presidential history. In the full sweep of 250 years of American leadership, Ford is proof that the republic sometimes produces exactly the president it needs — not the most famous, not the most polished, but the most honest.</p>
+<p>NO. 48: THE CENTER WHO COULD HAVE PLAYED ON ANY DAY</p>
+<p>Long before Ford wore the presidential seal, he wore No. 48 for the University of Michigan Wolverines. His journey to Ann Arbor began at Grand Rapids South High School, where he was named an All-State center and team captain. The Detroit Free Press called him “the ideal center … and all over the field on defense” — a description that, decades later, would read less like a scouting report and more like a job listing for the presidency.</p>
+<p>At Michigan, Ford helped the Wolverines claim back-to-back national championships in 1932 and 1933, going undefeated across 22 consecutive games. When he stepped into the starting lineup in 1934, Michigan collapsed to a 1-7 record — but Ford did not. His teammates voted him team MVP: a leader on a losing team, which is a rarer kind of leader altogether.</p>
+<p>That season also produced one of the defining moral moments of Ford’s life. When administrators benched Willis Ward — Michigan’s first Black varsity player in decades — to placate a segregated rival football team that refused to take the field opposite a Black man, Ford threatened to quit. Ward himself asked Ford to stay. Ford did — but he carried that injustice into his congressional career, pressing relentlessly to end racial segregation in the military and federal institutions. The center held the line, even when it cost him.</p>
+<p>After his senior season, Ford played in the East-West Shrine Game on New Year’s Day 1935 in San Francisco and the College All-Stars game at Soldier Field against the Chicago Bears. The Green Bay Packers and the Detroit Lions both offered professional contracts. Ford declined them both — law school was on his mind.</p>
+<p>He negotiated an assistant coaching position at Yale University — boxing and football — and eventually persuaded Yale Law School to accept him, graduating in the top 25 percent of his class in 1941. Michigan retired his No. 48 in 1994, the only number in college athletics retired for a future president. Sports Illustrated named him to its 1959 Silver Anniversary All-America team.</p>
+<p>Ford never entirely left the game. Coach Bo Schembechler recalled that even in his later years, Ford would sometimes ask: “Bo, do you mind if I get in the huddle?” He spent his honeymoon at a Michigan football game. The man was a Wolverine to his bones.</p>
+<p>THE ACCIDENTAL PRESIDENT WHO DID NOT ACT ACCIDENTALLY</p>
+<p>What set Ford apart was not legislative achievement or military command — it was character. Chosen as vice president in 1973 following Spiro Agnew’s resignation, he was confirmed by Congress because Democrats and Republicans alike trusted him. Twenty-five years in the House of Representatives, the last eight as Minority Leader, had built a reputation that transcended party. He returned phone calls and kept his word.</p>
+<p>Thirty-one days into his presidency, Ford granted Richard Nixon a full and unconditional pardon — the act that almost certainly cost him the 1976 election. His press secretary, Jerald terHorst, resigned in protest. Ford’s approval rating fell from 71% to 50% overnight. He went before Congress — the first sitting president to give sworn congressional testimony — and swore there was no deal. History has largely vindicated him. In 2001, the John F. Kennedy Library awarded Ford its Profile in Courage Award, concluding he had acted in the nation’s best interest at enormous personal cost.</p>
+<p>Jimmy Carter, who defeated Ford in 1976, became one of his closest friends — a Democrat and a Republican, victor and the man he defeated, a living argument that political opponents need not be personal enemies. Ford also forged lasting bonds with House Speaker Tip O’Neill, senators on both sides, fellow veterans, and business leaders who admired his directness. He was a man whose yes meant yes and whose no meant no. In Washington, that is rarer than a starting center who turns down the NFL.</p>
+<p>OPPOSITE SIDES OF THE LINE, SAME SIDE OF THE CAUSE</p>
+<p>On a football field, a center and a linebacker are natural adversaries. The center protects the pocket; the linebacker collapses it. They read the same play from opposite sides of the line of scrimmage, each convinced the other is the obstacle.</p>
+<p>Which makes the photograph on this page all the more striking. Gerald Ford — center, No. 48, University of Michigan — and Michael de la Force, publisher of LIKE® Magazine, captured together at a library event in upstate New York. De la Force came to that moment with a life already full of American chapters. As a Greenhand — a first-year member of the Future Farmers of America earning the organization’s entry-level bronze-pin degree — he distinguished himself by becoming the top national salesperson in the FFA, a remarkable achievement for a first-year member competing against peers across the country.</p>
+<p>On the football field, he was equally formidable — a talented and, by some accounts, ruthless linebacker who played up to the varsity team as an underclassman. Off the field, he worked in media and on the school newspaper from his early days through his senior year, contributing on both the advertising and editorial sides. His favorite part, he has said, was the access it provided: the chance to sit across from community leaders, local business owners, and civic figures. That instinct for authentic connection contributed deeply his career.</p>
+<p>When high school ended, De la Force moved from local print advertising and  runway modeling on behalf of the Linda Laymen Agency into the entertainment industry more broadly, becoming a professional actor and an active member of SAG-AFTRA — the Screen Actors Guild–American Federation of Television and Radio Artists — since 1998, with credits spanning television, commercials, and the long-running soap operas. He has photographed multiple U.S. presidents from both parties, served as an Ambassador of the Goodwill Diplomatic Corps, and is a longtime member of the New York Press Club. As publisher of Leadership Media and LIKE® Magazine, he has built a career that runs from farm country to the red carpet to the front page.</p>
+<p>On the gridiron, a center and a linebacker line up against each other. When it comes to educating America’s young people, they are seen in the image shared here on the same team and the same side of the line. Ford, who had long championed education as a cornerstone of democratic participation, and De la Force, who as a publisher understood that a literate public is the precondition for a free press and a functioning republic, arrived at the same library from different directions. The convergence — a former president and a publisher, working together in community to open a library and make the case for reading — says everything about what American civic life looks like at its best. Not partisan. Not performative. Just people who believe in the next generation enough to show up for it.</p>
+<p>AMERICA’S GREATEST EXPORT: THE EDUCATED MIND</p>
+<p>There is a reason presidents open libraries — and a reason a former commander in chief, a publisher, and the most trusted voice in American broadcasting would fly over the farmlands of upstate New York to cut a ribbon in a town most Americans may not notice on a map. The reason is 250 years old and has never stopped being true: a republic runs on readers.</p>
+<p>When the first colonists arrived in New England, they brought books. Puritan culture tied Scripture to survival — the community had to be able to read to govern itself. By 1760, male literacy in New England hovered around 85 percent, among the highest rates in the world; women lagged at around 48 percent, remarkable still for the era. When Thomas Paine published “Common Sense” in January 1776, it sold roughly 100,000 copies in three months. A literate citizenry made the Revolution possible. The pamphlet was the Twitter of its day — except you had to know how to read it.</p>
+<p>The Civil War and its aftermath exposed the fracture. By 1870, 20 percent of all American adults could not read; among formerly enslaved Black adults, the illiteracy rate reached 80 percent — a deliberate consequence of laws making it a crime to teach enslaved people to read. A century of contested reconstruction followed: public schools, the GI Bill, Head Start, the Elementary and Secondary Education Act, Reading First. By 1979, federal data showed adult illiteracy below 1 percent — though functional literacy told a harder story.</p>
+<p>Functional literacy is not the same as technical literacy. A person can sign their name and still struggle to read a lease, a prescription label, a ballot. Today, research commissioned by the Barbara Bush Foundation for Family Literacy and conducted by Gallup finds that 54 percent of American adults read below a sixth-grade level. The economic consequence is concrete: enabling greater literacy for that population could increase U.S. GDP by 10 percent — approximately $2.2 trillion in annual income. Literacy is not a cultural amenity. It is infrastructure.</p>
+<p>The United States remains the world’s top destination for international students, with more than 1.1 million enrolled in American colleges and universities in recent academic years — led by China and India, with significant numbers from the Middle East, Asia, Africa, and Europe. The parents making those decisions are not sending their children here for the weather. They send them because American education, at its best, produces independent thinkers: people who read critically, argue clearly, and adapt to a world that will not stay still. That reputation was built over 250 years of imperfect, persistently renewed commitment to an educated citizenry.</p>
+<p>BARBARA BUSH: THE LITERACY PRESIDENT BEHIND THE PRESIDENT</p>
+<p>No figure in modern American history pursued this cause with more sustained force than Barbara Bush. In March 1989, two months after her husband took office, she founded the Barbara Bush Foundation for Family Literacy on a conviction she stated often: “If more people could read, write and comprehend, we would be that much closer to solving so many of the problems that plague our nation.” Poverty, unemployment, recidivism, poor health outcomes — nearly every major social challenge in America has a literacy dimension.</p>
+<p>By her passing on April 17, 2018, at age 92, the foundation had raised more than $110 million — now exceeding $130 million — for literacy programs in all 50 states. Her advocacy was instrumental in the National Literacy Act, signed by President George H.W. Bush on July 25, 1991, establishing the first national definition of literacy and a coordinated federal framework for adult literacy programs. Her foundation lives on within the George and Barbara Bush Foundation, carrying forward what Mrs. Bush called her life’s work.</p>
+<p>LAURA BUSH: THE LIBRARIAN WHO WENT TO THE WHITE HOUSE</p>
+<p>Laura Bush arrived at 1600 Pennsylvania Avenue as a former school librarian and classroom teacher — credentials the Oval Office rarely sees. In her first year as First Lady, she launched the Library of Congress National Book Festival on the National Mall, drawing 70,000 visitors. She founded the Laura Bush Foundation for America’s Libraries, distributing more than $22 million to more than 3,800 school libraries. The United Nations named her Honorary Ambassador for the UN Decade of Literacy.</p>
+<p>Her White House programs — Ready to Read, Ready to Learn and the federally backed Reading First initiative — trained more than 100,000 teachers and reached an estimated 1.8 million students. When Hurricanes Katrina and Rita struck in 2005, her Gulf Coast School Library Recovery Initiative channeled approximately $6.5 million to rebuild destroyed libraries. A former librarian does not forget what a library means to a community.</p>
+<p>MICHELLE OBAMA: MONDAYS, BOOKS, AND A NATION OF READERS</p>
+<p>When ￼Michelle Obama left the White House in January 2017, she took the cause of reading with her. As First Lady, she championed Reach Higher (college access), Let Girls Learn (global girls’ education), and Let’s Move! Let’s Read! — linking physical activity with literacy habits for children. It was during the pandemic, however, that her personal commitment to young readers became most vivid.</p>
+<p>Beginning April 20, 2020, and continuing for four consecutive Mondays through May 11, she partnered with PBS KIDS and Penguin Random House for “Mondays with Michelle Obama” — livestreamed readings of “The Gruffalo,” “There’s a Dragon in Your Book,” “Miss Maple’s Seeds,” and “The Very Hungry Caterpillar” into living rooms across a homebound nation.</p>
+<p>“As a little kid, I loved to read aloud,” she said. “And when I became a parent, I found such joy in sharing the magic of storytelling with my own children — and then later, as First Lady, with kids everywhere.” Literacy advocacy does not always require a government program. Sometimes it requires a willing voice and an open book.</p>
+<p>MELANIA TRUMP: BE BEST, AI, AND THE AGE OF IMAGINATION</p>
+<p>The most technologically ambitious children’s initiative in the history of the modern First Ladyship arrived in 2025. Returning to the White House, First Lady Melania Trump evolved her Be Best platform into a sweeping focus on artificial intelligence and the next generation. In April 2025, President Donald J. Trump signed an executive order creating the White House Task Force on AI Education for Youth, chaired by the First Lady — a formal recognition that the next frontier in American education is not simply whether children can read, but whether they can think critically and create responsibly in a world shaped by machine intelligence.</p>
+<p>The centerpiece is the Presidential AI Challenge — the largest youth AI initiative in U.S. history. Launched Aug. 26, 2025, the national K-12 competition drew more than 20,000 participants from all 50 states, the District of Columbia, Puerto Rico, and 49 U.S. Department of Defense schools across 10 countries. Students built AI-powered solutions to real-world problems — from bullying-prevention tools to navigation assistants for the visually impaired. The inaugural National Champion Awards Ceremony was held at the White House on June 9, 2026, with national champion teams receiving $10,000 for their schools. More than 2,500 projects were submitted, and the private sector responded: Microsoft, @Meta, Adobe, IBM, Cisco, Dell, Google, and others pledged hundreds of millions in free tools, training, and certifications for students and educators.</p>
+<p>In January 2026, a Zoom partnership reached approximately 2,600 schools. At the United Nations General Assembly in September 2025, the First Lady announced Fostering the Future Together — a global coalition on children’s education, technology, and online safety. The inaugural Fostering the Future Together Global Coalition Summit, held March 24-25, 2026, at the White House and U.S. Department of State, brought together First Spouses and senior representatives from 45 nations alongside 28 technology companies including OpenAI, Microsoft 365, Meta, Google, xAI, Palantir Technologies, and Adobe. In a moment that made headlines worldwide, the First Lady walked into the East Room alongside Figure 03, an American-made humanoid robot. “Before long,” she told the assembled delegates, “artificial intelligence will transition from our smartphones to humanoids that provide practical benefits.”</p>
+<p>Her message has been consistent: “Although artificial intelligence can generate images and information, only humans can generate meaning and purpose.” And: “Never surrender your thinking to AI.” And: “Knowledge is power. Nobody can take it away from you.” These are, at bottom, the same argument Ford made when he walked into a library in upstate New York: an educated, independent mind is the one thing a republic cannot function without.</p>
+<p>The First Lady also championed the Take It Down Act, signed by President Trump on May 19, 2025, criminalizing the non-consensual publication of AI-generated explicit images — proof that digital literacy and digital safety are two sides of the same coin. Her Fostering the Future platform, which includes university partnerships with Vanderbilt, Villanova, the University of Texas, the University of Florida, and others, treats the protection and empowerment of children’s minds as a single mission.</p>
+<p>TAMMY MURPHY: TUESDAY TALES AND NEW JERSEY’S COMMITMENT TO THE YOUNG READER</p>
+<p>Not all literacy champions operate from the White House. Tammy Murphy, a First Lady of New Jersey and wife of former Gov. Phil Murphy, launched “Tammy’s Tremendous Tuesday Tales” in April 2020 as the pandemic closed schools. Every Tuesday, she read a children’s book live on Facebook, ultimately sharing more than 300 titles from authors across New Jersey and around the world — covering cultural holidays, voting rights, Juneteenth, Veterans Day, climate, gender identity, and the full sweep of American life. A deliberate effort to show every child that their story belongs on the shelf. The series concluded with “Night-Night New Jersey.”</p>
+<p>Murphy also founded the New Jersey Tutoring Corps in 2022 to address pandemic learning gaps and led the effort making New Jersey the first state in the nation to require K-12 climate change education. As First Lady from 2018 to 2026, she demonstrated that the commitment to young readers does not begin or end in Washington.</p>
+<p>THE ORGANIZATIONS DOING THE WORK</p>
+<p>Behind every headline initiative is a network of organizations working daily — in classrooms, community centers, and libraries — to make literacy a lived reality for Americans who have fallen through the cracks.</p>
+<p>LIKE® Magazine recognizes several carrying that work forward.</p>
+<p>Reading Is Fundamental (RIF). Founded in 1966, RIF is the largest nonprofit literacy organization in the United States, having provided nearly 430 million books to more than 190 million children across all 50 states, the District of Columbia, and all U.S. territories. Its mission: ensure that books are never a barrier to literacy.</p>
+<p>Proliteracy Worldwide. The world’s largest adult literacy membership organization, ProLiteracy supports more than 1,000 member programs in the United States and partners in more than 60 countries, building the capacity of community-based organizations to deliver adult reading instruction where it is needed most.</p>
+<p>Literacy Partners, based in New York City at 75 Maiden Lane, operates a two-generation model: when low-income parents build literacy skills, their children’s early reading, school readiness, and social-emotional development improve in parallel. In 2025, the organization received The Library of Congress David M. Rubenstein Prize — the nation’s highest literacy honor — for its measurable contributions across eight major U.S. cities and Puerto Rico.</p>
+<p>National Center for Families Learning (NCFL). NCFL partners with schools, libraries, and community organizations to build programs where parents and children learn together — a model research consistently shows accelerates children’s academic outcomes.</p>
+<p>Reading Partners. Operating in New York City since 2011, Reading Partners places community volunteers in public school reading centers for individualized one-on-one tutoring, with a goal of grade-level proficiency by fourth grade — the threshold after which children shift from learning to read to reading to learn.</p>
+<p>The Library of Congress Center for the Book. Established by Congress in 1977, the Center promotes books, reading, libraries, and literacy through national partnerships and the annual Library of Congress Literacy Awards. It is the federal government’s institutional voice for the power of the written word.</p>
+<p>The National Coalition for Literacy. A Washington-based alliance — including the American Association for Adult and Continuing Education, ProLiteracy, and the National Center for Families Learning — that coordinates federal advocacy on behalf of adult literacy, family literacy, and English language acquisition programs nationwide.</p>
+<p>WHY THE WORLD SENDS ITS CHILDREN HERE</p>
+<p>Barbara Bush raised $130 million for it. Laura Bush built a book festival on the National Mall and rebuilt libraries after hurricanes for it. Michelle Obama read “The Very Hungry Caterpillar” on a Monday in April to a homebound nation for it. Melania Trump challenged 20,000 children across 60 countries and territories to think for themselves in an age of artificial intelligence for it. Tammy Murphy read to New Jersey every Tuesday for years for it. Gerald Ford walked into a library in upstate New York for it.</p>
+<p>America’s most durable export has never been a commodity or a currency. It has been the idea that any child, anywhere, who learns to read — who learns to think — can change the world. That idea is 250 years old. And it has not yet been improved upon.</p>
+<p>THE SOYBEAN KING, AMERICA’S ANCHORMAN, AND A JET OVER FARM COUNTRY</p>
+<p>Among the businessmen who moved through Ford’s world, few were more consequential — or more fascinating — than Dwayne O. Andreas, the hard-driving, politically wired chairman and chief executive of Archer-Daniels-Midland Company. Andreas seemed to know everyone of consequence in Washington D.C., Moscow, and London, and his company processed enough corn, soybeans, and wheat to feed a sizable portion of humanity. Though he was not aboard for the trip, Andreas extended the use of the ADM corporate jet — a gesture that spoke to the company’s reach and its chairman’s belief in the causes Ford championed.</p>
+<p>Also aboard was Walter Cronkite — the CBS News anchor known to millions as the most trusted man in America. His presence on a trip dedicated to literacy and library-building was entirely in character. He had spent decades telling Americans what happened in the world, and he understood, as Ford and De la Force did, that none of it matters if the public cannot read.</p>
+<p>Together this team flew over the farmlands of upstate New York to open a library and press the case for an educated America. Looking down at those fields, which had fed the republic for 250 years, they were citizens who understood that a nation’s strength is measured not only in its harvests but in the minds of its citizenry.</p>
+<p>Andreas, born in 1918 in Worthington, Ohio, became ADM chairman and CEO in 1970. A Mennonite by faith and a dealmaker by instinct, he served as a Truman administration emissary, advised on Kennedy’s Food for Peace program, and cultivated relationships with presidents across five decades. His closest political friend was Hubert H. Humphrey — Lyndon Johnson’s vice president, who served as godfather to Andreas’s son Michael. Andreas contributed to Democrats and Republicans alike — Bob Dole, Jimmy Carter, Bill Clinton, George H.W. Bush — investing in American governance rather than any particular party.</p>
+<p>Under his watch, ADM grew from 40 processing plants and roughly 3,000 employees to 274 plants with 23,000 workers worldwide. Soybean exports grew from $1.5 billion to $7 billion during his tenure. He was called, with good reason, the “Soybean King.”</p>
+<p>ARCHER DANIELS MIDLAND: THE COMPANY BEHIND YOUR BREAKFAST</p>
+<p>Founded in 1902 in Minneapolis, Minn., by John W. Daniels and later joined by George A. Archer, Archer Daniels Midland was listed on the New York Stock Exchange in 1924. Headquartered today at 77 West Wacker Drive in Chicago, ADM is one of the largest food processing and commodities trading companies on the planet — a Fortune 35 company with revenue of approximately $85.5 billion and more than 44,000 employees worldwide.</p>
+<p>ADM’s reach into daily American life is broader than most consumers realize. High-fructose corn syrup in your soda, soybean oil in your salad dressing, ethanol in your gasoline, wheat flour in your bread, natural flavors, vanilla, probiotics, plant-based proteins — the company processes cereal grains and oilseeds into ingredients that reach consumers on six continents, operating more than 800 facilities worldwide. It trades on the New York Stock Exchange under the ticker symbol ADM, a consistent presence in the S&amp;P 500.</p>
+<p>As of late June 2026, ADM shares trade at approximately $76.79 on the NYSE. Analyst 12-month price targets range from $58 to $95, with a consensus near $74.60, and the company carries a market capitalization of roughly $37 billion.</p>
+<p>WHAT FORD AND ADM TEACH US ABOUT MONEY — AND LIFE</p>
+<p>At 250 years, America’s economic story is inseparable from its political one. Both Ford and Andreas operated by convictions that translate directly into financial wisdom — the kind that needs no Bloomberg terminal.</p>
+<p>Play the long game.  Ford turned down NFL contracts — guaranteed money — because he saw further down the field. Law school led to Congress, which led to the White House. Max your 401(k) before opening a taxable brokerage account. Build an emergency fund before chasing yields. The patient play wins.</p>
+<p>Invest in what the world cannot live without.  Andreas recognized that food is the most inelastic commodity in existence. Portfolios anchored in essential sectors — food, water, energy, healthcare — weather recessions better than those chasing trends. ADM is one of the clearest expressions of that thesis.</p>
+<p>Your reputation is your balance sheet.  Congress confirmed Ford as vice president because his word was good. A reputation for integrity is a compounding asset — it opens doors, earns trust, and survives recessions. Protect it as carefully as your credit score.</p>
+<p>Diversify relationships.  Andreas gave to Democrats and Republicans with equal consistency. A diversified portfolio of relationships, like a diversified investment portfolio, reduces exposure to any single point of failure.</p>
+<p>Know when to absorb a hit.  Ford absorbed years of political damage from the pardon because he believed the long-term benefit outweighed the short-term cost. Sometimes holding through a drawdown or accepting a tax hit to rebalance is the right move — not because it feels good, but because the alternative is worse.</p>
+<p>Invest in literacy — literally.  Communities with strong public libraries and higher literacy rates attract business investment, sustain property values, and generate higher lifetime earnings. A library card is one of the best financial instruments available — at no cost — to any American. The Barbara Bush Foundation’s Gallup research found that closing the literacy gap could add $2.2 trillion to annual U.S. GDP.</p>
+<p>Read the field before the snap.  The investor who studies trends, reads quarterly reports, and monitors regulatory risk before a position is crowded will always outperform the one who chases headlines. An informed public is not a luxury — it is the infrastructure of a functioning democracy and a healthy economy.</p>
+<p>A LEGACY BUILT ON STAYING IN THE HUDDLE</p>
+<p>As America marks 250 years since the signing of the Declaration of Independence, it is worth pausing over the arc of Gerald Ford’s life — a boy from Grand Rapids who absorbed hits on a football field, turned down professional contracts, commanded a Navy aircraft carrier through a typhoon, served 25 years in Congress, accepted a vice presidency he did not seek, assumed a presidency he did not campaign for, made the most unpopular decision of his tenure because he believed it was right, and lived to see history agree with him.</p>
+<p>When Ford walked on Dec. 26, 2006, at age 93, he left behind a legacy already sealed in stone. Nearly two decades after leaving the White House, he remained a figure of such enduring respect that in 1994 the University of Michigan retired his No. 48 — the only number in Michigan history retired for a former president of the United States. By then Ford had long ago departed from the Oval Office, living quietly as an elder statesman, yet Ann Arbor had never forgotten the center who anchored its line, led his teammates through a losing season with his head up, and turned down the Green Bay Packers to go to law school. The athlete and the president were, in the end, the same man.</p>
+<p>The John F. Kennedy Library awarded him its Profile in Courage Award in 2001, concluding that the Nixon pardon which had widely been blamed for costing him the 1976 election, had in fact served the nation’s best interest at enormous personal cost. Jimmy Carter, the man who defeated him, wept at his funeral. The United States Navy named one of its most powerful aircraft carriers the USS Gerald R. Ford in his honor. He was not the most celebrated president. He was something rarer: the most trusted one of his era.</p>
+<p>BY LIKE® MAGAZINE | SPECIAL EDITION — AMERICA AT 250</p>
+<p>(Michael de la Force, LIKE® Magazine, 6.28.2026)</p>
+<p class="caption">Source post: <a href="https://facebook.com/674873899/posts/pfbid0uDuunmBD9VheaCbJ9Q8ugtK1XVJ21EPyJ3J1EBuUL3kEnTAh38cwyCNeXf66n2Efl/">https://facebook.com/674873899/posts/pfbid0uDuunmBD9VheaCbJ9Q8ugtK1XVJ21EPyJ3J1EBuUL3kEnTAh38cwyCNeXf66n2Efl/</a></p></article>
+  <aside class="affiliate-box"><strong>Shop the story</strong>Affiliate product links for this feature will appear here — Style picks, books, travel, and partners tied to the reporting.</aside>
+</main>
+<footer class="footer">
+  <p class="disclosure">Affiliate disclosure: LIKE® Magazine may earn a commission from qualifying purchases made through links on this site. Editorial coverage remains independent.</p>
+  <nav class="footer-nav" aria-label="Footer">
+    <a href="/about.html">About</a>
+    <a href="/archive/index.html">Archive by Year</a>
+    <a href="/sections/luxury-guide.html">Luxury Guide</a>
+    <a href="/summit-season/index.html">Summit Season</a>
+    <a href="/search.html">Search</a>
+  </nav>
+  <p>&copy; LIKE Magazine &middot; likeleaders.com &middot; Photography &amp; editorial by Michael de la Force &middot; Print-on-demand editions coming soon</p>
+</footer>
+</body>
+</html>

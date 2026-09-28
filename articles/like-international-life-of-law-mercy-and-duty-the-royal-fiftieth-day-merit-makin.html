@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<link rel="canonical" href="https://likeleaders.com/articles/like-international-life-of-law-mercy-and-duty-the-royal-fiftieth-day-merit-makin.html"/>
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
 <title>LIFE OF LAW, MERCY, AND DUTY: THE ROYAL FIFTIETH-DAY MERIT-MAKING FOR HER ROYAL HIGHNESS PRINCESS BAJRAKITIYABHA NARENDIRADEBYAVATI · LIKE Magazine</title>
@@ -142,46 +143,151 @@ a:hover { text-decoration: underline; }
 .edition.summit { background: #120c18; color: #f7f3eb; border-color: rgba(201,154,59,.45); }
 .edition.summit .ed-num { color: #c99a3b; }
 .edition.summit em { color: #b9b0c4; }
+
+/* ---- LIKE® unified nav/footer/a11y refinements (site update 2026-09-27) ---- */
+.nav { align-items: center; }
+.nav a { display: inline-flex; align-items: center; min-height: 44px; padding: 0.35rem 0.45rem; }
+.nav a.summit { color: #7a5f14; }
+.nav details.nav-more { position: relative; }
+.nav details.nav-more > summary { cursor: pointer; list-style: none; display: inline-flex; align-items: center; min-height: 44px; padding: 0.35rem 0.45rem; font-weight: 700; color: var(--accent); text-transform: uppercase; letter-spacing: 0.08em; font-size: 0.72rem; }
+.nav details.nav-more > summary::-webkit-details-marker { display: none; }
+.nav details.nav-more > summary::after { content: "\25BE"; font-size: 0.8em; margin-left: 0.3em; }
+.nav details.nav-more .nav-more-links { display: flex; flex-wrap: wrap; gap: 0.35rem 0.8rem; padding: 0.4rem 0 0.2rem; }
+.nav details.nav-more .nav-more-links { display: none; }
+.nav details.nav-more[open] .nav-more-links { display: flex; flex-wrap: wrap; gap: 0.35rem 0.9rem; position: absolute; top: 100%; left: 0; z-index: 60; min-width: 230px; max-width: min(92vw, 560px); background: #fffdf8; border: 1px solid var(--line); border-radius: 2px; box-shadow: 0 12px 28px rgba(60,40,10,.16); padding: 0.7rem 0.9rem; }
+@media (max-width: 700px) {
+  .nav details.nav-more[open] .nav-more-links { position: static; box-shadow: none; border: 0; padding: 0.4rem 0 0.2rem; max-width: none; }
+}
+.year-line.summit-year .roman { color: #7a5f14; }
+.footer-nav { display: flex; flex-wrap: wrap; justify-content: center; gap: 0.5rem 1.2rem; margin: 0 0 1.1rem; font-size: 0.78rem; }
+.footer-nav a { color: var(--ink); font-weight: 600; }
+.mast .mast-title { margin: 0; font-family: var(--sans); white-space: nowrap; letter-spacing: 0.2em; font-size: clamp(1.55rem, 4.4vw, 2.35rem); font-weight: 700; line-height: 1; }
+.mast .mast-magazine { display: none; }
+.mast .mast-title a { color: inherit; }
+.mast .mast-title .reg, .mast .mast-title sup.reg { color: var(--accent); font-size: 0.42em; font-weight: 700; letter-spacing: 0; vertical-align: super; line-height: 0; margin-left: 0.06em; position: relative; top: -0.05em; }
+@media (max-width: 700px) {
+  .nav { gap: 0.25rem 0.6rem; }
+  .nav details.nav-more { flex: 1 0 100%; }
+  .nav details.nav-more[open] .nav-more-links { border-top: 1px solid var(--rule); margin-top: 0.2rem; padding-top: 0.6rem; }
+}
+
+/* == LIKE editorial typography v1 == */
+.article-wrap > h1 {
+  font-family: var(--serif);
+  letter-spacing: 0.045em;
+  text-wrap: balance;
+}
+p.lead {
+  font-size: 1.24rem;
+  line-height: 1.55;
+  font-style: italic;
+  color: #4a4036;
+  margin: 0 0 1.6rem;
+  text-wrap: pretty;
+}
+.article-body { font-size: 1.08rem; }
+.article-body > p {
+  line-height: 1.78;
+  margin: 0 0 1.2rem;
+  text-wrap: pretty;
+}
+.article-body > p.dropcap::first-letter {
+  font-family: var(--serif);
+  font-weight: 700;
+  font-size: 3.6em;
+  line-height: 0.82;
+  float: left;
+  padding: 0.06em 0.14em 0 0;
+}
+.article-body h2 {
+  font-family: var(--serif);
+  font-size: 1.45rem;
+  line-height: 1.25;
+  margin: 2.2rem 0 0.9rem;
+  text-wrap: balance;
+}
+.byline {
+  font-size: 0.74rem;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+}
+.figure {
+  border: 1px solid var(--rule);
+  background: #fff;
+  padding: 0.6rem;
+}
+/* LIKE visit-box */
+.visit-box{margin:2.75rem auto;padding:2rem 1.5rem 1.75rem;max-width:44rem;text-align:center;background:#fbf7ef;border-top:3px double #1a1a1a;border-bottom:1px solid #d8cdb8}
+.visit-box .kicker{margin:0 0 .4rem;font-family:"Avenir Next","Segoe UI",Helvetica,Arial,sans-serif;font-size:.72rem;font-weight:600;letter-spacing:.32em;text-transform:uppercase;color:#9a7b2d}
+.visit-box .visit-title{margin:0 0 .55rem;font-family:"Iowan Old Style",Palatino,Georgia,serif;font-weight:600;font-size:clamp(1.7rem,4vw,2.3rem);letter-spacing:-.01em;color:#141414}
+.visit-box .visit-deck{margin:0 auto;max-width:34rem;font-family:Georgia,serif;font-style:italic;font-size:1.02rem;line-height:1.6;color:#3d3830}
+.visit-box .visit-links{display:flex;flex-wrap:wrap;gap:.65rem;justify-content:center;margin:1.15rem 0 0;padding:0}
+.visit-box .visit-links a{display:inline-block;padding:.62rem 1.25rem;font-family:"Avenir Next","Segoe UI",Helvetica,Arial,sans-serif;font-size:.78rem;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:#141414;background:#fff;border:1px solid #b8a77e;border-radius:999px;text-decoration:none}
+.visit-box .visit-links a:hover{background:#141414;border-color:#141414;color:#f5efe2}
 </style>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%23111111'/%3E%3Ctext x='32' y='45' font-family='Georgia,serif' font-size='38' fill='%23f4efe6' text-anchor='middle'%3EL%3C/text%3E%3C/svg'"/>
 </head>
 <body>
 <header class="mast">
-  <h1><a href="/index.html" style="color:inherit;text-decoration:none">LIKE<sup class="reg">®</sup></a></h1>
-  <p class="mast-magazine">Magazine</p>
+  <div class="mast-title"><a href="/index.html" style="color:inherit;text-decoration:none">LIKE<sup class="reg">®</sup> Magazine</a></div>
   <p class="tag">Style · Leaders · likeleaders.com</p>
 </header>
-<nav class="nav">
+<nav class="nav" aria-label="Primary">
   <a href="/index.html">Home</a>
   <a href="/summit-season/index.html" class="summit">Summit Season</a>
-  <a href="/sections/automotive.html">Automotive Features</a>
   <a href="/sections/leaders.html">Leaders</a>
   <a href="/sections/style.html">Style</a>
-  <a href="/sections/fashion.html">Fashion</a>
-  <a href="/sections/sports.html">Sports</a>
   <a href="/sections/travel.html">Travel &amp; Tourism</a>
-  <a href="/sections/diplomacy.html">Diplomacy</a>
-  <a href="/sections/health.html">Health</a>
-  <a href="/sections/law.html">Law</a>
-  <a href="/sections/science.html">Science</a>
-  <a href="/sections/music.html">Music</a>
-  <a href="/sections/film.html">Film</a>
-  <a href="/sections/film-festivals.html">Film Festivals</a>
-  <a href="/sections/books.html">Books</a>
-  <a href="/sections/art.html">Art</a>
-  <a href="/sections/museums.html">Museums</a>
-  <a href="/sections/spotlight.html">Spotlight</a>
-  <a href="/sections/features.html">Features</a>
   <a href="/sections/apparel.html" class="shop">Apparel</a>
+  <a href="/search.html">Search</a>
   <a href="/about.html">About</a>
+  <details class="nav-more">
+    <summary>Luxury Guide</summary>
+    <div class="nav-more-links">
+      <a href="/sections/luxury-guide.html">Overview</a>
+      <a href="/sections/luxury-hotels.html">Hotels</a>
+      <a href="/sections/luxury-dining.html">Dining</a>
+      <a href="/sections/luxury-shopping.html">Shopping</a>
+      <a href="/sections/luxury-airlines.html">Airlines</a>
+      <a href="/sections/luxury-wineries.html">Wineries</a>
+      <a href="/sections/luxury-trains.html">Trains</a>
+      <a href="/sections/luxury-aviation.html">Aviation</a>
+      <a href="/sections/luxury-watchmakers.html">Watchmakers</a>
+      <a href="/sections/luxury-jewelers.html">Jewelers</a>
+    </div>
+  </details>
+  <details class="nav-more">
+    <summary>More Departments</summary>
+    <div class="nav-more-links">
+      <a href="/sections/automotive.html">Automotive Features</a>
+      <a href="/sections/fashion.html">Fashion</a>
+      <a href="/sections/sports.html">Sports</a>
+      <a href="/sections/diplomacy.html">Diplomacy</a>
+      <a href="/sections/like-global.html">LIKE® Global</a>
+      <a href="/sections/conferences.html">Conferences</a>
+      <a href="/sections/trade-shows.html">Trade Shows</a>
+      <a href="/sections/health.html">Health</a>
+      <a href="/sections/law.html">Law</a>
+      <a href="/sections/science.html">Science</a>
+      <a href="/sections/music.html">Music</a>
+      <a href="/sections/film.html">Film</a>
+      <a href="/sections/film-festivals.html">Film Festivals</a>
+      <a href="/sections/books.html">Books</a>
+      <a href="/sections/art.html">Art</a>
+      <a href="/sections/museums.html">Museums</a>
+      <a href="/sections/spotlight.html">Spotlight</a>
+      <a href="/sections/features.html">Features</a>
+    </div>
+  </details>
 </nav>
 
 <main class="article-wrap">
   <p class="kicker">(LIKE® International)</p>
   <h1 style="font-size:clamp(1.7rem,4vw,2.5rem);line-height:1.15;margin:0 0 0.8rem">LIFE OF LAW, MERCY, AND DUTY: THE ROYAL FIFTIETH-DAY MERIT-MAKING FOR HER ROYAL HIGHNESS PRINCESS BAJRAKITIYABHA NARENDIRADEBYAVATI</h1>
   <p class="byline">By Michael de la Force · Editor-in-Chief, LIKE® Magazine · <a href="/sections/diplomacy.html">Diplomacy</a></p>
-  <figure class="figure"><img src="/images/like-international-life-of-law-mercy-and-duty-the-royal-fiftieth-day-merit-makin-1.jpg" alt=""/><figcaption class="caption">Photograph: Michael de la Force · LIKE® Magazine</figcaption></figure>
+  <figure class="figure"><img src="/images/like-international-life-of-law-mercy-and-duty-the-royal-fiftieth-day-merit-makin-1.jpg" alt="Photograph: Michael de la Force · LIKE® Magazine"/><figcaption class="caption">Photograph: Michael de la Force · LIKE® Magazine</figcaption></figure>
   <article class="article-body"><p class="lead">Excerpts from LIKE® Magazine, Special Edition—Bangkok · 30 July, 2026</p>
-<p>Their Majesties King Maha Vajiralongkorn (Rama X) and Her Majesty Queen Suthida stand before the gilded Royal Urn of Her Royal Highness Princess Bajrakitiyabha inside the Phiman Rattaya Throne Hall of the Grand Palace, Bangkok, at the 50-Day Royal Merit-Making Ceremony, Thursday, 30 July 2026. Broadcast still, Bureau of the Royal Household · Government Public Relations Department of Thailand.</p>
+<p class="dropcap">Their Majesties King Maha Vajiralongkorn (Rama X) and Her Majesty Queen Suthida stand before the gilded Royal Urn of Her Royal Highness Princess Bajrakitiyabha inside the Phiman Rattaya Throne Hall of the Grand Palace, Bangkok, at the 50-Day Royal Merit-Making Ceremony, Thursday, 30 July 2026. Broadcast still, Bureau of the Royal Household · Government Public Relations Department of Thailand.</p>
 <h2>PRECIOUS JEWEL OF THE ROYAL HOUSE</h2>
 <p>A POEM PRESENTED IN HONOUR OF HER ROYAL HIGHNESS AT THE ROYAL MERIT-MAKING CEREMONY, 13 JUNE 2026</p>
 <p>O precious jewel of the royal house — / Princess fair and bright, / The angels guide your journey to the heavens / And keep you in their everlasting light. / May Your Royal Highness rest in peace eternal above, / Within the splendour of the skies; / Your noble deeds and loving-kindness, shining, / Shall live within the hearts of the Thai people for all time.</p>
@@ -303,11 +409,25 @@ a:hover { text-decoration: underline; }
 <p>The power of the pitches, then, is not aesthetic. It is doctrinal.</p>
 <p>Thai royal Abhidhamma chanting is performed in a distinct musical mode called the Royal Melody (thamnong luang), reserved for members of the Royal Family and those under royal patronage; each phra aram luang — royal temple — preserves its own version of it (Facts and Details, Understanding a Thai Buddhist Funeral — The Abhidhamma Prayer). The rise and fall of the tones is a melodic recitation of the Dhamma itself, delivered so that the sound-body of the chant carries the meaning of the chant to whoever has ears — mortal, disembodied, or divine — to hear it.</p>
 <p>Michael de la Force, Editor-in-Chief, LIKE Magazine, Excerpts From A Special Edition, Bangkok, Thailand, 2026)</p></article>
-  <aside class="affiliate-box"><strong>Shop the story</strong>Affiliate product links for this feature will appear here — Style picks, books, travel, and partners tied to the reporting.</aside>
+  <!-- LIKE visit-box -->
+<aside class="visit-box" aria-label="Visit Thailand">
+<p class="kicker">LIKE&reg; Recommends</p>
+<h2 class="visit-title">Visit Thailand</h2>
+<p class="visit-deck">The setting of this story &mdash; explore it through the LIKE&reg; Luxury Guide, with 10 hotels and 43 restaurants listed.</p>
+<p class="visit-links"><a href="/sections/luxury-hotels.html?q=Thailand">Browse Thailand hotels</a><a href="/sections/luxury-dining.html?q=Thailand">Browse Thailand dining</a></p>
+</aside>
+<aside class="affiliate-box"><strong>Shop the story</strong>Affiliate product links for this feature will appear here — Style picks, books, travel, and partners tied to the reporting.</aside>
 </main>
 <footer class="footer">
   <p class="disclosure">Affiliate disclosure: LIKE® Magazine may earn a commission from qualifying purchases made through links on this site. Editorial coverage remains independent.</p>
-  © LIKE Magazine · likeleaders.com · Photography &amp; editorial by Michael de la Force · Print-on-demand editions coming soon
+  <nav class="footer-nav" aria-label="Footer">
+    <a href="/about.html">About</a>
+    <a href="/archive/index.html">Archive by Year</a>
+    <a href="/sections/luxury-guide.html">Luxury Guide</a>
+    <a href="/summit-season/index.html">Summit Season</a>
+    <a href="/search.html">Search</a>
+  </nav>
+  <p>&copy; LIKE Magazine &middot; likeleaders.com &middot; Photography &amp; editorial by Michael de la Force &middot; Print-on-demand editions coming soon</p>
 </footer>
 </body>
 </html>

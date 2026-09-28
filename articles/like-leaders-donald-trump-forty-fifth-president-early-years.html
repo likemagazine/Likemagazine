@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<link rel="canonical" href="https://likeleaders.com/articles/like-leaders-donald-trump-forty-fifth-president-early-years.html"/>
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
 <title>FORTY-FIFTH PRESIDENT OF THE UNITED STATES, DONALD JOHN TRUMP · LIKE Magazine</title>
@@ -142,37 +143,134 @@ a:hover { text-decoration: underline; }
 .edition.summit { background: #120c18; color: #f7f3eb; border-color: rgba(201,154,59,.45); }
 .edition.summit .ed-num { color: #c99a3b; }
 .edition.summit em { color: #b9b0c4; }
+
+/* ---- LIKE® unified nav/footer/a11y refinements (site update 2026-09-27) ---- */
+.nav { align-items: center; }
+.nav a { display: inline-flex; align-items: center; min-height: 44px; padding: 0.35rem 0.45rem; }
+.nav a.summit { color: #7a5f14; }
+.nav details.nav-more { position: relative; }
+.nav details.nav-more > summary { cursor: pointer; list-style: none; display: inline-flex; align-items: center; min-height: 44px; padding: 0.35rem 0.45rem; font-weight: 700; color: var(--accent); text-transform: uppercase; letter-spacing: 0.08em; font-size: 0.72rem; }
+.nav details.nav-more > summary::-webkit-details-marker { display: none; }
+.nav details.nav-more > summary::after { content: "\25BE"; font-size: 0.8em; margin-left: 0.3em; }
+.nav details.nav-more .nav-more-links { display: flex; flex-wrap: wrap; gap: 0.35rem 0.8rem; padding: 0.4rem 0 0.2rem; }
+.nav details.nav-more .nav-more-links { display: none; }
+.nav details.nav-more[open] .nav-more-links { display: flex; flex-wrap: wrap; gap: 0.35rem 0.9rem; position: absolute; top: 100%; left: 0; z-index: 60; min-width: 230px; max-width: min(92vw, 560px); background: #fffdf8; border: 1px solid var(--line); border-radius: 2px; box-shadow: 0 12px 28px rgba(60,40,10,.16); padding: 0.7rem 0.9rem; }
+@media (max-width: 700px) {
+  .nav details.nav-more[open] .nav-more-links { position: static; box-shadow: none; border: 0; padding: 0.4rem 0 0.2rem; max-width: none; }
+}
+.year-line.summit-year .roman { color: #7a5f14; }
+.footer-nav { display: flex; flex-wrap: wrap; justify-content: center; gap: 0.5rem 1.2rem; margin: 0 0 1.1rem; font-size: 0.78rem; }
+.footer-nav a { color: var(--ink); font-weight: 600; }
+.mast .mast-title { margin: 0; font-family: var(--sans); white-space: nowrap; letter-spacing: 0.2em; font-size: clamp(1.55rem, 4.4vw, 2.35rem); font-weight: 700; line-height: 1; }
+.mast .mast-magazine { display: none; }
+.mast .mast-title a { color: inherit; }
+.mast .mast-title .reg, .mast .mast-title sup.reg { color: var(--accent); font-size: 0.42em; font-weight: 700; letter-spacing: 0; vertical-align: super; line-height: 0; margin-left: 0.06em; position: relative; top: -0.05em; }
+@media (max-width: 700px) {
+  .nav { gap: 0.25rem 0.6rem; }
+  .nav details.nav-more { flex: 1 0 100%; }
+  .nav details.nav-more[open] .nav-more-links { border-top: 1px solid var(--rule); margin-top: 0.2rem; padding-top: 0.6rem; }
+}
+
+/* == LIKE editorial typography v1 == */
+.article-wrap > h1 {
+  font-family: var(--serif);
+  letter-spacing: 0.045em;
+  text-wrap: balance;
+}
+p.lead {
+  font-size: 1.24rem;
+  line-height: 1.55;
+  font-style: italic;
+  color: #4a4036;
+  margin: 0 0 1.6rem;
+  text-wrap: pretty;
+}
+.article-body { font-size: 1.08rem; }
+.article-body > p {
+  line-height: 1.78;
+  margin: 0 0 1.2rem;
+  text-wrap: pretty;
+}
+.article-body > p.dropcap::first-letter {
+  font-family: var(--serif);
+  font-weight: 700;
+  font-size: 3.6em;
+  line-height: 0.82;
+  float: left;
+  padding: 0.06em 0.14em 0 0;
+}
+.article-body h2 {
+  font-family: var(--serif);
+  font-size: 1.45rem;
+  line-height: 1.25;
+  margin: 2.2rem 0 0.9rem;
+  text-wrap: balance;
+}
+.byline {
+  font-size: 0.74rem;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+}
+.figure {
+  border: 1px solid var(--rule);
+  background: #fff;
+  padding: 0.6rem;
+}
 </style>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%23111111'/%3E%3Ctext x='32' y='45' font-family='Georgia,serif' font-size='38' fill='%23f4efe6' text-anchor='middle'%3EL%3C/text%3E%3C/svg'"/>
 </head>
 <body>
 <header class="mast">
-  <h1><a href="/index.html" style="color:inherit;text-decoration:none">LIKE<sup class="reg">®</sup></a></h1>
-  <p class="mast-magazine">Magazine</p>
+  <div class="mast-title"><a href="/index.html" style="color:inherit;text-decoration:none">LIKE<sup class="reg">®</sup> Magazine</a></div>
   <p class="tag">Style · Leaders · likeleaders.com</p>
 </header>
-<nav class="nav">
+<nav class="nav" aria-label="Primary">
   <a href="/index.html">Home</a>
   <a href="/summit-season/index.html" class="summit">Summit Season</a>
-  <a href="/sections/automotive.html">Automotive Features</a>
   <a href="/sections/leaders.html">Leaders</a>
   <a href="/sections/style.html">Style</a>
-  <a href="/sections/fashion.html">Fashion</a>
-  <a href="/sections/sports.html">Sports</a>
   <a href="/sections/travel.html">Travel &amp; Tourism</a>
-  <a href="/sections/diplomacy.html">Diplomacy</a>
-  <a href="/sections/health.html">Health</a>
-  <a href="/sections/law.html">Law</a>
-  <a href="/sections/science.html">Science</a>
-  <a href="/sections/music.html">Music</a>
-  <a href="/sections/film.html">Film</a>
-  <a href="/sections/film-festivals.html">Film Festivals</a>
-  <a href="/sections/books.html">Books</a>
-  <a href="/sections/art.html">Art</a>
-  <a href="/sections/museums.html">Museums</a>
-  <a href="/sections/spotlight.html">Spotlight</a>
-  <a href="/sections/features.html">Features</a>
   <a href="/sections/apparel.html" class="shop">Apparel</a>
+  <a href="/search.html">Search</a>
   <a href="/about.html">About</a>
+  <details class="nav-more">
+    <summary>Luxury Guide</summary>
+    <div class="nav-more-links">
+      <a href="/sections/luxury-guide.html">Overview</a>
+      <a href="/sections/luxury-hotels.html">Hotels</a>
+      <a href="/sections/luxury-dining.html">Dining</a>
+      <a href="/sections/luxury-shopping.html">Shopping</a>
+      <a href="/sections/luxury-airlines.html">Airlines</a>
+      <a href="/sections/luxury-wineries.html">Wineries</a>
+      <a href="/sections/luxury-trains.html">Trains</a>
+      <a href="/sections/luxury-aviation.html">Aviation</a>
+      <a href="/sections/luxury-watchmakers.html">Watchmakers</a>
+      <a href="/sections/luxury-jewelers.html">Jewelers</a>
+    </div>
+  </details>
+  <details class="nav-more">
+    <summary>More Departments</summary>
+    <div class="nav-more-links">
+      <a href="/sections/automotive.html">Automotive Features</a>
+      <a href="/sections/fashion.html">Fashion</a>
+      <a href="/sections/sports.html">Sports</a>
+      <a href="/sections/diplomacy.html">Diplomacy</a>
+      <a href="/sections/like-global.html">LIKE® Global</a>
+      <a href="/sections/conferences.html">Conferences</a>
+      <a href="/sections/trade-shows.html">Trade Shows</a>
+      <a href="/sections/health.html">Health</a>
+      <a href="/sections/law.html">Law</a>
+      <a href="/sections/science.html">Science</a>
+      <a href="/sections/music.html">Music</a>
+      <a href="/sections/film.html">Film</a>
+      <a href="/sections/film-festivals.html">Film Festivals</a>
+      <a href="/sections/books.html">Books</a>
+      <a href="/sections/art.html">Art</a>
+      <a href="/sections/museums.html">Museums</a>
+      <a href="/sections/spotlight.html">Spotlight</a>
+      <a href="/sections/features.html">Features</a>
+    </div>
+  </details>
 </nav>
 <main class="article-wrap">
   <p class="kicker">(LIKE® Leaders)</p>
@@ -183,21 +281,36 @@ a:hover { text-decoration: underline; }
     <figcaption class="caption">Forty-Fifth President of the United States, Donald John Trump · Photograph: Michael de la Force · LIKE® Magazine</figcaption>
   </figure>
   <article class="article-body">
-<p class="lead">The Early Years of Donald J. Trump: A Glimpse into His Youth and Coming of Age Before becoming a prominent figure in the business and political spheres, Donald John Trump&#x27;s early years laid the foundation for his future success and influence. Born on June 14, 1946, in Queens, New York City, to Fred and Mary Trump, Donald Trump grew up in a family with a strong work ethic and a passion for real estate development.</p>
-<p>Youthful Ambitions and Education: From a young age, Donald Trump exhibited a keen interest in business and entrepreneurship. Inspired by his father&#x27;s successful real estate ventures, he showed a natural aptitude for negotiation and deal-making. Trump attended the New York Military Academy, where he developed leadership skills and discipline that would later serve him well in his professional endeavors.</p>
-<p>Early Business Ventures: After graduating from the Wharton School of the University of Pennsylvania with a degree in economics, Donald Trump joined his father&#x27;s real estate company, The Trump Organization. He quickly made a name for himself in the New York City real estate market, overseeing the development of successful projects such as the Grand Hyatt Hotel and Trump Tower.</p>
-<p>Entrepreneurial Spirit and Success: Donald Trump&#x27;s entrepreneurial spirit and vision led him to expand his business empire beyond real estate into various industries, including casinos, hotels, and entertainment. His ability to brand himself and his projects with the &quot;Trump&quot; name became synonymous with luxury and opulence, further solidifying his reputation as a shrewd businessman.</p>
-<p>The Art of the Deal: In 1987, Donald Trump co-authored the bestselling book &quot;The Art of the Deal,&quot; in which he shared insights into his business strategies and philosophies. The book became a commercial success and further elevated Trump&#x27;s public profile as a savvy dealmaker and businessman.</p>
-<p>Personal Resilience and Perseverance: Throughout his youth and coming of age, Donald Trump faced challenges and setbacks but demonstrated resilience and determination in overcoming them. His ability to bounce back from business failures and personal hardships showcased his tenacity and refusal to give up in the face of adversity.</p>
-<p>In conclusion, the early years of Donald Trump provide a glimpse into the formative experiences and influences that shaped his character and laid the groundwork for his later achievements. From his youth in Queens to his rise as a prominent business magnate and eventually a political figure, Donald Trump&#x27;s story is one of ambition, entrepreneurship, and a relentless pursuit of success. #DonaldTrump #unitedstatespresident #NewYorkMilitaryAcademy #universityofpennsylvania #FredTrump #MaryTrump #USPresidents #likemagazine #michaeldelaforce #TrumpOrganization #ArtOfTheDeal #realestate #entrepreneurlife #WhartonSchool #tenacity #GrandHyatt #perserverance #momentum #levittandsons #buildersofnewyork</p>
-  </article>
+<p class="lead">The Early Years of Donald J. Trump: A Glimpse into His Youth and Coming of Age</p>
+<p class="dropcap">Before becoming a prominent figure in the business and political spheres, Donald John Trump&#x27;s early years laid the foundation for his future success and influence. Born on June 14, 1946, in Queens, New York City, to Fred and Mary Trump, Donald Trump grew up in a family with a strong work ethic and a passion for real estate development.</p>
+<h2>Youthful Ambitions and Education</h2>
+<p>From a young age, Donald Trump exhibited a keen interest in business and entrepreneurship. Inspired by his father&#x27;s successful real estate ventures, he showed a natural aptitude for negotiation and deal-making. Trump attended the New York Military Academy, where he developed leadership skills and discipline that would later serve him well in his professional endeavors.</p>
+<h2>Early Business Ventures</h2>
+<p>After graduating from the Wharton School of the University of Pennsylvania with a degree in economics, Donald Trump joined his father&#x27;s real estate company, The Trump Organization. He quickly made a name for himself in the New York City real estate market, overseeing the development of successful projects such as the Grand Hyatt Hotel and Trump Tower.</p>
+<h2>Entrepreneurial Spirit and Success</h2>
+<p>Donald Trump&#x27;s entrepreneurial spirit and vision led him to expand his business empire beyond real estate into various industries, including casinos, hotels, and entertainment. His ability to brand himself and his projects with the &quot;Trump&quot; name became synonymous with luxury and opulence, further solidifying his reputation as a shrewd businessman.</p>
+<h2>The Art of the Deal</h2>
+<p>In 1987, Donald Trump co-authored the bestselling book &quot;The Art of the Deal,&quot; in which he shared insights into his business strategies and philosophies. The book became a commercial success and further elevated Trump&#x27;s public profile as a savvy dealmaker and businessman.</p>
+<h2>Personal Resilience and Perseverance</h2>
+<p>Throughout his youth and coming of age, Donald Trump faced challenges and setbacks but demonstrated resilience and determination in overcoming them. His ability to bounce back from business failures and personal hardships showcased his tenacity and refusal to give up in the face of adversity.</p>
+<p>In conclusion, the early years of Donald Trump provide a glimpse into the formative experiences and influences that shaped his character and laid the groundwork for his later achievements. From his youth in Queens to his rise as a prominent business magnate and eventually a political figure, Donald Trump&#x27;s story is one of ambition, entrepreneurship, and a relentless pursuit of success.</p>
+<p>Michael de la Force</p>
+<p>(Michael de la Force, LIKE&#174; Magazine, 5.24.2024)</p>
+</article>
   <aside class="affiliate-box"><strong>Shop the story</strong>Related books and Leaders picks — affiliate links will appear here as partners come online.</aside>
   <p><a href="/sections/leaders.html">← LIKE® Leaders</a></p>
 </main>
 
 <footer class="footer">
   <p class="disclosure">Affiliate disclosure: LIKE® Magazine may earn a commission from qualifying purchases made through links on this site. Editorial coverage remains independent.</p>
-  © LIKE Magazine · likeleaders.com · Photography &amp; editorial by Michael de la Force · Print-on-demand editions coming soon
+  <nav class="footer-nav" aria-label="Footer">
+    <a href="/about.html">About</a>
+    <a href="/archive/index.html">Archive by Year</a>
+    <a href="/sections/luxury-guide.html">Luxury Guide</a>
+    <a href="/summit-season/index.html">Summit Season</a>
+    <a href="/search.html">Search</a>
+  </nav>
+  <p>&copy; LIKE Magazine &middot; likeleaders.com &middot; Photography &amp; editorial by Michael de la Force &middot; Print-on-demand editions coming soon</p>
 </footer>
 </body>
 </html>

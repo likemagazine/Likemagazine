@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<link rel="canonical" href="https://likeleaders.com/archive/index.html"/>
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
 <title>Archive by Year · LIKE Magazine</title>
@@ -201,69 +202,207 @@ a:hover { text-decoration: underline; }
 
 
 
+
+/* ---- LIKE® unified nav/footer/a11y refinements (site update 2026-09-27) ---- */
+.nav { align-items: center; }
+.nav a { display: inline-flex; align-items: center; min-height: 44px; padding: 0.35rem 0.45rem; }
+.nav a.summit { color: #7a5f14; }
+.nav details.nav-more { position: relative; }
+.nav details.nav-more > summary { cursor: pointer; list-style: none; display: inline-flex; align-items: center; min-height: 44px; padding: 0.35rem 0.45rem; font-weight: 700; color: var(--accent); text-transform: uppercase; letter-spacing: 0.08em; font-size: 0.72rem; }
+.nav details.nav-more > summary::-webkit-details-marker { display: none; }
+.nav details.nav-more > summary::after { content: "\25BE"; font-size: 0.8em; margin-left: 0.3em; }
+.nav details.nav-more .nav-more-links { display: flex; flex-wrap: wrap; gap: 0.35rem 0.8rem; padding: 0.4rem 0 0.2rem; }
+.nav details.nav-more .nav-more-links { display: none; }
+.nav details.nav-more[open] .nav-more-links { display: flex; flex-wrap: wrap; gap: 0.35rem 0.9rem; position: absolute; top: 100%; left: 0; z-index: 60; min-width: 230px; max-width: min(92vw, 560px); background: #fffdf8; border: 1px solid var(--line); border-radius: 2px; box-shadow: 0 12px 28px rgba(60,40,10,.16); padding: 0.7rem 0.9rem; }
+@media (max-width: 700px) {
+  .nav details.nav-more[open] .nav-more-links { position: static; box-shadow: none; border: 0; padding: 0.4rem 0 0.2rem; max-width: none; }
+}
+.year-line.summit-year .roman { color: #7a5f14; }
+.footer-nav { display: flex; flex-wrap: wrap; justify-content: center; gap: 0.5rem 1.2rem; margin: 0 0 1.1rem; font-size: 0.78rem; }
+.footer-nav a { color: var(--ink); font-weight: 600; }
+.mast .mast-title { margin: 0; font-family: var(--sans); white-space: nowrap; letter-spacing: 0.2em; font-size: clamp(1.55rem, 4.4vw, 2.35rem); font-weight: 700; line-height: 1; }
+.mast .mast-magazine { display: none; }
+.mast .mast-title a { color: inherit; }
+.mast .mast-title .reg, .mast .mast-title sup.reg { color: var(--accent); font-size: 0.42em; font-weight: 700; letter-spacing: 0; vertical-align: super; line-height: 0; margin-left: 0.06em; position: relative; top: -0.05em; }
+@media (max-width: 700px) {
+  .nav { gap: 0.25rem 0.6rem; }
+  .nav details.nav-more { flex: 1 0 100%; }
+  .nav details.nav-more[open] .nav-more-links { border-top: 1px solid var(--rule); margin-top: 0.2rem; padding-top: 0.6rem; }
+}
 </style>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%23111111'/%3E%3Ctext x='32' y='45' font-family='Georgia,serif' font-size='38' fill='%23f4efe6' text-anchor='middle'%3EL%3C/text%3E%3C/svg'"/>
 </head>
 <body>
 <header class="mast">
-  <h1><a href="/index.html" style="color:inherit;text-decoration:none">LIKE<sup class="reg">®</sup></a></h1>
-  <p class="mast-magazine">Magazine</p>
+  <div class="mast-title"><a href="/index.html" style="color:inherit;text-decoration:none">LIKE<sup class="reg">®</sup> Magazine</a></div>
   <p class="tag">Style · Leaders · likeleaders.com</p>
 </header>
-<nav class="nav">
+<nav class="nav" aria-label="Primary">
   <a href="/index.html">Home</a>
   <a href="/summit-season/index.html" class="summit">Summit Season</a>
-  <a href="/sections/automotive.html">Automotive Features</a>
   <a href="/sections/leaders.html">Leaders</a>
   <a href="/sections/style.html">Style</a>
-  <a href="/sections/fashion.html">Fashion</a>
-  <a href="/sections/sports.html">Sports</a>
   <a href="/sections/travel.html">Travel &amp; Tourism</a>
-  <a href="/sections/diplomacy.html">Diplomacy</a>
-  <a href="/sections/health.html">Health</a>
-  <a href="/sections/law.html">Law</a>
-  <a href="/sections/science.html">Science</a>
-  <a href="/sections/music.html">Music</a>
-  <a href="/sections/film.html">Film</a>
-  <a href="/sections/film-festivals.html">Film Festivals</a>
-  <a href="/sections/books.html">Books</a>
-  <a href="/sections/art.html">Art</a>
-  <a href="/sections/museums.html">Museums</a>
-  <a href="/sections/spotlight.html">Spotlight</a>
-  <a href="/sections/features.html">Features</a>
   <a href="/sections/apparel.html" class="shop">Apparel</a>
+  <a href="/search.html">Search</a>
   <a href="/about.html">About</a>
+  <details class="nav-more">
+    <summary>Luxury Guide</summary>
+    <div class="nav-more-links">
+      <a href="/sections/luxury-guide.html">Overview</a>
+      <a href="/sections/luxury-hotels.html">Hotels</a>
+      <a href="/sections/luxury-dining.html">Dining</a>
+      <a href="/sections/luxury-shopping.html">Shopping</a>
+      <a href="/sections/luxury-airlines.html">Airlines</a>
+      <a href="/sections/luxury-wineries.html">Wineries</a>
+      <a href="/sections/luxury-trains.html">Trains</a>
+      <a href="/sections/luxury-aviation.html">Aviation</a>
+      <a href="/sections/luxury-watchmakers.html">Watchmakers</a>
+      <a href="/sections/luxury-jewelers.html">Jewelers</a>
+    </div>
+  </details>
+  <details class="nav-more">
+    <summary>More Departments</summary>
+    <div class="nav-more-links">
+      <a href="/sections/automotive.html">Automotive Features</a>
+      <a href="/sections/fashion.html">Fashion</a>
+      <a href="/sections/sports.html">Sports</a>
+      <a href="/sections/diplomacy.html">Diplomacy</a>
+      <a href="/sections/like-global.html">LIKE® Global</a>
+      <a href="/sections/conferences.html">Conferences</a>
+      <a href="/sections/trade-shows.html">Trade Shows</a>
+      <a href="/sections/health.html">Health</a>
+      <a href="/sections/law.html">Law</a>
+      <a href="/sections/science.html">Science</a>
+      <a href="/sections/music.html">Music</a>
+      <a href="/sections/film.html">Film</a>
+      <a href="/sections/film-festivals.html">Film Festivals</a>
+      <a href="/sections/books.html">Books</a>
+      <a href="/sections/art.html">Art</a>
+      <a href="/sections/museums.html">Museums</a>
+      <a href="/sections/spotlight.html">Spotlight</a>
+      <a href="/sections/features.html">Features</a>
+    </div>
+  </details>
 </nav>
 <main class="wrap">
-<h2 class="section-title">Archive by Year</h2>
+<h1 class="section-title">Archive by Year</h1>
 <p class="panel-lede" style="font-family:var(--sans);font-size:0.9rem;color:var(--muted);margin:0 0 1rem">Print-magazine year lines in Roman numerals. Prefer Facebook post dates; undated pieces rest under Archive.</p>
 <p style="font-family:var(--sans);font-size:0.82rem;margin:0 0 1.5rem"><a href="/sections/film.html">Film</a> · <a href="/sections/books.html">Books</a> · <a href="/sections/art.html">Art</a> · <a href="/sections/museums.html">Museums</a> · <a href="/sections/leaders.html">Leaders</a> · <a href="/summit-season/index.html">Summit Season</a></p>
 <div class="year-group">
 <div class="year-line" data-year="2026"><span class="roman">MMXXVI</span><span class="year-arabic">2026</span></div>
 <ul style="list-style:none;padding:0;margin:0.5rem 0 0;font-family:var(--sans);font-size:0.88rem">
 <li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-travel-tourism-entertainment-culture.html" style="color:var(--ink)">250 YEARS OF AMERICA: CROWN FOR A CROONER</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-250-years-of-america-crown-for-a-crooner.html" style="color:var(--ink)">250 YEARS OF AMERICA: CROWN FOR A CROONER</a></li>
 <li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-leaders-250-years-of-america-muhammad-ali.html" style="color:var(--ink)">250 YEARS OF AMERICA: MUHAMMAD ALI</a></li>
 <li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-history-of-community-service.html" style="color:var(--ink)">250 YEARS OF AMERICA: THE ONE-MAN MORALE MACHINE</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-ambrosia-keyboardist-christopher-north-walks-on.html" style="color:var(--ink)">AMBROSIA KEYBOARDIST CHRISTOPHER NORTH WALKS ON</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-antwerpen-belgium-skylines-of-trade-and-grace-antwerp.html" style="color:var(--ink)">ANTWERPEN, BELGIUM –SKYLINES OF TRADE AND GRACE: ANTWERP REIMAGINED</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-brussels-banks-bureaucrats-battalions-believers-and.html" style="color:var(--ink)">BRUSSELS: BANKS, BUREAUCRATS, BATTALIONS, BELIEVERS AND BOLD ARTISTS POWERING THE CAPITAL&#x27;S CORE</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-brussels-brx-the-heart-of-europe-lights-up-for-the.html" style="color:var(--ink)">Brussels: BRX – The Heart of Europe Lights Up for the Holidays</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-china-doll-asia-society-at-70-and-the-forthcoming-x-p.html" style="color:var(--ink)">CHINA DOLL: ASIA SOCIETY AT 70, AND THE FORTHCOMING XĪ–PÉNG VISIT, A GLAMOROUS BRIDGE ACROSS THE PACIFIC</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-colleagues-and-friends-bonds-framed-in-a-photograph.html" style="color:var(--ink)">COLLEAGUES AND FRIENDS: BONDS FRAMED IN A PHOTOGRAPH</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-decoration-day-to-memorial-day-america-s-quiet-ritual.html" style="color:var(--ink)">DECORATION DAY TO MEMORIAL DAY, AMERICA’S QUIET RITUAL OF REMEMBRANCE.</a></li>
 <li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/summit-season/east-meets-west-waic.html" style="color:var(--ink)">East Meets West at WAIC</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-fifa-football-and-new-jersey-tonight.html" style="color:var(--ink)">FIFA, FOOTBALL, AND NEW JERSEY TONIGHT</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-first-lady-melania-trump-hosts-inaugural-fostering-the.html" style="color:var(--ink)">FIRST LADY MELANIA TRUMP HOSTS INAUGURAL “FOSTERING THE FUTURE TOGETHER” GLOBAL COALITION SUMMIT WITH 45 NATIONS, JOINED HERE BY FRANCE’S FIRST LADY BRIGITTE MACRON AT THE WHITE HOUSE</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-from-the-oldest-democracy-to-the-most-powerful-one.html" style="color:var(--ink)">FROM THE OLDEST DEMOCRACY TO THE MOST POWERFUL ONE: GREEKS AND AMERICANS CELEBRATE GREEK INDEPENDENCE AT WHITE HOUSE TODAY</a></li>
 <li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/summit-season/g20-2026-doral.html" style="color:var(--ink)">G20 2026 Trump National Doral</a></li>
 <li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-leaders-gloria-steinem-walks-on-ink-the-apollo-stump-and-the-women-who-walk.html" style="color:var(--ink)">GLORIA STEINEM WALKS ON: INK, THE APOLLO STUMP, AND THE WOMEN WHO WALKED WITH HER</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-holland-s-hague-architecture-arts-peace.html" style="color:var(--ink)">HOLLAND&#x27;S HAGUE: ARCHITECTURE, ARTS &amp; PEACE</a></li>
 <li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/hollywood-nights.html" style="color:var(--ink)">HOLLYWOOD NIGHTS</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-in-the-garden-spring-s-complex-nature.html" style="color:var(--ink)">In The Garden: Spring’s Complex Nature</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-intrepid-dancing-on-the-deck-tonight.html" style="color:var(--ink)">INTREPID DANCING ON THE DECK TONIGHT</a></li>
 <li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-technology-chips-on-shoulders-puts-chips-in-pockets.html" style="color:var(--ink)">INVESTING IN THE FUTURE</a></li>
 <li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-leaders-king-charles-iii-andy-burnham-buckingham-palace.html" style="color:var(--ink)">King Charles III</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-magazine-explores-wordsworth-s-lucy-poems-the-secret.html" style="color:var(--ink)">LIKE MAGAZINE EXPLORES WORDSWORTH’S LUCY POEMS – THE SECRET SONGS OF LOVE AND LOSS</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-exploration-travel-en-route-to-the-peak-hong-kong.html" style="color:var(--ink)">LIKE® EXPLORATION &amp; TRAVEL — EN ROUTE TO THE PEAK: THE HONG KONG THAT WAS, AND THE CITY IT BECAME</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-magazine-a-celebration-of-250-years-of-america.html" style="color:var(--ink)">LIKE® MAGAZINE | A CELEBRATION OF 250 YEARS OF AMERICA</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-magazine-an-ever-evolving-presence-in-the.html" style="color:var(--ink)">LIKE® MAGAZINE, AN EVER‑EVOLVING PRESENCE IN THE INTERNATIONAL INFORMATION SPACE, AND THE HISTORY OF ITS STEWARDSHIP SINCE THE SIXTIES</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-250-years-of-america-stars-and-stripes-and-the-sound.html" style="color:var(--ink)">LIKE®—250 YEARS OF AMERICA: STARS AND STRIPES AND THE SOUND OF A FREE PRESS IN UNIFORM</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-music-review-linda-perry-what-lies-with-you.html" style="color:var(--ink)">LINDA PERRY, “WHAT LIES WITH YOU”</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-malm-rising-where-nordic-design-meets-digital-ambition.html" style="color:var(--ink)">MALMÖ RISING: WHERE NORDIC DESIGN MEETS DIGITAL AMBITION—AND HOW YOU CAN PROFIT FROM SWEDEN&#x27;S MOST DYNAMIC CITY</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-morning-on-the-upper-east-side-a-tale-of-two-summits.html" style="color:var(--ink)">MORNING ON THE UPPER EAST SIDE, A TALE OF TWO SUMMITS</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-new-york-tech-week-is-in-full-swing-lebanese-founders.html" style="color:var(--ink)">NEW YORK TECH WEEK IS IN FULL SWING: LEBANESE FOUNDERS &amp; LEADERS SCALE BEIRUT ON MANHATTAN — A HISTORY OF NEW YORK TECH WEEK</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-newport-s-timeless-horizon-classic-heritage-and.html" style="color:var(--ink)">NEWPORT’S TIMELESS HORIZON: CLASSIC HERITAGE AND CONTEMPORARY YACHTING IN HARMONY</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-nuclear-diplomacy-and-the-next-frontier-of.html" style="color:var(--ink)">NUCLEAR DIPLOMACY AND THE NEXT FRONTIER OF PHILANTHROPY: IAN SOLOMON TAKES THE HELM AT THE ROCKEFELLER BROTHERS FUND</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-ofer-yannay-s-excellent-positive-energy-paradigm.html" style="color:var(--ink)">OFER YANNAY’S EXCELLENT POSITIVE ENERGY PARADIGM</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-on-the-red-carpet-and-in-print-the-jerusalem-post-as.html" style="color:var(--ink)">ON THE RED CARPET AND IN PRINT: THE JERUSALEM POST AS NEWSPAPER, STAGE, AND SOCIAL INSTITUTION</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-on-this-day-2018-the-civic-art-of-the-parade.html" style="color:var(--ink)">ON THIS DAY (2018): THE CIVIC ART OF THE PARADE</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-on-this-day-2014-peter-m-rivera-esq-from-community.html" style="color:var(--ink)">ON THIS DAY, 2014: PETER M. RIVERA, ESQ. FROM COMMUNITY-FOCUSED LAW PRACTICE TO NEW YORK’S COURTROOMS REPRESENTING NEW YORK STATE AS A PRINCIPAL COURT ATTORNEY</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-rock-roll-never-forgets-rotterdam-s-rhythm-of-steel.html" style="color:var(--ink)">ROCK &amp; ROLL NEVER FORGETS: ROTTERDAM’S RHYTHM OF STEEL, SKYLINE LIGHTS, AND RIVER SONGS</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-ronald-s-lauder-on-lies-power-and-the-cost-of.html" style="color:var(--ink)">RONALD S. LAUDER ON LIES, POWER AND THE COST OF DISTORTION</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-roots-of-a-republic-one-of-the-oldest-standing.html" style="color:var(--ink)">ROOTS OF A REPUBLIC, ONE OF THE OLDEST STANDING AMERICAN HOUSES</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-soundgarden-sunday-spoonman.html" style="color:var(--ink)">SOUNDGARDEN SUNDAY: SPOONMAN</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-st-regis-new-york-rooftop-remains-a-beaux-arts-icon-of.html" style="color:var(--ink)">ST. REGIS NEW YORK ROOFTOP REMAINS A BEAUX-ARTS ICON OF MANHATTAN GLAMOUR</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-sultan-of-oman-makes-historic-first-state-visit-to-france.html" style="color:var(--ink)">SULTAN OF OMAN MAKES HISTORIC FIRST STATE VISIT TO FRANCE, SEALING $2.25 BILLION IN LANDMARK AGREEMENTS</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-summit-season-2026-begins-in-the-city-of-the-soul-of.html" style="color:var(--ink)">SUMMIT SEASON (2026) BEGINS IN THE CITY OF THE SOUL OF BOTH ROCK AND ROLL AND TENNESSEE</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-summit-season-beyond-singapore-s-shangri-la.html" style="color:var(--ink)">SUMMIT SEASON, BEYOND SINGAPORE’S SHANGRI-LA</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/on-this-day-boy-who-loved-batman.html" style="color:var(--ink)">THE BOY WHO LOVED BATMAN TOO MUCH</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-the-circle-of-life-and-grief-in-dobson-rooster-s-1994.html" style="color:var(--ink)">THE CIRCLE OF LIFE AND GRIEF: IN DOBSON ROOSTER’S 1994 CHEROKEE INK DRAWING, THE OLD MAN GRIEVES REGARDING HIS PARTNER AND CHILD, FROM A TIME OF YOUTH</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-the-enchanted-hill-inside-william-randolph-hearst-s.html" style="color:var(--ink)">THE ENCHANTED HILL: INSIDE WILLIAM RANDOLPH HEARST&#x27;S SAN SIMEON CASTLE, HIS MEDIA DYNASTY AND THE HOLLYWOOD EXPRESS THAT BUILT A LEGEND</a></li>
 <li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-medicine-the-heart-of-resilience-how-dr-dawn-mussallem-defied-death-to-revo.html" style="color:var(--ink)">THE HEART OF RESILIENCE: HOW DR. DAWN MUSSALLEM DEFIED DEATH TO REVOLUTIONIZE LONGEVITY MEDICINE</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-the-soundtrack-of-a-nation-hail-to-the-chief-and.html" style="color:var(--ink)">THE SOUNDTRACK OF A NATION: “HAIL TO THE CHIEF” AND AMERICA’S MILITARY BANDS</a></li>
 <li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/summit-season/nato-spirit-of-ankara.html" style="color:var(--ink)">THE SPIRIT OF ANKARA</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-the-wire-and-the-feed-trump-lincoln-and-the-american.html" style="color:var(--ink)">THE WIRE AND THE FEED: TRUMP, LINCOLN AND THE AMERICAN ART OF COMMANDING THE MESSAGE</a></li>
 <li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-music-tony-bennett-at-one-hundred-the-gentleman-of-central-park-south-who-l.html" style="color:var(--ink)">TONY BENNETT AT ONE HUNDRED: THE GENTLEMAN OF CENTRAL PARK SOUTH WHO LEFT HIS HEART IN EVERY CITY HE SANG</a></li>
 <li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-leaders-jd-vance-trump-orban-budapest-common-sense.html" style="color:var(--ink)">U.S. VICE PRESIDENT JD VANCE, PRESIDENT DONALD TRUMP, AND HUNGARIAN PRIME MINISTER VIKTOR ORBÁN PITCH POLITICAL COMMON SENSE IN BUDAPEST</a></li>
 </ul></div>
 <div class="year-group">
 <div class="year-line" data-year="2025"><span class="roman">MMXXV</span><span class="year-arabic">2025</span></div>
 <ul style="list-style:none;padding:0;margin:0.5rem 0 0;font-family:var(--sans);font-size:0.88rem">
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-nelly-hot-in-herre-inaugural-ball-2025.html" style="color:var(--ink)">HOT IN HERRE: NELLY AT THE UNITED STATES PRESIDENTIAL &amp; VICE-PRESIDENTIAL INAUGURAL BALL 2025</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-551-fifth-avenue-fred-f-french-building-art-deco.html" style="color:var(--ink)">551 FIFTH AVENUE, FRED F. FRENCH BUILDING: ART DECO SPLENDOR AND MANHATTAN ICON, A MODERN REFERENCE TO THE TOWER OF BABEL</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-a-scientific-hypothesis-by-douglas-youvan-your-brain.html" style="color:var(--ink)">A Scientific Hypothesis by Douglas Youvan: “Your Brain Isn’t Creating Intelligence-It’s Plugging Into the Universe”.</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-american-broadcasting-company-s-all-my-children-family.html" style="color:var(--ink)">AMERICAN BROADCASTING COMPANY’S “ALL MY CHILDREN” FAMILY BACK TOGETHER AGAIN</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-american-patriot-departs-plymouth-ma.html" style="color:var(--ink)">AMERICAN PATRIOT DEPARTS PLYMOUTH, MA</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-as-time-goes-by-timeless-elegance-remains-summer-s.html" style="color:var(--ink)">AS TIME GOES BY, TIMELESS ELEGANCE REMAINS: SUMMER’S GUIDE TO STYLE FROM THE SCIONS OF FASHION</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-bad-company-guitarist-mick-ralphs-a-legend-remembered.html" style="color:var(--ink)">BAD COMPANY GUITARIST MICK RALPHS: A LEGEND REMEMBERED</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-beating-time-ripples.html" style="color:var(--ink)">BEATING TIME: RIPPLES</a></li>
 <li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/summit-season/brics-2025-rio.html" style="color:var(--ink)">BRICS 2025 in Rio</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-cafe-boulud-and-maison-barnes-french-elegance-side-by.html" style="color:var(--ink)">CAFE BOULUD AND MAISON BARNES: FRENCH ELEGANCE SIDE BY SIDE ON PARK AVENUE</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-celebrating-a-decade-of-rebellion-and-rhythm-10-years.html" style="color:var(--ink)">CELEBRATING A DECADE OF REBELLION AND RHYTHM—10 YEARS OF THE OUTLAW MUSIC FESTIVAL WITH WILLIE NELSON, THE TEXAS LEGEND</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-could-you-be-the-center-of-the-universe-scientists-say.html" style="color:var(--ink)">COULD YOU BE THE CENTER OF THE UNIVERSE? SCIENTISTS SAY YOUR BRAIN JUST MIGHT BE—AT LEAST QUANTUMLY SPEAKING</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-dairy-water-food-silos-the-american-family-farm-and.html" style="color:var(--ink)">DAIRY, WATER, &amp; FOOD SILOS: THE AMERICAN FAMILY FARM, AND THE GLOBAL ENTITIES THAT MAY CONTROL AMERICAN FOOD, WATER, AND FARMING PRODUCTS</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-edward-mermelstein-steering-new-york-city-s-global.html" style="color:var(--ink)">EDWARD MERMELSTEIN: STEERING NEW YORK CITY’S GLOBAL DIPLOMACY</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-elizabeth-lusskin-pioneering-global-innovation-at.html" style="color:var(--ink)">ELIZABETH LUSSKIN: PIONEERING GLOBAL INNOVATION AT EMPIRE STATE DEVELOPMENT</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-faith-unity-and-identity-collaboration-among-sunni.html" style="color:var(--ink)">FAITH, UNITY, AND IDENTITY: COLLABORATION AMONG SUNNI, SHIA, AND THE NATION OF ISLAM IN AMERICA, ESPECIALLY IN NEW YORK, WHERE THE POLITICS OF THE FAITHFUL MAY LEAD A NEW MAJOR VOTING BLOCK</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-four-hundred-years-of-history-highlighted-on-the-seal.html" style="color:var(--ink)">FOUR HUNDRED YEARS OF HISTORY HIGHLIGHTED ON THE SEAL OF THE NEW YORK COUNTY DISTRICT ATTORNEY&#x27;S OFFICE</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-frank-and-nancy-sinatra-something-stupid.html" style="color:var(--ink)">FRANK AND NANCY SINATRA “SOMETHING STUPID”</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-gathering-of-the-whales.html" style="color:var(--ink)">GATHERING OF THE WHALES</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-girl-of-lightning.html" style="color:var(--ink)">GIRL OF LIGHTNING</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-health-leaders-2025-michael-salgaller-national-institutes.html" style="color:var(--ink)">HEALTH LEADERS 2025: MICHAEL SALGALLER, NATIONAL INSTITUTES OF HEALTH</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-international-women-s-day-julianna-margulies-provides.html" style="color:var(--ink)">INTERNATIONAL WOMEN’S DAY: JULIANNA MARGULIES PROVIDES SUPPORT FOR HISTORICAL PRESERVATION &amp; THE ARTS</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-israel-bruddah-iz-kamakawiwo-ole-what-a-wonderful.html" style="color:var(--ink)">ISRAEL ‘BRUDDAH IZ’ KAMAKAWIWO ‘OLE: WHAT A WONDERFUL WORLD—SOMEWHERE OVER THE RAINBOW</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-art-making-love-out-of-nothing-at-all-the-love-pop-art.html" style="color:var(--ink)">LIKE ART, MAKING LOVE OUT OF NOTHING AT ALL: THE LOVE POP ART SERIES BY ROBERT INDIANA</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-liquid-ai-the-brain-like-system-that-reprograms-itself.html" style="color:var(--ink)">LIQUID AI: THE BRAIN-LIKE SYSTEM THAT REPROGRAMS ITSELF IN REAL TIME</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-michael-eric-dyson-a-towering-voice-in-american.html" style="color:var(--ink)">MICHAEL ERIC DYSON: A TOWERING VOICE IN AMERICAN ACADEMIA, LITERATURE, AND SOCIAL JUSTICE</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-music-review-oh-sherrie-s-steve-perry-marks-birthday.html" style="color:var(--ink)">MUSIC REVIEW: OH SHERRIE’S STEVE PERRY MARKS BIRTHDAY</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-new-jersey-governor-phil-murphy-kibitzes-with.html" style="color:var(--ink)">NEW JERSEY GOVERNOR PHIL MURPHY KIBITZES WITH TOWNSPEOPLE</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-oxford-scientists-teleport-quantum-information-a-giant.html" style="color:var(--ink)">OXFORD SCIENTISTS TELEPORT QUANTUM INFORMATION: A GIANT LEAP FOR COMPUTING AND THE FUTURE OF MACHINE LEARNING</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-plymouth-rock-myth-legend-and-icon-of-america.html" style="color:var(--ink)">PLYMOUTH ROCK: MYTH, LEGEND, AND ICON OF AMERICA</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-quantum-entanglement-chaos-and-the-butterfly-effect.html" style="color:var(--ink)">QUANTUM ENTANGLEMENT, CHAOS, AND THE BUTTERFLY EFFECT: EXPLORING THE FRONTIERS OF PHYSICS</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-quantum-wormhole-simulation-how-caltech-and-fermilab.html" style="color:var(--ink)">QUANTUM WORMHOLE SIMULATION: HOW CALTECH AND FERMILAB USED A QUANTUM COMPUTER AND THE SYK MODEL TO EXPLORE THE BOUNDARY OF SPACE-TIME AND QUANTUM MECHANICS</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-ayra-starr-shines-global-citizen-festival-2025.html" style="color:var(--ink)">AYRA STARR SHINES AT GLOBAL CITIZEN FESTIVAL 2025</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-revolutionary-underwater-battery-norway-s-saltwater.html" style="color:var(--ink)">REVOLUTIONARY UNDERWATER BATTERY: NORWAY&#x27;S SALTWATER-POWERED INNOVATION COULD TRANSFORM OCEAN TECHNOLOGY</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-ros-from-blackpink-to-global-pop-superstar.html" style="color:var(--ink)">ROSÉ: FROM BLACKPINK TO GLOBAL POP SUPERSTAR</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-south-africa-s-richest-man-visiting-white-house-amid.html" style="color:var(--ink)">SOUTH AFRICA’S RICHEST MAN VISITING WHITE HOUSE AMID CONCERNS ABOUT WHITE GENOCIDE IN HIS AFRICAN NATION</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-the-heart-s-hidden-science-electromagnetic-fields.html" style="color:var(--ink)">THE HEART’S HIDDEN SCIENCE: ELECTROMAGNETIC FIELDS, EMOTIONAL INTELLIGENCE, AND HUMAN CONNECTION</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-the-helmsley-building-a-beaux-arts-icon-with-a.html" style="color:var(--ink)">THE HELMSLEY BUILDING: A BEAUX-ARTS ICON WITH A PYRAMIDAL CROWN AND A STORY OF POWER, WEALTH, AND EXTRAVAGANCE</a></li>
 <li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-automotive-the-hudson-river-photograph.html" style="color:var(--ink)">The Hudson River Photograph</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-the-human-electric-how-your-brain-outshines-ai-and.html" style="color:var(--ink)">THE HUMAN ELECTRIC: HOW YOUR BRAIN OUTSHINES AI AND POWERS THE MYSTERY OF LIFE</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-the-morgan-library-museum-celebrates-a-century-of.html" style="color:var(--ink)">THE MORGAN LIBRARY &amp; MUSEUM CELEBRATES A CENTURY OF ACQUISITIONS</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-the-ritz-paris-the-ritz-london-eternal-elegance-on.html" style="color:var(--ink)">THE RITZ PARIS &amp; THE RITZ LONDON: ETERNAL ELEGANCE ON PLACE VENDÔME AND PICCADILLY</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-trailblazing-women-s-health-advocate-cecile-richards.html" style="color:var(--ink)">TRAILBLAZING WOMEN’S HEALTH ADVOCATE CECILE RICHARDS WALKS ON</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-versailles-a-city-in-gilt-and-light.html" style="color:var(--ink)">VERSAILLES: A CITY IN GILT AND LIGHT</a></li>
 <li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-leaders-women-leaders-care-michelle-nunn.html" style="color:var(--ink)">WOMEN LEADERS: CARE, MICHELLE NUNN</a></li>
 </ul></div>
 <div class="year-group">
 <div class="year-line" data-year="2024"><span class="roman">MMXXIV</span><span class="year-arabic">2024</span></div>
 <ul style="list-style:none;padding:0;margin:0.5rem 0 0;font-family:var(--sans);font-size:0.88rem">
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-post-malone-in-the-rain-global-citizen-2024.html" style="color:var(--ink)">POST MALONE IN THE RAIN: HE TURNED GLOBAL CITIZEN FESTIVAL® INTO A HOMECOMING FOR THE AGES</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-engelbert-humperdinck-last-of-a-breed-2024.html" style="color:var(--ink)">LAST OF A BREED: ENGELBERT HUMPERDINCK</a></li>
+<li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-doja-cat-like-you-curtis-byrd-2024.html" style="color:var(--ink)">MAESTRA DOJA CAT CLOSES “LIKE YOU” WITH PRECISION ALONGSIDE DRUMMER CURTIS BYRD</a></li>
 <li style="padding:0.35rem 0;border-bottom:1px solid var(--rule)"><a href="/articles/like-leaders-donald-trump-forty-fifth-president-early-years.html" style="color:var(--ink)">FORTY-FIFTH PRESIDENT OF THE UNITED STATES, DONALD JOHN TRUMP</a></li>
 </ul></div>
 <div class="year-group">
@@ -304,7 +443,14 @@ a:hover { text-decoration: underline; }
 </main>
 <footer class="footer">
   <p class="disclosure">Affiliate disclosure: LIKE® Magazine may earn a commission from qualifying purchases made through links on this site. Editorial coverage remains independent.</p>
-  © LIKE Magazine · likeleaders.com · Photography &amp; editorial by Michael de la Force · Print-on-demand editions coming soon
+  <nav class="footer-nav" aria-label="Footer">
+    <a href="/about.html">About</a>
+    <a href="/archive/index.html">Archive by Year</a>
+    <a href="/sections/luxury-guide.html">Luxury Guide</a>
+    <a href="/summit-season/index.html">Summit Season</a>
+    <a href="/search.html">Search</a>
+  </nav>
+  <p>&copy; LIKE Magazine &middot; likeleaders.com &middot; Photography &amp; editorial by Michael de la Force &middot; Print-on-demand editions coming soon</p>
 </footer>
 </body>
 </html>

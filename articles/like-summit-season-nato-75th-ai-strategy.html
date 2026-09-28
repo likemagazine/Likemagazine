@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<link rel="canonical" href="https://likeleaders.com/articles/like-summit-season-nato-75th-ai-strategy.html"/>
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
 <title>NATO 75th · REVISED ARTIFICIAL INTELLIGENCE (AI) STRATEGY · LIKE Magazine</title>
@@ -142,55 +143,200 @@ a:hover { text-decoration: underline; }
 .edition.summit { background: #120c18; color: #f7f3eb; border-color: rgba(201,154,59,.45); }
 .edition.summit .ed-num { color: #c99a3b; }
 .edition.summit em { color: #b9b0c4; }
+
+/* ---- LIKE® unified nav/footer/a11y refinements (site update 2026-09-27) ---- */
+.nav { align-items: center; }
+.nav a { display: inline-flex; align-items: center; min-height: 44px; padding: 0.35rem 0.45rem; }
+.nav a.summit { color: #7a5f14; }
+.nav details.nav-more { position: relative; }
+.nav details.nav-more > summary { cursor: pointer; list-style: none; display: inline-flex; align-items: center; min-height: 44px; padding: 0.35rem 0.45rem; font-weight: 700; color: var(--accent); text-transform: uppercase; letter-spacing: 0.08em; font-size: 0.72rem; }
+.nav details.nav-more > summary::-webkit-details-marker { display: none; }
+.nav details.nav-more > summary::after { content: "\25BE"; font-size: 0.8em; margin-left: 0.3em; }
+.nav details.nav-more .nav-more-links { display: flex; flex-wrap: wrap; gap: 0.35rem 0.8rem; padding: 0.4rem 0 0.2rem; }
+.nav details.nav-more .nav-more-links { display: none; }
+.nav details.nav-more[open] .nav-more-links { display: flex; flex-wrap: wrap; gap: 0.35rem 0.9rem; position: absolute; top: 100%; left: 0; z-index: 60; min-width: 230px; max-width: min(92vw, 560px); background: #fffdf8; border: 1px solid var(--line); border-radius: 2px; box-shadow: 0 12px 28px rgba(60,40,10,.16); padding: 0.7rem 0.9rem; }
+@media (max-width: 700px) {
+  .nav details.nav-more[open] .nav-more-links { position: static; box-shadow: none; border: 0; padding: 0.4rem 0 0.2rem; max-width: none; }
+}
+.year-line.summit-year .roman { color: #7a5f14; }
+.footer-nav { display: flex; flex-wrap: wrap; justify-content: center; gap: 0.5rem 1.2rem; margin: 0 0 1.1rem; font-size: 0.78rem; }
+.footer-nav a { color: var(--ink); font-weight: 600; }
+.mast .mast-title { margin: 0; font-family: var(--sans); white-space: nowrap; letter-spacing: 0.2em; font-size: clamp(1.55rem, 4.4vw, 2.35rem); font-weight: 700; line-height: 1; }
+.mast .mast-magazine { display: none; }
+.mast .mast-title a { color: inherit; }
+.mast .mast-title .reg, .mast .mast-title sup.reg { color: var(--accent); font-size: 0.42em; font-weight: 700; letter-spacing: 0; vertical-align: super; line-height: 0; margin-left: 0.06em; position: relative; top: -0.05em; }
+@media (max-width: 700px) {
+  .nav { gap: 0.25rem 0.6rem; }
+  .nav details.nav-more { flex: 1 0 100%; }
+  .nav details.nav-more[open] .nav-more-links { border-top: 1px solid var(--rule); margin-top: 0.2rem; padding-top: 0.6rem; }
+}
+
+/* == LIKE editorial typography v1 == */
+.article-wrap > h1 {
+  font-family: var(--serif);
+  letter-spacing: 0.045em;
+  text-wrap: balance;
+}
+p.lead {
+  font-size: 1.24rem;
+  line-height: 1.55;
+  font-style: italic;
+  color: #4a4036;
+  margin: 0 0 1.6rem;
+  text-wrap: pretty;
+}
+.article-body { font-size: 1.08rem; }
+.article-body > p {
+  line-height: 1.78;
+  margin: 0 0 1.2rem;
+  text-wrap: pretty;
+}
+.article-body > p.dropcap::first-letter {
+  font-family: var(--serif);
+  font-weight: 700;
+  font-size: 3.6em;
+  line-height: 0.82;
+  float: left;
+  padding: 0.06em 0.14em 0 0;
+}
+.article-body h2 {
+  font-family: var(--serif);
+  font-size: 1.45rem;
+  line-height: 1.25;
+  margin: 2.2rem 0 0.9rem;
+  text-wrap: balance;
+}
+.byline {
+  font-size: 0.74rem;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+}
+.figure {
+  border: 1px solid var(--rule);
+  background: #fff;
+  padding: 0.6rem;
+}
 </style>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%23111111'/%3E%3Ctext x='32' y='45' font-family='Georgia,serif' font-size='38' fill='%23f4efe6' text-anchor='middle'%3EL%3C/text%3E%3C/svg'"/>
 </head>
 <body>
 <header class="mast">
-  <h1><a href="/index.html" style="color:inherit;text-decoration:none">LIKE<sup class="reg">®</sup></a></h1>
-  <p class="mast-magazine">Magazine</p>
+  <div class="mast-title"><a href="/index.html" style="color:inherit;text-decoration:none">LIKE<sup class="reg">®</sup> Magazine</a></div>
   <p class="tag">Style · Leaders · likeleaders.com</p>
 </header>
-<nav class="nav">
+<nav class="nav" aria-label="Primary">
   <a href="/index.html">Home</a>
   <a href="/summit-season/index.html" class="summit">Summit Season</a>
-  <a href="/sections/automotive.html">Automotive Features</a>
   <a href="/sections/leaders.html">Leaders</a>
   <a href="/sections/style.html">Style</a>
-  <a href="/sections/fashion.html">Fashion</a>
-  <a href="/sections/sports.html">Sports</a>
   <a href="/sections/travel.html">Travel &amp; Tourism</a>
-  <a href="/sections/diplomacy.html">Diplomacy</a>
-  <a href="/sections/health.html">Health</a>
-  <a href="/sections/law.html">Law</a>
-  <a href="/sections/science.html">Science</a>
-  <a href="/sections/music.html">Music</a>
-  <a href="/sections/film.html">Film</a>
-  <a href="/sections/film-festivals.html">Film Festivals</a>
-  <a href="/sections/books.html">Books</a>
-  <a href="/sections/art.html">Art</a>
-  <a href="/sections/museums.html">Museums</a>
-  <a href="/sections/spotlight.html">Spotlight</a>
-  <a href="/sections/features.html">Features</a>
   <a href="/sections/apparel.html" class="shop">Apparel</a>
+  <a href="/search.html">Search</a>
   <a href="/about.html">About</a>
+  <details class="nav-more">
+    <summary>Luxury Guide</summary>
+    <div class="nav-more-links">
+      <a href="/sections/luxury-guide.html">Overview</a>
+      <a href="/sections/luxury-hotels.html">Hotels</a>
+      <a href="/sections/luxury-dining.html">Dining</a>
+      <a href="/sections/luxury-shopping.html">Shopping</a>
+      <a href="/sections/luxury-airlines.html">Airlines</a>
+      <a href="/sections/luxury-wineries.html">Wineries</a>
+      <a href="/sections/luxury-trains.html">Trains</a>
+      <a href="/sections/luxury-aviation.html">Aviation</a>
+      <a href="/sections/luxury-watchmakers.html">Watchmakers</a>
+      <a href="/sections/luxury-jewelers.html">Jewelers</a>
+    </div>
+  </details>
+  <details class="nav-more">
+    <summary>More Departments</summary>
+    <div class="nav-more-links">
+      <a href="/sections/automotive.html">Automotive Features</a>
+      <a href="/sections/fashion.html">Fashion</a>
+      <a href="/sections/sports.html">Sports</a>
+      <a href="/sections/diplomacy.html">Diplomacy</a>
+      <a href="/sections/like-global.html">LIKE® Global</a>
+      <a href="/sections/conferences.html">Conferences</a>
+      <a href="/sections/trade-shows.html">Trade Shows</a>
+      <a href="/sections/health.html">Health</a>
+      <a href="/sections/law.html">Law</a>
+      <a href="/sections/science.html">Science</a>
+      <a href="/sections/music.html">Music</a>
+      <a href="/sections/film.html">Film</a>
+      <a href="/sections/film-festivals.html">Film Festivals</a>
+      <a href="/sections/books.html">Books</a>
+      <a href="/sections/art.html">Art</a>
+      <a href="/sections/museums.html">Museums</a>
+      <a href="/sections/spotlight.html">Spotlight</a>
+      <a href="/sections/features.html">Features</a>
+    </div>
+  </details>
 </nav>
 
 <main class="article-wrap">
   <p class="kicker">(LIKE® Summit Season)</p>
   <h1 style="font-size:clamp(1.7rem,4vw,2.5rem);line-height:1.15;margin:0 0 0.8rem">DURING THIS WEEK&#39;S SEVENTY-FIFTH ANNIVERSARY RECOGNITION OF NATO, THE ORGANIZATION RELEASED A REVISED ARTIFICIAL INTELLIGENCE (AI) STRATEGY</h1>
   <p class="byline">By Michael de la Force · Editor-in-Chief, LIKE® Magazine · 2024 · <a href="/summit-season/index.html">Summit Season</a> · <a href="/sections/diplomacy.html">Diplomacy</a> · <a href="/sections/science.html">Science</a></p>
-  <figure class="figure"><img src="/images/summit-nato-75th-ai-strategy.jpg" alt="NATO 75th anniversary revised AI strategy"/><figcaption class="caption">Photograph: Michael de la Force · LIKE® Magazine</figcaption></figure>
+  <figure class="figure"><img src="/images/summit-nato-75th-ai-strategy.jpg" alt="NATO 75th anniversary revised AI strategy"/><figcaption class="caption">Image: NATO · LIKE® Magazine</figcaption></figure>
   <article class="article-body">
-<p class="lead">DURING THIS WEEK&#39;S SEVENTY-FIFTH ANNIVERSARY RECOGNITION OF NATO, THE ORGANIZATION RELEASED A REVISED ARTIFICIAL INTELLIGENCE (AI) STRATEGY</p>
-<p>Summary of NATO&#39;s revised Artificial...</p>
-<p>Photographer: Michael de la Force, LIKE® Magazine</p>
-  </article>
+<p class="lead">Released during the Alliance&#39;s 75th anniversary week, the revised strategy sets NATO&#39;s course on artificial intelligence &mdash; from generative AI to the responsible use of AI in defense and security.</p>
+<p class="dropcap">Summary of NATO&#39;s revised Artificial Intelligence (AI) strategy follows:</p>
+<h2>Strategic Context</h2>
+<p><strong>1.</strong> The capabilities of AI technologies have continued to evolve at an ever more rapid pace. In particular, there has been unprecedented development and widespread availability of powerful emerging AI technologies, such as generative AI. These technologies can generate complex text, computer code, and realistic images and audio, at near-limitless volume, that are increasingly indistinguishable from human-produced content. It is vital for NATO to use these technologies, where applicable, as soon as possible.</p>
+<p><strong>2.</strong> NATO&#39;s 2021 AI Strategy set out a Strategic Vision, with four Aims and six Outcomes. Within the AI Strategy, Allies endorsed six Principles of Responsible Use (PRUs) for AI in Defense: Lawfulness, Responsibility and Accountability, Explainability and Traceability, Reliability, Governability, and Bias Mitigation.</p>
+<p><strong>3.</strong> AI is becoming a general-purpose technology, with different risks, actors, and levels of complexity between narrow AI, designed to perform specific tasks, and emerging AI technologies, such as frontier or foundation AI models, which are multi-purpose and capable of performing complex tasks.</p>
+<p><strong>4.</strong> Additionally, a growing set of related issues merit NATO&#39;s attention. These include: the potential diminishing global availability of quality public data to train AI models; implications of the demands of compute-intensive AI, including on energy consumption; and accountability in human-machine teaming and overcoming technical and governance issues when civilian-market dual-use solutions are applied in a military context.</p>
+<h2>Aims and Goals</h2>
+<p><strong>5.</strong> The Revised AI Strategy aims to:</p>
+<p>Provide a foundation for NATO and Allies to lead by example and encourage the development and use of AI in a responsible manner for Allied defense and security purposes;</p>
+<p>Accelerate and mainstream AI adoption in capability development and delivery, enhancing interoperability as a key element within the Alliance, including through the delivery of AI Use Cases;</p>
+<p>Protect and monitor our AI technologies, manage related risks, and protect our ability to innovate, addressing security policy considerations such as the operationalization of our PRUs; and</p>
+<p>Identify and safeguard against the threats from adversarial use of AI.</p>
+<h2>Desired Outcomes</h2>
+<p><strong>6.</strong> The Revised AI Strategy updates the Outcomes identified in NATO&#39;s 2021 AI Strategy, taking into consideration the progress made, and adds new Outcomes to significantly improve NATO&#39;s AI readiness. The updated list of Outcomes comprises:</p>
+<p>An increasing range of AI use cases and specific requirements for the NATO Enterprise, adhering to NATO&#39;s PRUs, to accelerate their transition to NATO capability development, in line with the goals of NATO&#39;s digital transformation. These use cases will benefit from outcomes of the Defense Innovation Accelerator for the North Atlantic (DIANA) challenge areas;</p>
+<p>Measurable steps to integrate AI, enabled by quality data, into appropriate Allied capabilities through commitments in the NATO Defense Planning Process;</p>
+<p>An increasingly capable AI-ready workforce across the Alliance, supported by AI talent development;</p>
+<p>A growing range of standards, assessment templates, review processes, and other tools and good practices to operationalize the responsible adoption of AI across the Alliance;</p>
+<p>A deeper understanding of AI by, and its implications for, the Alliance, informed by the results of the 360-degree monitoring of evolving AI and data technology trends. This understanding will include the opportunities and risks of AI, including its use by potential adversaries and strategic competitors;</p>
+<p>Key elements of an Alliance-wide AI Testing, Evaluation, Verification &amp; Validation (TEV&amp;V) landscape able to support the adoption of responsible AI. These elements will utilize the network of DIANA-affiliated Test Centers;</p>
+<p>Growing interoperability between all AI systems throughout the Alliance;</p>
+<p>An increased contribution to shaping norms and standards for the responsible use of AI in defense and security. This contribution will be through the Alliance&#39;s engagement with NATO partners, international organizations, Allied industry and academia, as applicable; and</p>
+<p>Measures for addressing convergence between AI and other Emerging Disruptive Technologies (EDTs).</p>
+<h2>Integrating Responsible AI Into NATO</h2>
+<p><strong>7.</strong> As Allied defense stakeholders, militaries, and armed forces develop capabilities and responses to benefit from data and AI, NATO can act as a platform between Allies to facilitate information exchange and sharing of good practice, recognizing similar initiatives pursued by other organizations.</p>
+<p><strong>8.</strong> NATO needs to strengthen its understanding of the landscape and maturity of services, skilled testers, public and private AI safety bodies, and accreditation and certification functions. Allies and NATO need to be able to access and use specialized laboratories, sandboxes, and testing facilities. This will allow NATO to determine the opportunities and challenges, as well as to develop a baseline recommendation of best practices in TEV&amp;V and certification of AI technologies.</p>
+<p><strong>9.</strong> Responsible adoption of AI should also reflect the UN&#39;s General Assembly landmark resolution on AI.</p>
+<p><strong>10.</strong> NATO should accelerate the responsible adoption of AI capabilities in accordance with the NATO PRUs.</p>
+<p><strong>11.</strong> NATO will need to address the impact of AI upon the military and civilian workforce. Dealing with these impacts might require, for example, retraining programs, high-level expertise, changes in job roles, and integrating technical experts more deeply into military operations.</p>
+<p><strong>12.</strong> Allied testing facilities need to be able to determine if AI applications can be used safely and in accordance with NATO&#39;s PRUs. Such facilities can test and validate the development and use of AI applications under a variety of technological, procedural, and operational conditions.</p>
+<h2>Data and Technology Enablers</h2>
+<p><strong>13.</strong> The availability and management of AI-ready, quality data is a prerequisite for the development and use of secure, reliable, and responsible AI systems. Quality data is foundational to the development of effective AI-enabled systems since all analytic and AI capabilities require trusted, quality data, which does not include unintended bias, to support the development of such systems.</p>
+<h2>Minimizing Adversarial Interference</h2>
+<p><strong>14.</strong> Safety concerns arising from emerging AI technologies are significant, particularly for military use. NATO must remain a proponent of responsible use behaviors, by using its convening power to influence international norms and standards.</p>
+<p><strong>15.</strong> Disinformation, the weaponization of gendered narratives, technologically facilitated gender-based violence, and AI-enabled information operations might affect the outcome of elections, sow division and confusion across the Alliance, demobilize and demoralize societies and militaries in times of conflict, as well as lower trust in institutions and authorities of importance to the Alliance. These issues could raise profound implications for the Alliance.</p>
+<p><strong>16.</strong> In order to promote NATO&#39;s AI readiness, strategic foresight is needed, including a wide range of proactive activities, from anticipatory governance to alternative scenario planning based on participatory and responsible approaches.</p>
+<h2>Partners, Allied Industry and Other Actors</h2>
+<p><strong>17.</strong> Working together with like-minded technology-oriented partners will help the Alliance meet the common challenges of AI and advance its responsible use. The Alliance and like-minded NATO partners could cooperate on adoption methods, developing innovation ecosystems, and mitigating AI-related risks.</p>
+<p><strong>18.</strong> Joint AI research and development initiatives among Allies, NATO partner countries, Allied industry, research, and academia help tap into collective expertise and resources. Activities supported by the Science for Peace and Security (SPS) Program will continue to enable cooperation between research communities in Allied and partner countries in line with its newly approved thematic priorities. SPS-supported projects, workshops, and training courses will foster research, innovation, and knowledge exchange and draw attention to security-related challenges where the application of AI can contribute to delivering cutting-edge solutions.</p>
+<p><strong>19.</strong> Cooperation with Allied industry, academia, and research organizations, in accordance with agreed NATO policies and procedures, will help NATO identify and integrate AI into capabilities, advance NATO&#39;s and Allies&#39; strategic interests, protect intellectual property, mitigate the risk of Allied technology being exploited by potential adversaries and strategic competitors, and help Allies to safeguard access to vital components. This will also help foster an ecosystem that can contribute to NATO&#39;s AI capabilities, expediting NATO&#39;s digital transformation.</p>
+<p><strong>20.</strong> NATO will continue to build and shape a network of AI stakeholders with Allied industry, academia, and non-profit sectors, giving particular attention to non-traditional defense suppliers. Allies, DIANA, and the NATO Innovation Fund (NIF) can secure innovative AI solutions to NATO defense needs from the private sector and encourage Allied industry to develop, design, and build AI systems in accordance with Alliance requirements and NATO&#39;s PRUs.</p>
+<p>Michael de la Force</p>
+<p>(Michael de la Force, LIKE&#174; Magazine, 7.11.2024)</p>
+</article>
   <p class="caption">Source post: <a href="https://www.facebook.com/michael.delaforce/posts/summit-season-during-this-weeks-seventy-fifth-anniversary-recognition-of-nato-th/10162157756893900/">https://www.facebook.com/michael.delaforce/posts/summit-season-during-this-weeks-seventy-fifth-anniversary-recognition-of-nato-th/10162157756893900/</a></p>
   <aside class="affiliate-box" data-shop-story="nato-75th-ai-strategy" aria-label="Shop the story"></aside>
 </main>
 <footer class="footer">
   <p class="disclosure">Affiliate disclosure: LIKE® Magazine may earn a commission from qualifying purchases made through links on this site. Editorial coverage remains independent.</p>
-  © LIKE Magazine · likeleaders.com · Photography &amp; editorial by Michael de la Force · Print-on-demand editions coming soon
+  <nav class="footer-nav" aria-label="Footer">
+    <a href="/about.html">About</a>
+    <a href="/archive/index.html">Archive by Year</a>
+    <a href="/sections/luxury-guide.html">Luxury Guide</a>
+    <a href="/summit-season/index.html">Summit Season</a>
+    <a href="/search.html">Search</a>
+  </nav>
+  <p>&copy; LIKE Magazine &middot; likeleaders.com &middot; Photography &amp; editorial by Michael de la Force &middot; Print-on-demand editions coming soon</p>
 </footer>
 
 <script src="/js/shop-the-story.js" defer></script>

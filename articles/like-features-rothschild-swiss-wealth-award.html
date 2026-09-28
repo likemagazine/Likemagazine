@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<link rel="canonical" href="https://likeleaders.com/articles/like-features-rothschild-swiss-wealth-award.html"/>
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
 <title>WHERE BIG BUCKS BANK AND RESIDE: ROTHSCHILD & CO. WINS AGAIN · LIKE Magazine</title>
@@ -142,37 +143,134 @@ a:hover { text-decoration: underline; }
 .edition.summit { background: #120c18; color: #f7f3eb; border-color: rgba(201,154,59,.45); }
 .edition.summit .ed-num { color: #c99a3b; }
 .edition.summit em { color: #b9b0c4; }
+
+/* ---- LIKE® unified nav/footer/a11y refinements (site update 2026-09-27) ---- */
+.nav { align-items: center; }
+.nav a { display: inline-flex; align-items: center; min-height: 44px; padding: 0.35rem 0.45rem; }
+.nav a.summit { color: #7a5f14; }
+.nav details.nav-more { position: relative; }
+.nav details.nav-more > summary { cursor: pointer; list-style: none; display: inline-flex; align-items: center; min-height: 44px; padding: 0.35rem 0.45rem; font-weight: 700; color: var(--accent); text-transform: uppercase; letter-spacing: 0.08em; font-size: 0.72rem; }
+.nav details.nav-more > summary::-webkit-details-marker { display: none; }
+.nav details.nav-more > summary::after { content: "\25BE"; font-size: 0.8em; margin-left: 0.3em; }
+.nav details.nav-more .nav-more-links { display: flex; flex-wrap: wrap; gap: 0.35rem 0.8rem; padding: 0.4rem 0 0.2rem; }
+.nav details.nav-more .nav-more-links { display: none; }
+.nav details.nav-more[open] .nav-more-links { display: flex; flex-wrap: wrap; gap: 0.35rem 0.9rem; position: absolute; top: 100%; left: 0; z-index: 60; min-width: 230px; max-width: min(92vw, 560px); background: #fffdf8; border: 1px solid var(--line); border-radius: 2px; box-shadow: 0 12px 28px rgba(60,40,10,.16); padding: 0.7rem 0.9rem; }
+@media (max-width: 700px) {
+  .nav details.nav-more[open] .nav-more-links { position: static; box-shadow: none; border: 0; padding: 0.4rem 0 0.2rem; max-width: none; }
+}
+.year-line.summit-year .roman { color: #7a5f14; }
+.footer-nav { display: flex; flex-wrap: wrap; justify-content: center; gap: 0.5rem 1.2rem; margin: 0 0 1.1rem; font-size: 0.78rem; }
+.footer-nav a { color: var(--ink); font-weight: 600; }
+.mast .mast-title { margin: 0; font-family: var(--sans); white-space: nowrap; letter-spacing: 0.2em; font-size: clamp(1.55rem, 4.4vw, 2.35rem); font-weight: 700; line-height: 1; }
+.mast .mast-magazine { display: none; }
+.mast .mast-title a { color: inherit; }
+.mast .mast-title .reg, .mast .mast-title sup.reg { color: var(--accent); font-size: 0.42em; font-weight: 700; letter-spacing: 0; vertical-align: super; line-height: 0; margin-left: 0.06em; position: relative; top: -0.05em; }
+@media (max-width: 700px) {
+  .nav { gap: 0.25rem 0.6rem; }
+  .nav details.nav-more { flex: 1 0 100%; }
+  .nav details.nav-more[open] .nav-more-links { border-top: 1px solid var(--rule); margin-top: 0.2rem; padding-top: 0.6rem; }
+}
+
+/* == LIKE editorial typography v1 == */
+.article-wrap > h1 {
+  font-family: var(--serif);
+  letter-spacing: 0.045em;
+  text-wrap: balance;
+}
+p.lead {
+  font-size: 1.24rem;
+  line-height: 1.55;
+  font-style: italic;
+  color: #4a4036;
+  margin: 0 0 1.6rem;
+  text-wrap: pretty;
+}
+.article-body { font-size: 1.08rem; }
+.article-body > p {
+  line-height: 1.78;
+  margin: 0 0 1.2rem;
+  text-wrap: pretty;
+}
+.article-body > p.dropcap::first-letter {
+  font-family: var(--serif);
+  font-weight: 700;
+  font-size: 3.6em;
+  line-height: 0.82;
+  float: left;
+  padding: 0.06em 0.14em 0 0;
+}
+.article-body h2 {
+  font-family: var(--serif);
+  font-size: 1.45rem;
+  line-height: 1.25;
+  margin: 2.2rem 0 0.9rem;
+  text-wrap: balance;
+}
+.byline {
+  font-size: 0.74rem;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+}
+.figure {
+  border: 1px solid var(--rule);
+  background: #fff;
+  padding: 0.6rem;
+}
 </style>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%23111111'/%3E%3Ctext x='32' y='45' font-family='Georgia,serif' font-size='38' fill='%23f4efe6' text-anchor='middle'%3EL%3C/text%3E%3C/svg'"/>
 </head>
 <body>
 <header class="mast">
-  <h1><a href="/index.html" style="color:inherit;text-decoration:none">LIKE<sup class="reg">®</sup></a></h1>
-  <p class="mast-magazine">Magazine</p>
+  <div class="mast-title"><a href="/index.html" style="color:inherit;text-decoration:none">LIKE<sup class="reg">®</sup> Magazine</a></div>
   <p class="tag">Style · Leaders · likeleaders.com</p>
 </header>
-<nav class="nav">
+<nav class="nav" aria-label="Primary">
   <a href="/index.html">Home</a>
   <a href="/summit-season/index.html" class="summit">Summit Season</a>
-  <a href="/sections/automotive.html">Automotive Features</a>
   <a href="/sections/leaders.html">Leaders</a>
   <a href="/sections/style.html">Style</a>
-  <a href="/sections/fashion.html">Fashion</a>
-  <a href="/sections/sports.html">Sports</a>
   <a href="/sections/travel.html">Travel &amp; Tourism</a>
-  <a href="/sections/diplomacy.html">Diplomacy</a>
-  <a href="/sections/health.html">Health</a>
-  <a href="/sections/law.html">Law</a>
-  <a href="/sections/science.html">Science</a>
-  <a href="/sections/music.html">Music</a>
-  <a href="/sections/film.html">Film</a>
-  <a href="/sections/film-festivals.html">Film Festivals</a>
-  <a href="/sections/books.html">Books</a>
-  <a href="/sections/art.html">Art</a>
-  <a href="/sections/museums.html">Museums</a>
-  <a href="/sections/spotlight.html">Spotlight</a>
-  <a href="/sections/features.html">Features</a>
   <a href="/sections/apparel.html" class="shop">Apparel</a>
+  <a href="/search.html">Search</a>
   <a href="/about.html">About</a>
+  <details class="nav-more">
+    <summary>Luxury Guide</summary>
+    <div class="nav-more-links">
+      <a href="/sections/luxury-guide.html">Overview</a>
+      <a href="/sections/luxury-hotels.html">Hotels</a>
+      <a href="/sections/luxury-dining.html">Dining</a>
+      <a href="/sections/luxury-shopping.html">Shopping</a>
+      <a href="/sections/luxury-airlines.html">Airlines</a>
+      <a href="/sections/luxury-wineries.html">Wineries</a>
+      <a href="/sections/luxury-trains.html">Trains</a>
+      <a href="/sections/luxury-aviation.html">Aviation</a>
+      <a href="/sections/luxury-watchmakers.html">Watchmakers</a>
+      <a href="/sections/luxury-jewelers.html">Jewelers</a>
+    </div>
+  </details>
+  <details class="nav-more">
+    <summary>More Departments</summary>
+    <div class="nav-more-links">
+      <a href="/sections/automotive.html">Automotive Features</a>
+      <a href="/sections/fashion.html">Fashion</a>
+      <a href="/sections/sports.html">Sports</a>
+      <a href="/sections/diplomacy.html">Diplomacy</a>
+      <a href="/sections/like-global.html">LIKE® Global</a>
+      <a href="/sections/conferences.html">Conferences</a>
+      <a href="/sections/trade-shows.html">Trade Shows</a>
+      <a href="/sections/health.html">Health</a>
+      <a href="/sections/law.html">Law</a>
+      <a href="/sections/science.html">Science</a>
+      <a href="/sections/music.html">Music</a>
+      <a href="/sections/film.html">Film</a>
+      <a href="/sections/film-festivals.html">Film Festivals</a>
+      <a href="/sections/books.html">Books</a>
+      <a href="/sections/art.html">Art</a>
+      <a href="/sections/museums.html">Museums</a>
+      <a href="/sections/spotlight.html">Spotlight</a>
+      <a href="/sections/features.html">Features</a>
+    </div>
+  </details>
 </nav>
 
 <main class="article-wrap">
@@ -181,16 +279,44 @@ a:hover { text-decoration: underline; }
   <p class="byline">By Michael de la Force · Editor-in-Chief, LIKE® Magazine · June 21, 2025 · <a href="/sections/features.html">Features</a> · <a href="/sections/style.html">Style</a></p>
   <figure class="figure"><img src="/images/rothschild-swiss-wealth-award.jpg" alt="Rothschild &amp; Co Swiss Wealth Management award"/><figcaption class="caption">Photograph: Michael de la Force · LIKE® Magazine</figcaption></figure>
   <article class="article-body">
-<p class="lead">WHERE BIG BUCKS BANK AND RESIDE: ROTHSCHILD &amp; CO. WINS AGAIN</p>
-<p>Rothschild &amp; Co’s Swiss Wealth Management business has once again captured the spotlight, clinching the coveted title of ‘Best Bank for...</p>
-<p>Photographer: Michael de la Force, LIKE® Magazine</p>
-  </article>
+<p class="lead">Rothschild &amp; Co.&#39;s Swiss wealth management business takes &#39;Best Bank for International High Net Worth Clients&#39; at the WealthBriefing Awards 2025.</p>
+<p class="dropcap">Rothschild &amp; Co.&#39;s Swiss Wealth Management business has once again captured the spotlight, clinching the coveted title of &#39;Best Bank for International High Net Worth Clients&#39; at the WealthBriefing Awards 2025. This accolade, judged by a panel of industry experts, underscores the firm&#39;s unwavering commitment to personalized service, strategic advisory, and its ability to navigate the complex needs of the world&#39;s most discerning clients.</p>
+<h2>The Meaning of High Net Worth</h2>
+<p>But what exactly does &ldquo;high net worth&rdquo; mean? In the world of wealth management, a high-net-worth individual (HNWI) is someone who holds at least $1 million in liquid financial assets, excluding their primary residence and personal belongings. This group is further segmented: those with $1 million to $5 million, mid-tier millionaires with up to $30 million, and the ultra-high-net-worth individuals (UHNWIs) who command portfolios exceeding $30 million. These individuals demand not just investment acumen, but a deep understanding of international tax, estate planning, and often, the intricacies of multi-generational family wealth.</p>
+<h2>Where the Wealth Resides</h2>
+<p>Today, the global population of HNWIs stands at roughly 22 million, with the ultra-wealthy &mdash; those with over $30 million &mdash; numbering around 234,000. The United States remains the undisputed leader, home to more than 18 million HNWIs and nearly a third of the world&#39;s billionaires. China follows, with a rapidly growing cohort of wealthy individuals, while France, Japan, and the United Kingdom round out the top five. Other significant hubs include Germany, Canada, Australia, Italy, and South Korea. These countries and territories are not just centers of economic power; they are magnets for the world&#39;s leading private banks, all vying for a share of this elite clientele.</p>
+<h2>The Contenders: Who Else Is in the Race?</h2>
+<p>Rothschild &amp; Co.&#39;s triumph is impressive, but the competition is fierce. The world&#39;s largest and most prestigious private banks are perennial contenders for the top spot in serving high-wealth clients. Among them:</p>
+<p><strong>UBS:</strong> The Swiss giant is the world&#39;s largest wealth manager, renowned for its global reach and deep expertise.</p>
+<p><strong>Credit Suisse:</strong> Another Swiss powerhouse, long respected for its private banking prowess.</p>
+<p><strong>Julius Baer:</strong> Focused exclusively on private banking, Julius Baer is a favorite among international clients.</p>
+<p><strong>JP Morgan Private Banking:</strong> The American titan, dominant in North America and with a growing international footprint.</p>
+<p><strong>Morgan Stanley Private Wealth Management:</strong> Known for its sophisticated approach to wealth and investment management.</p>
+<p><strong>Citi Private Bank:</strong> With a strong cross-border focus, Citi serves wealthy clients across continents.</p>
+<p><strong>HSBC Private Bank:</strong> Leveraging its Asian and European presence, HSBC is a top choice for global families.</p>
+<p><strong>Goldman Sachs Private Wealth Management:</strong> Catering to the ultra-wealthy, Goldman Sachs brings Wall Street expertise to private clients.</p>
+<h2>What Sets Rothschild &amp; Co. Apart?</h2>
+<p>What propelled Rothschild &amp; Co. to the winner&#39;s circle this year? The judges highlighted the firm&#39;s &ldquo;strong personalized approach, tailored solutions, and strategic advisory for discerning international clients, as well as its exceptional expertise in working with entrepreneurial families.&rdquo; In Switzerland, each client advisor typically manages fewer than 30 clients, ensuring relationships are close and advice is truly bespoke. Nearly 40 percent of Swiss clients opt for discretionary mandates, and the assets managed for international clients have doubled in just five years &mdash; a testament to the bank&#39;s growing appeal and effectiveness.</p>
+<p>Laurent Gagnebin, CEO of Rothschild &amp; Co. Wealth Management in Switzerland, summed up the firm&#39;s philosophy: &ldquo;Our vision is clear &mdash; we advise our clients as their long-term partners in all wealth-related matters. Trust is at the core of our approach. Especially in times of economic and political uncertainty, our clients value our stability and expertise. We support them in preserving and growing their wealth, often in complex international family situations.&rdquo;</p>
+<h2>The Prize and the Prestige</h2>
+<p>Winning at the WealthBriefing Awards is more than just a trophy; it is a signal to the world&#39;s wealthiest that a bank has something truly special to offer. The judging process is fiercely independent, rewarding genuine innovation, insight, and client-centric performance. For Rothschild &amp; Co., this recognition cements its reputation as a trusted partner for international high-net-worth families navigating a complex and ever-changing financial landscape.</p>
+<p>In the rarefied world of private banking, where trust, discretion, and expertise are everything, Rothschild &amp; Co.&#39;s Swiss Wealth Management business has once again proven it is a cut above the rest.</p>
+<p>Michael de la Force</p>
+<p>(Michael de la Force, LIKE&#174; Magazine, 6.21.2025)</p>
+</article>
   <p class="caption">Source post: <a href="https://www.facebook.com/michael.delaforce/posts/where-big-bucks-bank-and-reside-rothschild-co-wins-againrothschild-cos-swiss-wea/10163710365243900/">https://www.facebook.com/michael.delaforce/posts/where-big-bucks-bank-and-reside-rothschild-co-wins-againrothschild-cos-swiss-wea/10163710365243900/</a></p>
   <aside class="affiliate-box" data-shop-story="rothschild-swiss-wealth-award" aria-label="Shop the story"></aside>
 </main>
 <footer class="footer">
   <p class="disclosure">Affiliate disclosure: LIKE® Magazine may earn a commission from qualifying purchases made through links on this site. Editorial coverage remains independent.</p>
-  © LIKE Magazine · likeleaders.com · Photography &amp; editorial by Michael de la Force · Print-on-demand editions coming soon
+  <nav class="footer-nav" aria-label="Footer">
+    <a href="/about.html">About</a>
+    <a href="/archive/index.html">Archive by Year</a>
+    <a href="/sections/luxury-guide.html">Luxury Guide</a>
+    <a href="/summit-season/index.html">Summit Season</a>
+    <a href="/search.html">Search</a>
+  </nav>
+  <p>&copy; LIKE Magazine &middot; likeleaders.com &middot; Photography &amp; editorial by Michael de la Force &middot; Print-on-demand editions coming soon</p>
 </footer>
 
 <script src="/js/shop-the-story.js" defer></script>
