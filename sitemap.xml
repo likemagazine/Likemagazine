@@ -619,6 +619,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://likeleaders.com/articles/like-sports-250-years-of-america-polo-the-field-the-patron-and-the-shirt.html</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://likeleaders.com/articles/like-250-years-of-america-stars-and-stripes-and-the-sound.html</loc>
     <lastmod>2026-07-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -1101,6 +1107,12 @@
   <url>
     <loc>https://likeleaders.com/articles/like-public-health-a-tribe-builds-its-own-medicare-plan.html</loc>
     <lastmod>2026-10-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://likeleaders.com/subscribe.html</loc>
+    <lastmod>2026-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
