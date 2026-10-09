@@ -220,5 +220,30 @@
       "dateModified": "2026-09-13",
       "datePublished": "2026-09-13"
     }
+  ],
+  "hasPart": [
+    {
+      "@type": "CollectionPage",
+      "name": "LIKE® Craftsmanship",
+      "description": "LIKE® Magazine editorial department on the makers, materials and hand skills behind the world’s finest objects, from Rolls-Royce Bespoke marquetry to coachlines and Starlight Headliners.",
+      "url": "https://likeleaders.com/sections/craftsmanship.html",
+      "publisher": {
+        "@id": "https://likeleaders.com/#organization"
+      },
+      "dateModified": "2026-10-09",
+      "hasPart": [
+        {
+          "@type": "NewsArticle",
+          "headline": "PHANTOM HUMMINGBIRD: ROLLS-ROYCE TAKES WING IN ABALONE AND PEARL",
+          "url": "https://likeleaders.com/articles/like-craftsmanship-phantom-hummingbird.html",
+          "datePublished": "2026-10-09",
+          "author": {
+            "@type": "Person",
+            "name": "Michael de la Force"
+          },
+          "articleSection": "Craftsmanship"
+        }
+      ]
+    }
   ]
 }
