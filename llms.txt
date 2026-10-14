@@ -99,6 +99,7 @@ LIKE® Magazine publishes standing departments, each a full run of the magazine,
 - Fashion: https://likeleaders.com/sections/fashion.html
 - Diplomacy: https://likeleaders.com/sections/diplomacy.html
 - LIKE® Global: https://likeleaders.com/sections/like-global.html
+- LIKE® Culture: https://likeleaders.com/sections/culture.html
 - Automotive Features: https://likeleaders.com/sections/automotive.html
 - Craftsmanship: https://likeleaders.com/sections/craftsmanship.html
 - Sports: https://likeleaders.com/sections/sports.html
