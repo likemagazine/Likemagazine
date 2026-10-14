@@ -234,6 +234,17 @@
       "hasPart": [
         {
           "@type": "NewsArticle",
+          "headline": "THE LITTLE BLACK JACKET: HOW TUXEDO PARK GAVE THE WORLD ITS EVENING LANGUAGE",
+          "url": "https://likeleaders.com/articles/like-style-the-little-black-jacket-tuxedo-park.html",
+          "datePublished": "2026-10-14",
+          "author": {
+            "@type": "Person",
+            "name": "D. Michael De La Force"
+          },
+          "articleSection": "Craftsmanship"
+        },
+        {
+          "@type": "NewsArticle",
           "headline": "PHANTOM HUMMINGBIRD: ROLLS-ROYCE TAKES WING IN ABALONE AND PEARL",
           "url": "https://likeleaders.com/articles/like-craftsmanship-phantom-hummingbird.html",
           "datePublished": "2026-10-09",
