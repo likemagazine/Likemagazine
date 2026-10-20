@@ -495,5 +495,15 @@
    "status": "published",
    "published": "2026-10-20",
    "detail": "Published 2026-10-20. Event: NBA Finals Game 5, 2024-06-17 (photo credit 'Photographer: Michael de la Force, Boston, Massachusetts, 6.17.24'); parade video 2024-06-21 (Facebook video 1160237668514964)"
+  },
+  "articles/like-sports-knicks-parade-2026.html": {
+   "path": "articles/like-sports-knicks-parade-2026.html",
+   "year": 2026,
+   "roman": "MMXXVI",
+   "source": "event-date",
+   "confidence": "high",
+   "status": "published",
+   "published": "2026-10-20",
+   "detail": "Published 2026-10-20. Event: Knicks championship parade, Canyon of Heroes, 2026-06-18. Photos by Michael de la Force; original files carry no EXIF date/GPS. Related Facebook post 10165517421688900."
   }
  }
