@@ -485,5 +485,15 @@
    "source": "facebook-post",
    "confidence": "high",
    "detail": "Facebook post 2024-10-03; event 2024-10-03"
+  },
+  "articles/like-sports-celtics-banner-18-boston-2024.html": {
+   "path": "articles/like-sports-celtics-banner-18-boston-2024.html",
+   "year": 2024,
+   "roman": "MMXXIV",
+   "source": "facebook",
+   "confidence": "high",
+   "status": "published",
+   "published": "2026-10-20",
+   "detail": "Published 2026-10-20. Event: NBA Finals Game 5, 2024-06-17 (photo credit 'Photographer: Michael de la Force, Boston, Massachusetts, 6.17.24'); parade video 2024-06-21 (Facebook video 1160237668514964)"
   }
  }
