@@ -1,0 +1,672 @@
+<!DOCTYPE html><html lang="en"><head>
+<link rel="canonical" href="https://likeleaders.com/articles/like-port-security.html">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PORT SECURITY: THE FIRMS THAT GUARD THE GATES · LIKE Magazine</title>
+<meta name="description" content="The worldwide guide to port security: the specialist maritime security firms, the terminal operators&#x27; in-house model, and the screening-technology majors — plus the McKay lead, researched and reported as unverified. October 2026.">
+<style>
+:root {
+  --ink: #111;
+  --paper: #f4efe6;
+  --cream: #fffcf6;
+  --rule: #d6ccbc;
+  --accent: #8b1515;
+  --muted: #6a6358;
+  --serif: "Iowan Old Style", Palatino, Georgia, serif;
+  --sans: "Avenir Next", "Segoe UI", Helvetica, Arial, sans-serif;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--paper); color: var(--ink); font-family: var(--serif); line-height: 1.65; }
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+.mast {
+  background: var(--cream);
+  border-bottom: 3px double var(--ink);
+  text-align: center;
+  padding: 1.25rem 1rem 1rem;
+}
+.mast h1 {
+  margin: 0;
+  font-family: var(--sans);
+  letter-spacing: 0.28em;
+  font-size: clamp(1.85rem, 4.5vw, 2.55rem);
+  font-weight: 700;
+  line-height: 1;
+}
+.mast h1 a { color: inherit; }
+.mast h1 .reg,
+.mast h1 sup.reg {
+  color: var(--accent);
+  font-size: 0.42em;
+  font-weight: 700;
+  letter-spacing: 0;
+  vertical-align: super;
+  line-height: 0;
+  margin-left: 0.06em;
+  position: relative;
+  top: -0.05em;
+}
+.mast-magazine {
+  margin: 0.35rem 0 0;
+  font-family: var(--sans);
+  font-size: clamp(0.78rem, 2vw, 0.98rem);
+  letter-spacing: 0.62em;
+  text-transform: uppercase;
+  color: var(--ink);
+  font-weight: 600;
+  padding-left: 0.62em; /* optical center with letter-spacing */
+}
+.tag { margin: 0.4rem 0 0; font-family: var(--sans); font-size: 0.68rem; letter-spacing: 0.18em; text-transform: uppercase; color: var(--muted); }
+.nav {
+  display: flex; flex-wrap: wrap; justify-content: center; gap: 0.35rem 0.85rem;
+  padding: 0.65rem 1rem; border-bottom: 1px solid var(--rule);
+  font-family: var(--sans); font-size: 0.72rem; letter-spacing: 0.08em; text-transform: uppercase;
+  background: #efe8db;
+}
+.nav a { color: var(--ink); }
+.nav a.shop { color: var(--accent); font-weight: 700; }
+.wrap { max-width: 1080px; margin: 0 auto; padding: 1.5rem 1.1rem 3rem; }
+.hero-grid { display: grid; gap: 1.25rem; grid-template-columns: 1.4fr 1fr; }
+@media (max-width: 800px) { .hero-grid { grid-template-columns: 1fr; } }
+.card, .feature {
+  background: var(--cream); border: 1px solid var(--rule); overflow: hidden; color: inherit;
+  display: flex; flex-direction: column;
+}
+.feature img, .card img { width: 100%; aspect-ratio: 16/10; object-fit: cover; background: #ddd4c4; }
+.feature .body, .card .meta { padding: 1rem 1.1rem 1.2rem; }
+.kicker { font-family: var(--sans); font-size: 0.72rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--accent); font-weight: 700; margin: 0 0 0.4rem; }
+.feature h2, .card h2 { margin: 0; font-size: 1.35rem; line-height: 1.2; }
+.card h2 { font-size: 1.05rem; }
+.deck { margin: 0.55rem 0 0; color: var(--muted); font-size: 0.95rem; }
+.grid { display: grid; gap: 1rem; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); margin-top: 1.5rem; }
+.section-title { font-family: var(--sans); letter-spacing: 0.12em; text-transform: uppercase; font-size: 0.85rem; border-bottom: 1px solid var(--ink); padding-bottom: 0.4rem; margin: 2rem 0 1rem; }
+.article-wrap { max-width: 720px; margin: 0 auto; padding: 1.5rem 1.1rem 3rem; }
+.byline { font-family: var(--sans); font-size: 0.82rem; color: var(--muted); border-top: 1px solid var(--rule); border-bottom: 1px solid var(--rule); padding: 0.7rem 0; margin: 0 0 1.4rem; }
+.article-body p { margin: 0 0 1.05rem; font-size: 1.06rem; }
+.article-body p.lead { font-size: 1.18rem; }
+.figure { margin: 1.5rem 0; }
+.figure img { width: 100%; height: auto; display: block; }
+.caption { font-family: var(--sans); font-size: 0.76rem; color: var(--muted); margin-top: 0.4rem; }
+.affiliate-box {
+  margin: 1.75rem 0; padding: 1rem 1.1rem; border: 1px dashed var(--accent);
+  background: #fff8f0; font-family: var(--sans); font-size: 0.85rem;
+}
+.affiliate-box strong { display: block; letter-spacing: 0.08em; text-transform: uppercase; font-size: 0.72rem; margin-bottom: 0.35rem; color: var(--accent); }
+.shop-grid { display: grid; gap: 1rem; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); }
+.shop-card { background: var(--cream); border: 1px solid var(--rule); padding: 1rem; text-align: center; font-family: var(--sans); }
+.shop-card .swatch { height: 160px; background: linear-gradient(135deg,#2a2a2a,#8b1515); margin-bottom: 0.75rem; }
+.footer { text-align: center; padding: 2rem 1rem; font-family: var(--sans); font-size: 0.72rem; color: var(--muted); border-top: 1px solid var(--rule); }
+.disclosure { max-width: 720px; margin: 0 auto 1rem; font-size: 0.7rem; color: var(--muted); }
+
+.dept-rail {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 0.65rem;
+  margin: 1rem 0 1.75rem;
+}
+.dept-tile {
+  display: flex; flex-direction: column; justify-content: flex-end;
+  min-height: 96px; padding: 0.85rem 0.9rem;
+  background: #1a1a1a; color: #f7f3eb !important; text-decoration: none !important;
+  border: 1px solid #1a1a1a; font-family: var(--sans);
+}
+.dept-tile:hover { background: var(--accent); border-color: var(--accent); }
+.dept-tile .label { font-size: 0.65rem; letter-spacing: 0.16em; text-transform: uppercase; opacity: 0.75; }
+.dept-tile strong { font-size: 1rem; letter-spacing: 0.04em; margin-top: 0.25rem; }
+.dept-tile.shop { background: var(--accent); }
+.archive-band { margin: 2rem 0 0.5rem; }
+.archive-lede { font-family: var(--sans); font-size: 0.9rem; color: var(--muted); margin: -0.4rem 0 1rem; }
+.edition-grid { display: grid; gap: 0.75rem; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); }
+.edition {
+  display: block; padding: 1rem 1.05rem 1.1rem; background: var(--cream);
+  border: 1px solid var(--rule); color: inherit !important; text-decoration: none !important;
+}
+.edition:hover { border-color: var(--ink); }
+.edition .ed-num { display:block; font-family: var(--sans); font-size: 0.65rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--accent); margin-bottom: 0.35rem; }
+.edition strong { display:block; font-size: 1.15rem; line-height: 1.2; }
+.edition em { display:block; margin-top: 0.35rem; font-family: var(--sans); font-size: 0.78rem; color: var(--muted); font-style: normal; }
+.nav { gap: 0.45rem 1rem; padding: 0.75rem 1rem; }
+.nav a { font-weight: 600; }
+
+
+.nav a.summit { color: #c99a3b; font-weight: 700; }
+.summit-band {
+  margin: 2rem 0 1rem; padding: 1.25rem 1.2rem; background: #120c18; color: #f7f3eb;
+  border: 1px solid rgba(201,154,59,.4);
+}
+.summit-band a { color: #e3c88a !important; }
+.summit-band .eyebrow { font-family: var(--sans); font-size: 0.7rem; letter-spacing: 0.22em; text-transform: uppercase; color: #c99a3b; margin: 0 0 0.4rem; }
+.summit-band h3 { margin: 0 0 0.45rem; font-size: 1.45rem; }
+.summit-band p { font-family: var(--sans); margin: 0; color: #cfc6d8; font-size: 0.92rem; }
+.edition.summit { background: #120c18; color: #f7f3eb; border-color: rgba(201,154,59,.45); }
+.edition.summit .ed-num { color: #c99a3b; }
+.edition.summit em { color: #b9b0c4; }
+
+/* ---- LIKE® unified nav/footer/a11y refinements (site update 2026-09-27) ---- */
+.nav { align-items: center; }
+.nav a { display: inline-flex; align-items: center; min-height: 44px; padding: 0.35rem 0.45rem; }
+.nav a.summit { color: #7a5f14; }
+.nav details.nav-more { position: relative; }
+.nav details.nav-more > summary { cursor: pointer; list-style: none; display: inline-flex; align-items: center; min-height: 44px; padding: 0.35rem 0.45rem; font-weight: 700; color: var(--accent); text-transform: uppercase; letter-spacing: 0.08em; font-size: 0.72rem; }
+.nav details.nav-more > summary::-webkit-details-marker { display: none; }
+.nav details.nav-more > summary::after { content: "\25BE"; font-size: 0.8em; margin-left: 0.3em; }
+.nav details.nav-more .nav-more-links { display: flex; flex-wrap: wrap; gap: 0.35rem 0.8rem; padding: 0.4rem 0 0.2rem; }
+.nav details.nav-more .nav-more-links { display: none; }
+.nav details.nav-more[open] .nav-more-links { display: flex; flex-wrap: wrap; gap: 0.35rem 0.9rem; position: absolute; top: 100%; left: 0; z-index: 60; min-width: 230px; max-width: min(92vw, 560px); background: #fffdf8; border: 1px solid var(--line); border-radius: 2px; box-shadow: 0 12px 28px rgba(60,40,10,.16); padding: 0.7rem 0.9rem; }
+@media (max-width: 700px) {
+  .nav details.nav-more[open] .nav-more-links { position: static; box-shadow: none; border: 0; padding: 0.4rem 0 0.2rem; max-width: none; }
+}
+.year-line.summit-year .roman { color: #7a5f14; }
+.footer-nav { display: flex; flex-wrap: wrap; justify-content: center; gap: 0.5rem 1.2rem; margin: 0 0 1.1rem; font-size: 0.78rem; }
+.footer-nav a { color: var(--ink); font-weight: 600; }
+.mast .mast-title { margin: 0; font-family: var(--sans); white-space: nowrap; letter-spacing: 0.2em; font-size: clamp(1.55rem, 4.4vw, 2.35rem); font-weight: 700; line-height: 1; }
+.mast .mast-magazine { display: none; }
+.mast .mast-title a { color: inherit; }
+.mast .mast-title .reg, .mast .mast-title sup.reg { color: var(--accent); font-size: 0.42em; font-weight: 700; letter-spacing: 0; vertical-align: super; line-height: 0; margin-left: 0.06em; position: relative; top: -0.05em; }
+@media (max-width: 700px) {
+  .nav { gap: 0.25rem 0.6rem; }
+  .nav details.nav-more { flex: 1 0 100%; }
+  .nav details.nav-more[open] .nav-more-links { border-top: 1px solid var(--rule); margin-top: 0.2rem; padding-top: 0.6rem; }
+}
+
+/* == LIKE editorial typography v1 == */
+.article-wrap > h1 {
+  font-family: var(--serif);
+  letter-spacing: 0.045em;
+  text-wrap: balance;
+}
+p.lead {
+  font-size: 1.24rem;
+  line-height: 1.55;
+  font-style: italic;
+  color: #4a4036;
+  margin: 0 0 1.6rem;
+  text-wrap: pretty;
+}
+.article-body { font-size: 1.08rem; }
+.article-body > p {
+  line-height: 1.78;
+  margin: 0 0 1.2rem;
+  text-wrap: pretty;
+}
+.article-body > p.dropcap::first-letter {
+  font-family: var(--serif);
+  font-weight: 700;
+  font-size: 3.6em;
+  line-height: 0.82;
+  float: left;
+  padding: 0.06em 0.14em 0 0;
+}
+.article-body h2 {
+  font-family: var(--serif);
+  font-size: 1.45rem;
+  line-height: 1.25;
+  margin: 2.2rem 0 0.9rem;
+  text-wrap: balance;
+}
+.byline {
+  font-size: 0.74rem;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+}
+.figure {
+  border: 1px solid var(--rule);
+  background: #fff;
+  padding: 0.6rem;
+}
+</style>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%23111111'/%3E%3Ctext x='32' y='45' font-family='Georgia,serif' font-size='38' fill='%23f4efe6' text-anchor='middle'%3EL%3C/text%3E%3C/svg'">
+</head>
+<body>
+
+<header class="mast">
+  <div class="mast-title"><a href="/index.html" style="color:inherit;text-decoration:none">LIKE<sup class="reg">®</sup> Magazine</a></div>
+  <p class="tag">Style · Leaders · likeleaders.com</p>
+</header>
+<nav class="nav" aria-label="Primary">
+  <a href="/index.html">Home</a>
+  <a href="/summit-season/index.html" class="summit">Summit Season</a>
+  <a href="/sections/leaders.html">Leaders</a>
+  <a href="/sections/style.html">Style</a>
+  <a href="/sections/travel.html">Travel &amp; Tourism</a>
+  <a href="/sections/apparel.html" class="shop">Apparel</a>
+  <a href="/search.html">Search</a>
+  <a href="/about.html">About</a>
+  <details class="nav-more">
+    <summary>Luxury Guide</summary>
+    <div class="nav-more-links">
+      <a href="/sections/luxury-guide.html">Overview</a>
+      <a href="/sections/luxury-hotels.html">Hotels</a>
+      <a href="/sections/luxury-dining.html">Dining</a>
+      <a href="/sections/luxury-shopping.html">Shopping</a>
+      <a href="/sections/luxury-airlines.html">Airlines</a>
+      <a href="/sections/luxury-wineries.html">Wineries</a>
+      <a href="/sections/luxury-trains.html">Trains</a>
+      <a href="/sections/luxury-aviation.html">Aviation</a>
+      <a href="/sections/luxury-watchmakers.html">Watchmakers</a>
+      <a href="/sections/luxury-jewelers.html">Jewelers</a>
+    </div>
+  </details>
+  <details class="nav-more">
+    <summary>More Departments</summary>
+    <div class="nav-more-links">
+      <a href="/sections/automotive.html">Automotive Features</a>
+      <a href="/sections/craftsmanship.html">Craftsmanship</a>
+      <a href="/sections/fashion.html">Fashion</a>
+      <a href="/sections/sports.html">Sports</a>
+      <a href="/sections/diplomacy.html">Diplomacy</a>
+      <a href="/sections/like-global.html">LIKE® Global</a>
+      <a href="/sections/conferences.html">Conferences</a>
+      <a href="/sections/travel.html">Travel</a>
+      <a href="/sections/health.html">Health</a>
+      <a href="/sections/law.html">Law</a>
+      <a href="/sections/science.html">Science</a>
+      <a href="/sections/music.html">Music</a>
+      <a href="/sections/film.html">Film</a>
+      <a href="/sections/film-festivals.html">Film Festivals</a>
+      <a href="/sections/books.html">Books</a>
+      <a href="/sections/art.html">Art</a>
+      <a href="/sections/museums.html">Museums</a>
+      <a href="/sections/spotlight.html">Spotlight</a>
+      <a href="/sections/features.html">Features</a>
+    </div>
+  </details>
+</nav>
+
+
+
+<main class="article-wrap">
+<p class="kicker">TRANSPORTATION · THE WORLDWIDE GUIDE</p>
+<h1 style="font-size:clamp(1.7rem,4vw,2.5rem);line-height:1.15;margin:0 0 0.8rem">PORT SECURITY: THE FIRMS THAT GUARD THE GATES</h1>
+<p class="byline">By Michael de la Force · Editor-in-Chief, LIKE<sup class="reg">®</sup> Magazine · <a href="/sections/transportation.html">Transportation</a> · October 2026</p>
+<article class="article-body">
+<p class="lead">&quot;Port security&quot; is not one industry, and a guide that pretended otherwise would mislead. In practice the work divides three ways, and this guide is organised on exactly that division. The specialists — Ambrey, Dryad, ICTS and their peers — sell security as a service: embarked teams, facility guarding, intelligence. The terminal operators — APM Terminals, DP World, PSA, ICTSI — mostly do not buy it at all: they run security in-house, to the ISPS Code, as a department of the terminal. And the screening majors — Smiths Detection, Rapiscan, Leidos — build the machines that see inside the box. A reader who understands those three models understands the field.</p>
+<p>One honest structural note: the specialists almost never name their clients, and several publish no revenue at all. Where this guide cannot verify a figure or a name to its standard, the entry says so — the silences are part of the record of an industry whose product is discretion.</p>
+<p>The McKay lead. Michael directed this guide to include &quot;McKay, created in Los Angeles&quot; — a port-security company of that name founded in Los Angeles. The research is reported in full in the Method section below. Its conclusion, stated here so no reader misses it: no port-security company named McKay, founded in Los Angeles or elsewhere, could be verified from trade, company or registry sources, and the lead is therefore carried as UNVERIFIED — not written up as an entry, and not quietly dropped either. The documented maritime McKay/Mackay names are three, and none fits: Mackay Communications (marine electronics and satellite services, headquartered in Raleigh, North Carolina, with a Los Angeles service office), McKay International Engineers (container-crane engineers of Oakland, merged into Liftech Consultants in 2022), and ISS–McKay (a New Zealand port agency, now wholly Inchcape&#x27;s). A genuine Los Angeles port-security firm with a near name — McRoberts Maritime Security of San Pedro, in the Port of Los Angeles complex — is included on its own merits, and it is expressly NOT asserted to be the firm Michael meant.</p>
+<h2>THE SPECIALISTS — MARITIME AND PORT SECURITY FIRMS</h2>
+<h3>1. AMBREY</h3>
+<p><em>United Kingdom — Hereford · Founded 2010</em></p>
+<p><strong>Category:</strong> Maritime security and risk (private)</p>
+<p><strong>Region:</strong> Europe / global</p>
+<p><strong>HQ Country:</strong> United Kingdom</p>
+<p><strong>Founded:</strong> 2010</p>
+<p><strong>History:</strong> Founded in 2010 by Chris Charnley, John Thompson and Mark Osborne, in the first wave of the Somali-piracy crisis; grew from embarked armed teams into a full maritime-risk group — security, intelligence and insurance-adjacent services — with offices in the UK, Dubai, Singapore, Seoul and Hong Kong.</p>
+<p><strong>Ownership / Parent:</strong> Private — founder-led</p>
+<p><strong>Leadership:</strong> Chris Charnley — Group Chief Executive Officer; John Thompson — Managing Director (UK) (per Maritime Executive and company materials)</p>
+<p><strong>Full C-Suite / Senior Leadership:</strong> Directors and senior team published at ambrey.com</p>
+<p><strong>Specialties:</strong> Embarked security teams for transits of high-risk areas (historically in excess of 100 teams a month); port and facility security consultancy and ISPS compliance; intelligence and threat assessment (Ambrey Insight); offshore oil-and-gas security; yacht security</p>
+<p><strong>Mandate / Contract Base:</strong> Commercial contracts with shipowners, charterers, ports and offshore operators; clients confidential by industry practice</p>
+<p><strong>Clients / Customers:</strong> Shipowners and operators, charterers, P&amp;I and hull insurers, offshore energy companies, ports and terminals — named clients are not published, by the nature of the work; stated plainly</p>
+<p><strong>Scale (dated):</strong> Among the largest private maritime security companies by deployed teams (company reporting of 100+ embarked teams monthly in its growth years); current deployment figures are not published — admitted</p>
+<p><strong>Offices / Footprint:</strong> HQ Hereford, UK; offices in Dubai, Singapore, Seoul and Hong Kong</p>
+<p><strong>Website:</strong> <a href="https://ambrey.com">ambrey.com</a></p>
+<p><strong>Contact Email:</strong> Not published (contact routes at ambrey.com)</p>
+<p><strong>Phone:</strong> Per company site</p>
+<p><strong>HQ Address:</strong> Hereford, United Kingdom (per company site)</p>
+<p><strong>Distinctiveness:</strong> The piracy generation&#x27;s market leader: Ambrey industrialised the embarked-guard model and then outgrew it into intelligence</p>
+<p><strong>Access / Entry:</strong> Commercial engagement via ambrey.com; vetted through ship operators and insurers in practice</p>
+<p><strong>Sources:</strong> ambrey.com; The Maritime Executive (management announcements)</p>
+<h3>2. DRYAD GLOBAL</h3>
+<p><em>United Kingdom — London (with US operations) · Founded 2014 (as Dryad Maritime)</em></p>
+<p><strong>Category:</strong> Maritime risk intelligence and cyber (private)</p>
+<p><strong>Region:</strong> Europe / North America</p>
+<p><strong>HQ Country:</strong> United Kingdom</p>
+<p><strong>Founded:</strong> 2014 (as Dryad Maritime)</p>
+<p><strong>History:</strong> Founded in 2014 as Dryad Maritime, a security-intelligence service for ship operators; rebranded Dryad Global in 2020 as its work widened from piracy reporting to geopolitical risk intelligence and maritime cyber security.</p>
+<p><strong>Ownership / Parent:</strong> Private</p>
+<p><strong>Leadership:</strong> Corey Ranslem — Chief Executive Officer</p>
+<p><strong>Full C-Suite / Senior Leadership:</strong> Senior team published at dryadglobal.com</p>
+<p><strong>Specialties:</strong> Maritime risk intelligence and voyage-risk assessment (Secure Voyager Hub); maritime cyber security (ARMS platform; Cyber Voyager with BlackBerry Cylance); port and vessel security advisory; sanctions and dark-fleet reporting</p>
+<p><strong>Mandate / Contract Base:</strong> Subscription intelligence and advisory contracts with operators, insurers, ports and financiers</p>
+<p><strong>Clients / Customers:</strong> Ship operators, P&amp;I clubs, insurers, banks and port authorities (client names largely unpublished — admitted)</p>
+<p><strong>Scale (dated):</strong> Positioned among the leading independent maritime-intelligence providers (industry standing; the company does not publish revenue — admitted)</p>
+<p><strong>Offices / Footprint:</strong> London HQ; US presence; analysts covering all time zones</p>
+<p><strong>Website:</strong> <a href="https://dryadglobal.com">dryadglobal.com</a></p>
+<p><strong>Contact Email:</strong> Not published (contact via dryadglobal.com)</p>
+<p><strong>Phone:</strong> +44 843 455 8020 (press contact published by the company)</p>
+<p><strong>HQ Address:</strong> London, United Kingdom (per company site)</p>
+<p><strong>Distinctiveness:</strong> The intelligence model of port-and-ship security: no guards, all signal — the firm that tells the guards where to stand</p>
+<p><strong>Access / Entry:</strong> Subscription and advisory engagement via dryadglobal.com</p>
+<p><strong>Sources:</strong> dryadglobal.com; LISW25 and partner releases (2025)</p>
+<h3>3. EOS RISK GROUP</h3>
+<p><em>United Kingdom — London / Staffordshire · Founded 2006</em></p>
+<p><strong>Category:</strong> Maritime security and risk (private)</p>
+<p><strong>Region:</strong> Europe</p>
+<p><strong>HQ Country:</strong> United Kingdom</p>
+<p><strong>Founded:</strong> 2006</p>
+<p><strong>History:</strong> Founded in 2006; a British maritime-security and risk group of the piracy era that professionalised into intelligence, security consultancy and journey management for shipping and energy clients.</p>
+<p><strong>Ownership / Parent:</strong> Private</p>
+<p><strong>Leadership:</strong> Senior leadership published at eosrisk.com; the current named chief executive was not re-verified for this edition — admitted rather than repeated stale</p>
+<p><strong>Full C-Suite / Senior Leadership:</strong> Not re-verified — admitted</p>
+<p><strong>Specialties:</strong> Maritime security consultancy, embarked teams historically, port and supply-chain security reviews, intelligence reporting, crisis response</p>
+<p><strong>Mandate / Contract Base:</strong> Commercial contracts with shipping and energy clients</p>
+<p><strong>Clients / Customers:</strong> Shipowners, energy companies, insurers (names unpublished — admitted)</p>
+<p><strong>Scale (dated):</strong> Not published — admitted</p>
+<p><strong>Offices / Footprint:</strong> UK HQ; operational reach in the Indian Ocean, West Africa and the Middle East</p>
+<p><strong>Website:</strong> <a href="https://eosrisk.com">eosrisk.com</a></p>
+<p><strong>Contact Email:</strong> Not published</p>
+<p><strong>Phone:</strong> Per company site</p>
+<p><strong>HQ Address:</strong> United Kingdom (per company site)</p>
+<p><strong>Distinctiveness:</strong> A survivor of the piracy boom that converted guarding revenue into a standing risk practice</p>
+<p><strong>Access / Entry:</strong> Via eosrisk.com</p>
+<p><strong>Notes:</strong> Leadership not re-verified for this edition — admitted</p>
+<p><strong>Sources:</strong> eosrisk.com; industry reporting</p>
+<h3>4. HART INTERNATIONAL</h3>
+<p><em>United Kingdom — London · Founded 1999 (lineage)</em></p>
+<p><strong>Category:</strong> Maritime and protective security (private)</p>
+<p><strong>Region:</strong> Europe</p>
+<p><strong>HQ Country:</strong> United Kingdom</p>
+<p><strong>Founded:</strong> 1999 (lineage)</p>
+<p><strong>History:</strong> A British protective-services group with a maritime arm providing embarked teams and port-side security; associated at chairman level with Admiral Lord West, the former First Sea Lord and UK security minister — the most senior naval figure in the commercial security industry.</p>
+<p><strong>Ownership / Parent:</strong> Private</p>
+<p><strong>Leadership:</strong> Admiral Lord West of Spithead — associated chairman-level figure of the group (per company materials)</p>
+<p><strong>Full C-Suite / Senior Leadership:</strong> Senior team per hartinternational.com; fuller roster not published — admitted</p>
+<p><strong>Specialties:</strong> Maritime security (embarked teams, port facility work), close protection, risk consultancy for governments and corporates</p>
+<p><strong>Mandate / Contract Base:</strong> Commercial and government contracts</p>
+<p><strong>Clients / Customers:</strong> Governments, shipping and corporate clients (names largely unpublished — admitted)</p>
+<p><strong>Scale (dated):</strong> Not published — admitted</p>
+<p><strong>Offices / Footprint:</strong> London HQ; international operational network</p>
+<p><strong>Website:</strong> <a href="https://hartinternational.com">hartinternational.com</a></p>
+<p><strong>Contact Email:</strong> Not published</p>
+<p><strong>Phone:</strong> Per company site</p>
+<p><strong>HQ Address:</strong> London, United Kingdom</p>
+<p><strong>Distinctiveness:</strong> The flag-officer firm: Hart sells the judgement of the Royal Navy&#x27;s former professional head as a commercial product</p>
+<p><strong>Access / Entry:</strong> Via hartinternational.com</p>
+<p><strong>Sources:</strong> hartinternational.com; parliamentary and press biographies of Lord West</p>
+<h3>5. MAST SECURITY</h3>
+<p><em>United Kingdom — United Kingdom (operations incl. Malta) · Founded 2005</em></p>
+<p><strong>Category:</strong> Maritime security (private)</p>
+<p><strong>Region:</strong> Europe / Mediterranean</p>
+<p><strong>HQ Country:</strong> United Kingdom</p>
+<p><strong>Founded:</strong> 2005</p>
+<p><strong>History:</strong> Founded in 2005 as the private maritime security industry formalised; provides embarked teams, port and yacht security and security training, with a Mediterranean operating base.</p>
+<p><strong>Ownership / Parent:</strong> Private</p>
+<p><strong>Leadership:</strong> Senior leadership published at mastsecurity.com; not re-verified in full for this edition — admitted</p>
+<p><strong>Full C-Suite / Senior Leadership:</strong> Not re-verified — admitted</p>
+<p><strong>Specialties:</strong> Embarked vessel protection, port and marina security, superyacht security, maritime security training (MSO courses)</p>
+<p><strong>Mandate / Contract Base:</strong> Commercial contracts with owners, managers and ports</p>
+<p><strong>Clients / Customers:</strong> Shipowners and managers, yacht owners, marinas (names unpublished — admitted)</p>
+<p><strong>Scale (dated):</strong> Not published — admitted</p>
+<p><strong>Offices / Footprint:</strong> UK and Malta; deployed teams across the Indian Ocean and Mediterranean</p>
+<p><strong>Website:</strong> <a href="https://mastsecurity.com">mastsecurity.com</a></p>
+<p><strong>Contact Email:</strong> Not published</p>
+<p><strong>Phone:</strong> Per company site</p>
+<p><strong>HQ Address:</strong> United Kingdom (per company site)</p>
+<p><strong>Distinctiveness:</strong> The training-house model: MAST both fields teams and certifies the industry&#x27;s operatives</p>
+<p><strong>Access / Entry:</strong> Via mastsecurity.com</p>
+<p><strong>Sources:</strong> mastsecurity.com</p>
+<h3>6. TRIDENT GROUP</h3>
+<p><em>United States — Virginia Beach, Virginia · Founded 2012</em></p>
+<p><strong>Category:</strong> Maritime security (private, veteran-founded)</p>
+<p><strong>Region:</strong> North America</p>
+<p><strong>HQ Country:</strong> United States</p>
+<p><strong>Founded:</strong> 2012</p>
+<p><strong>History:</strong> Founded in 2012 by US special-operations veterans; the leading American provider of embarked maritime security teams, built for US-flag and US-owned fleets and high-risk transits.</p>
+<p><strong>Ownership / Parent:</strong> Private — veteran-founded</p>
+<p><strong>Leadership:</strong> Thomas Rothrauff — President and founder (per company materials)</p>
+<p><strong>Full C-Suite / Senior Leadership:</strong> Senior team published at tridentgroupintl.com (Trident Group, Inc.)</p>
+<p><strong>Specialties:</strong> Embarked security teams, vessel and port security assessments, maritime training, anti-piracy and high-risk-area transits</p>
+<p><strong>Mandate / Contract Base:</strong> Commercial contracts; US government-adjacent work</p>
+<p><strong>Clients / Customers:</strong> US and international shipowners and operators (names unpublished — admitted)</p>
+<p><strong>Scale (dated):</strong> Not published — admitted</p>
+<p><strong>Offices / Footprint:</strong> HQ Virginia Beach; deployed teams worldwide</p>
+<p><strong>Website:</strong> <a href="https://tridentgroupintl.com">tridentgroupintl.com</a></p>
+<p><strong>Contact Email:</strong> Not published</p>
+<p><strong>Phone:</strong> Per company site</p>
+<p><strong>HQ Address:</strong> Virginia Beach, Virginia, USA</p>
+<p><strong>Distinctiveness:</strong> The SEAL-team lineage made corporate: Trident is the American answer to the British piracy-era firms</p>
+<p><strong>Access / Entry:</strong> Via tridentgroupintl.com</p>
+<p><strong>Sources:</strong> tridentgroupintl.com; industry reporting</p>
+<h3>7. MCROBERTS MARITIME SECURITY</h3>
+<p><em>United States — San Pedro, Los Angeles, California · Founded Heritage claimed to 1876 (company branding)</em></p>
+<p><strong>Category:</strong> Port and maritime security (private, family)</p>
+<p><strong>Region:</strong> North America</p>
+<p><strong>HQ Country:</strong> United States</p>
+<p><strong>Founded:</strong> Heritage claimed to 1876 (company branding)</p>
+<p><strong>History:</strong> A Los Angeles harbour security firm based on Harbor Boulevard in San Pedro, in the Port of Los Angeles complex — providing security guard services for marine terminals, cruise facilities and waterfront clients in the San Pedro Bay port complex, the busiest container gateway in the Americas.</p>
+<p><strong>Ownership / Parent:</strong> Private (family firm)</p>
+<p><strong>Leadership:</strong> Named principals are not published in sources checked — admitted; the firm trades on its San Pedro harbour presence (address and phone below are published listings)</p>
+<p><strong>Full C-Suite / Senior Leadership:</strong> Not published — admitted</p>
+<p><strong>Specialties:</strong> Port and marine-terminal security guarding, cruise-terminal security, TWIC-compliant access control and patrol in the LA/Long Beach complex</p>
+<p><strong>Mandate / Contract Base:</strong> Contracts with terminal operators and waterfront facilities in the San Pedro Bay complex (specific contracts unpublished — admitted)</p>
+<p><strong>Clients / Customers:</strong> Marine terminals and waterfront facilities, Port of Los Angeles area (names unpublished — admitted)</p>
+<p><strong>Scale (dated):</strong> A local specialist, not a national major — included deliberately and labelled as such; see the Method note on the McKay lead</p>
+<p><strong>Offices / Footprint:</strong> 411 N Harbor Blvd, Suite 203, Los Angeles (San Pedro), CA</p>
+<p><strong>Website:</strong> <a href="https://mcroberts1876.com">mcroberts1876.com</a></p>
+<p><strong>Contact Email:</strong> Not published</p>
+<p><strong>Phone:</strong> +1 310 241 0673</p>
+<p><strong>HQ Address:</strong> 411 N Harbor Blvd #203, Los Angeles, CA 90731, USA</p>
+<p><strong>Distinctiveness:</strong> The harbour-level reality of port security: beneath the global brands, the gates of the largest US port complex are watched by local firms like this one</p>
+<p><strong>Access / Entry:</strong> Direct commercial engagement</p>
+<p><strong>Notes:</strong> Included on its own merits as a genuine Los Angeles port-security firm. It is NOT asserted to be the &quot;McKay&quot; of Michael&#x27;s lead — see the Method section, where the McKay research is reported in full and the lead is recorded as unverified</p>
+<p><strong>Sources:</strong> Published business listings for McRoberts Maritime Security (address, phone, category); mcroberts1876.com</p>
+<h3>8. ICTS (ICTS EUROPE / ICTS INTERNATIONAL)</h3>
+<p><em>Netherlands — Amsterdam area · Founded 1982</em></p>
+<p><strong>Category:</strong> Aviation and maritime security (listed parent)</p>
+<p><strong>Region:</strong> Europe / global</p>
+<p><strong>HQ Country:</strong> Netherlands</p>
+<p><strong>Founded:</strong> 1982</p>
+<p><strong>History:</strong> Founded in 1982 by former Israeli security officials; built an aviation-security empire and a maritime arm providing cruise-ship, ferry and port security across Europe; the group&#x27;s systems work combines personnel, canine and technology screening.</p>
+<p><strong>Ownership / Parent:</strong> ICTS International, Inc. (US-listed, OTC) and its European subsidiaries</p>
+<p><strong>Leadership:</strong> Group leadership published via ICTS International filings; European management per icts.co.uk / ICTS Europe materials</p>
+<p><strong>Full C-Suite / Senior Leadership:</strong> As Leadership — fuller roster not published to this guide&#x27;s standard — admitted</p>
+<p><strong>Specialties:</strong> Port, cruise and ferry security; passenger and baggage screening; canine (explosive-detection) services; cargo security; maritime training</p>
+<p><strong>Mandate / Contract Base:</strong> Contracts with cruise lines, ferry operators and port authorities across Europe</p>
+<p><strong>Clients / Customers:</strong> Cruise and ferry operators and port authorities (contract-level names vary by country)</p>
+<p><strong>Scale (dated):</strong> One of Europe&#x27;s largest specialist security employers (group reporting)</p>
+<p><strong>Offices / Footprint:</strong> European HQ in the Netherlands; operating companies across Europe and beyond</p>
+<p><strong>Website:</strong> <a href="https://icts.co.uk / ictsinternational.com">icts.co.uk / ictsinternational.com</a></p>
+<p><strong>Contact Email:</strong> Not published</p>
+<p><strong>Phone:</strong> Per company sites</p>
+<p><strong>HQ Address:</strong> Amsterdam area, Netherlands (European HQ per company materials)</p>
+<p><strong>Distinctiveness:</strong> The Israeli-method firm: ICTS exported the interview-and-profile school of security to Europe&#x27;s airports and then its ports</p>
+<p><strong>Access / Entry:</strong> Via ICTS country companies</p>
+<p><strong>Sources:</strong> ICTS International filings; ICTS Europe materials</p>
+<h3>9. ALLIED UNIVERSAL</h3>
+<p><em>United States — Santa Ana, California · Founded 1957 (as Spector Security); modern group formed 2016</em></p>
+<p><strong>Category:</strong> Security services major (private)</p>
+<p><strong>Region:</strong> North America / global</p>
+<p><strong>HQ Country:</strong> United States</p>
+<p><strong>Founded:</strong> 1957 (as Spector Security); modern group formed 2016</p>
+<p><strong>History:</strong> Formed by the 2016 merger of AlliedBarton and Universal Services of America; acquired G4S in 2021 to become the world&#x27;s largest security-services company; its port and maritime work guards terminals, cruise facilities and logistics sites, largely in North America.</p>
+<p><strong>Ownership / Parent:</strong> Private — Warburg Pincus, Wendel and CDPQ among its owners</p>
+<p><strong>Leadership:</strong> Steve Jones — Global Chairman and Chief Executive Officer</p>
+<p><strong>Full C-Suite / Senior Leadership:</strong> Executive team published at aus.com</p>
+<p><strong>Specialties:</strong> Manned guarding at ports and terminals, TWIC access control, cruise-terminal security, event and logistics security; technology and risk-advisory arms</p>
+<p><strong>Mandate / Contract Base:</strong> Port and terminal contracts across North America; G4S legacy port work internationally</p>
+<p><strong>Clients / Customers:</strong> Terminal operators, cruise lines, port authorities (many contract names unpublished — admitted)</p>
+<p><strong>Scale (dated):</strong> The world&#x27;s largest security company: about US$20 billion revenue and 300,000+ employees (company figures, mid-2020s)</p>
+<p><strong>Offices / Footprint:</strong> HQ Santa Ana, California; operations in 100+ countries (company figures)</p>
+<p><strong>Website:</strong> <a href="https://aus.com">aus.com</a></p>
+<p><strong>Contact Email:</strong> Not published (contact routes at aus.com)</p>
+<p><strong>Phone:</strong> +1 866 703 7666 (per company site)</p>
+<p><strong>HQ Address:</strong> 1551 N Tustin Avenue, Santa Ana, CA 92705, USA</p>
+<p><strong>Distinctiveness:</strong> Scale itself: Allied Universal is what &quot;port security&quot; means at the gate of most large North American terminals</p>
+<p><strong>Access / Entry:</strong> Commercial procurement via aus.com</p>
+<p><strong>Sources:</strong> aus.com; Allied Universal–G4S acquisition releases (2021)</p>
+<h3>10. SECURITAS (MARITIME &AMP; PORT SECURITY)</h3>
+<p><em>Sweden — Stockholm · Founded 1934</em></p>
+<p><strong>Category:</strong> Security services major (listed)</p>
+<p><strong>Region:</strong> Europe / global</p>
+<p><strong>HQ Country:</strong> Sweden</p>
+<p><strong>Founded:</strong> 1934</p>
+<p><strong>History:</strong> Founded in Helsingborg in 1934; the world&#x27;s second-largest guarding group; its maritime and logistics security units guard ports, terminals and supply chains across Europe, combining officers, mobile patrols and electronic security.</p>
+<p><strong>Ownership / Parent:</strong> Securitas AB, listed Nasdaq Stockholm (SECU B)</p>
+<p><strong>Leadership:</strong> Magnus Ahlqvist — President and Chief Executive Officer</p>
+<p><strong>Full C-Suite / Senior Leadership:</strong> Group management published at securitas.com</p>
+<p><strong>Specialties:</strong> Port and terminal guarding, ISPS facility security, remote video and electronic security for logistics, risk assessments</p>
+<p><strong>Mandate / Contract Base:</strong> Port and logistics contracts across Europe and the Americas</p>
+<p><strong>Clients / Customers:</strong> Ports, terminals and logistics majors (contract names vary; group clients published in part)</p>
+<p><strong>Scale (dated):</strong> Group revenue about SEK 160 billion (FY2024 annual report); ~340,000 employees in 44 markets (company figures)</p>
+<p><strong>Offices / Footprint:</strong> HQ Stockholm; operations in 44 countries</p>
+<p><strong>Website:</strong> <a href="https://securitas.com">securitas.com</a></p>
+<p><strong>Contact Email:</strong> Not published (country contact routes at securitas.com)</p>
+<p><strong>Phone:</strong> +46 10 470 30 00</p>
+<p><strong>HQ Address:</strong> Lindhagensplan 70, 102 28 Stockholm, Sweden</p>
+<p><strong>Distinctiveness:</strong> The systems integrator in uniform: Securitas increasingly sells the camera network and the control room with the officer</p>
+<p><strong>Access / Entry:</strong> Via securitas.com country organisations</p>
+<p><strong>Sources:</strong> securitas.com; Securitas annual report 2024</p>
+<h2>THE OPERATORS — SECURITY INSIDE THE TERMINAL GROUPS</h2>
+<h3>11. APM TERMINALS (MAERSK)</h3>
+<p><em>Netherlands — The Hague · Founded 2001 (as Maersk&#x27;s terminal arm)</em></p>
+<p><strong>Category:</strong> Terminal operator — in-house security model</p>
+<p><strong>Region:</strong> Europe / global</p>
+<p><strong>HQ Country:</strong> Netherlands</p>
+<p><strong>Founded:</strong> 2001 (as Maersk&#x27;s terminal arm)</p>
+<p><strong>History:</strong> Maersk&#x27;s terminal company operates more than 60 terminals; security is run as an in-house HSSE (health, safety, security and environment) discipline to ISPS standards — the dominant model at the world&#x27;s large terminals, where the operator, not a contractor, owns the security plan.</p>
+<p><strong>Ownership / Parent:</strong> A.P. Moller – Maersk</p>
+<p><strong>Leadership:</strong> Keith Svendsen — Chief Executive Officer, APM Terminals</p>
+<p><strong>Full C-Suite / Senior Leadership:</strong> Executive team published at apmterminals.com; terminal-level security sits under HSSE leadership</p>
+<p><strong>Specialties:</strong> Facility security plans under the ISPS Code, gate automation and OCR, access control, in-house and contracted guarding by terminal</p>
+<p><strong>Mandate / Contract Base:</strong> Concession obligations to port authorities and flag/port-state regulators</p>
+<p><strong>Clients / Customers:</strong> The shipping lines (as terminal customers); security obligations run to regulators and cargo owners</p>
+<p><strong>Scale (dated):</strong> 60+ terminals in 30+ countries (company figures)</p>
+<p><strong>Offices / Footprint:</strong> HQ The Hague; terminals worldwide</p>
+<p><strong>Website:</strong> <a href="https://apmterminals.com">apmterminals.com</a></p>
+<p><strong>Contact Email:</strong> Not published</p>
+<p><strong>Phone:</strong> Per company site</p>
+<p><strong>HQ Address:</strong> Turfmarkt 107, 2511 DP The Hague, Netherlands</p>
+<p><strong>Distinctiveness:</strong> The template: at a modern automated terminal the &quot;security company&quot; is a department, a camera grid and a fence line — APM is its purest form</p>
+<p><strong>Access / Entry:</strong> Commercial terminal services via apmterminals.com</p>
+<p><strong>Notes:</strong> Included to document the in-house model honestly: most port security is not bought from security firms at all</p>
+<p><strong>Sources:</strong> apmterminals.com; Maersk annual reporting</p>
+<h3>12. DP WORLD</h3>
+<p><em>United Arab Emirates — Dubai · Founded 1972 (Dubai Ports lineage); DP World formed 2005</em></p>
+<p><strong>Category:</strong> Ports and logistics group — integrated security</p>
+<p><strong>Region:</strong> Middle East / global</p>
+<p><strong>HQ Country:</strong> United Arab Emirates</p>
+<p><strong>Founded:</strong> 1972 (Dubai Ports lineage); DP World formed 2005</p>
+<p><strong>History:</strong> Built from Dubai&#x27;s ports into an 80-terminal global group; security at its flagship Jebel Ali is integrated with Dubai&#x27;s state apparatus, and the group runs facility security across its terminals as a core operating discipline; also owns shipping (Unifeeder, P&amp;O Ferrymasters) and logistics arms.</p>
+<p><strong>Ownership / Parent:</strong> Dubai World (Government of Dubai)</p>
+<p><strong>Leadership:</strong> Sultan Ahmed bin Sulayem — Group Chairman and Chief Executive Officer</p>
+<p><strong>Full C-Suite / Senior Leadership:</strong> Group executive team published at dpworld.com</p>
+<p><strong>Specialties:</strong> Port and free-zone security at Jebel Ali (among the world&#x27;s largest integrated port/free-zone security operations), terminal facility security worldwide, secure logistics parks</p>
+<p><strong>Mandate / Contract Base:</strong> Concessions and state mandates; Jebel Ali security integrated with Dubai authorities</p>
+<p><strong>Clients / Customers:</strong> Lines, forwarders and the 90,000+ companies of the Jebel Ali Free Zone ecosystem (Jafza-published scale)</p>
+<p><strong>Scale (dated):</strong> About 80 marine terminals in 40+ countries; ~110,000 employees (company figures)</p>
+<p><strong>Offices / Footprint:</strong> HQ Jebel Ali, Dubai; terminals and logistics in 75+ countries</p>
+<p><strong>Website:</strong> <a href="https://dpworld.com">dpworld.com</a></p>
+<p><strong>Contact Email:</strong> Not published</p>
+<p><strong>Phone:</strong> +971 4 808 0800 (per company listings)</p>
+<p><strong>HQ Address:</strong> Jafza One, Jebel Ali Free Zone, Dubai, UAE</p>
+<p><strong>Distinctiveness:</strong> Port security as statecraft: at Jebel Ali the fence, the free zone and the flag are one system</p>
+<p><strong>Access / Entry:</strong> Via dpworld.com</p>
+<p><strong>Notes:</strong> DP World&#x27;s shipping arm is noted in the Shipping Lines guide&#x27;s exclusions; here the group appears for its terminal-security weight</p>
+<p><strong>Sources:</strong> dpworld.com; DP World annual reporting</p>
+<h3>13. PSA INTERNATIONAL</h3>
+<p><em>Singapore — Singapore · Founded 1964 (Port of Singapore Authority lineage); corporatised 1997</em></p>
+<p><strong>Category:</strong> Port group — integrated security</p>
+<p><strong>Region:</strong> Asia / global</p>
+<p><strong>HQ Country:</strong> Singapore</p>
+<p><strong>Founded:</strong> 1964 (Port of Singapore Authority lineage); corporatised 1997</p>
+<p><strong>History:</strong> The operator of Singapore&#x27;s mega-terminals — for decades the world&#x27;s busiest transhipment hub — where port security is woven into a national system (auxiliary police, coast guard and the Maritime and Port Authority) in which PSA runs facility-level security.</p>
+<p><strong>Ownership / Parent:</strong> Temasek Holdings (Singapore state)</p>
+<p><strong>Leadership:</strong> Ong Kim Pong — Group Chief Executive Officer (since 2024)</p>
+<p><strong>Full C-Suite / Senior Leadership:</strong> Senior management published at globalpsa.com</p>
+<p><strong>Specialties:</strong> Mega-terminal facility security, automated-terminal access systems, port-community data systems (PORTNET) with security functions</p>
+<p><strong>Mandate / Contract Base:</strong> Licences from the Maritime and Port Authority of Singapore; concessions worldwide</p>
+<p><strong>Clients / Customers:</strong> The world&#x27;s container lines at the Singapore hub (see the Shipping Lines guide)</p>
+<p><strong>Scale (dated):</strong> Terminals in 20+ countries; Singapore handled about 41 million TEU in 2024 (MPA figures)</p>
+<p><strong>Offices / Footprint:</strong> HQ Singapore (PSA Horizons); terminals across Asia, Europe and the Americas</p>
+<p><strong>Website:</strong> <a href="https://globalpsa.com">globalpsa.com</a></p>
+<p><strong>Contact Email:</strong> Not published</p>
+<p><strong>Phone:</strong> +65 6274 7111 (per company listings)</p>
+<p><strong>HQ Address:</strong> 1 Harbour Drive, PSA Horizons, Singapore 117352</p>
+<p><strong>Distinctiveness:</strong> Security by system design: Singapore treats the port as critical national infrastructure and builds the security into the state, not the contract</p>
+<p><strong>Access / Entry:</strong> Via globalpsa.com</p>
+<p><strong>Sources:</strong> globalpsa.com; MPA Singapore statistics</p>
+<h3>14. ICTSI (INTERNATIONAL CONTAINER TERMINAL SERVICES)</h3>
+<p><em>Philippines — Manila · Founded 1987</em></p>
+<p><strong>Category:</strong> Terminal operator — in-house security model</p>
+<p><strong>Region:</strong> Asia / global</p>
+<p><strong>HQ Country:</strong> Philippines</p>
+<p><strong>Founded:</strong> 1987</p>
+<p><strong>History:</strong> Founded by Enrique K. Razon Jr. in 1987; grown from the Manila terminal into a 30-plus-terminal group across emerging markets, where its in-house security and community-relations model is tested in some of the world&#x27;s hardest port environments.</p>
+<p><strong>Ownership / Parent:</strong> ICTSI, listed Philippine Stock Exchange (ICT); Razon family controlling</p>
+<p><strong>Leadership:</strong> Enrique K. Razon Jr. — Chairman and President</p>
+<p><strong>Full C-Suite / Senior Leadership:</strong> Officers published at ictsi.com and in PSE filings</p>
+<p><strong>Specialties:</strong> Terminal facility security in high-risk environments, gate systems, in-house security forces supplemented by local contractors</p>
+<p><strong>Mandate / Contract Base:</strong> Port concessions on six continents</p>
+<p><strong>Clients / Customers:</strong> The container lines; host governments as concession grantors</p>
+<p><strong>Scale (dated):</strong> 30+ terminals in 20 countries (company figures)</p>
+<p><strong>Offices / Footprint:</strong> HQ Manila; terminals across Asia, Latin America, Africa, Europe and Australia</p>
+<p><strong>Website:</strong> <a href="https://ictsi.com">ictsi.com</a></p>
+<p><strong>Contact Email:</strong> Not published</p>
+<p><strong>Phone:</strong> +63 2 8245 4101 (per company listings)</p>
+<p><strong>HQ Address:</strong> ICTSI Administration Building, Manila International Container Terminal, Manila, Philippines</p>
+<p><strong>Distinctiveness:</strong> The emerging-market proof: ICTSI&#x27;s security model works from Manila to Matadi because it is built locally at each terminal</p>
+<p><strong>Access / Entry:</strong> Via ictsi.com</p>
+<p><strong>Sources:</strong> ictsi.com; ICTSI annual reports</p>
+<h2>THE SCREENING MAJORS — THE TECHNOLOGY OF THE GATE</h2>
+<h3>15. SMITHS DETECTION</h3>
+<p><em>United Kingdom — London · Founded 1950s lineage (as Smiths Industries&#x27; detection work)</em></p>
+<p><strong>Category:</strong> Security screening technology (group division)</p>
+<p><strong>Region:</strong> Europe / global</p>
+<p><strong>HQ Country:</strong> United Kingdom</p>
+<p><strong>Founded:</strong> 1950s lineage (as Smiths Industries&#x27; detection work)</p>
+<p><strong>History:</strong> The detection division of Smiths Group: the world&#x27;s leading maker of the X-ray and CT scanners that screen cargo, containers, vehicles and baggage at ports and borders; its HCV cargo-inspection systems are a fixture of customs operations worldwide.</p>
+<p><strong>Ownership / Parent:</strong> Smiths Group plc, listed LSE: SMIN</p>
+<p><strong>Leadership:</strong> Jerome de Chassey — President, Smiths Detection (per company announcements); Roland Carter — Chief Executive, Smiths Group</p>
+<p><strong>Full C-Suite / Senior Leadership:</strong> Group executive committee published at smiths.com; division leadership at smithsdetection.com</p>
+<p><strong>Specialties:</strong> Cargo and vehicle inspection (HCV gantry and mobile systems), checkpoint CT, trace detection, port and border security systems</p>
+<p><strong>Mandate / Contract Base:</strong> Contracts with customs and border agencies and port operators in 90+ countries (company figures)</p>
+<p><strong>Clients / Customers:</strong> Customs administrations, border forces, port operators, militaries</p>
+<p><strong>Scale (dated):</strong> Smiths Detection revenue about £800 million (FY2024, Smiths Group reporting)</p>
+<p><strong>Offices / Footprint:</strong> HQ London (Smiths Group); Detection centres in the UK, Germany, US, Malaysia and China</p>
+<p><strong>Website:</strong> <a href="https://smithsdetection.com">smithsdetection.com</a></p>
+<p><strong>Contact Email:</strong> Not published (contact routes at smithsdetection.com)</p>
+<p><strong>Phone:</strong> Per company site</p>
+<p><strong>HQ Address:</strong> Smiths Group HQ: One Sheldon Square, London W2 6TT, United Kingdom</p>
+<p><strong>Distinctiveness:</strong> The X-ray eye of the world&#x27;s customs houses — more containers are &quot;opened&quot; by Smiths scanners than by human hands</p>
+<p><strong>Access / Entry:</strong> Government and operator procurement via smithsdetection.com</p>
+<p><strong>Sources:</strong> smiths.com / smithsdetection.com; Smiths Group annual report 2024</p>
+<h3>16. OSI SYSTEMS / RAPISCAN SYSTEMS</h3>
+<p><em>United States — Hawthorne, California · Founded 1987 (OSI); Rapiscan founded 1993</em></p>
+<p><strong>Category:</strong> Security inspection technology (listed)</p>
+<p><strong>Region:</strong> North America</p>
+<p><strong>HQ Country:</strong> United States</p>
+<p><strong>Founded:</strong> 1987 (OSI); Rapiscan founded 1993</p>
+<p><strong>History:</strong> OSI Systems&#x27; security division, Rapiscan, builds the cargo and vehicle inspection systems (Eagle gantries, Z Portal) used at ports and land borders; famous far beyond ports for the Rapiscan name on airport scanners. Founded under Deepak Chopra, who led OSI for four decades.</p>
+<p><strong>Ownership / Parent:</strong> OSI Systems, Inc., listed Nasdaq: OSIS</p>
+<p><strong>Leadership:</strong> Ajay Mehra — President and Chief Executive Officer, OSI Systems (from 1 January 2025, per company announcements); Deepak Chopra — Executive Chairman</p>
+<p><strong>Full C-Suite / Senior Leadership:</strong> Executive officers published at osi-systems.com and in SEC filings</p>
+<p><strong>Specialties:</strong> Cargo and vehicle X-ray/gamma inspection, radiation detection, checkpoint screening, turnkey border-security programmes (incl. its services arm, S2 Global)</p>
+<p><strong>Mandate / Contract Base:</strong> Contracts with customs agencies (incl. US CBP history), port operators and governments</p>
+<p><strong>Clients / Customers:</strong> Customs and border agencies, ports, militaries in 100+ countries (company figures)</p>
+<p><strong>Scale (dated):</strong> OSI security division revenue exceeds US$1 billion annually (company reporting, FY2025)</p>
+<p><strong>Offices / Footprint:</strong> HQ Hawthorne, California; Rapiscan operations in California, the UK, Singapore and India</p>
+<p><strong>Website:</strong> <a href="https://rapiscan.com / osi-systems.com">rapiscan.com / osi-systems.com</a></p>
+<p><strong>Contact Email:</strong> Not published</p>
+<p><strong>Phone:</strong> +1 310 349 4970 (per company listings)</p>
+<p><strong>HQ Address:</strong> 12525 Chadron Avenue, Hawthorne, CA 90250, USA</p>
+<p><strong>Distinctiveness:</strong> The other eye of the border — and, with its California base, the screening major closest to the San Pedro Bay complex in this guide</p>
+<p><strong>Access / Entry:</strong> Government and operator procurement via rapiscan.com</p>
+<p><strong>Sources:</strong> osi-systems.com; OSI Systems SEC filings and leadership announcements (2024–25)</p>
+<h3>17. LEIDOS (PORTS &AMP; BORDERS)</h3>
+<p><em>United States — Reston, Virginia · Founded 1969 (as SAIC); Leidos from 2013</em></p>
+<p><strong>Category:</strong> Security technology and services (listed)</p>
+<p><strong>Region:</strong> North America</p>
+<p><strong>HQ Country:</strong> United States</p>
+<p><strong>Founded:</strong> 1969 (as SAIC); Leidos from 2013</p>
+<p><strong>History:</strong> The largest US federal technology contractor; its ports-and-borders business (built partly on the 2020 acquisition of L3Harris&#x27;s security detection and automation division) supplies the VACIS and MEB non-intrusive inspection systems that scan containers and vehicles at ports of entry.</p>
+<p><strong>Ownership / Parent:</strong> Leidos Holdings, Inc., listed NYSE: LDOS</p>
+<p><strong>Leadership:</strong> Thomas E. Bell — Chief Executive Officer</p>
+<p><strong>Full C-Suite / Senior Leadership:</strong> Executive leadership published at leidos.com</p>
+<p><strong>Specialties:</strong> Non-intrusive inspection (VACIS imaging, MEB multi-energy portals), radiation portal monitors, border and port security integration, customs modernisation programmes</p>
+<p><strong>Mandate / Contract Base:</strong> US CBP and international customs contracts; port authority programmes</p>
+<p><strong>Clients / Customers:</strong> US Customs and Border Protection and counterpart agencies worldwide; port operators</p>
+<p><strong>Scale (dated):</strong> Leidos group revenue about US$16 billion (FY2024); ports-and-borders is one business line within it (segment detail per filings)</p>
+<p><strong>Offices / Footprint:</strong> HQ Reston, Virginia; delivery sites at ports of entry across the US and allied countries</p>
+<p><strong>Website:</strong> <a href="https://leidos.com">leidos.com</a></p>
+<p><strong>Contact Email:</strong> Not published</p>
+<p><strong>Phone:</strong> +1 571 526 6000 (per company listings)</p>
+<p><strong>HQ Address:</strong> 1750 Presidents Street, Reston, VA 20190, USA</p>
+<p><strong>Distinctiveness:</strong> Security as a federal programme: Leidos sells the port gate as a system-of-systems, not a scanner or a guard</p>
+<p><strong>Access / Entry:</strong> Government procurement channels</p>
+<p><strong>Sources:</strong> leidos.com; Leidos annual report 2024; acquisition releases (2020)</p>
+<h2>METHOD, GAPS AND EXCLUSIONS</h2>
+<p>THE McKAY LEAD — FULL REPORT. Searches run October 2026 across web and trade sources for: &quot;McKay&quot; + port security / maritime security / Port of Los Angeles / San Pedro / California security company. Findings: (1) Mackay Communications, Inc. (mackaycomm.com) — marine electronics, navigation and satellite-communications sales and service; founded lineage in marine radio; HQ Raleigh, NC; its published network includes a Los Angeles office (San Pedro area, +1 310 519 7539, la@mackaymarine.com). It is a service company for shipboard electronics — not a security firm, and not Los Angeles-founded. (2) McKay International Engineers — structural/mechanical engineers for container cranes and terminals, Oakland, California; merged into Liftech Consultants Inc. in 2022 after 52 years of joint work. Engineering, not security. (3) ISS-McKay Limited — a New Zealand port agency (Inchcape Shipping Services joint venture, bought out fully in November 2023). Agency work, not security, and not American. (4) No California security-company registration, trade-press item, or company site for a &quot;McKay&quot; port-security firm was found. CONCLUSION: the identification is UNVERIFIED. The most plausible near-referent in the actual Port of Los Angeles is McRoberts Maritime Security (411 N Harbor Blvd, San Pedro; mcroberts1876.com), a genuine harbour security firm — but equating &quot;McKay&quot; with &quot;McRoberts&quot; would be a guess, and this guide does not guess. If Michael can supply a further detail (a founder&#x27;s name, a decade, a terminal), the entry can be researched again and added with evidence.</p>
+<p>Roster scope: the specialists section favours firms whose port, terminal or vessel-security work is documented; the operators&#x27; section documents the in-house model that actually secures most large terminals; the screening section covers the three technology majors whose systems dominate container inspection. Regional guarding contractors below this scale (the hundreds of local firms like the San Pedro example) are represented by type, not enumerated — a full census is not honestly possible.</p>
+</article></main>
+</body>
+</html>

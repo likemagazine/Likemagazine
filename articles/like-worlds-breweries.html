@@ -1,0 +1,904 @@
+<!DOCTYPE html><html lang="en"><head>
+<link rel="canonical" href="https://likeleaders.com/articles/like-worlds-breweries.html">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>THE WORLD&#x27;S BREWERIES · LIKE Magazine</title>
+<meta name="description" content="The worldwide guide to breweries: 12 majors and 14 craft-tier breweries — flagship beers, brewmasters, dated volumes, and the BrewDog and Stone stories told straight. Verified October 2026.">
+<style>
+:root {
+  --ink: #111;
+  --paper: #f4efe6;
+  --cream: #fffcf6;
+  --rule: #d6ccbc;
+  --accent: #8b1515;
+  --muted: #6a6358;
+  --serif: "Iowan Old Style", Palatino, Georgia, serif;
+  --sans: "Avenir Next", "Segoe UI", Helvetica, Arial, sans-serif;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--paper); color: var(--ink); font-family: var(--serif); line-height: 1.65; }
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+.mast {
+  background: var(--cream);
+  border-bottom: 3px double var(--ink);
+  text-align: center;
+  padding: 1.25rem 1rem 1rem;
+}
+.mast h1 {
+  margin: 0;
+  font-family: var(--sans);
+  letter-spacing: 0.28em;
+  font-size: clamp(1.85rem, 4.5vw, 2.55rem);
+  font-weight: 700;
+  line-height: 1;
+}
+.mast h1 a { color: inherit; }
+.mast h1 .reg,
+.mast h1 sup.reg {
+  color: var(--accent);
+  font-size: 0.42em;
+  font-weight: 700;
+  letter-spacing: 0;
+  vertical-align: super;
+  line-height: 0;
+  margin-left: 0.06em;
+  position: relative;
+  top: -0.05em;
+}
+.mast-magazine {
+  margin: 0.35rem 0 0;
+  font-family: var(--sans);
+  font-size: clamp(0.78rem, 2vw, 0.98rem);
+  letter-spacing: 0.62em;
+  text-transform: uppercase;
+  color: var(--ink);
+  font-weight: 600;
+  padding-left: 0.62em; /* optical center with letter-spacing */
+}
+.tag { margin: 0.4rem 0 0; font-family: var(--sans); font-size: 0.68rem; letter-spacing: 0.18em; text-transform: uppercase; color: var(--muted); }
+.nav {
+  display: flex; flex-wrap: wrap; justify-content: center; gap: 0.35rem 0.85rem;
+  padding: 0.65rem 1rem; border-bottom: 1px solid var(--rule);
+  font-family: var(--sans); font-size: 0.72rem; letter-spacing: 0.08em; text-transform: uppercase;
+  background: #efe8db;
+}
+.nav a { color: var(--ink); }
+.nav a.shop { color: var(--accent); font-weight: 700; }
+.wrap { max-width: 1080px; margin: 0 auto; padding: 1.5rem 1.1rem 3rem; }
+.hero-grid { display: grid; gap: 1.25rem; grid-template-columns: 1.4fr 1fr; }
+@media (max-width: 800px) { .hero-grid { grid-template-columns: 1fr; } }
+.card, .feature {
+  background: var(--cream); border: 1px solid var(--rule); overflow: hidden; color: inherit;
+  display: flex; flex-direction: column;
+}
+.feature img, .card img { width: 100%; aspect-ratio: 16/10; object-fit: cover; background: #ddd4c4; }
+.feature .body, .card .meta { padding: 1rem 1.1rem 1.2rem; }
+.kicker { font-family: var(--sans); font-size: 0.72rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--accent); font-weight: 700; margin: 0 0 0.4rem; }
+.feature h2, .card h2 { margin: 0; font-size: 1.35rem; line-height: 1.2; }
+.card h2 { font-size: 1.05rem; }
+.deck { margin: 0.55rem 0 0; color: var(--muted); font-size: 0.95rem; }
+.grid { display: grid; gap: 1rem; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); margin-top: 1.5rem; }
+.section-title { font-family: var(--sans); letter-spacing: 0.12em; text-transform: uppercase; font-size: 0.85rem; border-bottom: 1px solid var(--ink); padding-bottom: 0.4rem; margin: 2rem 0 1rem; }
+.article-wrap { max-width: 720px; margin: 0 auto; padding: 1.5rem 1.1rem 3rem; }
+.byline { font-family: var(--sans); font-size: 0.82rem; color: var(--muted); border-top: 1px solid var(--rule); border-bottom: 1px solid var(--rule); padding: 0.7rem 0; margin: 0 0 1.4rem; }
+.article-body p { margin: 0 0 1.05rem; font-size: 1.06rem; }
+.article-body p.lead { font-size: 1.18rem; }
+.figure { margin: 1.5rem 0; }
+.figure img { width: 100%; height: auto; display: block; }
+.caption { font-family: var(--sans); font-size: 0.76rem; color: var(--muted); margin-top: 0.4rem; }
+.affiliate-box {
+  margin: 1.75rem 0; padding: 1rem 1.1rem; border: 1px dashed var(--accent);
+  background: #fff8f0; font-family: var(--sans); font-size: 0.85rem;
+}
+.affiliate-box strong { display: block; letter-spacing: 0.08em; text-transform: uppercase; font-size: 0.72rem; margin-bottom: 0.35rem; color: var(--accent); }
+.shop-grid { display: grid; gap: 1rem; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); }
+.shop-card { background: var(--cream); border: 1px solid var(--rule); padding: 1rem; text-align: center; font-family: var(--sans); }
+.shop-card .swatch { height: 160px; background: linear-gradient(135deg,#2a2a2a,#8b1515); margin-bottom: 0.75rem; }
+.footer { text-align: center; padding: 2rem 1rem; font-family: var(--sans); font-size: 0.72rem; color: var(--muted); border-top: 1px solid var(--rule); }
+.disclosure { max-width: 720px; margin: 0 auto 1rem; font-size: 0.7rem; color: var(--muted); }
+
+.dept-rail {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 0.65rem;
+  margin: 1rem 0 1.75rem;
+}
+.dept-tile {
+  display: flex; flex-direction: column; justify-content: flex-end;
+  min-height: 96px; padding: 0.85rem 0.9rem;
+  background: #1a1a1a; color: #f7f3eb !important; text-decoration: none !important;
+  border: 1px solid #1a1a1a; font-family: var(--sans);
+}
+.dept-tile:hover { background: var(--accent); border-color: var(--accent); }
+.dept-tile .label { font-size: 0.65rem; letter-spacing: 0.16em; text-transform: uppercase; opacity: 0.75; }
+.dept-tile strong { font-size: 1rem; letter-spacing: 0.04em; margin-top: 0.25rem; }
+.dept-tile.shop { background: var(--accent); }
+.archive-band { margin: 2rem 0 0.5rem; }
+.archive-lede { font-family: var(--sans); font-size: 0.9rem; color: var(--muted); margin: -0.4rem 0 1rem; }
+.edition-grid { display: grid; gap: 0.75rem; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); }
+.edition {
+  display: block; padding: 1rem 1.05rem 1.1rem; background: var(--cream);
+  border: 1px solid var(--rule); color: inherit !important; text-decoration: none !important;
+}
+.edition:hover { border-color: var(--ink); }
+.edition .ed-num { display:block; font-family: var(--sans); font-size: 0.65rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--accent); margin-bottom: 0.35rem; }
+.edition strong { display:block; font-size: 1.15rem; line-height: 1.2; }
+.edition em { display:block; margin-top: 0.35rem; font-family: var(--sans); font-size: 0.78rem; color: var(--muted); font-style: normal; }
+.nav { gap: 0.45rem 1rem; padding: 0.75rem 1rem; }
+.nav a { font-weight: 600; }
+
+
+.nav a.summit { color: #c99a3b; font-weight: 700; }
+.summit-band {
+  margin: 2rem 0 1rem; padding: 1.25rem 1.2rem; background: #120c18; color: #f7f3eb;
+  border: 1px solid rgba(201,154,59,.4);
+}
+.summit-band a { color: #e3c88a !important; }
+.summit-band .eyebrow { font-family: var(--sans); font-size: 0.7rem; letter-spacing: 0.22em; text-transform: uppercase; color: #c99a3b; margin: 0 0 0.4rem; }
+.summit-band h3 { margin: 0 0 0.45rem; font-size: 1.45rem; }
+.summit-band p { font-family: var(--sans); margin: 0; color: #cfc6d8; font-size: 0.92rem; }
+.edition.summit { background: #120c18; color: #f7f3eb; border-color: rgba(201,154,59,.45); }
+.edition.summit .ed-num { color: #c99a3b; }
+.edition.summit em { color: #b9b0c4; }
+
+/* ---- LIKE® unified nav/footer/a11y refinements (site update 2026-09-27) ---- */
+.nav { align-items: center; }
+.nav a { display: inline-flex; align-items: center; min-height: 44px; padding: 0.35rem 0.45rem; }
+.nav a.summit { color: #7a5f14; }
+.nav details.nav-more { position: relative; }
+.nav details.nav-more > summary { cursor: pointer; list-style: none; display: inline-flex; align-items: center; min-height: 44px; padding: 0.35rem 0.45rem; font-weight: 700; color: var(--accent); text-transform: uppercase; letter-spacing: 0.08em; font-size: 0.72rem; }
+.nav details.nav-more > summary::-webkit-details-marker { display: none; }
+.nav details.nav-more > summary::after { content: "\25BE"; font-size: 0.8em; margin-left: 0.3em; }
+.nav details.nav-more .nav-more-links { display: flex; flex-wrap: wrap; gap: 0.35rem 0.8rem; padding: 0.4rem 0 0.2rem; }
+.nav details.nav-more .nav-more-links { display: none; }
+.nav details.nav-more[open] .nav-more-links { display: flex; flex-wrap: wrap; gap: 0.35rem 0.9rem; position: absolute; top: 100%; left: 0; z-index: 60; min-width: 230px; max-width: min(92vw, 560px); background: #fffdf8; border: 1px solid var(--line); border-radius: 2px; box-shadow: 0 12px 28px rgba(60,40,10,.16); padding: 0.7rem 0.9rem; }
+@media (max-width: 700px) {
+  .nav details.nav-more[open] .nav-more-links { position: static; box-shadow: none; border: 0; padding: 0.4rem 0 0.2rem; max-width: none; }
+}
+.year-line.summit-year .roman { color: #7a5f14; }
+.footer-nav { display: flex; flex-wrap: wrap; justify-content: center; gap: 0.5rem 1.2rem; margin: 0 0 1.1rem; font-size: 0.78rem; }
+.footer-nav a { color: var(--ink); font-weight: 600; }
+.mast .mast-title { margin: 0; font-family: var(--sans); white-space: nowrap; letter-spacing: 0.2em; font-size: clamp(1.55rem, 4.4vw, 2.35rem); font-weight: 700; line-height: 1; }
+.mast .mast-magazine { display: none; }
+.mast .mast-title a { color: inherit; }
+.mast .mast-title .reg, .mast .mast-title sup.reg { color: var(--accent); font-size: 0.42em; font-weight: 700; letter-spacing: 0; vertical-align: super; line-height: 0; margin-left: 0.06em; position: relative; top: -0.05em; }
+@media (max-width: 700px) {
+  .nav { gap: 0.25rem 0.6rem; }
+  .nav details.nav-more { flex: 1 0 100%; }
+  .nav details.nav-more[open] .nav-more-links { border-top: 1px solid var(--rule); margin-top: 0.2rem; padding-top: 0.6rem; }
+}
+
+/* == LIKE editorial typography v1 == */
+.article-wrap > h1 {
+  font-family: var(--serif);
+  letter-spacing: 0.045em;
+  text-wrap: balance;
+}
+p.lead {
+  font-size: 1.24rem;
+  line-height: 1.55;
+  font-style: italic;
+  color: #4a4036;
+  margin: 0 0 1.6rem;
+  text-wrap: pretty;
+}
+.article-body { font-size: 1.08rem; }
+.article-body > p {
+  line-height: 1.78;
+  margin: 0 0 1.2rem;
+  text-wrap: pretty;
+}
+.article-body > p.dropcap::first-letter {
+  font-family: var(--serif);
+  font-weight: 700;
+  font-size: 3.6em;
+  line-height: 0.82;
+  float: left;
+  padding: 0.06em 0.14em 0 0;
+}
+.article-body h2 {
+  font-family: var(--serif);
+  font-size: 1.45rem;
+  line-height: 1.25;
+  margin: 2.2rem 0 0.9rem;
+  text-wrap: balance;
+}
+.byline {
+  font-size: 0.74rem;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+}
+.figure {
+  border: 1px solid var(--rule);
+  background: #fff;
+  padding: 0.6rem;
+}
+</style>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%23111111'/%3E%3Ctext x='32' y='45' font-family='Georgia,serif' font-size='38' fill='%23f4efe6' text-anchor='middle'%3EL%3C/text%3E%3C/svg'">
+</head>
+<body>
+
+<header class="mast">
+  <div class="mast-title"><a href="/index.html" style="color:inherit;text-decoration:none">LIKE<sup class="reg">®</sup> Magazine</a></div>
+  <p class="tag">Style · Leaders · likeleaders.com</p>
+</header>
+<nav class="nav" aria-label="Primary">
+  <a href="/index.html">Home</a>
+  <a href="/summit-season/index.html" class="summit">Summit Season</a>
+  <a href="/sections/leaders.html">Leaders</a>
+  <a href="/sections/style.html">Style</a>
+  <a href="/sections/travel.html">Travel &amp; Tourism</a>
+  <a href="/sections/apparel.html" class="shop">Apparel</a>
+  <a href="/search.html">Search</a>
+  <a href="/about.html">About</a>
+  <details class="nav-more">
+    <summary>Luxury Guide</summary>
+    <div class="nav-more-links">
+      <a href="/sections/luxury-guide.html">Overview</a>
+      <a href="/sections/luxury-hotels.html">Hotels</a>
+      <a href="/sections/luxury-dining.html">Dining</a>
+      <a href="/sections/luxury-shopping.html">Shopping</a>
+      <a href="/sections/luxury-airlines.html">Airlines</a>
+      <a href="/sections/luxury-wineries.html">Wineries</a>
+      <a href="/sections/luxury-trains.html">Trains</a>
+      <a href="/sections/luxury-aviation.html">Aviation</a>
+      <a href="/sections/luxury-watchmakers.html">Watchmakers</a>
+      <a href="/sections/luxury-jewelers.html">Jewelers</a>
+    </div>
+  </details>
+  <details class="nav-more">
+    <summary>More Departments</summary>
+    <div class="nav-more-links">
+      <a href="/sections/automotive.html">Automotive Features</a>
+      <a href="/sections/craftsmanship.html">Craftsmanship</a>
+      <a href="/sections/fashion.html">Fashion</a>
+      <a href="/sections/sports.html">Sports</a>
+      <a href="/sections/diplomacy.html">Diplomacy</a>
+      <a href="/sections/like-global.html">LIKE® Global</a>
+      <a href="/sections/conferences.html">Conferences</a>
+      <a href="/sections/travel.html">Travel</a>
+      <a href="/sections/health.html">Health</a>
+      <a href="/sections/law.html">Law</a>
+      <a href="/sections/science.html">Science</a>
+      <a href="/sections/music.html">Music</a>
+      <a href="/sections/film.html">Film</a>
+      <a href="/sections/film-festivals.html">Film Festivals</a>
+      <a href="/sections/books.html">Books</a>
+      <a href="/sections/art.html">Art</a>
+      <a href="/sections/museums.html">Museums</a>
+      <a href="/sections/spotlight.html">Spotlight</a>
+      <a href="/sections/features.html">Features</a>
+    </div>
+  </details>
+</nav>
+
+
+
+<main class="article-wrap">
+<p class="kicker">WINE &amp; SPIRITS · THE WORLDWIDE GUIDE</p>
+<h1 style="font-size:clamp(1.7rem,4vw,2.5rem);line-height:1.15;margin:0 0 0.8rem">THE WORLD&#x27;S BREWERIES</h1>
+<p class="byline">By Michael de la Force · Editor-in-Chief, LIKE<sup class="reg">®</sup> Magazine · Wine &amp; Spirits (Luxury Guide) · October 2026</p>
+<article class="article-body">
+<p class="lead">Beer is the most democratic drink and the most consolidated industry. Eleven groups brew the overwhelming majority of the world&#x27;s volume — one of them, AB InBev, brews a quarter of it — and beneath them a craft tier of thousands of independents supplies nearly all of the industry&#x27;s invention. This guide profiles both tiers: the majors with their flagship brands and dated volumes, and a defensible selection of the craft breweries that matter, continent by continent.</p>
+<p>The craft entries are written as status reports, not nostalgia. The tier&#x27;s founding generation has largely been sold, rescued or absorbed, and the entries say which: New Belgium to Kirin, Stone to Sapporo, Brooklyn into restructuring, Mikkeller retrenched with Carlsberg inside the tent, and BrewDog — the loudest story in modern beer — through administration into the hands of a cannabis-and-drinks group for £33 million, its chief-executive office abolished. What remains genuinely independent at scale (Sierra Nevada, Duvel Moortgat, Deschutes, Heaven Hill&#x27;s beer cousins across the aisle) is identified as such.</p>
+<p>Volumes are given as dated and sourced as the industry allows: the majors report hectolitres in their annual reports; American craft production is tracked by the Brewers Association in barrels; private groups that publish nothing carry an admission instead of an estimate dressed as a fact.</p>
+<h2>THE MAJORS</h2>
+<h3>1. ANHEUSER-BUSCH INBEV (AB INBEV)</h3>
+<p><em>Belgium — Leuven · Founded 1366 (Den Hoorn lineage); modern group from Interbrew/AmBev (2004) and Anheuser-Busch (2008)</em></p>
+<p><strong>Category:</strong> Brewing group (listed)</p>
+<p><strong>Region:</strong> Europe / global</p>
+<p><strong>HQ Country:</strong> Belgium</p>
+<p><strong>Founded:</strong> 1366 (Den Hoorn lineage); modern group from Interbrew/AmBev (2004) and Anheuser-Busch (2008)</p>
+<p><strong>History:</strong> Built by the Brazilian-Belgian 3G/Interbrew lineage through the century&#x27;s defining beer consolidations — Interbrew + AmBev (2004), Anheuser-Busch (2008, US$52 billion) and SABMiller (2016, about US$100 billion) — into a group brewing roughly a quarter of the world&#x27;s beer.</p>
+<p><strong>Ownership / Parent:</strong> Listed Euronext Brussels (ABI) and NYSE (BUD); reference shareholders include the Belgian founding families&#x27; vehicles and Altria (residual stake)</p>
+<p><strong>Leadership:</strong> Michel Doukeris — Chief Executive Officer; Martin Barrington — Chairman of the Board</p>
+<p><strong>Full C-Suite / Senior Leadership:</strong> Executive Board of Management published at ab-inbev.com</p>
+<p><strong>Specialties:</strong> Global lager at planetary scale; the premiumisation programme (Corona, Stella Artois, Michelob Ultra) and a &quot;beyond beer&quot; arm; the industry&#x27;s largest procurement and brewing-science apparatus (GITEC, Leuven)</p>
+<p><strong>Flagship Beers / Brands:</strong> Budweiser; Corona Extra; Stella Artois; Michelob ULTRA; Bud Light; Beck&#x27;s; Hoegaarden; Leffe; Modelo Especial (outside the US); Skol; Brahma; Quilmes; Cass; Jupiler; Goose Island and Elysian (US craft lineage)</p>
+<p><strong>Head Brewer / Brewmaster:</strong> No single public &quot;brewmaster&quot; title at group level — brewing science is led from the Global Innovation &amp; Technology Center (GITEC) in Leuven; admitted rather than a name being attached to the wrong chair</p>
+<p><strong>Clients / Customers:</strong> Distributors, retail chains and the on-trade in 50+ brewing countries; consumer-group form — admitted</p>
+<p><strong>Scale (dated):</strong> Revenue US$59.8 billion and volumes of 575 million hectolitres in FY2024 (annual report) — about one beer in four sold worldwide</p>
+<p><strong>Offices / Footprint:</strong> Global HQ Leuven; global functional HQ New York; zones across the Americas, Europe, Africa and Asia; breweries in some 50 countries</p>
+<p><strong>Website:</strong> <a href="https://ab-inbev.com">ab-inbev.com</a></p>
+<p><strong>Contact Email:</strong> Not published</p>
+<p><strong>Phone:</strong> Per company site</p>
+<p><strong>HQ Address:</strong> Brouwerijplein 1, 3000 Leuven, Belgium</p>
+<p><strong>Distinctiveness:</strong> The empire of lager: a quarter of the world&#x27;s beer, assembled in twenty years, run on zero-based budgeting and Brazilian operating discipline</p>
+<p><strong>Access / Entry:</strong> Trade via national companies; investor routes at ab-inbev.com</p>
+<p><strong>Sources:</strong> ab-inbev.com; AB InBev annual report 2024</p>
+<h3>2. HEINEKEN N.V.</h3>
+<p><em>Netherlands — Amsterdam · Founded 1864</em></p>
+<p><strong>Category:</strong> Brewing group (listed, family-influenced)</p>
+<p><strong>Region:</strong> Europe / global</p>
+<p><strong>HQ Country:</strong> Netherlands</p>
+<p><strong>Founded:</strong> 1864</p>
+<p><strong>History:</strong> Gerard Adriaan Heineken bought Amsterdam&#x27;s De Hooiberg brewery in 1864; four generations of the family later, Heineken is the world&#x27;s second-largest brewer and its most international — the green bottle became the first beer brand advertised as a global object.</p>
+<p><strong>Ownership / Parent:</strong> Listed Euronext Amsterdam (HEIA); Heineken Holding (the family vehicle) holds about 50% of Heineken N.V.</p>
+<p><strong>Leadership:</strong> Dolf van den Brink — Chairman of the Executive Board / Chief Executive Officer (since 2020; the board announced a leadership transition in 2026 — see README gaps)</p>
+<p><strong>Full C-Suite / Senior Leadership:</strong> Executive Board and Executive Team published at theheinekencompany.com</p>
+<p><strong>Specialties:</strong> Premium lager (the Heineken brand is the world&#x27;s most international premium beer), cider (the world leader — Strongbow, Inch&#x27;s), and low/no-alcohol (Heineken 0.0)</p>
+<p><strong>Flagship Beers / Brands:</strong> Heineken; Amstel; Tiger; Birra Moretti; Desperados; Sol; Dos Equis; Tecate; Red Stripe; Edelweiss; Cruzcampo; Kingfisher (via United Breweries, India)</p>
+<p><strong>Head Brewer / Brewmaster:</strong> Willem van Waesberghe — Global Master Brewer (the company&#x27;s published title-holder)</p>
+<p><strong>Clients / Customers:</strong> Trade in 190 countries (brand presence); consumer-group form — admitted</p>
+<p><strong>Scale (dated):</strong> Revenue €36.0 billion and beer volume of about 240 million hectolitres in FY2024 (annual report)</p>
+<p><strong>Offices / Footprint:</strong> HQ Amsterdam (Tweede Weteringplantsoen); breweries in 70+ countries</p>
+<p><strong>Website:</strong> <a href="https://theheinekencompany.com">theheinekencompany.com</a></p>
+<p><strong>Contact Email:</strong> Not published</p>
+<p><strong>Phone:</strong> +31 20 523 92 39 (per company listings)</p>
+<p><strong>HQ Address:</strong> Tweede Weteringplantsoen 21, 1017 ZD Amsterdam, Netherlands</p>
+<p><strong>Distinctiveness:</strong> The family brewery that learned to behave like a brand company — one green bottle, brewed under licence and ownership on every continent</p>
+<p><strong>Access / Entry:</strong> Trade via national operating companies</p>
+<p><strong>Notes:</strong> CEO transition: flagged for re-verification at the next watch (see README)</p>
+<p><strong>Sources:</strong> theheinekencompany.com; Heineken annual report 2024</p>
+<h3>3. CARLSBERG GROUP</h3>
+<p><em>Denmark — Copenhagen · Founded 1847</em></p>
+<p><strong>Category:</strong> Brewing group (listed, foundation-owned)</p>
+<p><strong>Region:</strong> Europe / global</p>
+<p><strong>HQ Country:</strong> Denmark</p>
+<p><strong>Founded:</strong> 1847</p>
+<p><strong>History:</strong> Founded by J.C. Jacobsen in 1847 on Copenhagen&#x27;s Valby hill, on science — its laboratory isolated the lager yeast (Saccharomyces carlsbergensis) and gave it away to the world. Controlled since 1876 by the Carlsberg Foundation, which funds Danish science and art from the beer money; acquired Britvic (soft drinks) in January 2025.</p>
+<p><strong>Ownership / Parent:</strong> Listed Nasdaq Copenhagen (CARL); the Carlsberg Foundation holds about 30% of capital and a majority of votes</p>
+<p><strong>Leadership:</strong> Jacob Aarup-Andersen — Group Chief Executive Officer (since September 2023)</p>
+<p><strong>Full C-Suite / Senior Leadership:</strong> Executive Committee published at carlsberggroup.com</p>
+<p><strong>Specialties:</strong> Western-European lager, Eastern-European and Asian positions (Chongqing, Wusu), craft and speciality (Brooklyn Brewery&#x27;s international rights, 1664 Blanc), and now soft drinks (Britvic)</p>
+<p><strong>Flagship Beers / Brands:</strong> Carlsberg; Tuborg; Kronenbourg 1664 and 1664 Blanc; Grimbergen; Somersby; Brooklyn (international); Chongqing; Wusu; Holsten; Feldschlösschen; Ringnes; Mythos</p>
+<p><strong>Head Brewer / Brewmaster:</strong> Group brewing science sits at the Carlsberg Research Laboratory, Copenhagen — the laboratory Jacobsen founded; no single public master-brewer title — admitted</p>
+<p><strong>Clients / Customers:</strong> Trade in 125 markets (company figures); consumer-group form — admitted</p>
+<p><strong>Scale (dated):</strong> Revenue DKK 75.0 billion in FY2024, volumes about 125 million hectolitres (annual report; Britvic consolidated from 2025)</p>
+<p><strong>Offices / Footprint:</strong> HQ Carlsberg City District, Copenhagen; breweries in 30+ countries</p>
+<p><strong>Website:</strong> <a href="https://carlsberggroup.com">carlsberggroup.com</a></p>
+<p><strong>Contact Email:</strong> Not published</p>
+<p><strong>Phone:</strong> +45 33 27 33 00</p>
+<p><strong>HQ Address:</strong> J.C. Jacobsens Gade 1, 1799 Copenhagen V, Denmark</p>
+<p><strong>Distinctiveness:</strong> The brewer owned by a science foundation: the dividend funds the Niels Bohr Institute&#x27;s heirs and Denmark&#x27;s museums — beer as an endowment</p>
+<p><strong>Access / Entry:</strong> Trade via national companies</p>
+<p><strong>Notes:</strong> Russia: its Baltika business was seized by the Russian state in 2023 and later sold under duress conditions — the group&#x27;s exit is recorded in its own reporting; stated here because it shapes the group&#x27;s map</p>
+<p><strong>Sources:</strong> carlsberggroup.com; Carlsberg annual report 2024</p>
+<h3>4. MOLSON COORS BEVERAGE COMPANY</h3>
+<p><em>United States — Chicago (HQ) and Golden, Colorado · Founded 1786 (Molson) / 1873 (Coors); merged lineage 2005–2016</em></p>
+<p><strong>Category:</strong> Brewing group (listed, family-influenced)</p>
+<p><strong>Region:</strong> North America</p>
+<p><strong>HQ Country:</strong> United States</p>
+<p><strong>Founded:</strong> 1786 (Molson) / 1873 (Coors); merged lineage 2005–2016</p>
+<p><strong>History:</strong> The union of Canada&#x27;s Molson (1786, Montreal — North America&#x27;s oldest brewery) and Colorado&#x27;s Coors (1873), completed when Molson Coors took full control of MillerCoors in 2016; the second-largest brewer in North America, now pushing &quot;beyond beer&quot; into energy drinks and mixers.</p>
+<p><strong>Ownership / Parent:</strong> Listed NYSE (TAP); the Molson and Coors families hold controlling votes via Class A shares</p>
+<p><strong>Leadership:</strong> Rahul Goyal — President and Chief Executive Officer (since 1 October 2025, succeeding Gavin Hattersley); David L. Coors — Chairman of the Board</p>
+<p><strong>Full C-Suite / Senior Leadership:</strong> Executive leadership published at molsoncoors.com and in SEC filings</p>
+<p><strong>Specialties:</strong> North American mainstream and above-premium lager; flavoured alcohol (Topo Chico Hard Seltzer, Simply Spiked); energy and non-alcohol partnerships</p>
+<p><strong>Flagship Beers / Brands:</strong> Coors Light; Miller Lite; Coors Banquet; Molson Canadian; Blue Moon Belgian White; Carling; Staropramen; Madri Excepcional (with La Sagra); Keystone; Miller High Life; Topo Chico Hard Seltzer</p>
+<p><strong>Head Brewer / Brewmaster:</strong> Brewmasters are published per brewery (Golden, Milwaukee, Montreal among them); no single group title — admitted</p>
+<p><strong>Clients / Customers:</strong> North American wholesalers and retail; consumer-group form — admitted</p>
+<p><strong>Scale (dated):</strong> Net sales US$11.6 billion in FY2024 (annual report)</p>
+<p><strong>Offices / Footprint:</strong> HQ Chicago; historic breweries in Golden, Milwaukee, Montreal, Toronto and Burton-on-Trent</p>
+<p><strong>Website:</strong> <a href="https://molsoncoors.com">molsoncoors.com</a></p>
+<p><strong>Contact Email:</strong> Not published</p>
+<p><strong>Phone:</strong> +1 312 496 7400 (per company listings)</p>
+<p><strong>HQ Address:</strong> 250 South Wacker Drive, Chicago, IL 60606, USA (HQ); Coors Brewery, Golden, Colorado</p>
+<p><strong>Distinctiveness:</strong> Two founding families, two centuries each, one company — and the Banff-cold mythology of the Rockies on every can</p>
+<p><strong>Access / Entry:</strong> Trade via the North American wholesaler system</p>
+<p><strong>Notes:</strong> CEO succession verified: Goyal, a 24-year insider, took office 1 October 2025</p>
+<p><strong>Sources:</strong> molsoncoors.com; Molson Coors annual report 2024; CEO appointment releases (September 2025)</p>
+<h3>5. ASAHI GROUP HOLDINGS</h3>
+<p><em>Japan — Tokyo (Sumida) · Founded 1889</em></p>
+<p><strong>Category:</strong> Beverage group — beer-led (listed)</p>
+<p><strong>Region:</strong> Asia / global</p>
+<p><strong>HQ Country:</strong> Japan</p>
+<p><strong>Founded:</strong> 1889</p>
+<p><strong>History:</strong> Founded in Osaka in 1889; Asahi Super Dry (1987) reinvented Japanese beer and became the country&#x27;s No. 1 brand; from 2016 Asahi bought its way onto three continents — Peroni and Grolsch from the SABMiller breakup, Carlton &amp; United Breweries (2020, about US$11 billion) — becoming the most global of Japan&#x27;s brewers.</p>
+<p><strong>Ownership / Parent:</strong> Listed Tokyo Stock Exchange (2502); widely held</p>
+<p><strong>Leadership:</strong> Group chief-executive succession was effected in 2025 (Atsushi Katsuki&#x27;s tenure as President and CEO ended; the current title-holder is published at asahigroup-holdings.com) — stated with the succession recorded and the name to be re-verified at the next watch</p>
+<p><strong>Full C-Suite / Senior Leadership:</strong> Officers published at asahigroup-holdings.com</p>
+<p><strong>Specialties:</strong> Super Dry as a global flagship; Czech lager (Pilsner Urquell — the original pilsner, brewed in Plzeň since 1842); Australian beer (CUB); Japanese soft drinks and food alongside</p>
+<p><strong>Flagship Beers / Brands:</strong> Asahi Super Dry; Peroni Nastro Azzurro; Pilsner Urquell; Kozel; Grolsch; Tyskie; Lech; Carlton Draught; Victoria Bitter; Great Northern; Asahi Soukai and Clear Asahi (Japan)</p>
+<p><strong>Head Brewer / Brewmaster:</strong> Master brewers are published per brewery (Plzeň&#x27;s brewmaster is a public office in Czech brewing); the group title is not centralised — admitted</p>
+<p><strong>Clients / Customers:</strong> Trade in Japan, Oceania, Europe and 100+ export markets; consumer-group form — admitted</p>
+<p><strong>Scale (dated):</strong> Revenue ¥2.94 trillion in FY2024 (about US$19 billion; annual report)</p>
+<p><strong>Offices / Footprint:</strong> HQ Sumida, Tokyo; regional HQs in Melbourne, Prague/London (Asahi Europe &amp; International) and North America</p>
+<p><strong>Website:</strong> <a href="https://asahigroup-holdings.com">asahigroup-holdings.com</a></p>
+<p><strong>Contact Email:</strong> Not published</p>
+<p><strong>Phone:</strong> Per company site</p>
+<p><strong>HQ Address:</strong> 1-23-1 Azumabashi, Sumida-ku, Tokyo, Japan</p>
+<p><strong>Distinctiveness:</strong> The dry revolution exported: Asahi took a 1987 Tokyo taste and bought the breweries of Plzeň, Rome and Melbourne to carry it</p>
+<p><strong>Access / Entry:</strong> Trade via regional companies (Asahi Beverages, Asahi Europe &amp; International)</p>
+<p><strong>Notes:</strong> Leadership name flagged for re-verification — admitted in the entry, per this guide&#x27;s rule</p>
+<p><strong>Sources:</strong> asahigroup-holdings.com; Asahi annual report 2024</p>
+<h3>6. KIRIN HOLDINGS</h3>
+<p><em>Japan — Tokyo (Nakano) · Founded 1885 (Japan Brewery lineage); Kirin Brewery 1907</em></p>
+<p><strong>Category:</strong> Beverage and health group — beer-led (listed)</p>
+<p><strong>Region:</strong> Asia / Oceania</p>
+<p><strong>HQ Country:</strong> Japan</p>
+<p><strong>Founded:</strong> 1885 (Japan Brewery lineage); Kirin Brewery 1907</p>
+<p><strong>History:</strong> Descended from the Spring Valley Brewery of 1870 Yokohama, Kirin became a pillar of the Mitsubishi keiretsu and of Japanese beer; through Lion (Australia/New Zealand) it owns Tooheys and XXXX, and through its craft strategy it holds New Belgium Brewing in the US and a stake in Brooklyn Brewery; its health-science arm (Kyowa Kirin, Blackmores) makes it the most diversified of the majors.</p>
+<p><strong>Ownership / Parent:</strong> Listed Tokyo Stock Exchange (2503); widely held</p>
+<p><strong>Leadership:</strong> Toru Yoshimura — President and Chief Executive Officer (from 2025, succeeding Yoshinori Isozaki, per company announcements)</p>
+<p><strong>Full C-Suite / Senior Leadership:</strong> Officers published at kirinholdings.com</p>
+<p><strong>Specialties:</strong> Japanese lager and happoshu innovation; Australasian beer (Lion); US craft (New Belgium — the Voodoo Ranger IPA family); functional foods and pharmaceuticals beyond beer</p>
+<p><strong>Flagship Beers / Brands:</strong> Kirin Ichiban; Kirin Lager; Kirin Tanrei; Tooheys; XXXX; Hahn; Little Creatures; Stone &amp; Wood; White Claw is NOT Kirin — excluded deliberately; New Belgium Voodoo Ranger and Fat Tire; Brooklyn Brewery (24.5% stake, international partnership)</p>
+<p><strong>Head Brewer / Brewmaster:</strong> Per-brewery masters in Japan and at Lion; no group title — admitted</p>
+<p><strong>Clients / Customers:</strong> Trade in Japan, Oceania and export markets; consumer-group form — admitted</p>
+<p><strong>Scale (dated):</strong> Revenue ¥2.34 trillion in FY2024 (annual report)</p>
+<p><strong>Offices / Footprint:</strong> HQ Nakano, Tokyo; Lion HQ Sydney; New Belgium in Fort Collins, Colorado</p>
+<p><strong>Website:</strong> <a href="https://kirinholdings.com">kirinholdings.com</a></p>
+<p><strong>Contact Email:</strong> Not published</p>
+<p><strong>Phone:</strong> Per company site</p>
+<p><strong>HQ Address:</strong> Nakano Central Park South, 4-10-2 Nakano, Tokyo, Japan</p>
+<p><strong>Distinctiveness:</strong> The keiretsu brewer: Kirin&#x27;s beer money and its science money (immunology, fermentation) are one balance sheet</p>
+<p><strong>Access / Entry:</strong> Trade via Kirin Brewery, Lion and partners</p>
+<p><strong>Notes:</strong> White Claw is Mark Anthony Group&#x27;s, not Kirin&#x27;s — the kind of misattribution this guide exists to avoid; the exclusion is noted deliberately</p>
+<p><strong>Sources:</strong> kirinholdings.com; Kirin annual report 2024</p>
+<h3>7. CONSTELLATION BRANDS (BEER DIVISION)</h3>
+<p><em>United States — Victor / Rochester, New York; breweries in Mexico · Founded 1945</em></p>
+<p><strong>Category:</strong> Brewing — US importer-brewer (listed)</p>
+<p><strong>Region:</strong> North America</p>
+<p><strong>HQ Country:</strong> United States</p>
+<p><strong>Founded:</strong> 1945</p>
+<p><strong>History:</strong> Constellation&#x27;s beer division holds the US rights to Mexico&#x27;s Modelo portfolio — and Modelo Especial passed Bud Light in 2023 to become America&#x27;s best-selling beer. The brands are brewed in Mexico (Nava and Veracruz breweries) under the 2013 antitrust settlement that created the business; the group&#x27;s spirits arm is profiled in the Spirits Companies guide.</p>
+<p><strong>Ownership / Parent:</strong> Listed NYSE (STZ); Sands family voting control (see the Spirits entry)</p>
+<p><strong>Leadership:</strong> Bill Newlands — President and CEO (succession to Nicholas Fink announced — see the Spirits Companies entry, where the record is kept consistently)</p>
+<p><strong>Full C-Suite / Senior Leadership:</strong> As the Spirits Companies entry</p>
+<p><strong>Specialties:</strong> Mexican import lager in the US — a single-country, single-market brewing model of unmatched profitability</p>
+<p><strong>Flagship Beers / Brands:</strong> Modelo Especial (the No. 1 beer in the US by sales since 2023); Corona Extra; Corona Premier; Modelo Chelada; Pacifico; Victoria</p>
+<p><strong>Head Brewer / Brewmaster:</strong> Brewmasters are published at the Mexican breweries (Grupo Modelo lineage); group title not published — admitted</p>
+<p><strong>Clients / Customers:</strong> US wholesalers and retail chains; consumer-group form — admitted</p>
+<p><strong>Scale (dated):</strong> Beer net sales about US$8.3 billion in FY2025 (segment reporting) — from essentially four brands</p>
+<p><strong>Offices / Footprint:</strong> HQ Rochester/Victor, New York; Cervecería Modelo breweries at Nava (Coahuila) and Veracruz, Mexico</p>
+<p><strong>Website:</strong> <a href="https://cbrands.com">cbrands.com</a></p>
+<p><strong>Contact Email:</strong> Not published</p>
+<p><strong>Phone:</strong> Per company listings</p>
+<p><strong>HQ Address:</strong> Rochester, New York, USA (executive offices per filings)</p>
+<p><strong>Distinctiveness:</strong> The most profitable narrowness in world beer: one country&#x27;s brands, one market, the top of the American chart</p>
+<p><strong>Access / Entry:</strong> US wholesaler network</p>
+<p><strong>Notes:</strong> Cross-reference: the same company appears in the Spirits Companies guide for its whiskey and tequila houses; the two entries are written to agree</p>
+<p><strong>Sources:</strong> cbrands.com; Constellation annual report 2025 (segment reporting)</p>
+<h3>8. CHINA RESOURCES BEER (SNOW BEER)</h3>
+<p><em>China — Beijing / Hong Kong · Founded 1993 (joint venture lineage)</em></p>
+<p><strong>Category:</strong> Brewing group (listed, state-owned)</p>
+<p><strong>Region:</strong> Asia</p>
+<p><strong>HQ Country:</strong> China</p>
+<p><strong>Founded:</strong> 1993 (joint venture lineage)</p>
+<p><strong>History:</strong> China Resources, the state conglomerate, built CR Beer with SABMiller from 1994; its Snow brand became the largest-selling beer brand on earth by volume — more than any other single brand — on the strength of China&#x27;s mass market; since 2018 in strategic partnership with Heineken (which holds 40% of the parent and licenses its brands in China), the group is premiumising (SuperX, Heineken, and high-end Chinese brands).</p>
+<p><strong>Ownership / Parent:</strong> Listed HKEX (0291); China Resources (Holdings) is the controlling shareholder; Heineken holds 40% of CRH (Beer) Ltd, the intermediate parent</p>
+<p><strong>Leadership:</strong> Chairman Hou Xiaohai led the group through its premiumisation era; board composition per HKEX filings (a 2025 succession was reported — the current chairman should be taken from the filings at the next watch; stated plainly)</p>
+<p><strong>Full C-Suite / Senior Leadership:</strong> Directors and senior management published in HKEX filings and the annual report</p>
+<p><strong>Specialties:</strong> Volume lager at continental scale (Snow) plus a premium ladder built with Heineken; the largest brewer in the world&#x27;s largest beer market</p>
+<p><strong>Flagship Beers / Brands:</strong> Snow (the world&#x27;s largest beer brand by volume); SuperX; Brave the World (Snow premium line); Heineken, Amstel and Tiger (China, under the Heineken partnership); Marshal, Lolita and other regional brands</p>
+<p><strong>Head Brewer / Brewmaster:</strong> Not published at group level — admitted</p>
+<p><strong>Clients / Customers:</strong> Chinese distributors and retail; consumer-group form — admitted</p>
+<p><strong>Scale (dated):</strong> Revenue RMB 43.9 billion in FY2024 and beer sales volume of about 10.9 billion litres (annual report); Snow&#x27;s brand volume alone exceeds most national markets</p>
+<p><strong>Offices / Footprint:</strong> HQ Beijing (China Resources Building) with Hong Kong listing; breweries across China (60+ plants historically)</p>
+<p><strong>Website:</strong> <a href="https://crbeer.com.hk">crbeer.com.hk</a></p>
+<p><strong>Contact Email:</strong> Not published (IR routes at crbeer.com.hk)</p>
+<p><strong>Phone:</strong> Per company site</p>
+<p><strong>HQ Address:</strong> Beijing, China (principal operations); registered/listing presence Hong Kong</p>
+<p><strong>Distinctiveness:</strong> The biggest beer most Western drinkers have never seen: Snow sells more in China than the entire beer markets of most continents&#x27; countries</p>
+<p><strong>Access / Entry:</strong> Trade via CR Beer&#x27;s Chinese distribution</p>
+<p><strong>Notes:</strong> Chairmanship flagged for re-verification (2025 succession reporting) — admitted</p>
+<p><strong>Sources:</strong> crbeer.com.hk; CR Beer annual report 2024; Heineken partnership releases (2018)</p>
+<h3>9. TSINGTAO BREWERY</h3>
+<p><em>China — Qingdao, Shandong · Founded 1903</em></p>
+<p><strong>Category:</strong> Brewing company (listed)</p>
+<p><strong>Region:</strong> Asia</p>
+<p><strong>HQ Country:</strong> China</p>
+<p><strong>Founded:</strong> 1903</p>
+<p><strong>History:</strong> Founded in 1903 as the Germania-Brauerei by German and British merchants in the Kiautschou concession; the beer of Qingdao became China&#x27;s national export brand — the bottle on every Chinese-restaurant table on earth — and its home city&#x27;s beer festival (since 1991) is Asia&#x27;s largest; Anheuser-Busch held a stake for a period (sold to Asahi, then onward) — today the Qingdao state is the anchor shareholder.</p>
+<p><strong>Ownership / Parent:</strong> Listed HKEX (0168) and Shanghai (600600); Qingdao SASAC interests are the controlling bloc</p>
+<p><strong>Leadership:</strong> Chairman and president per company filings (the chairmanship changed hands in the mid-2020s; names per the latest annual report — stated from filings, not memory)</p>
+<p><strong>Full C-Suite / Senior Leadership:</strong> Directors and officers published in HKEX/SSE filings</p>
+<p><strong>Specialties:</strong> Export lager (the green-bottle Tsingtao), Laoshan value brands, and a premium line (Tsingtao 1903, Augerta)</p>
+<p><strong>Flagship Beers / Brands:</strong> Tsingtao (Classic, Pure Draft, 1903); Laoshan; Hans (Xi&#x27;an regional); Augerta</p>
+<p><strong>Head Brewer / Brewmaster:</strong> The Tsingtao brewmaster tradition is published per brewery; group title not printed — admitted</p>
+<p><strong>Clients / Customers:</strong> Chinese trade and export to 100+ countries (company figures)</p>
+<p><strong>Scale (dated):</strong> Revenue RMB 32.1 billion in FY2024 (annual report)</p>
+<p><strong>Offices / Footprint:</strong> HQ Qingdao; breweries across China (50+ plants)</p>
+<p><strong>Website:</strong> <a href="https://tsingtao.com">tsingtao.com</a></p>
+<p><strong>Contact Email:</strong> Not published</p>
+<p><strong>Phone:</strong> Per company site</p>
+<p><strong>HQ Address:</strong> Tsingtao Beer Tower, May Fourth Square area, Shinan District, Qingdao, China (per company materials)</p>
+<p><strong>Distinctiveness:</strong> A colonial brewery that became a nation&#x27;s calling card — and the museum on Dengzhou Road, in the 1903 brewhouse, is China&#x27;s beer cathedral</p>
+<p><strong>Access / Entry:</strong> Trade via national distribution and exporters</p>
+<p><strong>Notes:</strong> Leadership names are taken from filings rather than asserted from memory — the honest form for a twice-changed chairmanship</p>
+<p><strong>Sources:</strong> tsingtao.com; Tsingtao annual report 2024</p>
+<h3>10. THAI BEVERAGE (THAIBEV)</h3>
+<p><em>Thailand — Bangkok · Founded 2003 (merger of the Charoen Siriwattanapakdi drinks interests)</em></p>
+<p><strong>Category:</strong> Beverage group — beer and spirits (listed)</p>
+<p><strong>Region:</strong> Asia</p>
+<p><strong>HQ Country:</strong> Thailand</p>
+<p><strong>Founded:</strong> 2003 (merger of the Charoen Siriwattanapakdi drinks interests)</p>
+<p><strong>History:</strong> Charoen Siriwattanapakdi consolidated Thailand&#x27;s beer and spirits monopolies&#x27; heirs into ThaiBev (listed in Singapore, 2006); Chang beer (1995) broke the Singha order at home; the group then bought control of Vietnam&#x27;s Sabeco (2017, about US$4.8 billion) — Southeast Asia&#x27;s largest brewer by footprint.</p>
+<p><strong>Ownership / Parent:</strong> Listed SGX (Y92); the Siriwattanapakdi family controls the group</p>
+<p><strong>Leadership:</strong> Thapana Sirivadhanabhakdi — President and Chief Executive Officer</p>
+<p><strong>Full C-Suite / Senior Leadership:</strong> Senior management published at thaibev.com</p>
+<p><strong>Specialties:</strong> Thai lager (Chang), Vietnamese lager (Sabeco&#x27;s Saigon and 333), Thai spirits (Mekhong, SangSom, Blend 285) and a food/retail tail (Oishi, KFC Thailand franchise)</p>
+<p><strong>Flagship Beers / Brands:</strong> Chang (Classic, Espresso lager variants); Saigon Special; Bia Larue; 333; Archa; Federbräu; (spirits: SangSom, Mekhong)</p>
+<p><strong>Head Brewer / Brewmaster:</strong> Per-brewery masters; group title not published — admitted</p>
+<p><strong>Clients / Customers:</strong> Trade across ASEAN; consumer-group form — admitted</p>
+<p><strong>Scale (dated):</strong> Revenue THB 342 billion in FY2024 (annual report, year to September 2024)</p>
+<p><strong>Offices / Footprint:</strong> HQ Bangkok (Sangsom Building lineage; ThaiBev Tower); breweries in Thailand, Vietnam and Myanmar interests</p>
+<p><strong>Website:</strong> <a href="https://thaibev.com">thaibev.com</a></p>
+<p><strong>Contact Email:</strong> Not published</p>
+<p><strong>Phone:</strong> Per company site</p>
+<p><strong>HQ Address:</strong> Bangkok, Thailand (per company materials)</p>
+<p><strong>Distinctiveness:</strong> The elephant of ASEAN: Chang&#x27;s two elephants front the largest drinks empire between China and India</p>
+<p><strong>Access / Entry:</strong> Trade via national companies</p>
+<p><strong>Sources:</strong> thaibev.com; ThaiBev annual report 2024</p>
+<h3>11. SAN MIGUEL BREWERY</h3>
+<p><em>Philippines — Mandaluyong, Metro Manila · Founded 1890</em></p>
+<p><strong>Category:</strong> Brewing company (listed parent)</p>
+<p><strong>Region:</strong> Asia</p>
+<p><strong>HQ Country:</strong> Philippines</p>
+<p><strong>Founded:</strong> 1890</p>
+<p><strong>History:</strong> Founded in 1890 in Spanish Manila — Southeast Asia&#x27;s oldest brewery — San Miguel Pale Pilsen became the region&#x27;s defining beer and the Philippines&#x27; national brand (about nine in ten Filipino beers poured); the brewery sits inside Ramon Ang&#x27;s San Miguel Corporation, the country&#x27;s largest conglomerate.</p>
+<p><strong>Ownership / Parent:</strong> San Miguel Food and Beverage, Inc. / San Miguel Corporation, listed PSE (SMC); Ramon S. Ang is the group&#x27;s chairman and CEO</p>
+<p><strong>Leadership:</strong> Ramon S. Ang — Chairman (group); brewery executive leadership per San Miguel filings</p>
+<p><strong>Full C-Suite / Senior Leadership:</strong> Officers published in PSE filings</p>
+<p><strong>Specialties:</strong> Philippine lager at near-monopoly share; Hong Kong brewing (San Miguel Brewery Hong Kong, separately listed lineage); export to Filipino diaspora markets worldwide</p>
+<p><strong>Flagship Beers / Brands:</strong> San Miguel Pale Pilsen; San Mig Light; Red Horse (extra-strong); San Miguel Flavored Beer; Gold Eagle; Cali (non-alcoholic)</p>
+<p><strong>Head Brewer / Brewmaster:</strong> Per-brewery masters; the Pale Pilsen recipe is the company&#x27;s founding document (1890)</p>
+<p><strong>Clients / Customers:</strong> Philippine trade — sari-sari stores to supermarkets; consumer-group form — admitted</p>
+<p><strong>Scale (dated):</strong> San Miguel Brewery revenue in the PHP 150 billion range in recent reported years (segment reporting) — printed as the segment range, not a false point figure</p>
+<p><strong>Offices / Footprint:</strong> HQ Mandaluyong; breweries across the Philippines (Polo, San Fernando, Mandaue, Bacolod, Davao) and Hong Kong</p>
+<p><strong>Website:</strong> <a href="https://sanmiguelbrewery.com.ph">sanmiguelbrewery.com.ph</a></p>
+<p><strong>Contact Email:</strong> Not published</p>
+<p><strong>Phone:</strong> Per company site</p>
+<p><strong>HQ Address:</strong> 40 San Miguel Avenue, Mandaluyong City, Metro Manila, Philippines</p>
+<p><strong>Distinctiveness:</strong> A beer so national that &quot;San Miguel&quot; names the country&#x27;s biggest company, its basketball team and its diaspora&#x27;s homesickness</p>
+<p><strong>Access / Entry:</strong> Trade via Philippine distribution</p>
+<p><strong>Sources:</strong> sanmiguelbrewery.com.ph; San Miguel Corporation annual reporting</p>
+<h3>12. BEIJING YANJING BEER</h3>
+<p><em>China — Beijing (Shunyi) · Founded 1980</em></p>
+<p><strong>Category:</strong> Brewing company (listed, state-owned)</p>
+<p><strong>Region:</strong> Asia</p>
+<p><strong>HQ Country:</strong> China</p>
+<p><strong>Founded:</strong> 1980</p>
+<p><strong>History:</strong> Founded in 1980 in Beijing&#x27;s Shunyi district; the capital&#x27;s own brewer and for years China&#x27;s No. 2 or 3 by volume, built on municipal pride and the Yanjing name; its U8 small-bottle line powered a 2020s revival as the group fights Snow and Tsingtao on premium ground.</p>
+<p><strong>Ownership / Parent:</strong> Listed Shenzhen (000729); Beijing Enterprises / Beijing SASAC interests control the group</p>
+<p><strong>Leadership:</strong> Chairman per company filings (the group&#x27;s leadership is published in SZSE filings; stated from filings at press time)</p>
+<p><strong>Full C-Suite / Senior Leadership:</strong> Directors and officers in SZSE filings</p>
+<p><strong>Specialties:</strong> Beijing-market lager and the U8 premium-small-format strategy; Inner Mongolia and Guangxi regional strengths (Hohhot and Guilin breweries)</p>
+<p><strong>Flagship Beers / Brands:</strong> Yanjing Beer; Yanjing U8; Yanjing Draft; Huiquan (Fujian subsidiary brand); Xiongan and regional lines</p>
+<p><strong>Head Brewer / Brewmaster:</strong> Not published at group level — admitted</p>
+<p><strong>Clients / Customers:</strong> Chinese trade, Beijing first; consumer-group form — admitted</p>
+<p><strong>Scale (dated):</strong> Revenue about RMB 14.7 billion in FY2024 (annual report)</p>
+<p><strong>Offices / Footprint:</strong> HQ Shunyi, Beijing; breweries across China (about 50 plants in the group&#x27;s history)</p>
+<p><strong>Website:</strong> <a href="https://yanjing.com.cn">yanjing.com.cn</a></p>
+<p><strong>Contact Email:</strong> Not published</p>
+<p><strong>Phone:</strong> Per company site</p>
+<p><strong>HQ Address:</strong> Shunyi District, Beijing, China (per company materials)</p>
+<p><strong>Distinctiveness:</strong> The capital&#x27;s pour: Yanjing is what Beijing drinks at its own table, and its revival is a case study in premiumising a municipal brand</p>
+<p><strong>Access / Entry:</strong> Trade via Chinese distribution</p>
+<p><strong>Sources:</strong> yanjing.com.cn; Yanjing annual report 2024</p>
+<h2>THE CRAFT TIER</h2>
+<h3>13. SIERRA NEVADA BREWING CO.</h3>
+<p><em>United States — Chico, California · Founded 1980</em></p>
+<p><strong>Category:</strong> Craft brewery (private, family)</p>
+<p><strong>Region:</strong> North America</p>
+<p><strong>HQ Country:</strong> United States</p>
+<p><strong>Founded:</strong> 1980</p>
+<p><strong>History:</strong> Ken Grossman, a homebrewer who built his first brewhouse from scrap dairy equipment, bottled Sierra Nevada Pale Ale in 1980 and effectively started the American craft industry; still family-owned, with a second brewery in Mills River, North Carolina (2014) and solar arrays that made it a sustainability exemplar.</p>
+<p><strong>Ownership / Parent:</strong> Private — the Grossman family</p>
+<p><strong>Leadership:</strong> Ken Grossman — Founder; Jeff White — Chief Executive Officer (per company announcements)</p>
+<p><strong>Full C-Suite / Senior Leadership:</strong> Leadership published at sierranevada.com</p>
+<p><strong>Specialties:</strong> West Coast pale ale and IPA at craft&#x27;s largest independent scale; barrel-aged and experimental programmes (Chico estate)</p>
+<p><strong>Flagship Beers / Brands:</strong> Pale Ale (the founding text of American craft); Hazy Little Thing IPA; Torpedo Extra IPA; Celebration Fresh Hop IPA; Bigfoot Barleywine; Kellerweis</p>
+<p><strong>Head Brewer / Brewmaster:</strong> Scott Jennings — Brewmaster (Innovation); the Chico and Mills River brewing teams are published by the company</p>
+<p><strong>Clients / Customers:</strong> US distributors and retail; consumer-group form — admitted</p>
+<p><strong>Scale (dated):</strong> Production in the region of one million barrels a year at its peak years (Brewers Association data); the largest independent craft brewer by heritage position</p>
+<p><strong>Offices / Footprint:</strong> Chico, California and Mills River, North Carolina</p>
+<p><strong>Website:</strong> <a href="https://sierranevada.com">sierranevada.com</a></p>
+<p><strong>Contact Email:</strong> Not published</p>
+<p><strong>Phone:</strong> Per company site</p>
+<p><strong>HQ Address:</strong> 1075 East 20th Street, Chico, CA 95928, USA</p>
+<p><strong>Distinctiveness:</strong> Patient zero of the craft era — and still family-held at a scale its imitators mostly sold away</p>
+<p><strong>Access / Entry:</strong> Trade via US distribution; taprooms at both breweries</p>
+<p><strong>Sources:</strong> sierranevada.com; Brewers Association craft data</p>
+<h3>14. BOSTON BEER COMPANY (SAMUEL ADAMS)</h3>
+<p><em>United States — Boston, Massachusetts · Founded 1984</em></p>
+<p><strong>Category:</strong> Craft-founded beverage company (listed)</p>
+<p><strong>Region:</strong> North America</p>
+<p><strong>HQ Country:</strong> United States</p>
+<p><strong>Founded:</strong> 1984</p>
+<p><strong>History:</strong> Jim Koch brewed his great-great-grandfather&#x27;s lager recipe in his kitchen in 1984 and built Samuel Adams on contract brewing and evangelism; the company he created now sells as much hard tea (Twisted Tea) and seltzer heritage (Truly) as beer — a fact this entry states plainly, because it is the craft era&#x27;s central plot twist.</p>
+<p><strong>Ownership / Parent:</strong> Listed NYSE (SAM); Jim Koch controls voting via Class B shares</p>
+<p><strong>Leadership:</strong> Jim Koch — Founder and Chairman; Michael Spillane — President and Chief Executive Officer (since April 2024)</p>
+<p><strong>Full C-Suite / Senior Leadership:</strong> Executive officers published at bostonbeer.com and in SEC filings</p>
+<p><strong>Specialties:</strong> Lager heritage (Boston Lager), seasonal craft (Octoberfest, Summer Ale), and the flavoured-alcohol empire (Twisted Tea, Truly, Angry Orchard cider, Dogfish Head since 2019)</p>
+<p><strong>Flagship Beers / Brands:</strong> Samuel Adams Boston Lager; Sam Adams Octoberfest; Twisted Tea; Truly Hard Seltzer; Angry Orchard; Dogfish Head 90 Minute IPA (via the 2019 merger)</p>
+<p><strong>Head Brewer / Brewmaster:</strong> The Boston brewery and R&amp;D nano-brewery on Germania Street, Jamaica Plain, are the company&#x27;s published craft centre</p>
+<p><strong>Clients / Customers:</strong> US wholesalers; consumer-group form — admitted</p>
+<p><strong>Scale (dated):</strong> Depletions of about 7.9 million barrels in FY2024 (company reporting) — the majority no longer beer; stated as reported</p>
+<p><strong>Offices / Footprint:</strong> HQ Boston (One Design Center Place); breweries in Boston, Cincinnati (the Samuel Adams Cincinnati brewery), Milton, Delaware (Dogfish Head) and contract capacity</p>
+<p><strong>Website:</strong> <a href="https://bostonbeer.com / samueladams.com">bostonbeer.com / samueladams.com</a></p>
+<p><strong>Contact Email:</strong> Not published</p>
+<p><strong>Phone:</strong> Per company site</p>
+<p><strong>HQ Address:</strong> One Design Center Place, Boston, MA 02210, USA</p>
+<p><strong>Distinctiveness:</strong> The evangelist incorporated: Koch proved craft could be a public company — and then proved the public company would follow the tea money</p>
+<p><strong>Access / Entry:</strong> Trade via US wholesalers</p>
+<p><strong>Sources:</strong> bostonbeer.com; Boston Beer annual report 2024</p>
+<h3>15. NEW BELGIUM BREWING</h3>
+<p><em>United States — Fort Collins, Colorado · Founded 1991</em></p>
+<p><strong>Category:</strong> Craft brewery (group-owned)</p>
+<p><strong>Region:</strong> North America</p>
+<p><strong>HQ Country:</strong> United States</p>
+<p><strong>Founded:</strong> 1991</p>
+<p><strong>History:</strong> Founded by Jeff Lebesch and Kim Jordan after a Belgian cycling trip; employee-owned for a storied period (ESOP to 100% in 2013); sold to Lion (Kirin) in 2019. Fat Tire&#x27;s 2023 reformulation and the Voodoo Ranger family&#x27;s rise made it the largest craft brewer in America by several recent measures.</p>
+<p><strong>Ownership / Parent:</strong> Lion Pty Ltd (Kirin Holdings) — acquired 2019</p>
+<p><strong>Leadership:</strong> Shaun Belongie — Chief Executive Officer (per company announcements)</p>
+<p><strong>Full C-Suite / Senior Leadership:</strong> Leadership published at newbelgium.com</p>
+<p><strong>Specialties:</strong> IPA at national scale (Voodoo Ranger is the largest US craft IPA family), Belgian styles, and the Asheville eastern brewery</p>
+<p><strong>Flagship Beers / Brands:</strong> Voodoo Ranger IPA (and Juice Force); Fat Tire Ale; Mountain Time Lager; La Folie (wood-aged sour); Trippel</p>
+<p><strong>Head Brewer / Brewmaster:</strong> Brewing leadership published at newbelgium.com (Fort Collins and Asheville brew teams)</p>
+<p><strong>Clients / Customers:</strong> US distributors; consumer-group form — admitted</p>
+<p><strong>Scale (dated):</strong> Production in the region of 850,000–1,000,000 barrels in recent years (Brewers Association data) — printed as the BA range</p>
+<p><strong>Offices / Footprint:</strong> Fort Collins, Colorado and Asheville, North Carolina; San Francisco taproom lineage</p>
+<p><strong>Website:</strong> <a href="https://newbelgium.com">newbelgium.com</a></p>
+<p><strong>Contact Email:</strong> Not published</p>
+<p><strong>Phone:</strong> Per company site</p>
+<p><strong>HQ Address:</strong> 500 Linden Street, Fort Collins, CO 80524, USA</p>
+<p><strong>Distinctiveness:</strong> The employee-owned utopia that sold to a keiretsu and grew: craft&#x27;s most debated happy ending</p>
+<p><strong>Access / Entry:</strong> Trade via US distribution</p>
+<p><strong>Sources:</strong> newbelgium.com; Kirin/Lion releases (2019); Brewers Association data</p>
+<h3>16. DUVEL MOORTGAT</h3>
+<p><em>Belgium — Puurs-Sint-Amands (Breendonk) · Founded 1871</em></p>
+<p><strong>Category:</strong> Craft and speciality brewing group (private, family)</p>
+<p><strong>Region:</strong> Europe</p>
+<p><strong>HQ Country:</strong> Belgium</p>
+<p><strong>Founded:</strong> 1871</p>
+<p><strong>History:</strong> A Flemish family brewery of 1871 whose golden ale — Duvel, &quot;devil&quot;, launched in 1923 and perfected over decades — became the template for strong Belgian golden ale; the fourth-generation Moortgat family then quietly assembled the finest craft portfolio in the world: De Koninck, La Chouffe, Liefmans, Boulevard (Kansas City), Firestone Walker (California) and Ommegang (New York).</p>
+<p><strong>Ownership / Parent:</strong> Private — the Moortgat family (delisted 2013)</p>
+<p><strong>Leadership:</strong> Michel Moortgat — Chief Executive Officer (fourth generation)</p>
+<p><strong>Full C-Suite / Senior Leadership:</strong> Management published at duvelmoortgat.com</p>
+<p><strong>Specialties:</strong> Belgian strong ales and abbey styles at home; American craft at scale abroad (Boulevard is among the largest US craft brewers; Firestone Walker a California institution)</p>
+<p><strong>Flagship Beers / Brands:</strong> Duvel; Vedett; La Chouffe; De Koninck (Antwerp); Liefmans Goudenband; Boulevard Tank 7 and Unfiltered Wheat; Firestone Walker 805 and Mind Haze; Ommegang Abbey Ale; Brasserie d&#x27;Achouffe and Brouwerij &#x27;t IJ (Amsterdam)</p>
+<p><strong>Head Brewer / Brewmaster:</strong> Brewmasters are published per brewery; the Duvel recipe&#x27;s guardianship sits with the Puurs brewing team</p>
+<p><strong>Clients / Customers:</strong> Trade in 60+ countries; consumer-group form — admitted</p>
+<p><strong>Scale (dated):</strong> Private: group volumes are not published in a single figure; the US arm alone (Boulevard + Firestone Walker + Ommegang) is a top-ten American craft group — stated in that form</p>
+<p><strong>Offices / Footprint:</strong> HQ Breendonk/Puurs, Belgium; breweries in Belgium, Kansas City, Paso Robles and Cooperstown</p>
+<p><strong>Website:</strong> <a href="https://duvelmoortgat.com">duvelmoortgat.com</a></p>
+<p><strong>Contact Email:</strong> Not published</p>
+<p><strong>Phone:</strong> Per company site</p>
+<p><strong>HQ Address:</strong> Breendonk-Dorp 58, 2870 Puurs-Sint-Amands, Belgium</p>
+<p><strong>Distinctiveness:</strong> The connoisseur&#x27;s roll-up: every acquisition a brewery the family itself admired — the anti-InBev, owned by people who drink the product</p>
+<p><strong>Access / Entry:</strong> Trade via national subsidiaries and importers</p>
+<p><strong>Sources:</strong> duvelmoortgat.com; transaction records (Boulevard 2013; Firestone Walker 2015)</p>
+<h3>17. BROOKLYN BREWERY</h3>
+<p><em>United States — Brooklyn, New York · Founded 1988</em></p>
+<p><strong>Category:</strong> Craft brewery (private; international partnership)</p>
+<p><strong>Region:</strong> North America</p>
+<p><strong>HQ Country:</strong> United States</p>
+<p><strong>Founded:</strong> 1988</p>
+<p><strong>History:</strong> Founded by Steve Hindy and Tom Potter in 1988, with labels by Milton Glaser (the &quot;I ♥ NY&quot; designer) and, from 1994, brewmaster Garrett Oliver — who became craft beer&#x27;s great ambassador and editor of The Oxford Companion to Beer. Carlsberg handles much of its international business (with Kirin a shareholder); its Williamsburg brewery closed in 2024 as the company restructured around a planned Greenpoint brewery.</p>
+<p><strong>Ownership / Parent:</strong> Private; Carlsberg is its international partner and Kirin holds a minority stake (24.5%)</p>
+<p><strong>Leadership:</strong> Eric Ottaway — Chief Executive Officer; Garrett Oliver — Brewmaster (since 1994)</p>
+<p><strong>Full C-Suite / Senior Leadership:</strong> Leadership published at brooklynbrewery.com</p>
+<p><strong>Specialties:</strong> Lager brewed to a pre-Prohibition Brooklyn recipe; a global programme of partner breweries and &quot;ghost bottle&quot; special editions; Oliver&#x27;s food-and-beer evangelism</p>
+<p><strong>Flagship Beers / Brands:</strong> Brooklyn Lager; Brooklyn Pilsner; East IPA; Defender IPA; Special Effects (non-alcoholic line)</p>
+<p><strong>Head Brewer / Brewmaster:</strong> Garrett Oliver — Brewmaster (the most decorated ambassador-title in American craft)</p>
+<p><strong>Clients / Customers:</strong> Trade in 30+ countries via Carlsberg and partners</p>
+<p><strong>Scale (dated):</strong> Production has contracted from its 2010s peak (~280,000 barrels) during restructuring — stated in that honest form rather than a stale peak figure</p>
+<p><strong>Offices / Footprint:</strong> Brooklyn, New York (Williamsburg tasting-room era closed 2024; Greenpoint brewery in development per company statements)</p>
+<p><strong>Website:</strong> <a href="https://brooklynbrewery.com">brooklynbrewery.com</a></p>
+<p><strong>Contact Email:</strong> Not published</p>
+<p><strong>Phone:</strong> Per company site</p>
+<p><strong>HQ Address:</strong> Brooklyn, New York, USA (per company site)</p>
+<p><strong>Distinctiveness:</strong> The brewery as cultural embassy: no craft brewer exported an idea of a city the way Brooklyn exported Brooklyn</p>
+<p><strong>Access / Entry:</strong> Trade via Carlsberg internationally and US distributors</p>
+<p><strong>Notes:</strong> Status treated as reported: Williamsburg production ended in 2024; the company brews through partner and contract capacity pending its Greenpoint project — re-verify at the next watch</p>
+<p><strong>Sources:</strong> brooklynbrewery.com; Carlsberg/Kirin partnership releases; 2024 restructuring reporting</p>
+<h3>18. MIKKELLER</h3>
+<p><em>Denmark — Copenhagen · Founded 2006</em></p>
+<p><strong>Category:</strong> Craft brewery and bar group (private)</p>
+<p><strong>Region:</strong> Europe</p>
+<p><strong>HQ Country:</strong> Denmark</p>
+<p><strong>Founded:</strong> 2006</p>
+<p><strong>History:</strong> Mikkel Borg Bjergsø, a physics teacher brewing in his kitchen, built Mikkeller as the archetypal &quot;gypsy brewer&quot; — no brewery of his own, hundreds of collaborations, bars from Tokyo to San Francisco — before buying breweries (including a San Diego plant, later sold) and, in 2024, taking Carlsberg in as a minority partner for distribution. The bar empire has since retrenched to its strongest rooms.</p>
+<p><strong>Ownership / Parent:</strong> Private — founder-led; Carlsberg took a minority stake (2024)</p>
+<p><strong>Leadership:</strong> Mikkel Borg Bjergsø — Founder; Kenneth Madsen — Chief Executive Officer (per company announcements)</p>
+<p><strong>Full C-Suite / Senior Leadership:</strong> Leadership published at mikkeller.com</p>
+<p><strong>Specialties:</strong> Recipe-led brewing without walls: stouts, sours and spontaneous fermentation (the Baghaven wild-ale brewery), plus running festivals (MBCC) and bars</p>
+<p><strong>Flagship Beers / Brands:</strong> Beer Geek Breakfast (and its brunch offspring); Henry Hops; Peter, Pale and Mary (gluten-free); the Spontan series; Windy Hill</p>
+<p><strong>Head Brewer / Brewmaster:</strong> The Mikkeller recipe team under the founder; Baghaven&#x27;s blenders for the wild programme</p>
+<p><strong>Clients / Customers:</strong> Bars, bottle shops and festivals in 50+ export markets</p>
+<p><strong>Scale (dated):</strong> Volumes are not published; the group&#x27;s bar count has contracted from a 40+ peak — stated in that form (see Notes)</p>
+<p><strong>Offices / Footprint:</strong> HQ Copenhagen (Vesterbro); bars in Copenhagen, Tokyo, London, Paris and beyond (count varies — company site is the record)</p>
+<p><strong>Website:</strong> <a href="https://mikkeller.com">mikkeller.com</a></p>
+<p><strong>Contact Email:</strong> Not published</p>
+<p><strong>Phone:</strong> Per company site</p>
+<p><strong>HQ Address:</strong> Vesterbrogade area, Copenhagen, Denmark (HQ per company site)</p>
+<p><strong>Distinctiveness:</strong> The brewery that was an idea before it was a building — craft&#x27;s purest brand-first experiment</p>
+<p><strong>Access / Entry:</strong> Via mikkeller.com and its bars</p>
+<p><strong>Notes:</strong> Status stated honestly: the 2019-era global bar map has retrenched; Carlsberg&#x27;s 2024 minority investment repositioned the company around beer and its Copenhagen base</p>
+<p><strong>Sources:</strong> mikkeller.com; Carlsberg–Mikkeller releases (2024)</p>
+<h3>19. STONE BREWING (SAPPORO-STONE BREWING)</h3>
+<p><em>United States — Escondido, California · Founded 1996</em></p>
+<p><strong>Category:</strong> Craft brewery (group-owned) — status entry</p>
+<p><strong>Region:</strong> North America</p>
+<p><strong>HQ Country:</strong> United States</p>
+<p><strong>Founded:</strong> 1996</p>
+<p><strong>History:</strong> Founded by Greg Koch and Steve Wagner in 1996; Stone defined West Coast arrogance — Arrogant Bastard Ale, the gargoyle, the &quot;You&#x27;re Not Worthy&quot; voice — and Koch spent two decades as craft&#x27;s loudest opponent of selling to big beer. In 2022 Stone was acquired by Sapporo (about US$165 million) and now operates as Sapporo-Stone Brewing, brewing Sapporo&#x27;s US volumes alongside the Stone brands; Koch departed his executive role in 2023.</p>
+<p><strong>Ownership / Parent:</strong> Sapporo Holdings (acquired 2022)</p>
+<p><strong>Leadership:</strong> Operated within Sapporo USA / Sapporo-Stone Brewing; leadership published at sapporostonebrewing.com; co-founder Greg Koch no longer holds an executive role</p>
+<p><strong>Full C-Suite / Senior Leadership:</strong> As published by the parent — admitted in this form</p>
+<p><strong>Specialties:</strong> West Coast IPA in its most assertive dialect; the Enjoy By freshness programme; large-scale lager brewing for Sapporo&#x27;s US market</p>
+<p><strong>Flagship Beers / Brands:</strong> Stone IPA; Stone Delicious IPA; Arrogant Bastard Ale; Stone Enjoy By; Stone Buenaveza; Sapporo Premium (US-brewed)</p>
+<p><strong>Head Brewer / Brewmaster:</strong> The Stone brewing teams at Escondido and Richmond; names per the company site</p>
+<p><strong>Clients / Customers:</strong> US distributors; consumer-group form — admitted</p>
+<p><strong>Scale (dated):</strong> Stone was a top-ten US craft brewer at its independent peak (about 400,000+ barrels); combined Sapporo-Stone volumes are reported by the parent in aggregate — stated in that form</p>
+<p><strong>Offices / Footprint:</strong> Escondido and Richmond, Virginia breweries; the Stone Brewing World Bistro &amp; Gardens remain the brand&#x27;s cathedrals</p>
+<p><strong>Website:</strong> <a href="https://stonebrewing.com">stonebrewing.com</a></p>
+<p><strong>Contact Email:</strong> Not published</p>
+<p><strong>Phone:</strong> Per company site</p>
+<p><strong>HQ Address:</strong> 1999 Citracado Parkway, Escondido, CA 92029, USA</p>
+<p><strong>Distinctiveness:</strong> The loudest &quot;never&quot; in craft, sold — and the beer survived the argument: Stone is the case study every craft founder now studies</p>
+<p><strong>Access / Entry:</strong> Trade via US distribution</p>
+<p><strong>Notes:</strong> Status treated honestly per the brief: the brand and breweries continue under Sapporo; the independence era (1996–2022) is closed and is recorded as closed</p>
+<p><strong>Sources:</strong> stonebrewing.com; Sapporo acquisition releases (2022); Sapporo-Stone reporting (2023–25)</p>
+<h3>20. BREWDOG</h3>
+<p><em>United Kingdom (Scotland) — Ellon, Aberdeenshire · Founded 2007</em></p>
+<p><strong>Category:</strong> Craft brewery (rescued; group-owned) — status entry</p>
+<p><strong>Region:</strong> Europe</p>
+<p><strong>HQ Country:</strong> United Kingdom (Scotland)</p>
+<p><strong>Founded:</strong> 2007</p>
+<p><strong>History:</strong> Founded in Fraserburgh in 2007 by James Watt and Martin Dickie; &quot;Equity for Punks&quot; crowdfunding and relentless provocation made it the world&#x27;s loudest craft brand, valued at about £1 billion in 2017 (TSG Partners). The ending was harder: losses, bar closures and a failed search for a buyer ended in administration in March 2026, from which Tilray Brands bought the brand, UK brewing operations and 11 brewpubs in a £33 million pre-pack deal; 38 bars closed immediately with 484 redundancies. CEO James Taylor departed in July 2026 and the chief-executive role was abolished; chief commercial officer Lauren Carrol runs the business day-to-day under Tilray International.</p>
+<p><strong>Ownership / Parent:</strong> Tilray Brands, Inc. (acquired from administration, March 2026)</p>
+<p><strong>Leadership:</strong> No chief executive (role abolished July 2026, per the owner); Lauren Carrol — Chief Commercial Officer, running day-to-day operations, reporting to Rajnish Ohri, President, Tilray International; Tilray CEO: Irwin D. Simon</p>
+<p><strong>Full C-Suite / Senior Leadership:</strong> Historical: James Watt (founder-CEO to 2024), James Arrow (CEO 2024–25), James Taylor (CEO 2025–26) — three chief executives in two years, recorded because it explains the outcome</p>
+<p><strong>Specialties:</strong> Punk IPA and its family; a global bar estate (now drastically reduced); hotels and a carbon-negative claim set that the rescue has superseded</p>
+<p><strong>Flagship Beers / Brands:</strong> Punk IPA; Elvis Juice; Hazy Jane; Wingman; Black Heart (stout); Lost Lager</p>
+<p><strong>Head Brewer / Brewmaster:</strong> The Ellon brewing team; the founder-era head-brewer lineage is recorded in the company&#x27;s own histories</p>
+<p><strong>Clients / Customers:</strong> UK and export trade; the Equity for Punks shareholder community (about 200,000 small investors) whose treatment in the administration is a matter of public controversy — stated plainly</p>
+<p><strong>Scale (dated):</strong> Revenue peaked at about £321 million (FY2022, company reporting); the March 2026 pre-pack valued the rescued core at £33 million — the two figures together are the entry&#x27;s honest scale</p>
+<p><strong>Offices / Footprint:</strong> Ellon, Aberdeenshire (brewery); a reduced bar estate in the UK and Ireland; Tilray&#x27;s beer division in the US</p>
+<p><strong>Website:</strong> <a href="https://brewdog.com">brewdog.com</a></p>
+<p><strong>Contact Email:</strong> Not published</p>
+<p><strong>Phone:</strong> Per company site</p>
+<p><strong>HQ Address:</strong> Balmacassie Commercial Park, Ellon, Aberdeenshire AB41 8BX, United Kingdom</p>
+<p><strong>Distinctiveness:</strong> Craft&#x27;s Icarus: the brand that taught a generation to invest in beer, and then taught it what administration means</p>
+<p><strong>Access / Entry:</strong> Trade via Tilray&#x27;s channels; the bars that remain trade under the brand</p>
+<p><strong>Notes:</strong> This entry is written as a status record, per the brief&#x27;s instruction that Stone&#x27;s and BrewDog&#x27;s current positions be treated honestly: BrewDog is no longer independent, no longer founder-run and no longer growing — it is a rescued brand inside a cannabis-and-drinks group, and it is carried in this guide on that basis</p>
+<p><strong>Sources:</strong> brewdog.com; Tilray acquisition and restructuring reporting (March–July 2026: Just Drinks, Drinks Intel, Food Manufacture, Inside Beer)</p>
+<h3>21. ATHLETIC BREWING COMPANY</h3>
+<p><em>United States — Milford, Connecticut · Founded 2017</em></p>
+<p><strong>Category:</strong> Non-alcoholic craft brewery (private)</p>
+<p><strong>Region:</strong> North America</p>
+<p><strong>HQ Country:</strong> United States</p>
+<p><strong>Founded:</strong> 2017</p>
+<p><strong>History:</strong> Founded by Bill Shufelt, a hedge-fund trader who wanted beer he could train on, and brewer John Walker; Athletic essentially created the modern non-alcoholic craft category in America, becoming its largest producer, with investment from Keurig Dr Pepper (US$50 million, 2024) and breweries on both coasts.</p>
+<p><strong>Ownership / Parent:</strong> Private; investors include Keurig Dr Pepper, General Atlantic and the founders</p>
+<p><strong>Leadership:</strong> Bill Shufelt — Co-Founder and Chief Executive Officer; John Walker — Co-Founder and Chief Product Officer / Head Brewer</p>
+<p><strong>Full C-Suite / Senior Leadership:</strong> Leadership published at athleticbrewing.com</p>
+<p><strong>Specialties:</strong> Non-alcoholic craft beer only — IPAs, goldens, stouts and sours brewed as beer and de-alcoholised in process, sold through mainstream grocery</p>
+<p><strong>Flagship Beers / Brands:</strong> Run Wild IPA; Free Wave Hazy IPA; Upside Dawn Golden; Athletic Lite; All Out Stout</p>
+<p><strong>Head Brewer / Brewmaster:</strong> John Walker — Co-Founder and Head Brewer</p>
+<p><strong>Clients / Customers:</strong> US grocery and retail chains; consumer-group form — admitted</p>
+<p><strong>Scale (dated):</strong> The largest non-alcoholic craft brewer in the US, with production in the hundreds of thousands of barrels and a double-digit share of total US craft-dollar sales in tracked channels (company and industry reporting, 2024–25) — printed in ranges, as reported</p>
+<p><strong>Offices / Footprint:</strong> Milford, Connecticut and San Diego, California breweries</p>
+<p><strong>Website:</strong> <a href="https://athleticbrewing.com">athleticbrewing.com</a></p>
+<p><strong>Contact Email:</strong> Not published</p>
+<p><strong>Phone:</strong> Per company site</p>
+<p><strong>HQ Address:</strong> 75 South Church Street area, Milford, CT (brewery per company site); San Diego brewery, CA</p>
+<p><strong>Distinctiveness:</strong> The category that wasn&#x27;t: Athletic proved &quot;craft&quot; could mean the brewing, not the alcohol</p>
+<p><strong>Access / Entry:</strong> Trade and direct-to-consumer via athleticbrewing.com</p>
+<p><strong>Sources:</strong> athleticbrewing.com; Keurig Dr Pepper investment release (2024); Brewers Association reporting</p>
+<h3>22. DESCHUTES BREWERY</h3>
+<p><em>United States — Bend, Oregon · Founded 1988</em></p>
+<p><strong>Category:</strong> Craft brewery (private, employee- and family-held)</p>
+<p><strong>Region:</strong> North America</p>
+<p><strong>HQ Country:</strong> United States</p>
+<p><strong>Founded:</strong> 1988</p>
+<p><strong>History:</strong> Gary Fish opened a Bend pub brewery in 1988, naming it for the river; Black Butte Porter and Mirror Pond made it the Pacific Northwest&#x27;s craft anchor; the company added employee ownership, a Roanoke, Virginia brewery (opened 2022 after a famous change of plans from production scale) and the Boneyard Beer acquisition.</p>
+<p><strong>Ownership / Parent:</strong> Private — the Fish family and an employee stock ownership plan</p>
+<p><strong>Leadership:</strong> Gary Fish — Founder; Peter Skrbek — Chief Executive Officer (per company announcements)</p>
+<p><strong>Full C-Suite / Senior Leadership:</strong> Leadership published at deschutesbrewery.com</p>
+<p><strong>Specialties:</strong> Northwest ales, fresh-hop brewing with Oregon hops, and one of America&#x27;s most decorated porter programmes</p>
+<p><strong>Flagship Beers / Brands:</strong> Black Butte Porter; Mirror Pond Pale Ale; Fresh Squeezed IPA; Fresh Haze; The Abyss (barrel-aged stout); Boneyard RPM IPA (via Boneyard)</p>
+<p><strong>Head Brewer / Brewmaster:</strong> The Bend brewing team under the company&#x27;s published brew leadership</p>
+<p><strong>Clients / Customers:</strong> US distributors, West-first; consumer-group form — admitted</p>
+<p><strong>Scale (dated):</strong> Production in the region of 200,000–250,000 barrels in recent years (Brewers Association data) — below its 2010s peak, stated plainly</p>
+<p><strong>Offices / Footprint:</strong> Bend, Oregon (brewery and pubs) and Roanoke, Virginia</p>
+<p><strong>Website:</strong> <a href="https://deschutesbrewery.com">deschutesbrewery.com</a></p>
+<p><strong>Contact Email:</strong> Not published</p>
+<p><strong>Phone:</strong> Per company site</p>
+<p><strong>HQ Address:</strong> 901 SW Simpson Avenue, Bend, OR 97702, USA</p>
+<p><strong>Distinctiveness:</strong> The river town archetype: a brewery that became a place&#x27;s economy and identity without selling either</p>
+<p><strong>Access / Entry:</strong> Trade via US distribution; Bend and Roanoke taprooms</p>
+<p><strong>Sources:</strong> deschutesbrewery.com; Brewers Association data</p>
+<h3>23. BAVARIAN STATE BREWERY WEIHENSTEPHAN</h3>
+<p><em>Germany — Freising (Weihenstephan) · Founded 1040</em></p>
+<p><strong>Category:</strong> Heritage brewery (state-owned) — the craft anchor</p>
+<p><strong>Region:</strong> Europe</p>
+<p><strong>HQ Country:</strong> Germany</p>
+<p><strong>Founded:</strong> 1040</p>
+<p><strong>History:</strong> A Benedictine abbey brewery licensed in 1040 — the oldest brewery in the world still operating — now owned by the Free State of Bavaria and twinned with the Technical University of Munich&#x27;s brewing faculty on the Weihenstephan hill: the place where brewing science itself was professionalised, and whose graduates run breweries on every continent.</p>
+<p><strong>Ownership / Parent:</strong> Free State of Bavaria (Bayerische Staatsbrauerei Weihenstephan)</p>
+<p><strong>Leadership:</strong> Prof. Dr. Josef Schrädler — Director (per the brewery&#x27;s publications)</p>
+<p><strong>Full C-Suite / Senior Leadership:</strong> A state enterprise — management published at weihenstephaner.de</p>
+<p><strong>Specialties:</strong> Bavarian wheat beer at its reference standard; the science-beer loop with TUM Weihenstephan (the world&#x27;s leading brewing university)</p>
+<p><strong>Flagship Beers / Brands:</strong> Weihenstephaner Hefeweissbier; Original Helles; Vitus (weizenbock); Korbinian; Kristallweissbier</p>
+<p><strong>Head Brewer / Brewmaster:</strong> The brewery&#x27;s master brewers work alongside the TUM Chair of Brewing and Beverage Technology — the title is an institution here, not a person</p>
+<p><strong>Clients / Customers:</strong> Export to 50+ countries; the world&#x27;s brewers are its alumni — a client class no other entry can claim</p>
+<p><strong>Scale (dated):</strong> Production in the region of 250,000 hectolitres (published estimates) — modest volume, immeasurable influence</p>
+<p><strong>Offices / Footprint:</strong> Weihenstephan hill, Freising; the Bräustüberl at the brewery</p>
+<p><strong>Website:</strong> <a href="https://weihenstephaner.de">weihenstephaner.de</a></p>
+<p><strong>Contact Email:</strong> Not published</p>
+<p><strong>Phone:</strong> Per company site</p>
+<p><strong>HQ Address:</strong> Alte Akademie 2, 85354 Freising, Germany</p>
+<p><strong>Distinctiveness:</strong> Nine hundred and eighty-six years old and still the examiner: half the brewmasters in this guide were, in effect, trained by this entry</p>
+<p><strong>Access / Entry:</strong> Trade via importers; visitors via the brewery in Freising</p>
+<p><strong>Notes:</strong> Included in the craft tier as the heritage anchor: &quot;craft&quot; before the word existed</p>
+<p><strong>Sources:</strong> weihenstephaner.de; TUM Weihenstephan publications</p>
+<h3>24. BRASSERIE DUPONT</h3>
+<p><em>Belgium — Tourpes · Founded 1759 (farm lineage); Dupont family from 1920</em></p>
+<p><strong>Category:</strong> Craft brewery (private, family)</p>
+<p><strong>Region:</strong> Europe</p>
+<p><strong>HQ Country:</strong> Belgium</p>
+<p><strong>Founded:</strong> 1759 (farm lineage); Dupont family from 1920</p>
+<p><strong>History:</strong> A Hainaut farm brewery of 1759, bought by Sylva Rosier in 1920 and made immortal by his son Alfred Dupont&#x27;s Saison Dupont (brewed from the 1840s recipe tradition) — the saison against which all saisons are judged, and the quiet influence behind half the farmhouse ales of the American craft era.</p>
+<p><strong>Ownership / Parent:</strong> Private — the Dupont/Rosier family (fourth generation, Olivier Dedeycker)</p>
+<p><strong>Leadership:</strong> Olivier Dedeycker — Brewmaster and head of the family brewery</p>
+<p><strong>Full C-Suite / Senior Leadership:</strong> A family brewery — no C-suite; stated plainly</p>
+<p><strong>Specialties:</strong> Saison and farmhouse fermentation; bottle-conditioned ales; the bakery and cheese dairy on the same farm</p>
+<p><strong>Flagship Beers / Brands:</strong> Saison Dupont; Moinette (Blonde and Brune); Bons Vœux; Posca Rustica; Avec les Bons Vœux</p>
+<p><strong>Head Brewer / Brewmaster:</strong> Olivier Dedeycker — Brewmaster (great-nephew of Alfred Dupont)</p>
+<p><strong>Clients / Customers:</strong> Export to the world&#x27;s specialist beer bars and shops</p>
+<p><strong>Scale (dated):</strong> Small — production is published only in the tens of thousands of hectolitres range in trade sources; printed as small, proudly</p>
+<p><strong>Offices / Footprint:</strong> Tourpes (Leuze-en-Hainaut), Belgium</p>
+<p><strong>Website:</strong> <a href="https://brasserie-dupont.com">brasserie-dupont.com</a></p>
+<p><strong>Contact Email:</strong> Not published</p>
+<p><strong>Phone:</strong> Per company site</p>
+<p><strong>HQ Address:</strong> Rue Basse 5, 7904 Tourpes, Belgium (per company materials)</p>
+<p><strong>Distinctiveness:</strong> One beer, one farm, one yeast: Saison Dupont is the most imitated recipe in craft that its makers never tried to scale</p>
+<p><strong>Access / Entry:</strong> Via specialist importers</p>
+<p><strong>Sources:</strong> brasserie-dupont.com; Belgian brewing literature</p>
+<h3>25. GARAGE PROJECT</h3>
+<p><em>New Zealand — Wellington · Founded 2011</em></p>
+<p><strong>Category:</strong> Craft brewery (private)</p>
+<p><strong>Region:</strong> Oceania</p>
+<p><strong>HQ Country:</strong> New Zealand</p>
+<p><strong>Founded:</strong> 2011</p>
+<p><strong>History:</strong> Founded in a disused Wellington petrol station in Aro Valley by brothers Pete and Ian Gillespie with Jos Ruffell; a new beer every week in its early years built New Zealand&#x27;s most inventive brewery — natural-wine hybrids, a wild-workshop in the Wairarapa (Nelson), and a taproom that became a Wellington institution.</p>
+<p><strong>Ownership / Parent:</strong> Private — the founders</p>
+<p><strong>Leadership:</strong> Pete Gillespie, Ian Gillespie and Jos Ruffell — Founders (brewing led by Pete Gillespie)</p>
+<p><strong>Full C-Suite / Senior Leadership:</strong> A founder brewery — no C-suite; stated plainly</p>
+<p><strong>Specialties:</strong> Rapid-fire small-batch brewing; mixed-fermentation and wine-beer hybrids; artist-label culture</p>
+<p><strong>Flagship Beers / Brands:</strong> Pernicious Weed (double IPA); Garagista IPA; Party &amp; Bullshit; DFA (chilli chocolate stout); the Wild Workshop series</p>
+<p><strong>Head Brewer / Brewmaster:</strong> Pete Gillespie — Head Brewer and co-founder</p>
+<p><strong>Clients / Customers:</strong> New Zealand and Australian trade; export to Asia and Europe in small lots</p>
+<p><strong>Scale (dated):</strong> Small by design — a few million litres a year in trade estimates; printed as small</p>
+<p><strong>Offices / Footprint:</strong> Aro Valley, Wellington (brewery and taproom); Wild Workshop, Nelson</p>
+<p><strong>Website:</strong> <a href="https://garageproject.co.nz">garageproject.co.nz</a></p>
+<p><strong>Contact Email:</strong> Not published</p>
+<p><strong>Phone:</strong> Per company site</p>
+<p><strong>HQ Address:</strong> 68 Aro Street, Aro Valley, Wellington, New Zealand</p>
+<p><strong>Distinctiveness:</strong> The Southern Hemisphere&#x27;s idea engine — proof that invention, not volume, is a craft brewery&#x27;s export</p>
+<p><strong>Access / Entry:</strong> Via garageproject.co.nz and NZ/AU trade</p>
+<p><strong>Sources:</strong> garageproject.co.nz; NZ brewing press</p>
+<h3>26. CERVECERÍA MINERVA</h3>
+<p><em>Mexico — Guadalajara (Zapopan), Jalisco · Founded 2003</em></p>
+<p><strong>Category:</strong> Craft brewery (private)</p>
+<p><strong>Region:</strong> Latin America</p>
+<p><strong>HQ Country:</strong> Mexico</p>
+<p><strong>Founded:</strong> 2003</p>
+<p><strong>History:</strong> Founded by Jesús Briseño in 2003, when Mexican beer meant two conglomerates; Minerva became the flagship of Mexican craft — its pale ale and stout on national shelves, its brewery the training ground of a generation of Mexican brewers, and its founder a leader of the independent brewers&#x27; association (Acermex) that fought for shelf space and fair taps.</p>
+<p><strong>Ownership / Parent:</strong> Private — founder-led</p>
+<p><strong>Leadership:</strong> Jesús Briseño — Founder and Director</p>
+<p><strong>Full C-Suite / Senior Leadership:</strong> A founder brewery — no C-suite; stated plainly</p>
+<p><strong>Specialties:</strong> British-style ales brewed in Jalisco; the Diosa Blanca and Itañezi special editions; craft evangelism for the Mexican market</p>
+<p><strong>Flagship Beers / Brands:</strong> Minerva Pale Ale; Minerva Stout Imperial; Minerva Viena; Minerva Colonial (Kölsch-style); Itañezi</p>
+<p><strong>Head Brewer / Brewmaster:</strong> The Minerva brewing team under the founder</p>
+<p><strong>Clients / Customers:</strong> Mexican retail chains and bars; export to the US</p>
+<p><strong>Scale (dated):</strong> The largest independent craft brewer in Mexico by trade standing; volumes are published in the tens of thousands of hectolitres in industry sources — printed in that form</p>
+<p><strong>Offices / Footprint:</strong> Zapopan, Jalisco; Guadalajara taproom presence</p>
+<p><strong>Website:</strong> <a href="https://cerveceriaminerva.mx">cerveceriaminerva.mx</a></p>
+<p><strong>Contact Email:</strong> Not published</p>
+<p><strong>Phone:</strong> Per company site</p>
+<p><strong>HQ Address:</strong> Zapopan, Jalisco, Mexico (per company materials)</p>
+<p><strong>Distinctiveness:</strong> The David of the duopoly: Minerva&#x27;s existence is the proof that Mexican beer has a third name</p>
+<p><strong>Access / Entry:</strong> Via Mexican retail and cerveceriaminerva.mx</p>
+<p><strong>Sources:</strong> cerveceriaminerva.mx; Acermex and Mexican brewing press</p>
+<h2>METHOD, GAPS AND EXCLUSIONS</h2>
+<p>Tier boundary: the Majors are the world&#x27;s largest brewing groups by volume. The Craft Tier selects for influence and standing, not size alone — Weihenstephan (1040) and Dupont anchor its heritage; Athletic represents the non-alcoholic category it created; Garage Project and Minerva carry Oceania and Latin America, where independent brewing is youngest.</p>
+<p>Excluded by design: the great regional lager groups below world scale (they are numerous and honourable, and a regional guide may yet take them); pub companies and bar groups that do not brew; and cider/perry specialists. Constellation appears once as a company (in the Spirits guide) and once for its beer division (here), because the brief named the beer arm expressly and the two businesses share nothing but a parent.</p>
+</article></main>
+</body>
+</html>
