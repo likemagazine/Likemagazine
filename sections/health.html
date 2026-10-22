@@ -1,11 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<link rel="canonical" href="https://likeleaders.com/sections/health.html"/>
-<meta charset="utf-8"/>
-<meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>LIKE® Health · LIKE Magazine</title>
-<meta name="description" content="LIKE® Magazine — Leaders, Style, Travel, Culture. Print magazine online."/>
+<!DOCTYPE html><html lang="en"><head>
+<link rel="canonical" href="https://likeleaders.com/sections/health.html">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>HEALTH · LIKE Magazine</title>
+<meta name="description" content="LIKE® Magazine Health department — the flagship worldwide guide to healthcare providers, plus health features including the Muscogee Nation Medicare story.">
 <style>
 :root {
   --ink: #111;
@@ -144,60 +142,6 @@ a:hover { text-decoration: underline; }
 .edition.summit .ed-num { color: #c99a3b; }
 .edition.summit em { color: #b9b0c4; }
 
-/* Print year-rail — Roman numeral edition lines */
-.year-line {
-  display: flex;
-  align-items: center;
-  gap: 0.85rem;
-  margin: 2.1rem 0 0.85rem;
-  font-family: var(--sans);
-}
-.year-line::before,
-.year-line::after {
-  content: "";
-  flex: 1 1 auto;
-  height: 3px;
-  border-top: 1px solid var(--ink);
-  border-bottom: 1px solid var(--ink);
-  opacity: 0.55;
-}
-.year-line .roman {
-  flex: 0 0 auto;
-  font-size: 0.72rem;
-  letter-spacing: 0.32em;
-  font-weight: 700;
-  text-transform: uppercase;
-  color: var(--ink);
-  padding: 0 0.15rem;
-}
-.year-line .year-arabic {
-  flex: 0 0 auto;
-  font-size: 0.62rem;
-  letter-spacing: 0.14em;
-  color: var(--muted);
-  font-weight: 500;
-}
-.year-line.archive::before,
-.year-line.archive::after {
-  border-color: var(--rule);
-  opacity: 1;
-}
-.year-line.archive .roman {
-  letter-spacing: 0.22em;
-  color: var(--muted);
-  font-weight: 600;
-}
-.year-group { margin-bottom: 0.35rem; }
-.year-group > .grid { margin-top: 0.85rem; }
-.year-line.summit-year::before,
-.year-line.summit-year::after {
-  border-color: #c99a3b;
-  opacity: 0.7;
-}
-.year-line.summit-year .roman { color: #c99a3b; }
-.year-line.summit-year .year-arabic { color: #b9b0c4; }
-
-
 /* ---- LIKE® unified nav/footer/a11y refinements (site update 2026-09-27) ---- */
 .nav { align-items: center; }
 .nav a { display: inline-flex; align-items: center; min-height: 44px; padding: 0.35rem 0.45rem; }
@@ -225,17 +169,53 @@ a:hover { text-decoration: underline; }
   .nav details.nav-more[open] .nav-more-links { border-top: 1px solid var(--rule); margin-top: 0.2rem; padding-top: 0.6rem; }
 }
 
-/* == LIKE department openers v1 == */
-.dept-opener { text-align: center; padding: 2.75rem 1rem 2rem; border-bottom: 3px double var(--ink); margin: 0 0 2rem; }
-.dept-kicker { font-family: var(--sans); font-size: 0.7rem; letter-spacing: 0.34em; text-transform: uppercase; color: var(--accent); margin: 0 0 0.9rem; padding-left: 0.34em; }
-.dept-title { font-family: var(--serif); font-weight: 700; font-size: clamp(2.3rem, 6vw, 3.6rem); line-height: 1.05; letter-spacing: 0.015em; margin: 0; text-wrap: balance; }
-.dept-title + .dept-deck { margin-top: 1rem; }
-.dept-deck { font-family: var(--serif); font-style: italic; font-size: 1.14rem; line-height: 1.62; color: #4a4036; max-width: 660px; margin-left: auto; margin-right: auto; text-wrap: pretty; }
-.dept-title + .dept-count, .dept-deck + .dept-count { margin-top: 1.2rem; }
-.dept-count { font-family: var(--sans); font-size: 0.72rem; letter-spacing: 0.22em; text-transform: uppercase; color: var(--muted); margin-bottom: 0; padding-left: 0.22em; }
-@media (max-width: 640px) { .dept-opener { padding: 2rem 1rem 1.5rem; } }
+/* == LIKE editorial typography v1 == */
+.article-wrap > h1 {
+  font-family: var(--serif);
+  letter-spacing: 0.045em;
+  text-wrap: balance;
+}
+p.lead {
+  font-size: 1.24rem;
+  line-height: 1.55;
+  font-style: italic;
+  color: #4a4036;
+  margin: 0 0 1.6rem;
+  text-wrap: pretty;
+}
+.article-body { font-size: 1.08rem; }
+.article-body > p {
+  line-height: 1.78;
+  margin: 0 0 1.2rem;
+  text-wrap: pretty;
+}
+.article-body > p.dropcap::first-letter {
+  font-family: var(--serif);
+  font-weight: 700;
+  font-size: 3.6em;
+  line-height: 0.82;
+  float: left;
+  padding: 0.06em 0.14em 0 0;
+}
+.article-body h2 {
+  font-family: var(--serif);
+  font-size: 1.45rem;
+  line-height: 1.25;
+  margin: 2.2rem 0 0.9rem;
+  text-wrap: balance;
+}
+.byline {
+  font-size: 0.74rem;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+}
+.figure {
+  border: 1px solid var(--rule);
+  background: #fff;
+  padding: 0.6rem;
+}
 </style>
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%23111111'/%3E%3Ctext x='32' y='45' font-family='Georgia,serif' font-size='38' fill='%23f4efe6' text-anchor='middle'%3EL%3C/text%3E%3C/svg'"/>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%23111111'/%3E%3Ctext x='32' y='45' font-family='Georgia,serif' font-size='38' fill='%23f4efe6' text-anchor='middle'%3EL%3C/text%3E%3C/svg'">
 </head>
 <body>
 <header class="mast">
@@ -274,10 +254,9 @@ a:hover { text-decoration: underline; }
       <a href="/sections/fashion.html">Fashion</a>
       <a href="/sections/sports.html">Sports</a>
       <a href="/sections/diplomacy.html">Diplomacy</a>
-      <a href="/sections/culture.html">Culture</a>
       <a href="/sections/like-global.html">LIKE® Global</a>
       <a href="/sections/conferences.html">Conferences</a>
-      <a href="/sections/trade-shows.html">Trade Shows</a>
+      <a href="/sections/travel.html">Travel</a>
       <a href="/sections/health.html">Health</a>
       <a href="/sections/law.html">Law</a>
       <a href="/sections/science.html">Science</a>
@@ -292,15 +271,21 @@ a:hover { text-decoration: underline; }
     </div>
   </details>
 </nav>
-<main class="wrap"><header class="dept-opener">
-  <p class="dept-kicker">Department</p>
-  <h1 class="dept-title">LIKE® Health</h1>
-  <p class="dept-count">2 features</p>
-</header><div class="grid"><a class="card" href="/articles/like-public-health-a-tribe-builds-its-own-medicare-plan.html">
-              <img src='/images/like-public-health-native-advantage-press-conference.jpg' alt="Press conference hosted by Principal Chief David Hill on Oct. 15, 2026, where the Muscogee (Creek) Nation presented Native Advantage. Photo: LIKE Magazine"/>
-              <div class="meta"><p class="kicker">(LIKE<sup>®</sup> Public Health)</p><h2>A TRIBE BUILDS ITS OWN MEDICARE PLAN</h2><p class="deck">The Muscogee (Creek) Nation presents Native Advantage, a tribally owned Medicare Advantage plan open to every Medicare-eligible resident of its 11-county service area in Oklahoma.</p></div></a><a class="card" href="/articles/like-medicine-the-heart-of-resilience-how-dr-dawn-mussallem-defied-death-to-revo.html">
-              <img src='/images/like-medicine-the-heart-of-resilience-how-dr-dawn-mussallem-defied-death-to-revo-1.jpg' alt="LIKE® Magazine"/>
-              <div class="meta"><p class="kicker">(LIKE® Medicine)</p><h2>THE HEART OF RESILIENCE: HOW DR. DAWN MUSSALLEM DEFIED DEATH TO REVOLUTIONIZE LONGEVITY MEDICINE</h2></div></a></div></main>
+
+<main class="article-wrap">
+  <p class="kicker">THE DEPARTMENT</p>
+  <h1 style="font-size:clamp(1.7rem,4vw,2.5rem);line-height:1.15;margin:0 0 0.8rem">HEALTH</h1>
+  <p class="deck" style="font-size:1.1rem">The institutions and people who keep the world well — the great hospital systems, the doctors and researchers behind them, and the business of care. The department's reporting to date includes its feature on the Muscogee Nation's Medicare story, a close look at how one tribal nation built its own path through America's largest health program. The guide below now stands as the department's flagship reference: the operators behind the world's best-known hospital names, verified entry by entry.</p>
+  <h2 class="section-title">THE FLAGSHIP GUIDE</h2>
+  <a class="feature" href="/articles/like-worlds-healthcare-providers.html" style="text-decoration:none">
+    <div class="body">
+      <p class="kicker">THE WORLDWIDE GUIDE · OCTOBER 2026</p>
+      <h2>THE WORLD'S HEALTHCARE PROVIDERS: 40 HOSPITAL GROUPS AND HEALTH SYSTEMS</h2>
+      <p class="deck">From Mayo Clinic and Charité to Apollo, IHH and Rede D'Or — full executive leadership, ownership, hospitals, beds and staff, specialties, patient categories and published contacts, verified in October 2026.</p>
+    </div>
+  </a>
+  <p style="margin-top:1.5rem;color:var(--muted);font-size:0.95rem">More health guides and features will join this department in the months ahead.</p>
+</main></main>
 <footer class="footer">
   <p class="disclosure">Affiliate disclosure: LIKE® Magazine may earn a commission from qualifying purchases made through links on this site. Editorial coverage remains independent.</p>
   <nav class="footer-nav" aria-label="Footer">
@@ -310,7 +295,7 @@ a:hover { text-decoration: underline; }
     <a href="/summit-season/index.html">Summit Season</a>
     <a href="/search.html">Search</a>
   </nav>
-  <p>&copy; LIKE Magazine &middot; likeleaders.com &middot; Photography &amp; editorial by Michael de la Force &middot; Print-on-demand editions coming soon</p>
+  <p>© LIKE Magazine · likeleaders.com · Photography &amp; editorial by Michael de la Force · Print-on-demand editions coming soon</p>
 </footer>
-</body>
-</html>
+
+</body></html>
