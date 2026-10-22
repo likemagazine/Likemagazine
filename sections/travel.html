@@ -1,11 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<link rel="canonical" href="https://likeleaders.com/sections/travel.html"/>
-<meta charset="utf-8"/>
-<meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>LIKE® Travel &amp; Tourism · LIKE Magazine</title>
-<meta name="description" content="LIKE® Magazine — Leaders, Style, Travel, Culture. Print magazine online."/>
+<!DOCTYPE html><html lang="en"><head>
+<link rel="canonical" href="https://likeleaders.com/sections/travel.html">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TRAVEL & TOURISM · LIKE Magazine</title>
+<meta name="description" content="LIKE® Magazine's Travel & Tourism department: the world's luxury cruise lines — owners, presidents, fleets, fare models and signature itineraries, verified.">
 <style>
 :root {
   --ink: #111;
@@ -144,60 +142,6 @@ a:hover { text-decoration: underline; }
 .edition.summit .ed-num { color: #c99a3b; }
 .edition.summit em { color: #b9b0c4; }
 
-/* Print year-rail — Roman numeral edition lines */
-.year-line {
-  display: flex;
-  align-items: center;
-  gap: 0.85rem;
-  margin: 2.1rem 0 0.85rem;
-  font-family: var(--sans);
-}
-.year-line::before,
-.year-line::after {
-  content: "";
-  flex: 1 1 auto;
-  height: 3px;
-  border-top: 1px solid var(--ink);
-  border-bottom: 1px solid var(--ink);
-  opacity: 0.55;
-}
-.year-line .roman {
-  flex: 0 0 auto;
-  font-size: 0.72rem;
-  letter-spacing: 0.32em;
-  font-weight: 700;
-  text-transform: uppercase;
-  color: var(--ink);
-  padding: 0 0.15rem;
-}
-.year-line .year-arabic {
-  flex: 0 0 auto;
-  font-size: 0.62rem;
-  letter-spacing: 0.14em;
-  color: var(--muted);
-  font-weight: 500;
-}
-.year-line.archive::before,
-.year-line.archive::after {
-  border-color: var(--rule);
-  opacity: 1;
-}
-.year-line.archive .roman {
-  letter-spacing: 0.22em;
-  color: var(--muted);
-  font-weight: 600;
-}
-.year-group { margin-bottom: 0.35rem; }
-.year-group > .grid { margin-top: 0.85rem; }
-.year-line.summit-year::before,
-.year-line.summit-year::after {
-  border-color: #c99a3b;
-  opacity: 0.7;
-}
-.year-line.summit-year .roman { color: #c99a3b; }
-.year-line.summit-year .year-arabic { color: #b9b0c4; }
-
-
 /* ---- LIKE® unified nav/footer/a11y refinements (site update 2026-09-27) ---- */
 .nav { align-items: center; }
 .nav a { display: inline-flex; align-items: center; min-height: 44px; padding: 0.35rem 0.45rem; }
@@ -225,17 +169,53 @@ a:hover { text-decoration: underline; }
   .nav details.nav-more[open] .nav-more-links { border-top: 1px solid var(--rule); margin-top: 0.2rem; padding-top: 0.6rem; }
 }
 
-/* == LIKE department openers v1 == */
-.dept-opener { text-align: center; padding: 2.75rem 1rem 2rem; border-bottom: 3px double var(--ink); margin: 0 0 2rem; }
-.dept-kicker { font-family: var(--sans); font-size: 0.7rem; letter-spacing: 0.34em; text-transform: uppercase; color: var(--accent); margin: 0 0 0.9rem; padding-left: 0.34em; }
-.dept-title { font-family: var(--serif); font-weight: 700; font-size: clamp(2.3rem, 6vw, 3.6rem); line-height: 1.05; letter-spacing: 0.015em; margin: 0; text-wrap: balance; }
-.dept-title + .dept-deck { margin-top: 1rem; }
-.dept-deck { font-family: var(--serif); font-style: italic; font-size: 1.14rem; line-height: 1.62; color: #4a4036; max-width: 660px; margin-left: auto; margin-right: auto; text-wrap: pretty; }
-.dept-title + .dept-count, .dept-deck + .dept-count { margin-top: 1.2rem; }
-.dept-count { font-family: var(--sans); font-size: 0.72rem; letter-spacing: 0.22em; text-transform: uppercase; color: var(--muted); margin-bottom: 0; padding-left: 0.22em; }
-@media (max-width: 640px) { .dept-opener { padding: 2rem 1rem 1.5rem; } }
+/* == LIKE editorial typography v1 == */
+.article-wrap > h1 {
+  font-family: var(--serif);
+  letter-spacing: 0.045em;
+  text-wrap: balance;
+}
+p.lead {
+  font-size: 1.24rem;
+  line-height: 1.55;
+  font-style: italic;
+  color: #4a4036;
+  margin: 0 0 1.6rem;
+  text-wrap: pretty;
+}
+.article-body { font-size: 1.08rem; }
+.article-body > p {
+  line-height: 1.78;
+  margin: 0 0 1.2rem;
+  text-wrap: pretty;
+}
+.article-body > p.dropcap::first-letter {
+  font-family: var(--serif);
+  font-weight: 700;
+  font-size: 3.6em;
+  line-height: 0.82;
+  float: left;
+  padding: 0.06em 0.14em 0 0;
+}
+.article-body h2 {
+  font-family: var(--serif);
+  font-size: 1.45rem;
+  line-height: 1.25;
+  margin: 2.2rem 0 0.9rem;
+  text-wrap: balance;
+}
+.byline {
+  font-size: 0.74rem;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+}
+.figure {
+  border: 1px solid var(--rule);
+  background: #fff;
+  padding: 0.6rem;
+}
 </style>
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%23111111'/%3E%3Ctext x='32' y='45' font-family='Georgia,serif' font-size='38' fill='%23f4efe6' text-anchor='middle'%3EL%3C/text%3E%3C/svg'"/>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%23111111'/%3E%3Ctext x='32' y='45' font-family='Georgia,serif' font-size='38' fill='%23f4efe6' text-anchor='middle'%3EL%3C/text%3E%3C/svg'">
 </head>
 <body>
 <header class="mast">
@@ -274,10 +254,9 @@ a:hover { text-decoration: underline; }
       <a href="/sections/fashion.html">Fashion</a>
       <a href="/sections/sports.html">Sports</a>
       <a href="/sections/diplomacy.html">Diplomacy</a>
-      <a href="/sections/culture.html">Culture</a>
       <a href="/sections/like-global.html">LIKE® Global</a>
       <a href="/sections/conferences.html">Conferences</a>
-      <a href="/sections/trade-shows.html">Trade Shows</a>
+      <a href="/sections/travel.html">Travel</a>
       <a href="/sections/health.html">Health</a>
       <a href="/sections/law.html">Law</a>
       <a href="/sections/science.html">Science</a>
@@ -292,50 +271,24 @@ a:hover { text-decoration: underline; }
     </div>
   </details>
 </nav>
-<main class="wrap"><header class="dept-opener">
-  <p class="dept-kicker">Department</p>
-  <h1 class="dept-title">LIKE® Travel &amp; Tourism</h1>
-  <p class="dept-deck">Destination features and tourism culture from the LIKE® archive.</p>
-  <p class="dept-count">7 features</p>
-</header>
-<div class="grid">
-<a class="card" href="/articles/like-culture-sunset-over-bagan-myanmar-temples-and-the-country-around-it.html">
-      <img src="/images/like-myanmar-michael-de-la-force-bagan-sunset.jpg" alt="D. Michael De La Force at sunset above the temple plain of Bagan, Myanmar. Photo: LIKE Magazine archive"/>
-      <div class="meta">
-        <p class="kicker">(LIKE® Culture · Travel &amp; Tourism · Diplomacy · Global)</p>
-        <h2>SUNSET OVER BAGAN: MYANMAR&#39;S TEMPLE PLAIN, AND THE COUNTRY AROUND IT</h2>
-        <p class="deck">Bagan's temple plain at sunset, and the Myanmar around it in 2026: a general-turned-president, new US talks, the Shwedagon's diamond, Inle Lake, faiths and the poppy fields.</p>
-      </div>
-    </a>
-<a class="card" href="/articles/like-style-the-little-black-jacket-tuxedo-park.html">
-      <img src="/images/like-tuxedo-grand-staircase-state-dinner-2026.jpg" alt="President Xi Jinping, Madame Peng Liyuan, President Donald J. Trump and First Lady Melania Trump at the White House Grand Staircase, September 24, 2026. Official White House Photo by Molly Riley"/>
-      <div class="meta">
-        <p class="kicker">(LIKE® Travel · Style · History · Craftsmanship)</p>
-        <h2>THE LITTLE BLACK JACKET: HOW TUXEDO PARK GAVE THE WORLD ITS EVENING LANGUAGE</h2>
-        <p class="deck">From Henry Poole’s 1865 coat and the Gilded Age village of Tuxedo Park to the White House Grand Staircase: the story, rules and craft of the tuxedo.</p>
-      </div>
-    </a>
-<a class="card" href="/articles/like-international-thailand-princess-bha-grand-palace.html">
-  <img src="/images/like-international-thailand-princess-bha-grand-palace.jpg" alt="Princess Bha — Grand Palace, Bangkok"/>
-  <div class="meta"><p class="kicker">(LIKE® International)</p><h2>THAILAND’S TIME FOR PRINCESS BHA: MOURNING AT THE GRAND PALACE, DIPLOMACY IN FRANCE, AND A SHARED FUTURE</h2></div>
-</a>
-<a class="card" href="/articles/like-visit-america-old-glory-and-the-golden-gate.html">
-  <img src="/images/like-visit-america-old-glory-golden-gate.jpg" alt="Old Glory and the Golden Gate"/>
-  <div class="meta"><p class="kicker">(LIKE® Visit America, Semiquincentennial Edition)</p><h2>OLD GLORY AND THE GOLDEN GATE: HOW ONE BAY HELPED BUILD AMERICA’S FUTURE</h2></div>
-</a>
-<a class="card" href="/articles/like-travel-tourism-entertainment-culture.html">
-  <img src="/images/like-travel-tourism-entertainment-culture-1.jpg" alt="Crown for a Crooner"/>
-  <div class="meta"><p class="kicker">(LIKE® Travel, Tourism, Entertainment &amp; Culture)</p><h2>250 YEARS OF AMERICA: CROWN FOR A CROONER</h2></div>
-</a>
-<a class="card" href="/articles/like-international-life-of-law-mercy-and-duty-the-royal-fiftieth-day-merit-makin.html">
-  <img src="/images/like-international-life-of-law-mercy-and-duty-the-royal-fiftieth-day-merit-makin-1.jpg" alt="Princess Bajrakitiyabha — Thailand"/>
-  <div class="meta"><p class="kicker">(LIKE® International · Thailand)</p><h2>LIFE OF LAW, MERCY, AND DUTY: THE ROYAL FIFTIETH-DAY MERIT-MAKING FOR HRH PRINCESS BAJRAKITIYABHA</h2></div>
-</a>
-<a class="card" href="/articles/like-automotive-royal-rolls-royce-phantoms-of-the-thai-court.html">
-  <img src="/images/like-international-life-of-law-mercy-and-duty-the-royal-fiftieth-day-merit-makin-1.jpg" alt="Royal Rolls-Royce Phantoms of the Thai Court"/>
-  <div class="meta"><p class="kicker">(LIKE® Automotive · Travel Thailand)</p><h2>ROYAL ROLLS-ROYCE PHANTOMS OF THE THAI COURT</h2></div>
-</a>
-</div></main>
+
+<main class="article-wrap">
+  <p class="kicker">THE WORLDWIDE GUIDE · LIKE<sup>®</sup> TRAVEL &amp; TOURISM</p>
+  <h1 style="font-size:clamp(1.7rem,4vw,2.5rem);line-height:1.15;margin:0 0 0.8rem">TRAVEL &amp; TOURISM</h1>
+  <p class="deck" style="font-size:1.1rem">The world by water, verified line by line. LIKE<sup>®</sup> Travel &amp; Tourism opens its worldwide coverage with the luxury cruise lines themselves — who owns them, who leads them, what ships they sail, what the fare actually includes, and how a voyage is booked — at the moment the industry has changed captains, owners and flagships faster than at any time in its history.</p>
+  <h2 class="section-title">THE FLAGSHIP GUIDE</h2>
+  <a class="feature" href="/articles/like-worlds-luxury-cruise-lines.html" style="text-decoration:none">
+    <div class="body">
+      <p class="kicker">THE WORLDWIDE GUIDE · OCTOBER 2026</p>
+      <h2>THE WORLD'S LUXURY CRUISE LINES</h2>
+      <p class="deck">26 lines — from Regent Seven Seas, Silversea and Seabourn to Ponant, Lindblad, Viking and Uniworld — with every line's parent company, its president or chief executive verified to October 2026, its ships named, its newest ship dated, and its fare model stated in plain words. The vacant presidencies are printed as vacant; the gaps are named, never padded.</p>
+    </div>
+  </a>
+  <h2 class="section-title">HOW TO READ THE GUIDE</h2>
+  <p style="color:var(--muted);font-size:0.95rem">Four fleets, four kinds of voyage. <strong>Ocean Luxury</strong> is the classic all-suite tier, from Regent's excursion-inclusive fares to the hotel-yacht experiment of Explora Journeys. <strong>Yacht-Style</strong> runs from 95 suites (Four Seasons I) to three square-rigged clipper ships. <strong>Expedition Luxury</strong> goes to the poles, the Galápagos and the Amazon with ice-class ships, helicopters and working scientists. <strong>River Luxury</strong> covers the Danube, the Rhine, the Mekong and the Nile — and one line, Viking, whose 109 ships make it the largest fleet in the guide by hulls. Positioning is stated honestly throughout: Oceania and Azamara are labelled luxury-adjacent, Viking is labelled premium at scale, and no fare is called all-inclusive unless the line's own inclusions support the words.</p>
+  <p style="margin-top:1.5rem;color:var(--muted);font-size:0.95rem">More Travel &amp; Tourism guides will join this department in the months ahead.</p>
+</main>
+
 <footer class="footer">
   <p class="disclosure">Affiliate disclosure: LIKE® Magazine may earn a commission from qualifying purchases made through links on this site. Editorial coverage remains independent.</p>
   <nav class="footer-nav" aria-label="Footer">
@@ -345,7 +298,7 @@ a:hover { text-decoration: underline; }
     <a href="/summit-season/index.html">Summit Season</a>
     <a href="/search.html">Search</a>
   </nav>
-  <p>&copy; LIKE Magazine &middot; likeleaders.com &middot; Photography &amp; editorial by Michael de la Force &middot; Print-on-demand editions coming soon</p>
+  <p>© LIKE Magazine · likeleaders.com · Photography &amp; editorial by Michael de la Force · Print-on-demand editions coming soon</p>
 </footer>
-</body>
-</html>
+
+</body></html>

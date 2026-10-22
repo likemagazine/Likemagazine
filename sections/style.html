@@ -1,11 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<link rel="canonical" href="https://likeleaders.com/sections/style.html"/>
-<meta charset="utf-8"/>
-<meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>LIKE® Style · LIKE Magazine</title>
-<meta name="description" content="LIKE® Magazine — Leaders, Style, Travel, Culture. Print magazine online."/>
+<!DOCTYPE html><html lang="en"><head>
+<link rel="canonical" href="https://likeleaders.com/sections/style.html">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>STYLE · LIKE Magazine</title>
+<meta name="description" content="LIKE® Magazine's Style department: the world's fragrance and beauty houses — parent groups, presidents, master perfumers, flagship doors and published scale, verified.">
 <style>
 :root {
   --ink: #111;
@@ -144,60 +142,6 @@ a:hover { text-decoration: underline; }
 .edition.summit .ed-num { color: #c99a3b; }
 .edition.summit em { color: #b9b0c4; }
 
-/* Print year-rail — Roman numeral edition lines */
-.year-line {
-  display: flex;
-  align-items: center;
-  gap: 0.85rem;
-  margin: 2.1rem 0 0.85rem;
-  font-family: var(--sans);
-}
-.year-line::before,
-.year-line::after {
-  content: "";
-  flex: 1 1 auto;
-  height: 3px;
-  border-top: 1px solid var(--ink);
-  border-bottom: 1px solid var(--ink);
-  opacity: 0.55;
-}
-.year-line .roman {
-  flex: 0 0 auto;
-  font-size: 0.72rem;
-  letter-spacing: 0.32em;
-  font-weight: 700;
-  text-transform: uppercase;
-  color: var(--ink);
-  padding: 0 0.15rem;
-}
-.year-line .year-arabic {
-  flex: 0 0 auto;
-  font-size: 0.62rem;
-  letter-spacing: 0.14em;
-  color: var(--muted);
-  font-weight: 500;
-}
-.year-line.archive::before,
-.year-line.archive::after {
-  border-color: var(--rule);
-  opacity: 1;
-}
-.year-line.archive .roman {
-  letter-spacing: 0.22em;
-  color: var(--muted);
-  font-weight: 600;
-}
-.year-group { margin-bottom: 0.35rem; }
-.year-group > .grid { margin-top: 0.85rem; }
-.year-line.summit-year::before,
-.year-line.summit-year::after {
-  border-color: #c99a3b;
-  opacity: 0.7;
-}
-.year-line.summit-year .roman { color: #c99a3b; }
-.year-line.summit-year .year-arabic { color: #b9b0c4; }
-
-
 /* ---- LIKE® unified nav/footer/a11y refinements (site update 2026-09-27) ---- */
 .nav { align-items: center; }
 .nav a { display: inline-flex; align-items: center; min-height: 44px; padding: 0.35rem 0.45rem; }
@@ -225,17 +169,53 @@ a:hover { text-decoration: underline; }
   .nav details.nav-more[open] .nav-more-links { border-top: 1px solid var(--rule); margin-top: 0.2rem; padding-top: 0.6rem; }
 }
 
-/* == LIKE department openers v1 == */
-.dept-opener { text-align: center; padding: 2.75rem 1rem 2rem; border-bottom: 3px double var(--ink); margin: 0 0 2rem; }
-.dept-kicker { font-family: var(--sans); font-size: 0.7rem; letter-spacing: 0.34em; text-transform: uppercase; color: var(--accent); margin: 0 0 0.9rem; padding-left: 0.34em; }
-.dept-title { font-family: var(--serif); font-weight: 700; font-size: clamp(2.3rem, 6vw, 3.6rem); line-height: 1.05; letter-spacing: 0.015em; margin: 0; text-wrap: balance; }
-.dept-title + .dept-deck { margin-top: 1rem; }
-.dept-deck { font-family: var(--serif); font-style: italic; font-size: 1.14rem; line-height: 1.62; color: #4a4036; max-width: 660px; margin-left: auto; margin-right: auto; text-wrap: pretty; }
-.dept-title + .dept-count, .dept-deck + .dept-count { margin-top: 1.2rem; }
-.dept-count { font-family: var(--sans); font-size: 0.72rem; letter-spacing: 0.22em; text-transform: uppercase; color: var(--muted); margin-bottom: 0; padding-left: 0.22em; }
-@media (max-width: 640px) { .dept-opener { padding: 2rem 1rem 1.5rem; } }
+/* == LIKE editorial typography v1 == */
+.article-wrap > h1 {
+  font-family: var(--serif);
+  letter-spacing: 0.045em;
+  text-wrap: balance;
+}
+p.lead {
+  font-size: 1.24rem;
+  line-height: 1.55;
+  font-style: italic;
+  color: #4a4036;
+  margin: 0 0 1.6rem;
+  text-wrap: pretty;
+}
+.article-body { font-size: 1.08rem; }
+.article-body > p {
+  line-height: 1.78;
+  margin: 0 0 1.2rem;
+  text-wrap: pretty;
+}
+.article-body > p.dropcap::first-letter {
+  font-family: var(--serif);
+  font-weight: 700;
+  font-size: 3.6em;
+  line-height: 0.82;
+  float: left;
+  padding: 0.06em 0.14em 0 0;
+}
+.article-body h2 {
+  font-family: var(--serif);
+  font-size: 1.45rem;
+  line-height: 1.25;
+  margin: 2.2rem 0 0.9rem;
+  text-wrap: balance;
+}
+.byline {
+  font-size: 0.74rem;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+}
+.figure {
+  border: 1px solid var(--rule);
+  background: #fff;
+  padding: 0.6rem;
+}
 </style>
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%23111111'/%3E%3Ctext x='32' y='45' font-family='Georgia,serif' font-size='38' fill='%23f4efe6' text-anchor='middle'%3EL%3C/text%3E%3C/svg'"/>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%23111111'/%3E%3Ctext x='32' y='45' font-family='Georgia,serif' font-size='38' fill='%23f4efe6' text-anchor='middle'%3EL%3C/text%3E%3C/svg'">
 </head>
 <body>
 <header class="mast">
@@ -274,10 +254,9 @@ a:hover { text-decoration: underline; }
       <a href="/sections/fashion.html">Fashion</a>
       <a href="/sections/sports.html">Sports</a>
       <a href="/sections/diplomacy.html">Diplomacy</a>
-      <a href="/sections/culture.html">Culture</a>
       <a href="/sections/like-global.html">LIKE® Global</a>
       <a href="/sections/conferences.html">Conferences</a>
-      <a href="/sections/trade-shows.html">Trade Shows</a>
+      <a href="/sections/travel.html">Travel</a>
       <a href="/sections/health.html">Health</a>
       <a href="/sections/law.html">Law</a>
       <a href="/sections/science.html">Science</a>
@@ -293,56 +272,21 @@ a:hover { text-decoration: underline; }
   </details>
 </nav>
 
-<main class="wrap">
-  <header class="dept-opener">
-  <p class="dept-kicker">Department</p>
-  <h1 class="dept-title">LIKE® Style</h1>
-  <p class="dept-deck">Fashion, photographs, and the social calendar — Style features from the archive are being imported from Facebook (including shoots and market stories). Check back as we pull the full Style run.</p>
-  <p class="dept-count">7 features</p>
-</header>
-  <aside class="affiliate-box"><strong>Style affiliates</strong>Partner looks and shoppable edits will live with Style stories.</aside>
-
-  <h3 class="section-title" style="margin-top:1.5rem">Style Features</h3>
-  <div class="grid">
-    <a class="card" href="/articles/like-style-the-little-black-jacket-tuxedo-park.html">
-      <img src="/images/like-tuxedo-grand-staircase-state-dinner-2026.jpg" alt="President Xi Jinping, Madame Peng Liyuan, President Donald J. Trump and First Lady Melania Trump at the White House Grand Staircase, September 24, 2026. Official White House Photo by Molly Riley"/>
-      <div class="meta">
-        <p class="kicker">(LIKE® Style · History · Craftsmanship · Travel)</p>
-        <h2>THE LITTLE BLACK JACKET: HOW TUXEDO PARK GAVE THE WORLD ITS EVENING LANGUAGE</h2>
-        <p class="deck">From Henry Poole’s 1865 coat and the Gilded Age village of Tuxedo Park to the White House Grand Staircase: the story, rules and craft of the tuxedo.</p>
-      </div>
-    </a>
-    <a class="card" href="/articles/like-features-rothschild-swiss-wealth-award.html">
-      <img src="/images/rothschild-swiss-wealth-award.jpg" alt="Rothschild &amp; Co Swiss wealth award"/>
-      <div class="meta"><p class="kicker">(LIKE® Features · Style)</p><h2>WHERE BIG BUCKS BANK AND RESIDE: ROTHSCHILD &amp; CO. WINS AGAIN</h2></div>
-    </a>
-    <a class="card" href="/articles/like-style-sothebys-enters-fashion-market-via-frame.html">
-      <img src="/images/like-style-sothebys-frame-photoshoot.jpg" alt="On a city sidewalk, a woman in a baseball cap bends over a tote bag and sunflowers while another woman photographs her during a street-style fashion shoot"/>
-      <div class="meta"><p class="kicker">(LIKE® Style)</p><h2>SWANKY PHOTOSHOOT AS SOTHEBY'S ENTERS FASHION MARKET VIA FRAME</h2></div>
-    </a>
-    <a class="card" href="/articles/like-style-diamond-district-shopping-season-2024.html">
-      <img src="/images/diamond-district-shopping-season-2024.jpg" alt="Diamond District shopping season 2024"/>
-      <div class="meta"><p class="kicker">(LIKE® Style)</p><h2>THE DIAMOND DISTRICT: SHOPPING SEASON 2024</h2></div>
-    </a>
-  </div>
-
-  <h3 class="section-title" style="margin-top:2rem">From Automotive · Style</h3>
-  <p style="font-family:var(--sans);font-size:0.9rem;color:var(--muted)">Rolls-Royce press-club stories with a lifestyle lens — also filed under <a href="/sections/automotive.html">Automotive Features</a>.</p>
-  <div class="grid">
-    <a class="card" href="/articles/like-craftsmanship-phantom-hummingbird.html">
-      <img src="/images/rolls-phantom-hummingbird.jpg" alt="Hummingbird marquetry in abalone shell and mother-of-pearl on a Phantom Hummingbird Picnic Table. Courtesy Rolls-Royce Motor Cars"/>
-      <div class="meta"><p class="kicker">(LIKE® Craftsmanship · Style)</p><h2>PHANTOM HUMMINGBIRD: ROLLS-ROYCE TAKES WING IN ABALONE AND PEARL</h2><p class="deck">Rolls-Royce sets abalone shell into its marquetry for the first time, in a Phantom Extended Private Commission curated by Private Office Dubai.</p></div>
-    </a>
-    <a class="card" href="/articles/like-automotive-black-badge-ghost-ekleipsis-featuring-starlight-headliner.html">
-      <img src="/images/rolls-black-badge-ghost-ekleipsis.jpg" alt="LIKE® Magazine"/>
-      <div class="meta"><p class="kicker">(LIKE® Style · Automotive)</p><h2>Black Badge Ghost Ékleipsis</h2></div>
-    </a>
-    <a class="card" href="/articles/like-automotive-the-hudson-river-photograph.html">
-      <div class="meta"><p class="kicker">(LIKE® Style · Automotive)</p><h2>The Hudson River Photograph</h2></div>
-    </a>
-  </div>
-
+<main class="article-wrap">
+  <p class="kicker">THE WORLDWIDE GUIDE · LIKE<sup>®</sup> STYLE</p>
+  <h1 style="font-size:clamp(1.7rem,4vw,2.5rem);line-height:1.15;margin:0 0 0.8rem">STYLE</h1>
+  <p class="deck" style="font-size:1.1rem">Fragrance, beauty and the arts of presentation. LIKE<sup>®</sup> Style opens its worldwide coverage with the houses themselves — the fragrance and beauty houses whose names stand on the bottles, jars and counters of the world — verified name by name, with ownership, leadership and perfumers of record.</p>
+  <h2 class="section-title">THE FLAGSHIP GUIDE</h2>
+  <a class="feature" href="/articles/like-worlds-fragrance-beauty-houses.html" style="text-decoration:none">
+    <div class="body">
+      <p class="kicker">THE WORLDWIDE GUIDE · OCTOBER 2026</p>
+      <h2>THE WORLD'S FRAGRANCE &amp; BEAUTY HOUSES</h2>
+      <p class="deck">31 houses — from Chanel, Guerlain and Dior to Santa Maria Novella (1221), Creed, Byredo and Le Labo — with every house's parent group as it stands in late 2026, its president or chief executive verified to October 2026, its master perfumer or creative director where the house names one, its flagship doors (182 individually named) and its published scale figure where one exists. Licensed houses say so; unconfirmed chairs are printed as named gaps, never padded.</p>
+    </div>
+  </a>
+  <p style="margin-top:1.5rem;color:var(--muted);font-size:0.95rem">More Style guides will join this department in the months ahead. LIKE<sup>®</sup> Fashion, the sister department, carries the companion guide to the world's fashion houses.</p>
 </main>
+
 <footer class="footer">
   <p class="disclosure">Affiliate disclosure: LIKE® Magazine may earn a commission from qualifying purchases made through links on this site. Editorial coverage remains independent.</p>
   <nav class="footer-nav" aria-label="Footer">
@@ -352,7 +296,7 @@ a:hover { text-decoration: underline; }
     <a href="/summit-season/index.html">Summit Season</a>
     <a href="/search.html">Search</a>
   </nav>
-  <p>&copy; LIKE Magazine &middot; likeleaders.com &middot; Photography &amp; editorial by Michael de la Force &middot; Print-on-demand editions coming soon</p>
+  <p>© LIKE Magazine · likeleaders.com · Photography &amp; editorial by Michael de la Force · Print-on-demand editions coming soon</p>
 </footer>
-</body>
-</html>
+
+</body></html>
