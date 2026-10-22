@@ -515,5 +515,15 @@
    "status": "published",
    "published": "2026-10-21",
    "detail": "Published 2026-10-21. Event: SEA@NYY, Yankee Stadium, 2025-07-10 (MLB gamePk 777169). Photos by Michael de la Force (Facebook posts 2025-07-10 and 2025-07-11; Kissinger photo from post 2022-08-14). 1967 LIKE cover from the LIKE archive (post 2025-12-23)."
+  },
+  "articles/like-day-of-the-white-cranes.html": {
+   "path": "articles/like-day-of-the-white-cranes.html",
+   "year": 2026,
+   "roman": "MMXXVI",
+   "source": "byline",
+   "confidence": "high",
+   "status": "published",
+   "published": "2026-10-22",
+   "detail": "Byline '(Michael de la Force, LIKE Magazine, 10.22.26)'; jsonld datePublished 2026-10-22. Observance date Oct. 22."
   }
  }
