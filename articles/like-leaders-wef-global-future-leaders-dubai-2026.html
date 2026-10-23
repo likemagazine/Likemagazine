@@ -109,9 +109,10 @@ body { margin: 0; background: var(--paper); color: var(--ink); font-family: var(
 a { color: var(--accent); text-decoration: none; }
 a:hover { text-decoration: underline; }
 .mast { background: var(--cream); border-bottom: 3px double var(--ink); text-align: center; padding: 1.25rem 1rem 1rem; }
-.mast .mast-title { margin: 0; font-family: var(--sans); white-space: nowrap; letter-spacing: 0.2em; font-size: clamp(1.55rem, 4.4vw, 2.35rem); font-weight: 700; line-height: 1; }
-.mast .mast-title a { color: inherit; }
-.mast .mast-title .reg { color: var(--accent); font-size: 0.42em; font-weight: 700; letter-spacing: 0; vertical-align: super; line-height: 0; margin-left: 0.06em; position: relative; top: -0.05em; }
+.mast h1 { margin: 0; font-family: var(--sans); letter-spacing: 0.28em; font-size: clamp(1.85rem, 4.5vw, 2.55rem); font-weight: 700; line-height: 1; }
+.mast h1 a { color: inherit; }
+.mast h1 .reg, .mast h1 sup.reg { color: var(--accent); font-size: 0.42em; font-weight: 700; letter-spacing: 0; vertical-align: super; line-height: 0; margin-left: 0.06em; position: relative; top: -0.05em; }
+.mast-magazine { margin: 0.35rem 0 0; font-family: var(--sans); font-size: clamp(0.78rem, 2vw, 0.98rem); letter-spacing: 0.62em; text-transform: uppercase; color: var(--ink); font-weight: 600; padding-left: 0.62em; }
 .tag { margin: 0.4rem 0 0; font-family: var(--sans); font-size: 0.68rem; letter-spacing: 0.18em; text-transform: uppercase; color: var(--muted); }
 .nav { display: flex; flex-wrap: wrap; justify-content: center; gap: 0.45rem 1rem; padding: 0.75rem 1rem; border-bottom: 1px solid var(--rule); font-family: var(--sans); font-size: 0.72rem; letter-spacing: 0.08em; text-transform: uppercase; background: #efe8db; align-items: center; }
 .nav a { color: var(--ink); display: inline-flex; align-items: center; min-height: 44px; padding: 0.35rem 0.45rem; font-weight: 600; }
@@ -141,7 +142,8 @@ p.lead { font-size: 1.24rem; line-height: 1.55; font-style: italic; color: #4a40
 </head>
 <body>
 <header class="mast">
-  <div class="mast-title"><a href="/index.html" style="color:inherit;text-decoration:none">LIKE<sup class="reg">®</sup> Magazine</a></div>
+  <h1><a href="/index.html" style="color:inherit;text-decoration:none">LIKE<sup class="reg">®</sup></a></h1>
+  <p class="mast-magazine">Magazine</p>
   <p class="tag">Style · Leaders · likeleaders.com</p>
 </header>
 <nav class="nav" aria-label="Primary">
