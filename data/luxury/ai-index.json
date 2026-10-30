@@ -450,6 +450,48 @@
    },
    "variableMeasured": "listing",
    "count": 395
+  },
+  {
+   "@type": "Dataset",
+   "name": "UN ECOSOC Consultative-Status NGOs — Global",
+   "description": "Non-governmental organizations in General consultative status with the UN Economic and Social Council — first 25 organizations; expansion underway.",
+   "url": "https://likeleaders.com/ngo-directory/ecosoc-global.html",
+   "creator": {
+    "@id": "https://likeleaders.com/#organization"
+   },
+   "isPartOf": {
+    "@type": "CreativeWork",
+    "name": "LIKE® Magazine NGO Directory",
+    "url": "https://likeleaders.com/ngo-directory/index.html"
+   },
+   "distribution": {
+    "@type": "DataDownload",
+    "encodingFormat": "text/html",
+    "contentUrl": "https://likeleaders.com/ngo-directory/ecosoc-global.html"
+   },
+   "variableMeasured": "listing",
+   "count": 25
+  },
+  {
+   "@type": "Dataset",
+   "name": "NGOs in New York & Geneva",
+   "description": "Non-governmental organizations with a verified presence in New York (330) and Geneva (133).",
+   "url": "https://likeleaders.com/ngo-directory/new-york-geneva.html",
+   "creator": {
+    "@id": "https://likeleaders.com/#organization"
+   },
+   "isPartOf": {
+    "@type": "CreativeWork",
+    "name": "LIKE® Magazine NGO Directory",
+    "url": "https://likeleaders.com/ngo-directory/index.html"
+   },
+   "distribution": {
+    "@type": "DataDownload",
+    "encodingFormat": "text/html",
+    "contentUrl": "https://likeleaders.com/ngo-directory/new-york-geneva.html"
+   },
+   "variableMeasured": "listing",
+   "count": 463
   }
  ],
  "hasPart": [

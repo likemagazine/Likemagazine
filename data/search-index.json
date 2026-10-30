@@ -2044,5 +2044,23 @@
   "title": "Top 500 Specialty Tour Companies Worldwide · LIKE Magazine",
   "description": "395 specialty tour companies worldwide — expedition cruises, luxury ocean and river lines, escorted tours, adventure travel, safaris and private-jet journeys — ownership, fleets, loyalty programs and full contact details — curated for LIKE® Magazine Luxury Guide on likeleaders.com.",
   "kicker": "Luxury Guide"
+ },
+ {
+  "url": "/ngo-directory/index.html",
+  "title": "NGO Directory — Worldwide Directories · LIKE Magazine",
+  "description": "LIKE NGO Directory: non-governmental organizations with UN ECOSOC consultative status and the NGO hubs of New York and Geneva — 488 organizations. Verified facts only.",
+  "kicker": "NGO Directory"
+ },
+ {
+  "url": "/ngo-directory/ecosoc-global.html",
+  "title": "ECOSOC Consultative-Status NGOs — Global · LIKE Magazine",
+  "description": "UN ECOSOC consultative-status NGOs in General status — the first 25 organizations. The UN’s live database holds 6,674 NGOs; expansion underway. Verified facts only.",
+  "kicker": "NGO Directory"
+ },
+ {
+  "url": "/ngo-directory/new-york-geneva.html",
+  "title": "NGOs in New York & Geneva · LIKE Magazine",
+  "description": "463 non-governmental organizations with a verified presence in New York (330) and Geneva (133). Verified facts only.",
+  "kicker": "NGO Directory"
  }
 ]
