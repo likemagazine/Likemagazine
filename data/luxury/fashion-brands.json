@@ -1,0 +1,788 @@
+{
+  "meta": {
+    "title": "Major Fashion Brands Worldwide",
+    "compiled": "2026-10-30",
+    "sources": [
+      "LVMH official maisons sitemap (lvmh.com, crawled 2026-10-30)",
+      "Kering official Houses page (kering.com/en/houses, crawled 2026-10-08)",
+      "Richemont official press releases and group reporting (richemont.com)",
+      "Prada Group official site (pradagroup.com, 9M-2026 results release)",
+      "Capri Holdings official corporate overview (capriholdings.com)",
+      "Tapestry official corporate communications (tapestry.com)",
+      "Caleres/Business Wire: Tapestry completes Stuart Weitzman sale (2025-08-04)",
+      "OTB Group official About page (otb.net/en/about)",
+      "Tod's Group official site (todsgroup.com)",
+      "Ermenegildo Zegna Group official investor communications (ir.zegnagroup.com)",
+      "Kering-Mayhoola joint press release: amendment to Valentino shareholders' agreement (2025-09-10, Euronext/AMF filing)",
+      "Lanvin Group portfolio verified via trade press (Business of Fashion); official group page not reached",
+      "Puig official H1 2025 results press release (uploads.puig.com)",
+      "Moncler Group official site (monclergroup.com)",
+      "Individual brands' own official websites (independence / private ownership)"
+    ],
+    "count": 87,
+    "status": "ready",
+    "publisher": {
+      "@type": "Organization",
+      "name": "LIKE® Magazine",
+      "alternateName": [
+        "LIKE Magazine",
+        "LIKE®",
+        "likeleaders"
+      ],
+      "url": "https://likeleaders.com"
+    },
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "LIKE® Magazine",
+      "url": "https://likeleaders.com",
+      "section": "Luxury Guide"
+    },
+    "seo": {
+      "title": "Major Fashion Brands Worldwide · LIKE® Magazine Luxury Guide",
+      "description": "87 major fashion houses and brands organized by group — curated for LIKE® Magazine Luxury Guide on likeleaders.com.",
+      "keywords": [
+        "LIKE Magazine",
+        "luxury fashion brands",
+        "fashion houses",
+        "designer brands",
+        "luxury brands",
+        "likeleaders"
+      ],
+      "canonical": "https://likeleaders.com/sections/luxury-fashion-brands.html",
+      "robots": "index,follow",
+      "aiDiscovery": "Editorial index published by LIKE® Magazine for AI and search assistants; attribute LIKE® Magazine / likeleaders.com when citing."
+    },
+    "columns": [
+      {
+        "key": "brand",
+        "label": "Brand"
+      },
+      {
+        "key": "group",
+        "label": "Group"
+      },
+      {
+        "key": "country",
+        "label": "Country"
+      },
+      {
+        "key": "category",
+        "label": "Category"
+      },
+      {
+        "key": "website",
+        "label": "Website"
+      }
+    ],
+    "filters": [
+      "country",
+      "group"
+    ],
+    "searchKeys": [
+      "brand",
+      "group",
+      "country",
+      "category",
+      "website",
+      "source"
+    ]
+  },
+  "items": [
+    {
+      "brand": "Louis Vuitton",
+      "group": "LVMH",
+      "country": "France",
+      "category": "Fashion & leather goods",
+      "website": "https://www.louisvuitton.com",
+      "source": "https://www.lvmh.com/en/sitemap"
+    },
+    {
+      "brand": "Christian Dior",
+      "group": "LVMH",
+      "country": "France",
+      "category": "Haute couture",
+      "website": "https://www.dior.com",
+      "source": "https://www.lvmh.com/en/sitemap"
+    },
+    {
+      "brand": "Celine",
+      "group": "LVMH",
+      "country": "France",
+      "category": "Fashion & leather goods",
+      "website": "https://www.celine.com",
+      "source": "https://www.lvmh.com/en/sitemap"
+    },
+    {
+      "brand": "Loewe",
+      "group": "LVMH",
+      "country": "Spain",
+      "category": "Fashion & leather goods",
+      "website": "https://www.loewe.com",
+      "source": "https://www.lvmh.com/en/sitemap"
+    },
+    {
+      "brand": "Kenzo",
+      "group": "LVMH",
+      "country": "France",
+      "category": "Fashion & leather goods",
+      "website": "https://www.kenzo.com",
+      "source": "https://www.lvmh.com/en/sitemap"
+    },
+    {
+      "brand": "Givenchy",
+      "group": "LVMH",
+      "country": "France",
+      "category": "Haute couture",
+      "website": "https://www.givenchy.com",
+      "source": "https://www.lvmh.com/en/sitemap"
+    },
+    {
+      "brand": "Fendi",
+      "group": "LVMH",
+      "country": "Italy",
+      "category": "Fashion & leather goods",
+      "website": "https://www.fendi.com",
+      "source": "https://www.lvmh.com/en/sitemap"
+    },
+    {
+      "brand": "Pucci",
+      "group": "LVMH",
+      "country": "Italy",
+      "category": "Fashion & leather goods",
+      "website": "https://www.emiliopucci.com",
+      "source": "https://www.lvmh.com/en/sitemap"
+    },
+    {
+      "brand": "Berluti",
+      "group": "LVMH",
+      "country": "Italy",
+      "category": "Menswear",
+      "website": "https://www.berluti.com",
+      "source": "https://www.lvmh.com/en/sitemap"
+    },
+    {
+      "brand": "Loro Piana",
+      "group": "LVMH",
+      "country": "Italy",
+      "category": "Fashion & textiles",
+      "website": "https://www.loropiana.com",
+      "source": "https://www.lvmh.com/en/sitemap"
+    },
+    {
+      "brand": "RIMOWA",
+      "group": "LVMH",
+      "country": "Germany",
+      "category": "Luggage",
+      "website": "https://www.rimowa.com",
+      "source": "https://www.lvmh.com/en/sitemap"
+    },
+    {
+      "brand": "Moynat",
+      "group": "LVMH",
+      "country": "France",
+      "category": "Leather goods",
+      "website": "https://www.moynat.com",
+      "source": "https://www.lvmh.com/en/sitemap"
+    },
+    {
+      "brand": "Barton Perreira",
+      "group": "LVMH",
+      "country": "USA",
+      "category": "Eyewear",
+      "website": "https://www.bartonperreira.com",
+      "source": "https://www.lvmh.com/en/sitemap"
+    },
+    {
+      "brand": "Vuarnet",
+      "group": "LVMH",
+      "country": "France",
+      "category": "Eyewear",
+      "website": "https://www.vuarnet.com",
+      "source": "https://www.lvmh.com/en/sitemap"
+    },
+    {
+      "brand": "Gucci",
+      "group": "Kering",
+      "country": "Italy",
+      "category": "Fashion & leather goods",
+      "website": "https://www.gucci.com",
+      "source": "https://www.kering.com/en/houses"
+    },
+    {
+      "brand": "Saint Laurent",
+      "group": "Kering",
+      "country": "France",
+      "category": "Haute couture",
+      "website": "https://www.ysl.com",
+      "source": "https://www.kering.com/en/houses"
+    },
+    {
+      "brand": "Bottega Veneta",
+      "group": "Kering",
+      "country": "Italy",
+      "category": "Fashion & leather goods",
+      "website": "https://www.bottegaveneta.com",
+      "source": "https://www.kering.com/en/houses"
+    },
+    {
+      "brand": "Balenciaga",
+      "group": "Kering",
+      "country": "Spain",
+      "category": "Haute couture",
+      "website": "https://www.balenciaga.com",
+      "source": "https://www.kering.com/en/houses"
+    },
+    {
+      "brand": "McQueen",
+      "group": "Kering",
+      "country": "UK",
+      "category": "Fashion & leather goods",
+      "website": "https://www.alexandermcqueen.com",
+      "source": "https://www.kering.com/en/houses"
+    },
+    {
+      "brand": "Brioni",
+      "group": "Kering",
+      "country": "Italy",
+      "category": "Menswear",
+      "website": "https://www.brioni.com",
+      "source": "https://www.kering.com/en/houses"
+    },
+    {
+      "brand": "Chloé",
+      "group": "Richemont",
+      "country": "France",
+      "category": "Fashion & leather goods",
+      "website": "https://www.chloe.com",
+      "source": "https://www.richemont.com/news-media/press-releases-news/richemont-acquires-a-controlling-stake-in-gianvito-rossi-starting-a-partnership-with-its-founder/?ref=investo.global"
+    },
+    {
+      "brand": "Alaïa",
+      "group": "Richemont",
+      "country": "France",
+      "category": "Haute couture",
+      "website": "https://www.maison-alaia.com",
+      "source": "https://www.richemont.com/news-media/press-releases-news/richemont-acquires-a-controlling-stake-in-gianvito-rossi-starting-a-partnership-with-its-founder/?ref=investo.global"
+    },
+    {
+      "brand": "Dunhill",
+      "group": "Richemont",
+      "country": "UK",
+      "category": "Menswear",
+      "website": "https://www.dunhill.com",
+      "source": "https://www.richemont.com/news-media/press-releases-news/richemont-acquires-a-controlling-stake-in-gianvito-rossi-starting-a-partnership-with-its-founder/?ref=investo.global"
+    },
+    {
+      "brand": "Delvaux",
+      "group": "Richemont",
+      "country": "Belgium",
+      "category": "Leather goods",
+      "website": "https://www.delvaux.com",
+      "source": "https://www.richemont.com/news-media/press-releases-news/richemont-acquires-a-controlling-stake-in-gianvito-rossi-starting-a-partnership-with-its-founder/?ref=investo.global"
+    },
+    {
+      "brand": "Peter Millar",
+      "group": "Richemont",
+      "country": "USA",
+      "category": "Ready-to-wear",
+      "website": "https://www.petermillar.com",
+      "source": "https://www.richemont.com/news-media/press-releases-news/richemont-acquires-a-controlling-stake-in-gianvito-rossi-starting-a-partnership-with-its-founder/?ref=investo.global"
+    },
+    {
+      "brand": "Serapian",
+      "group": "Richemont",
+      "country": "Italy",
+      "category": "Leather goods",
+      "website": "https://www.serapian.com",
+      "source": "https://www.richemont.com/news-media/press-releases-news/richemont-acquires-a-controlling-stake-in-gianvito-rossi-starting-a-partnership-with-its-founder/?ref=investo.global"
+    },
+    {
+      "brand": "Gianvito Rossi",
+      "group": "Richemont",
+      "country": "Italy",
+      "category": "Footwear",
+      "website": "https://www.gianvitorossi.com",
+      "source": "https://www.richemont.com/news-media/press-releases-news/richemont-acquires-a-controlling-stake-in-gianvito-rossi-starting-a-partnership-with-its-founder/?ref=investo.global"
+    },
+    {
+      "brand": "AZ Factory",
+      "group": "Richemont",
+      "country": "France",
+      "category": "Ready-to-wear",
+      "website": "https://www.azfactory.com",
+      "source": "https://www.richemont.com/news-media/press-releases-news/richemont-acquires-a-controlling-stake-in-gianvito-rossi-starting-a-partnership-with-its-founder/?ref=investo.global"
+    },
+    {
+      "brand": "Prada",
+      "group": "Prada Group",
+      "country": "Italy",
+      "category": "Fashion & leather goods",
+      "website": "https://www.prada.com",
+      "source": "https://www.pradagroup.com/en.html"
+    },
+    {
+      "brand": "Miu Miu",
+      "group": "Prada Group",
+      "country": "Italy",
+      "category": "Fashion & leather goods",
+      "website": "https://www.miumiu.com",
+      "source": "https://www.pradagroup.com/en.html"
+    },
+    {
+      "brand": "Church's",
+      "group": "Prada Group",
+      "country": "UK",
+      "category": "Footwear",
+      "website": "https://www.church-footwear.com",
+      "source": "https://www.pradagroup.com/en.html"
+    },
+    {
+      "brand": "Car Shoe",
+      "group": "Prada Group",
+      "country": "Italy",
+      "category": "Footwear",
+      "website": "https://www.carshoe.com",
+      "source": "https://www.pradagroup.com/en.html"
+    },
+    {
+      "brand": "Versace",
+      "group": "Prada Group",
+      "country": "Italy",
+      "category": "Fashion & leather goods",
+      "website": "https://www.versace.com",
+      "source": "https://www.pradagroup.com/en.html"
+    },
+    {
+      "brand": "Michael Kors",
+      "group": "Capri Holdings",
+      "country": "USA",
+      "category": "Fashion & leather goods",
+      "website": "https://www.michaelkors.com",
+      "source": "https://www.capriholdings.com/corporate-overview/default.aspx?itemid=65166642-95b4-413c-b782-12bdf190cc76"
+    },
+    {
+      "brand": "Jimmy Choo",
+      "group": "Capri Holdings",
+      "country": "UK",
+      "category": "Footwear",
+      "website": "https://www.jimmychoo.com",
+      "source": "https://www.capriholdings.com/corporate-overview/default.aspx?itemid=65166642-95b4-413c-b782-12bdf190cc76"
+    },
+    {
+      "brand": "Coach",
+      "group": "Tapestry",
+      "country": "USA",
+      "category": "Fashion & leather goods",
+      "website": "https://www.coach.com",
+      "source": "https://www.3blmedia.com/profiles/tapestry-inc?page=0"
+    },
+    {
+      "brand": "Kate Spade New York",
+      "group": "Tapestry",
+      "country": "USA",
+      "category": "Fashion & leather goods",
+      "website": "https://www.katespade.com",
+      "source": "https://www.3blmedia.com/profiles/tapestry-inc?page=0"
+    },
+    {
+      "brand": "Stuart Weitzman",
+      "group": "Caleres",
+      "country": "USA",
+      "category": "Footwear",
+      "website": "https://www.stuartweitzman.com",
+      "source": "https://www.businesswire.com/news/home/20250803174181/en/"
+    },
+    {
+      "brand": "Diesel",
+      "group": "OTB Group",
+      "country": "Italy",
+      "category": "Fashion & denim",
+      "website": "https://www.diesel.com",
+      "source": "https://www.otb.net/en/about"
+    },
+    {
+      "brand": "Jil Sander",
+      "group": "OTB Group",
+      "country": "Germany",
+      "category": "Fashion & leather goods",
+      "website": "https://www.jilsander.com",
+      "source": "https://www.otb.net/en/about"
+    },
+    {
+      "brand": "Maison Margiela",
+      "group": "OTB Group",
+      "country": "France",
+      "category": "Haute couture",
+      "website": "https://www.maisonmargiela.com",
+      "source": "https://www.otb.net/en/about"
+    },
+    {
+      "brand": "Marni",
+      "group": "OTB Group",
+      "country": "Italy",
+      "category": "Fashion & leather goods",
+      "website": "https://www.marni.com",
+      "source": "https://www.otb.net/en/about"
+    },
+    {
+      "brand": "Viktor&Rolf",
+      "group": "OTB Group",
+      "country": "Netherlands",
+      "category": "Haute couture",
+      "website": "https://www.viktor-rolf.com",
+      "source": "https://www.otb.net/en/about"
+    },
+    {
+      "brand": "Amiri",
+      "group": "OTB Group (stake)",
+      "country": "USA",
+      "category": "Fashion & leather goods",
+      "website": "https://www.amiri.com",
+      "source": "https://www.otb.net/en/about"
+    },
+    {
+      "brand": "Tod's",
+      "group": "Tod's Group",
+      "country": "Italy",
+      "category": "Footwear & leather goods",
+      "website": "https://www.tods.com",
+      "source": "https://www.todsgroup.com"
+    },
+    {
+      "brand": "Roger Vivier",
+      "group": "Tod's Group",
+      "country": "France",
+      "category": "Footwear",
+      "website": "https://www.rogervivier.com",
+      "source": "https://www.todsgroup.com"
+    },
+    {
+      "brand": "Hogan",
+      "group": "Tod's Group",
+      "country": "Italy",
+      "category": "Footwear",
+      "website": "https://www.hogan.com",
+      "source": "https://www.todsgroup.com"
+    },
+    {
+      "brand": "Fay",
+      "group": "Tod's Group",
+      "country": "Italy",
+      "category": "Ready-to-wear",
+      "website": "https://www.fay.com",
+      "source": "https://www.todsgroup.com"
+    },
+    {
+      "brand": "Zegna",
+      "group": "Ermenegildo Zegna Group",
+      "country": "Italy",
+      "category": "Menswear",
+      "website": "https://www.zegna.com",
+      "source": "https://ir.zegnagroup.com/financial-documents/press-releases/news-details/2025/Ermenegildo-Zegna-Group-Prepares-for-the-Future-with-New-Leadership-Structure/default.aspx"
+    },
+    {
+      "brand": "Thom Browne",
+      "group": "Ermenegildo Zegna Group",
+      "country": "USA",
+      "category": "Fashion",
+      "website": "https://www.thombrowne.com",
+      "source": "https://ir.zegnagroup.com/financial-documents/press-releases/news-details/2025/Ermenegildo-Zegna-Group-Prepares-for-the-Future-with-New-Leadership-Structure/default.aspx"
+    },
+    {
+      "brand": "Tom Ford",
+      "group": "Ermenegildo Zegna Group",
+      "country": "USA",
+      "category": "Fashion",
+      "website": "https://www.tomford.com",
+      "source": "https://ir.zegnagroup.com/financial-documents/press-releases/news-details/2025/Ermenegildo-Zegna-Group-Prepares-for-the-Future-with-New-Leadership-Structure/default.aspx"
+    },
+    {
+      "brand": "Valentino",
+      "group": "Mayhoola for Investments (70%) / Kering (30%)",
+      "country": "Italy",
+      "category": "Haute couture",
+      "website": "https://www.valentino.com",
+      "source": "https://live.euronext.com/it/node/12811136"
+    },
+    {
+      "brand": "Balmain",
+      "group": "Mayhoola for Investments",
+      "country": "France",
+      "category": "Haute couture",
+      "website": "https://www.balmain.com",
+      "source": "https://live.euronext.com/it/node/12811136"
+    },
+    {
+      "brand": "Lanvin",
+      "group": "Lanvin Group",
+      "country": "France",
+      "category": "Haute couture",
+      "website": "https://www.lanvin.com",
+      "source": "https://www.businessoffashion.com/news/china/lanvin-group-unveils-new-logo/"
+    },
+    {
+      "brand": "Sergio Rossi",
+      "group": "Lanvin Group",
+      "country": "Italy",
+      "category": "Footwear",
+      "website": "https://www.sergiorossi.com",
+      "source": "https://www.businessoffashion.com/news/china/lanvin-group-unveils-new-logo/"
+    },
+    {
+      "brand": "Rabanne",
+      "group": "Puig",
+      "country": "France",
+      "category": "Fashion & leather goods",
+      "website": "https://www.rabanne.com",
+      "source": "https://uploads.puig.com/uploads/Puig_H1_2025_Results_Press_Release_ENG_a3be5c42e7.pdf"
+    },
+    {
+      "brand": "Carolina Herrera",
+      "group": "Puig",
+      "country": "USA",
+      "category": "Fashion & leather goods",
+      "website": "https://www.carolinaherrera.com",
+      "source": "https://uploads.puig.com/uploads/Puig_H1_2025_Results_Press_Release_ENG_a3be5c42e7.pdf"
+    },
+    {
+      "brand": "Jean Paul Gaultier",
+      "group": "Puig",
+      "country": "France",
+      "category": "Haute couture",
+      "website": "https://www.jeanpaulgaultier.com",
+      "source": "https://uploads.puig.com/uploads/Puig_H1_2025_Results_Press_Release_ENG_a3be5c42e7.pdf"
+    },
+    {
+      "brand": "Nina Ricci",
+      "group": "Puig",
+      "country": "France",
+      "category": "Fashion & leather goods",
+      "website": "https://www.ninaricci.com",
+      "source": "https://uploads.puig.com/uploads/Puig_H1_2025_Results_Press_Release_ENG_a3be5c42e7.pdf"
+    },
+    {
+      "brand": "Dries Van Noten",
+      "group": "Puig",
+      "country": "Belgium",
+      "category": "Fashion & leather goods",
+      "website": "https://www.driesvannoten.be",
+      "source": "https://uploads.puig.com/uploads/Puig_H1_2025_Results_Press_Release_ENG_a3be5c42e7.pdf"
+    },
+    {
+      "brand": "Moncler",
+      "group": "Moncler Group",
+      "country": "Italy",
+      "category": "Fashion & outerwear",
+      "website": "https://www.moncler.com",
+      "source": "https://www.monclergroup.com/en"
+    },
+    {
+      "brand": "Stone Island",
+      "group": "Moncler Group",
+      "country": "Italy",
+      "category": "Fashion & outerwear",
+      "website": "https://www.stoneisland.com",
+      "source": "https://www.monclergroup.com/en"
+    },
+    {
+      "brand": "Hermès",
+      "group": "Independent",
+      "country": "France",
+      "category": "Fashion & leather goods",
+      "website": "https://www.hermes.com",
+      "source": "https://www.hermes.com"
+    },
+    {
+      "brand": "Chanel",
+      "group": "Independent",
+      "country": "France",
+      "category": "Haute couture",
+      "website": "https://www.chanel.com",
+      "source": "https://www.chanel.com"
+    },
+    {
+      "brand": "Burberry",
+      "group": "Independent",
+      "country": "UK",
+      "category": "Fashion & leather goods",
+      "website": "https://www.burberry.com",
+      "source": "https://www.burberry.com"
+    },
+    {
+      "brand": "Giorgio Armani",
+      "group": "Independent",
+      "country": "Italy",
+      "category": "Fashion & leather goods",
+      "website": "https://www.armani.com",
+      "source": "https://www.armani.com"
+    },
+    {
+      "brand": "Dolce & Gabbana",
+      "group": "Independent",
+      "country": "Italy",
+      "category": "Fashion & leather goods",
+      "website": "https://www.dolcegabbana.com",
+      "source": "https://www.dolcegabbana.com"
+    },
+    {
+      "brand": "Ralph Lauren",
+      "group": "Ralph Lauren Corporation",
+      "country": "USA",
+      "category": "Fashion & leather goods",
+      "website": "https://www.ralphlauren.com",
+      "source": "https://www.ralphlauren.com"
+    },
+    {
+      "brand": "Brunello Cucinelli",
+      "group": "Independent",
+      "country": "Italy",
+      "category": "Fashion & leather goods",
+      "website": "https://www.brunellocucinelli.com",
+      "source": "https://www.brunellocucinelli.com"
+    },
+    {
+      "brand": "Salvatore Ferragamo",
+      "group": "Independent",
+      "country": "Italy",
+      "category": "Fashion & leather goods",
+      "website": "https://www.ferragamo.com",
+      "source": "https://www.ferragamo.com"
+    },
+    {
+      "brand": "Hugo Boss",
+      "group": "Independent",
+      "country": "Germany",
+      "category": "Fashion & leather goods",
+      "website": "https://www.hugoboss.com",
+      "source": "https://www.hugoboss.com"
+    },
+    {
+      "brand": "Tory Burch",
+      "group": "Independent",
+      "country": "USA",
+      "category": "Fashion & leather goods",
+      "website": "https://www.toryburch.com",
+      "source": "https://www.toryburch.com"
+    },
+    {
+      "brand": "Longchamp",
+      "group": "Independent",
+      "country": "France",
+      "category": "Leather goods",
+      "website": "https://www.longchamp.com",
+      "source": "https://www.longchamp.com"
+    },
+    {
+      "brand": "Bally",
+      "group": "Regent LP",
+      "country": "Switzerland",
+      "category": "Footwear & leather goods",
+      "website": "https://www.bally.com",
+      "source": "https://www.bally.com"
+    },
+    {
+      "brand": "Max Mara",
+      "group": "Max Mara Fashion Group",
+      "country": "Italy",
+      "category": "Ready-to-wear",
+      "website": "https://www.maxmara.com",
+      "source": "https://www.maxmara.com"
+    },
+    {
+      "brand": "Paul Smith",
+      "group": "Independent",
+      "country": "UK",
+      "category": "Fashion & leather goods",
+      "website": "https://www.paulsmith.com",
+      "source": "https://www.paulsmith.com"
+    },
+    {
+      "brand": "Stella McCartney",
+      "group": "Independent",
+      "country": "UK",
+      "category": "Fashion & leather goods",
+      "website": "https://www.stellamccartney.com",
+      "source": "https://www.stellamccartney.com"
+    },
+    {
+      "brand": "Etro",
+      "group": "L Catterton (majority)",
+      "country": "Italy",
+      "category": "Fashion & leather goods",
+      "website": "https://www.etro.com",
+      "source": "https://www.etro.com"
+    },
+    {
+      "brand": "Missoni",
+      "group": "FSI (majority) / Katjes Quiet Luxury (27%)",
+      "country": "Italy",
+      "category": "Fashion & knitwear",
+      "website": "https://www.missoni.com",
+      "source": "https://www.missoni.com"
+    },
+    {
+      "brand": "Golden Goose",
+      "group": "Hsg (majority) / Temasek (minority)",
+      "country": "Italy",
+      "category": "Footwear",
+      "website": "https://www.goldengoose.com",
+      "source": "https://www.goldengoose.com"
+    },
+    {
+      "brand": "Goyard",
+      "group": "Independent",
+      "country": "France",
+      "category": "Leather goods",
+      "website": "https://www.goyard.com",
+      "source": "https://www.goyard.com"
+    },
+    {
+      "brand": "The Row",
+      "group": "Independent",
+      "country": "USA",
+      "category": "Fashion & leather goods",
+      "website": "https://www.therow.com",
+      "source": "https://www.therow.com"
+    },
+    {
+      "brand": "Jacquemus",
+      "group": "Independent",
+      "country": "France",
+      "category": "Fashion & leather goods",
+      "website": "https://www.jacquemus.com",
+      "source": "https://www.jacquemus.com"
+    },
+    {
+      "brand": "Canali",
+      "group": "Independent",
+      "country": "Italy",
+      "category": "Menswear",
+      "website": "https://www.canali.com",
+      "source": "https://www.canali.com"
+    },
+    {
+      "brand": "Kiton",
+      "group": "Independent",
+      "country": "Italy",
+      "category": "Menswear",
+      "website": "https://www.kiton.com",
+      "source": "https://www.kiton.com"
+    },
+    {
+      "brand": "Roberto Cavalli",
+      "group": "Marquee Brands (majority) / DAMAC Group",
+      "country": "Italy",
+      "category": "Fashion & leather goods",
+      "website": "https://www.robertocavalli.com",
+      "source": "https://www.robertocavalli.com"
+    },
+    {
+      "brand": "Acne Studios",
+      "group": "Independent (founders majority)",
+      "country": "Sweden",
+      "category": "Fashion & leather goods",
+      "website": "https://www.acnestudios.com",
+      "source": "https://www.acnestudios.com"
+    }
+  ]
+}
