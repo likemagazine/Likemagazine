@@ -2,7 +2,8 @@
 """Build the LIKE NGO Directory department pages from the workbook snapshots.
 
 Reads:
-  ~/workspace/ngo-directory-build/ecosoc-snapshot.xlsx     (25 orgs, ECOSOC General status)
+  ~/workspace/ngo-directory-build/ecosoc-snapshot.xlsx     (6,674 orgs: General 132,
+      Special 5,575, Roster 967 — full ECOSOC expansion)
   ~/workspace/ngo-directory-build/ny-geneva-snapshot.xlsx (463 orgs, NY + Geneva)
 
 Builds (idempotent):
@@ -17,7 +18,7 @@ Page template (masthead/nav/hero/footer/CSS) is lifted from
 diplomatic-corps/bangkok.html so the department matches the site byte-for-byte.
 
 When the ECOSOC expansion lands: re-copy the live workbooks over the snapshots
-and rerun this script.
+and rerun this script. (Expansion landed 2026-10-30: full 6,674-org dataset.)
 """
 import html as htmlmod
 import json
@@ -69,6 +70,10 @@ def norm_url(v):
     if not v:
         return "", ""
     if v.startswith("["):
+        return "", v
+    if re.search(r"[\s\\]", v):
+        # not a single clean URL (multiple URLs, stray spaces or backslashes
+        # in the published value): display as published, never fabricate a link
         return "", v
     if re.match(r"^https?://", v, re.I):
         return v, v
@@ -125,7 +130,8 @@ def make_head(title, description, canonical_path, jsonld):
     head = re.sub(r'<meta property="og:url" content=".*?"/>',
                   f'<meta property="og:url" content="{SITE}{canonical_path}"/>', head, count=1)
     head = JSONLD_RE.sub(
-        '<script type="application/ld+json">\n' + jsonld + '\n</script>', head, count=1)
+        lambda m: '<script type="application/ld+json">\n' + jsonld + '\n</script>',
+        head, count=1)
     return head
 
 
@@ -149,7 +155,8 @@ def cell_link(href, text):
 
 
 # ---------------------------------------------------------------- ECOSOC page
-ECOSOC_COLS = [
+# General status: full public detail (23-col sheet; page shows the substantive fields)
+ECOSOC_COLS_GENERAL = [
     ("Organization name", "Organization"),
     ("Acronym", "Acronym"),
     ("ECOSOC status", "ECOSOC status"),
@@ -164,13 +171,30 @@ ECOSOC_COLS = [
     ("iCSO profile link", "iCSO profile"),
     ("Row notes", "Notes"),
 ]
+# Special & Roster: directory-level detail (12-col sheets). The ECOSOC status
+# column is redundant (the section header carries it), so it is not displayed.
+ECOSOC_COLS_DIR = [
+    ("Organization name", "Organization"),
+    ("Year accredited", "Year accredited"),
+    ("Country (as published in address)", "Country"),
+    ("Headquarters address (as published)", "Headquarters address"),
+    ("Telephone (organization)", "Telephone"),
+    ("Email (organization)", "Email"),
+    ("Website", "Website"),
+    ("Organization type", "Organization type"),
+    ("iCSO profile link", "iCSO profile"),
+    ("Row notes", "Notes"),
+]
 
 ECOSOC_SCOPE_NOTE = (
-    "Scope: General consultative status, first 25 organizations "
-    "(AARP through Colombian Confederation of NGOs). The UN DESA iCSO live database "
-    "holds 6,674 NGOs across General, Special and Roster statuses \u2014 expansion underway. "
-    "A blank field means the detail is not publicly documented; contact information is "
-    "organization-level only, exactly as published by the organization."
+    "Scope: the full UN DESA iCSO live database of non-governmental organizations in "
+    "consultative status with the United Nations Economic and Social Council, as of "
+    "30 October 2026 \u2014 6,674 organizations: General consultative status (132), "
+    "Special consultative status (5,575), Roster (967). 499 records carry an extraction "
+    "flag where a profile page could not be re-fetched; the registry\u2019s name, status "
+    "and year are shown with the flag, never padded. A blank field means the detail is "
+    "not publicly documented; contact information is organization-level only, exactly as "
+    "published by the organization."
 )
 ECOSOC_SOURCE = (
     "Source: UN DESA NGO Branch, Integrated Civil Society Organizations (iCSO) System "
@@ -180,51 +204,77 @@ ECOSOC_SOURCE = (
 )
 
 
-def build_ecosoc():
-    _, rows = load_sheet(ECOSOC_XLSX, "General-Status NGOs")
-    assert len(rows) == 25, f"expected 25 ECOSOC rows, got {len(rows)}"
+def ecosoc_row(r, cols):
+    tds = []
+    for key, _ in cols:
+        v = r.get(key)
+        if key == "Website":
+            href, disp = norm_url(v)
+            tds.append(f"<td>{cell_link(href, disp)}</td>")
+        elif key == "Email (organization)":
+            href, disp = email_href(v)
+            tds.append(f"<td>{cell_link(href, disp)}</td>")
+        elif key == "iCSO profile link":
+            tds.append(f"<td>{cell_link(v, 'iCSO profile') if v else ''}</td>")
+        else:
+            tds.append(f"<td>{esc(v)}</td>")
+    return "<tr>" + "".join(tds) + "</tr>"
 
-    thead = "<tr>" + "".join(f"<th>{esc(label)}</th>" for _, label in ECOSOC_COLS) + "</tr>"
-    tbody_rows = []
+
+def ecosoc_table(rows, cols, section_title):
+    thead = "<tr>" + "".join(f"<th>{esc(label)}</th>" for _, label in cols) + "</tr>"
+    body = "\n".join(ecosoc_row(r, cols) for r in rows)
+    return (f'<h2 class="section-title">{section_title}</h2>\n'
+            f'<div class="dna-tablewrap"><table class="dna-table">\n<thead>{thead}</thead>\n<tbody>\n'
+            + body + "\n</tbody>\n</table></div>")
+
+
+def ecosoc_items(rows, list_name):
     items = []
     for pos, r in enumerate(rows, 1):
-        tds = []
-        for key, _ in ECOSOC_COLS:
-            v = r.get(key)
-            if key == "Website":
-                href, disp = norm_url(v)
-                tds.append(f"<td>{cell_link(href, disp)}</td>")
-            elif key == "Email (organization)":
-                href, disp = email_href(v)
-                tds.append(f"<td>{cell_link(href, disp)}</td>")
-            elif key == "iCSO profile link":
-                tds.append(f"<td>{cell_link(v, 'iCSO profile') if v else ''}</td>")
-            else:
-                tds.append(f"<td>{esc(v)}</td>")
-        tbody_rows.append("<tr>" + "".join(tds) + "</tr>")
         name = str(r.get("Organization name") or "").strip()
         href, _ = norm_url(r.get("Website"))
         item = {"@type": "NGO", "name": name}
         if href:
             item["url"] = href
         items.append({"@type": "ListItem", "position": pos, "item": item})
+    return {"@type": "ItemList", "name": list_name,
+            "url": SITE + "/ngo-directory/ecosoc-global.html",
+            "numberOfItems": len(rows), "itemListElement": items}
 
-    table = (f'<h2 class="section-title">General consultative status \u2014 25 organizations</h2>\n'
-             f'<div class="dna-tablewrap"><table class="dna-table">\n<thead>{thead}</thead>\n<tbody>\n'
-             + "\n".join(tbody_rows) + "\n</tbody>\n</table></div>")
+
+def build_ecosoc():
+    _, general = load_sheet(ECOSOC_XLSX, "General-Status NGOs")
+    _, special = load_sheet(ECOSOC_XLSX, "Special-Status NGOs")
+    _, roster = load_sheet(ECOSOC_XLSX, "Roster NGOs")
+    assert len(general) == 132, f"expected 132 General rows, got {len(general)}"
+    assert len(special) == 5575, f"expected 5575 Special rows, got {len(special)}"
+    assert len(roster) == 967, f"expected 967 Roster rows, got {len(roster)}"
+    n_total = len(general) + len(special) + len(roster)
+
+    tables = (
+        ecosoc_table(general, ECOSOC_COLS_GENERAL,
+                     f"General consultative status \u2014 {len(general)} organizations") + "\n"
+        + ecosoc_table(special, ECOSOC_COLS_DIR,
+                       f"Special consultative status \u2014 {len(special)} organizations") + "\n"
+        + ecosoc_table(roster, ECOSOC_COLS_DIR,
+                       f"Roster \u2014 {len(roster)} organizations")
+    )
     main = (
         '<p class="crumbs"><a href="/index.html">Home</a> \u00b7 '
         '<a href="/ngo-directory/index.html">NGO Directory</a> \u00b7 ECOSOC Global</p>\n'
         '<header class="dept-opener">\n'
         '  <p class="dept-kicker">NGO Directory</p>\n'
         '  <h1 class="dept-title">ECOSOC Consultative-Status NGOs \u2014 Global</h1>\n'
-        '  <p class="dept-deck">Non-governmental organizations in General consultative status '
-        'with the United Nations Economic and Social Council, listed alphabetically.</p>\n'
-        '  <p class="dept-count">25 organizations \u00b7 General consultative status</p>\n'
+        '  <p class="dept-deck">Every non-governmental organization in consultative status '
+        'with the United Nations Economic and Social Council \u2014 General, Special and '
+        'Roster \u2014 from the UN DESA iCSO live database, listed alphabetically within each status.</p>\n'
+        f'  <p class="dept-count">{n_total:,} organizations \u00b7 General {len(general)} '
+        f'\u00b7 Special {len(special):,} \u00b7 Roster {len(roster)}</p>\n'
         '</header>\n'
         f'<p class="dna-note">{esc(ECOSOC_SCOPE_NOTE)}</p>\n'
         f'<p class="dna-note">{esc(ECOSOC_SOURCE)}</p>\n'
-        + table + '\n'
+        + tables + '\n'
         '<p class="dna-note">LIKE NGO Directory. Verified facts only.</p>'
     )
     jsonld = json.dumps({
@@ -233,17 +283,23 @@ def build_ecosoc():
             breadcrumbs(("Home", "/index.html"),
                         ("NGO Directory", "/ngo-directory/index.html"),
                         ("ECOSOC Global", "/ngo-directory/ecosoc-global.html")),
-            {"@type": "ItemList",
-             "name": "ECOSOC Consultative-Status NGOs \u2014 Global \u2014 LIKE Magazine",
-             "url": SITE + "/ngo-directory/ecosoc-global.html",
-             "numberOfItems": len(rows),
-             "itemListElement": items},
+            ecosoc_items(general,
+                         "ECOSOC Consultative-Status NGOs \u2014 Global: General status "
+                         "\u2014 LIKE Magazine"),
+            ecosoc_items(special,
+                         "ECOSOC Consultative-Status NGOs \u2014 Global: Special status "
+                         "\u2014 LIKE Magazine"),
+            ecosoc_items(roster,
+                         "ECOSOC Consultative-Status NGOs \u2014 Global: Roster "
+                         "\u2014 LIKE Magazine"),
         ]}, ensure_ascii=False, indent=2)
     title = "ECOSOC Consultative-Status NGOs \u2014 Global \u00b7 LIKE Magazine"
-    desc = ("UN ECOSOC consultative-status NGOs in General status \u2014 the first 25 "
-            "organizations. The UN\u2019s live database holds 6,674 NGOs across General, "
-            "Special and Roster statuses; expansion underway. Verified facts only.")
-    return page_shell(title, desc, "/ngo-directory/ecosoc-global.html", jsonld, main), len(rows)
+    desc = ("6,674 non-governmental organizations in consultative status with the UN Economic "
+            "and Social Council \u2014 General 132, Special 5,575, Roster 967 \u2014 from the "
+            "UN DESA iCSO live database. Verified facts only.")
+    return (page_shell(title, desc, "/ngo-directory/ecosoc-global.html", jsonld, main),
+            {"general": len(general), "special": len(special),
+             "roster": len(roster), "total": n_total})
 
 
 # ---------------------------------------------------------------- NY/Geneva page
@@ -347,7 +403,7 @@ def build_index():
     cards = [
         ("/ngo-directory/ecosoc-global.html", "NGO Directory",
          "ECOSOC Consultative-Status NGOs \u2014 Global",
-         "25 organizations \u00b7 General consultative status \u00b7 expansion underway"),
+         "6,674 organizations \u00b7 General 132 \u00b7 Special 5,575 \u00b7 Roster 967"),
         ("/ngo-directory/new-york-geneva.html", "NGO Directory",
          "NGOs in New York &amp; Geneva",
          "330 New York \u00b7 133 Geneva \u00b7 463 organizations"),
@@ -365,7 +421,7 @@ def build_index():
         'organizations in consultative status with the United Nations Economic and Social Council, '
         'and the NGO communities of New York and Geneva \u2014 gathered from official sources, '
         'checked, and kept current.</p>\n'
-        '  <p class="dept-count">2 lists \u00b7 488 organizations</p>\n'
+        '  <p class="dept-count">2 lists \u00b7 7,137 organizations</p>\n'
         '</header>\n'
         '<h2 class="section-title">The lists</h2>\n'
         f'<div class="edition-grid">\n{grid}\n</div>\n'
@@ -391,7 +447,7 @@ def build_index():
         ]}, ensure_ascii=False, indent=2)
     title = "NGO Directory \u2014 Worldwide Directories \u00b7 LIKE Magazine"
     desc = ("LIKE NGO Directory: non-governmental organizations with UN ECOSOC consultative "
-            "status and the NGO hubs of New York and Geneva \u2014 488 organizations. "
+            "status and the NGO hubs of New York and Geneva \u2014 7,137 organizations. "
             "Verified facts only.")
     return page_shell(title, desc, "/ngo-directory/index.html", jsonld, main)
 
@@ -456,12 +512,12 @@ def patch_search_index():
         ("/ngo-directory/index.html",
          "NGO Directory \u2014 Worldwide Directories \u00b7 LIKE Magazine",
          "LIKE NGO Directory: non-governmental organizations with UN ECOSOC consultative "
-         "status and the NGO hubs of New York and Geneva \u2014 488 organizations. Verified facts only.",
+         "status and the NGO hubs of New York and Geneva \u2014 7,137 organizations. Verified facts only.",
          "NGO Directory"),
         ("/ngo-directory/ecosoc-global.html",
          "ECOSOC Consultative-Status NGOs \u2014 Global \u00b7 LIKE Magazine",
-         "UN ECOSOC consultative-status NGOs in General status \u2014 the first 25 organizations. "
-         "The UN\u2019s live database holds 6,674 NGOs; expansion underway. Verified facts only.",
+         "6,674 UN ECOSOC consultative-status NGOs \u2014 General 132, Special 5,575, Roster 967 "
+         "\u2014 from the UN DESA iCSO live database. Verified facts only.",
          "NGO Directory"),
         ("/ngo-directory/new-york-geneva.html",
          "NGOs in New York & Geneva \u00b7 LIKE Magazine",
@@ -469,15 +525,20 @@ def patch_search_index():
          "and Geneva (133). Verified facts only.",
          "NGO Directory"),
     ]
-    added = 0
+    changed = 0
     for url, title, desc, kicker in entries:
-        if any(e.get("url") == url for e in idx):
-            continue
-        idx.append({"url": url, "title": title, "description": desc, "kicker": kicker})
-        added += 1
-    if added:
+        hit = next((e for e in idx if e.get("url") == url), None)
+        if hit is None:
+            idx.append({"url": url, "title": title, "description": desc, "kicker": kicker})
+            changed += 1
+        elif hit.get("title") != title or hit.get("description") != desc:
+            hit["title"] = title
+            hit["description"] = desc
+            hit["kicker"] = kicker
+            changed += 1
+    if changed:
         p.write_text(json.dumps(idx, ensure_ascii=False, indent=1), encoding="utf-8")
-    return added
+    return changed
 
 
 def patch_ai_index():
@@ -486,36 +547,41 @@ def patch_ai_index():
     ds = d.get("dataset", [])
     entries = [
         ("UN ECOSOC Consultative-Status NGOs \u2014 Global",
-         "Non-governmental organizations in General consultative status with the UN Economic "
-         "and Social Council \u2014 first 25 organizations; expansion underway.",
-         "/ngo-directory/ecosoc-global.html", 25),
+         "Non-governmental organizations in consultative status with the UN Economic "
+         "and Social Council \u2014 General 132, Special 5,575, Roster 967; 6,674 total, "
+         "from the UN DESA iCSO live database.",
+         "/ngo-directory/ecosoc-global.html", 6674),
         ("NGOs in New York & Geneva",
          "Non-governmental organizations with a verified presence in New York (330) and Geneva (133).",
          "/ngo-directory/new-york-geneva.html", 463),
     ]
-    added = 0
+    changed = 0
     for name, desc, path, count in entries:
-        if any(x.get("name") == name for x in ds):
-            continue
-        ds.append({
-            "@type": "Dataset",
-            "name": name,
-            "description": desc,
-            "url": SITE + path,
-            "creator": {"@id": "https://likeleaders.com/#organization"},
-            "isPartOf": {"@type": "CreativeWork", "name": "LIKE\u00ae Magazine NGO Directory",
-                         "url": f"{SITE}/ngo-directory/index.html"},
-            "distribution": {"@type": "DataDownload", "encodingFormat": "text/html",
-                             "contentUrl": SITE + path},
-            "variableMeasured": "listing",
-            "count": count,
-        })
-        added += 1
-    if added:
+        hit = next((x for x in ds if x.get("name") == name), None)
+        if hit is None:
+            ds.append({
+                "@type": "Dataset",
+                "name": name,
+                "description": desc,
+                "url": SITE + path,
+                "creator": {"@id": "https://likeleaders.com/#organization"},
+                "isPartOf": {"@type": "CreativeWork", "name": "LIKE\u00ae Magazine NGO Directory",
+                             "url": f"{SITE}/ngo-directory/index.html"},
+                "distribution": {"@type": "DataDownload", "encodingFormat": "text/html",
+                                 "contentUrl": SITE + path},
+                "variableMeasured": "listing",
+                "count": count,
+            })
+            changed += 1
+        elif hit.get("description") != desc or hit.get("count") != count:
+            hit["description"] = desc
+            hit["count"] = count
+            changed += 1
+    if changed:
         d["dataset"] = ds
         d["dateModified"] = TODAY
         p.write_text(json.dumps(d, ensure_ascii=False, indent=1), encoding="utf-8")
-    return added
+    return changed
 
 
 # ---------------------------------------------------------------- validation
@@ -523,11 +589,18 @@ PLACEHOLDER_RE = re.compile(
     r"lorem ipsum|TODO|FIXME|XXX|placeholder|Your Name|example\.com", re.I)
 
 
-def validate_page(path, expected_items=None, must_contain=()):
+def template_text(h):
+    """Page text minus data: JSON-LD, table cells, and bracketed workbook
+    editorial notes (e.g. ZAP placeholders) are legitimate published content,
+    not template placeholders. What remains is the template's own wording,
+    which is what the placeholder check guards."""
+    h = JSONLD_RE.sub("", h)
+    h = re.sub(r"<td>.*?</td>", "", h, flags=re.S)
+    return re.sub(r"\[[^\]]*ZAP[^\]]*\]", "", h)
+
+
+def validate_page(path, expected_items=None, must_contain=(), must_not_contain=()):
     h = path.read_text(encoding="utf-8")
-    # bracketed editorial notes from the workbooks (e.g. ZAP placeholders) are
-    # legitimate published content, not template placeholders
-    h_check = re.sub(r"\[[^\]]*ZAP[^\]]*\]", "", h)
     errs = []
     m = JSONLD_RE.search(h)
     if not m:
@@ -549,36 +622,74 @@ def validate_page(path, expected_items=None, must_contain=()):
     for s in must_contain:
         if s not in h:
             errs.append(f"missing required text: {s[:60]}")
-    if PLACEHOLDER_RE.search(h_check):
+    for s in must_not_contain:
+        if s in h:
+            errs.append(f"forbidden text still present: {s[:60]}")
+    if PLACEHOLDER_RE.search(template_text(h)):
         errs.append("placeholder text found")
     if "ngo-directory" not in h:
         errs.append("self link missing")
     return errs
 
 
+def validate_ecosoc_page(path):
+    """ECOSOC page carries three ItemLists (General 132 / Special 5575 / Roster 967)."""
+    h = path.read_text(encoding="utf-8")
+    errs = []
+    m = JSONLD_RE.search(h)
+    if not m:
+        return ["no JSON-LD"]
+    try:
+        data = json.loads(m.group(0).split(">", 1)[1].rsplit("<", 1)[0])
+    except Exception as e:
+        return [f"JSON-LD parse error: {e}"]
+    graph = data.get("@graph", [])
+    ils = [g for g in graph if g.get("@type") == "ItemList"]
+    expect = {"General status": 132, "Special status": 5575, "Roster": 967}
+    if len(ils) != 3:
+        errs.append(f"expected 3 ItemLists, found {len(ils)}")
+    for il in ils:
+        name = il.get("name", "")
+        key = next((k for k in expect if k in name), None)
+        if key is None:
+            errs.append(f"unexpected ItemList name: {name[:60]}")
+            continue
+        if il.get("numberOfItems") != expect[key]:
+            errs.append(f"{key}: numberOfItems {il.get('numberOfItems')} != {expect[key]}")
+        if len(il.get("itemListElement", [])) != expect[key]:
+            errs.append(f"{key}: itemListElement count mismatch")
+    for s in ["6,674", "General 132", "Special 5,575", "Roster 967", "extraction"]:
+        if s not in h:
+            errs.append(f"missing required text: {s[:60]}")
+    if "expansion underway" in h:
+        errs.append("forbidden text still present: expansion underway")
+    if PLACEHOLDER_RE.search(template_text(h)):
+        errs.append("placeholder text found")
+    return errs
+
+
 def main():
     OUTDIR.mkdir(exist_ok=True)
     index_html = build_index()
-    ecosoc_html, n_ecosoc = build_ecosoc()
+    ecosoc_html, ecosoc_counts = build_ecosoc()
     nygva_html, n_nygva = build_nygva()
     (OUTDIR / "index.html").write_text(index_html, encoding="utf-8")
     (OUTDIR / "ecosoc-global.html").write_text(ecosoc_html, encoding="utf-8")
     (OUTDIR / "new-york-geneva.html").write_text(nygva_html, encoding="utf-8")
     print(f"built ngo-directory/index.html")
-    print(f"built ngo-directory/ecosoc-global.html: {n_ecosoc} orgs")
+    print(f"built ngo-directory/ecosoc-global.html: {ecosoc_counts}")
     print(f"built ngo-directory/new-york-geneva.html: {n_nygva} orgs")
     print("nav patched:", patch_nav())
     print("homepage tile:", patch_homepage_tile())
     print("sitemap entries added:", patch_sitemap())
-    print("search index entries added:", patch_search_index())
-    print("ai-index datasets added:", patch_ai_index())
+    print("search index updated:", patch_search_index())
+    print("ai-index updated:", patch_ai_index())
 
     errs = []
     errs += [("index.html", e) for e in validate_page(
-        OUTDIR / "index.html", must_contain=["NGO Directory", "488 organizations"])]
-    errs += [("ecosoc-global.html", e) for e in validate_page(
-        OUTDIR / "ecosoc-global.html", expected_items=25,
-        must_contain=["expansion underway", "6,674", "AARP"])]
+        OUTDIR / "index.html", must_contain=["NGO Directory", "7,137 organizations"],
+        must_not_contain=["expansion underway", "488 organizations"])]
+    errs += [("ecosoc-global.html", e) for e in validate_ecosoc_page(OUTDIR / "ecosoc-global.html")]
     errs += [("new-york-geneva.html", e) for e in validate_page(
         OUTDIR / "new-york-geneva.html", expected_items=463,
         must_contain=["330", "133"])]

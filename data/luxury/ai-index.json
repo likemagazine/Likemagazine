@@ -454,7 +454,7 @@
   {
    "@type": "Dataset",
    "name": "UN ECOSOC Consultative-Status NGOs — Global",
-   "description": "Non-governmental organizations in General consultative status with the UN Economic and Social Council — first 25 organizations; expansion underway.",
+   "description": "Non-governmental organizations in consultative status with the UN Economic and Social Council — General 132, Special 5,575, Roster 967; 6,674 total, from the UN DESA iCSO live database.",
    "url": "https://likeleaders.com/ngo-directory/ecosoc-global.html",
    "creator": {
     "@id": "https://likeleaders.com/#organization"
@@ -470,7 +470,7 @@
     "contentUrl": "https://likeleaders.com/ngo-directory/ecosoc-global.html"
    },
    "variableMeasured": "listing",
-   "count": 25
+   "count": 6674
   },
   {
    "@type": "Dataset",
