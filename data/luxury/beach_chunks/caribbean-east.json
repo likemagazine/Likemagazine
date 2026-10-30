@@ -1,0 +1,2800 @@
+[
+ {
+  "activities": "Water sports, tennis, yacht excursions, diving",
+  "amenities": [
+   "Eden Spa",
+   "Infinity pool",
+   "Fitness center",
+   "Tennis",
+   "Water sports",
+   "Kids club",
+   "Yacht excursions",
+   "Private cabanas"
+  ],
+  "beach_details": {
+   "length": "",
+   "private_beach": "Direct access to Baie de Saint-Jean beach",
+   "sand_type": "White sand"
+  },
+  "city": "Saint-Barthélemy",
+  "concierge": "24-hour concierge",
+  "contact": {
+   "address": "Baie de Saint-Jean, 97133 Saint-Barthélemy, FWI",
+   "email": "reservations.edenrock@oetkerhotels.com",
+   "phone": "+590 590 29 79 99",
+   "website": "https://www.oetkercollection.com/hotels/eden-rock-st-barths/"
+  },
+  "country": "St. Barts",
+  "dining": "Sand Bar, Rémy Bar & Rémy's Club, Beach Bar — cuisine by Jean-Georges Vongerichten",
+  "events": "Weddings and private events",
+  "kids_family": "Kids club",
+  "location": "Baie de Saint-Jean",
+  "lodging": {
+   "residences": "",
+   "rooms": "37 (rooms, suites and villas)",
+   "suites": "",
+   "villas": ""
+  },
+  "management": "Oetker Collection",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "Eden Rock–St Barths",
+  "nightlife": "Rémy Bar",
+  "ownership": "",
+  "perks": "Airport transfers, in-villa dining",
+  "pools": "1 outdoor infinity pool",
+  "pr_contacts": [],
+  "season": "Year-round; seasonal summer closure",
+  "source": "https://www.oetkercollection.com/hotels/eden-rock-st-barths/",
+  "spa_wellness": "Eden Spa",
+  "vip_clubs": "Rémy's Club"
+ },
+ {
+  "activities": "Water sports, beach activities, tennis nearby",
+  "amenities": [
+   "Cheval Blanc Spa by Guerlain",
+   "2 ocean pools",
+   "Fitness center",
+   "Water sports",
+   "Kids club",
+   "Boutique"
+  ],
+  "beach_details": {
+   "length": "",
+   "private_beach": "Direct access to Flamands Beach",
+   "sand_type": "White sand"
+  },
+  "city": "Saint-Barthélemy",
+  "concierge": "Concierge service",
+  "contact": {
+   "address": "Anse des Flamands, 97133 Saint-Barthélemy, FWI",
+   "email": "",
+   "phone": "",
+   "website": "https://www.chevalblanc.com/en/maison/st-barth/"
+  },
+  "country": "St. Barts",
+  "dining": "La Case (Chef Jean Imbert), La Cabane, White Bar, Langosteria",
+  "events": "Weddings and private events",
+  "kids_family": "Le Carrousel kids club",
+  "location": "Anse des Flamands",
+  "lodging": {
+   "residences": "",
+   "rooms": "61 (rooms, suites and villas)",
+   "suites": "",
+   "villas": ""
+  },
+  "management": "LVMH Hotel Management (Cheval Blanc)",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "Cheval Blanc St-Barth",
+  "nightlife": "White Bar",
+  "ownership": "",
+  "perks": "",
+  "pools": "2 ocean pools",
+  "pr_contacts": [],
+  "season": "Year-round; seasonal closure in hurricane season",
+  "source": "https://www.chevalblanc.com/en/maison/st-barth/",
+  "spa_wellness": "Cheval Blanc Spa by Guerlain (opened late 2024)",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Water sports, tennis, sailing",
+  "amenities": [
+   "Sense Spa",
+   "2 pools",
+   "Fitness center",
+   "Tennis court",
+   "Water sports",
+   "Kids club"
+  ],
+  "beach_details": {
+   "length": "",
+   "private_beach": "Two beaches: Grand Cul-de-Sac lagoon beach and Marigot Bay",
+   "sand_type": "White sand"
+  },
+  "city": "Saint-Barthélemy",
+  "concierge": "Concierge service",
+  "contact": {
+   "address": "Grand Cul-de-Sac, 97133 Saint-Barthélemy, FWI",
+   "email": "",
+   "phone": "+590 590 52 90 00",
+   "website": "https://www.rosewoodhotels.com/en/le-guanahani"
+  },
+  "country": "St. Barts",
+  "dining": "Beach House St. Barth, Bar Mélangé",
+  "events": "Weddings and private events",
+  "kids_family": "Rosewood Explorers children's club (ages 2–12)",
+  "location": "Grand Cul-de-Sac peninsula",
+  "lodging": {
+   "residences": "",
+   "rooms": "29",
+   "suites": "37",
+   "villas": ""
+  },
+  "management": "Airelles Collection (from Nov 2026; previously Rosewood Hotels & Resorts)",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "Le Guanahani",
+  "nightlife": "Bar Mélangé",
+  "ownership": "LOV Group (Stéphane Courbit)",
+  "perks": "",
+  "pools": "2 pools",
+  "pr_contacts": [],
+  "season": "Year-round; closed approximately mid-August to end of October",
+  "source": "https://www.rosewoodhotels.com/en/le-guanahani",
+  "spa_wellness": "Sense Spa (Rosewood-era branding at time of research)",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Water sports, snorkeling, sailing",
+  "amenities": [
+   "Spa Le Sereno",
+   "Infinity pool",
+   "Fitness center",
+   "Water sports",
+   "Boutique"
+  ],
+  "beach_details": {
+   "length": "180 m (600 ft)",
+   "private_beach": "180 m (600 ft) beach on a protected coral-reef cove",
+   "sand_type": "White sand"
+  },
+  "city": "Saint-Barthélemy",
+  "concierge": "Concierge service",
+  "contact": {
+   "address": "Grand Cul-de-Sac, BP 19, 97133 Saint-Barthélemy, FWI",
+   "email": "",
+   "phone": "+590 590 29 83 00",
+   "website": "https://www.serenohotels.com/property/le-sereno/"
+  },
+  "country": "St. Barts",
+  "dining": "Restaurant des Pêcheurs (Al Mare), Plage, Bar",
+  "events": "Weddings and private events",
+  "kids_family": "",
+  "location": "Grand Cul-de-Sac",
+  "lodging": {
+   "residences": "",
+   "rooms": "",
+   "suites": "39",
+   "villas": "3 (four-bedroom villas)"
+  },
+  "management": "Sereno Hotels",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "Le Sereno",
+  "nightlife": "",
+  "ownership": "",
+  "perks": "",
+  "pools": "1 infinity pool",
+  "pr_contacts": [],
+  "season": "Year-round; seasonal closure in hurricane season",
+  "source": "https://www.serenohotels.com/property/le-sereno/",
+  "spa_wellness": "Spa Le Sereno",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Tennis, water sports, surf nearby at Anse de Toiny",
+  "amenities": [
+   "Spa Le Toiny",
+   "Pool",
+   "Fitness center",
+   "Tennis",
+   "Kids club"
+  ],
+  "beach_details": {
+   "length": "",
+   "private_beach": "Beach club at Anse de Toiny; suites overlook the bay",
+   "sand_type": "Sand"
+  },
+  "city": "Saint-Barthélemy",
+  "concierge": "Concierge service",
+  "contact": {
+   "address": "Anse de Toiny, 97133 Saint-Barthélemy, FWI",
+   "email": "restaurant@letoiny.com",
+   "phone": "",
+   "website": "https://www.letoiny.com/"
+  },
+  "country": "St. Barts",
+  "dining": "La Table (signature restaurant), Le Toiny Beach Club",
+  "events": "Weddings and private events",
+  "kids_family": "Kids club",
+  "location": "Anse de Toiny (Côte Sauvage)",
+  "lodging": {
+   "residences": "",
+   "rooms": "",
+   "suites": "22 (each with private heated pool)",
+   "villas": ""
+  },
+  "management": "",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "Le Toiny",
+  "nightlife": "",
+  "ownership": "",
+  "perks": "Each suite has a private heated plunge pool",
+  "pools": "1 outdoor pool; private plunge pools in every suite",
+  "pr_contacts": [],
+  "season": "Year-round; seasonal closure in hurricane season",
+  "source": "https://www.letoiny.com/",
+  "spa_wellness": "Spa Le Toiny",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Water sports, paddleboarding, snorkeling",
+  "amenities": [
+   "Le B. Spa by Augustinus Bader",
+   "Infinity pool",
+   "Fitness center",
+   "Water sports",
+   "Kids club"
+  ],
+  "beach_details": {
+   "length": "",
+   "private_beach": "Direct beachfront on Baie de Grand Cul-de-Sac",
+   "sand_type": "White sand"
+  },
+  "city": "Saint-Barthélemy",
+  "concierge": "Concierge service",
+  "contact": {
+   "address": "Baie de Grand Cul-de-Sac, 97133 Saint-Barthélemy, FWI",
+   "email": "contact@lebarth.com",
+   "phone": "",
+   "website": "https://lebarth.com/"
+  },
+  "country": "St. Barts",
+  "dining": "Abyss, Amis St. Barth, Le Turquoise, Seven Stars Bar",
+  "events": "Weddings and private events",
+  "kids_family": "Kids club",
+  "location": "Baie de Grand Cul-de-Sac",
+  "lodging": {
+   "residences": "",
+   "rooms": "44 (rooms and suites)",
+   "suites": "",
+   "villas": "2 (six-bedroom beachfront villas)"
+  },
+  "management": "Independent (Small Luxury Hotels of the World member)",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "Le Barthélemy Hotel & Spa",
+  "nightlife": "Seven Stars Bar",
+  "ownership": "",
+  "perks": "",
+  "pools": "1 infinity pool",
+  "pr_contacts": [],
+  "season": "Year-round; seasonal closure in hurricane season",
+  "source": "https://lebarth.com/",
+  "spa_wellness": "Le B. Spa by Augustinus Bader",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Water sports, hiking, beach shuttle to nearby beaches",
+  "amenities": [
+   "Spa Sisley",
+   "Infinity pool",
+   "Fitness center",
+   "Water sports"
+  ],
+  "beach_details": {
+   "length": "",
+   "private_beach": "No direct swimmable beach; rocky cove below the hotel (nearest beaches: Lorient, Saline, Gouverneur)",
+   "sand_type": ""
+  },
+  "city": "Saint-Barthélemy",
+  "concierge": "Concierge service",
+  "contact": {
+   "address": "Pointe Milou, 97133 Saint-Barthélemy, FWI",
+   "email": "",
+   "phone": "",
+   "website": "https://www.hotelchristopher.com/"
+  },
+  "country": "St. Barts",
+  "dining": "Solis (restaurant)",
+  "events": "Weddings and private events",
+  "kids_family": "",
+  "location": "Pointe Milou",
+  "lodging": {
+   "residences": "",
+   "rooms": "42 (rooms, suites and villas)",
+   "suites": "",
+   "villas": ""
+  },
+  "management": "Independent",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "Hotel Christopher St Barth",
+  "nightlife": "",
+  "ownership": "",
+  "perks": "",
+  "pools": "1 clifftop infinity pool",
+  "pr_contacts": [],
+  "season": "Year-round",
+  "source": "https://www.hotelchristopher.com/",
+  "spa_wellness": "Spa Sisley",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Water sports, tennis, golf nearby, sailing",
+  "amenities": [
+   "Spa (13 indoor treatment rooms plus cabanas)",
+   "3 pools",
+   "Fitness center",
+   "Tennis courts",
+   "Water sports",
+   "Kids club",
+   "Teen club",
+   "Beach butler service"
+  ],
+  "beach_details": {
+   "length": "1,000 ft",
+   "private_beach": "1,000 ft of white-sand beach on Barnes Bay; access to Meads Bay",
+   "sand_type": "White sand"
+  },
+  "city": "West End",
+  "concierge": "Concierge service",
+  "contact": {
+   "address": "Barnes Bay, West End, AI-2640, Anguilla",
+   "email": "",
+   "phone": "",
+   "website": "https://www.fourseasons.com/anguilla/"
+  },
+  "country": "Anguilla",
+  "dining": "SALT, Lima-Limon, Bamboo Bar & Grill, Sunset Lounge, Café Nai",
+  "events": "Weddings and private events",
+  "kids_family": "Kids club and teen club",
+  "location": "Barnes Bay",
+  "lodging": {
+   "residences": "33 (plus 4 townhomes)",
+   "rooms": "70",
+   "suites": "50",
+   "villas": "28"
+  },
+  "management": "Four Seasons Hotels and Resorts",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "Four Seasons Resort and Residences Anguilla",
+  "nightlife": "Sunset Lounge",
+  "ownership": "",
+  "perks": "",
+  "pools": "3 pools",
+  "pr_contacts": [],
+  "season": "Year-round",
+  "source": "https://www.fourseasons.com/anguilla/",
+  "spa_wellness": "Full-service spa with 13 indoor treatment rooms and outdoor cabanas",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Water sports, tennis, sailing, diving",
+  "amenities": [
+   "Guerlain Spa",
+   "Pool",
+   "Fitness center",
+   "Tennis courts",
+   "Water sports",
+   "Kids club",
+   "Private marina access"
+  ],
+  "beach_details": {
+   "length": "",
+   "private_beach": "Direct frontage on Maundays Bay",
+   "sand_type": "White sand"
+  },
+  "city": "West End",
+  "concierge": "Concierge service",
+  "contact": {
+   "address": "Maundays Bay, AI-2640, Anguilla",
+   "email": "",
+   "phone": "+1 264 497 6666",
+   "website": "https://www.belmond.com/hotels/caribbean/anguilla/belmond-cap-juluca"
+  },
+  "country": "Anguilla",
+  "dining": "Pimms, Cip's by Cipriani, Uchu, Cap Shack",
+  "events": "Weddings and private events",
+  "kids_family": "Kids club",
+  "location": "Maundays Bay",
+  "lodging": {
+   "residences": "",
+   "rooms": "68",
+   "suites": "45",
+   "villas": ""
+  },
+  "management": "Belmond (LVMH)",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "Belmond Cap Juluca",
+  "nightlife": "",
+  "ownership": "",
+  "perks": "",
+  "pools": "1 pool",
+  "pr_contacts": [],
+  "season": "Year-round",
+  "source": "https://www.belmond.com/hotels/caribbean/anguilla/belmond-cap-juluca",
+  "spa_wellness": "Guerlain Spa",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Water sports, tennis, kayaking, yoga",
+  "amenities": [
+   "Spa",
+   "Two-tier infinity pool",
+   "Fitness center",
+   "Tennis",
+   "Water sports",
+   "Kids program"
+  ],
+  "beach_details": {
+   "length": "",
+   "private_beach": "Beach access at Meads Bay and Turtle Cove",
+   "sand_type": "White sand"
+  },
+  "city": "West End",
+  "concierge": "Concierge service",
+  "contact": {
+   "address": "Meads Bay, West End, AI-2640, Anguilla",
+   "email": "",
+   "phone": "",
+   "website": "https://malliouhana.com/"
+  },
+  "country": "Anguilla",
+  "dining": "Celeste by Kerth Gumbs, Leon's (beach grill), Bar Soleil",
+  "events": "Weddings and private events",
+  "kids_family": "Children welcome; kids program",
+  "location": "Meads Bay and Turtle Cove",
+  "lodging": {
+   "residences": "",
+   "rooms": "63 (rooms, suites and villa suites — flag: older sources cite 44)",
+   "suites": "",
+   "villas": ""
+  },
+  "management": "Mr & Mrs Smith (flag: changed from Auberge Resorts Collection — unconfirmed)",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "Malliouhana",
+  "nightlife": "",
+  "ownership": "",
+  "perks": "",
+  "pools": "Two-tier infinity pool; spa infinity pool",
+  "pr_contacts": [],
+  "season": "Year-round",
+  "source": "https://malliouhana.com/",
+  "spa_wellness": "Full-service spa",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Water sports, snorkeling, sailing",
+  "amenities": [
+   "Zemi Thai House Spa",
+   "4 outdoor pools",
+   "Fitness center",
+   "Water sports",
+   "Kids club",
+   "Rum bar"
+  ],
+  "beach_details": {
+   "length": "",
+   "private_beach": "6 oceanfront acres on Shoal Bay East",
+   "sand_type": "White sand"
+  },
+  "city": "East End",
+  "concierge": "Concierge service",
+  "contact": {
+   "address": "Shoal Bay East, Anguilla",
+   "email": "",
+   "phone": "",
+   "website": "https://www.zemibeach.com"
+  },
+  "country": "Anguilla",
+  "dining": "Stone, 20 Knots, Rhum Room, Bohio Bar & Lounge, Shoal Bay Beach Club",
+  "events": "Weddings and private events",
+  "kids_family": "Kids club",
+  "location": "Shoal Bay East",
+  "lodging": {
+   "residences": "",
+   "rooms": "54",
+   "suites": "9",
+   "villas": ""
+  },
+  "management": "Hilton (LXR Hotels & Resorts)",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "Zemi Beach House, LXR Hotels & Resorts",
+  "nightlife": "Rhum Room",
+  "ownership": "",
+  "perks": "",
+  "pools": "4 outdoor pools including adults-only infinity pool",
+  "pr_contacts": [],
+  "season": "Year-round",
+  "source": "https://www.zemibeach.com",
+  "spa_wellness": "Zemi Thai House Spa in a 300-year-old Thai house (only hammam on Anguilla)",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Golf, water sports, tennis, farm tours",
+  "amenities": [
+   "Venus Spa (27,000 sq ft, 16 treatment rooms)",
+   "Pool",
+   "Fitness center",
+   "18-hole Greg Norman championship golf",
+   "Tennis",
+   "Water sports",
+   "Hydroponic farm",
+   "Kids club"
+  ],
+  "beach_details": {
+   "length": "",
+   "private_beach": "Direct frontage on Rendezvous Bay",
+   "sand_type": "White sand"
+  },
+  "city": "West End",
+  "concierge": "Concierge service",
+  "contact": {
+   "address": "Rendezvous Bay, West End, Anguilla",
+   "email": "",
+   "phone": "",
+   "website": "https://www.cuisinartresort.com/"
+  },
+  "country": "Anguilla",
+  "dining": "Mosaic, Santorini, Tokyo Bay (plus additional venues)",
+  "events": "Weddings and private events",
+  "kids_family": "Kids club",
+  "location": "Rendezvous Bay",
+  "lodging": {
+   "residences": "",
+   "rooms": "98 (suites and villas)",
+   "suites": "",
+   "villas": ""
+  },
+  "management": "Independent (Leading Hotels of the World member)",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "CuisinArt Golf Resort & Spa",
+  "nightlife": "",
+  "ownership": "",
+  "perks": "",
+  "pools": "1 pool",
+  "pr_contacts": [],
+  "season": "Year-round",
+  "source": "https://www.cuisinartresort.com/",
+  "spa_wellness": "Venus Spa (27,000 sq ft, 16 treatment rooms)",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Golf, waterpark, tennis, water sports",
+  "amenities": [
+   "Sorana Spa",
+   "Multiple pools",
+   "Waterpark",
+   "Entertainment park",
+   "18-hole Greg Norman golf plus 9-hole Avalon Links",
+   "Fitness center",
+   "Tennis",
+   "Kids club"
+  ],
+  "beach_details": {
+   "length": "",
+   "private_beach": "Beachfront on Rendezvous Bay with Merrywing Beach access",
+   "sand_type": "White sand"
+  },
+  "city": "West End",
+  "concierge": "Concierge service",
+  "contact": {
+   "address": "Rendezvous Bay, West End, Anguilla",
+   "email": "",
+   "phone": "",
+   "website": "https://auroraanguilla.com/"
+  },
+  "country": "Anguilla",
+  "dining": "Eventide, Breezes, Marella, Tokyo Bay, D Richard's, C Level, Rendezvous Café",
+  "events": "Weddings and private events",
+  "kids_family": "Kids club, waterpark",
+  "location": "Rendezvous Bay and Merrywing Beach",
+  "lodging": {
+   "residences": "",
+   "rooms": "178 (suites and private estates)",
+   "suites": "",
+   "villas": ""
+  },
+  "management": "Aurora Anguilla",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "Aurora Anguilla Resort & Golf Club",
+  "nightlife": "Entertainment park programming",
+  "ownership": "",
+  "perks": "",
+  "pools": "Multiple pools",
+  "pr_contacts": [],
+  "season": "Year-round",
+  "source": "https://auroraanguilla.com/",
+  "spa_wellness": "Sorana Spa",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Water sports, tennis, sailing",
+  "amenities": [
+   "Hilltop spa",
+   "Pool",
+   "Fitness center",
+   "Tennis courts",
+   "Water sports",
+   "Kids club",
+   "Wine cellar (La Cave)"
+  ],
+  "beach_details": {
+   "length": "",
+   "private_beach": "Direct frontage on Baie Longue",
+   "sand_type": "White sand"
+  },
+  "city": "Terres Basses",
+  "concierge": "Concierge service",
+  "contact": {
+   "address": "PO Box 4077, 97064 St. Martin, FWI",
+   "email": "",
+   "phone": "",
+   "website": "https://www.belmond.com/hotels/caribbean/st-martin/belmond-la-samanna"
+  },
+  "country": "St. Martin",
+  "dining": "L'Oursin, La Spiaggia, Corail, La Cave, Baie Longue Bar",
+  "events": "Weddings and private events",
+  "kids_family": "Kids club",
+  "location": "Baie Longue",
+  "lodging": {
+   "residences": "",
+   "rooms": "24",
+   "suites": "50",
+   "villas": "8"
+  },
+  "management": "Belmond (LVMH)",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "Belmond La Samanna",
+  "nightlife": "Baie Longue Bar",
+  "ownership": "",
+  "perks": "",
+  "pools": "1 pool",
+  "pr_contacts": [],
+  "season": "Year-round",
+  "source": "https://www.belmond.com/hotels/caribbean/st-martin/belmond-la-samanna",
+  "spa_wellness": "Hilltop spa",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Snorkeling, water sports",
+  "amenities": [
+   "Pool overlooking Grand Case Bay",
+   "Water sports",
+   "Snorkeling"
+  ],
+  "beach_details": {
+   "length": "",
+   "private_beach": "Two beaches: Petite Plage and Grand Case Beach",
+   "sand_type": "Sand"
+  },
+  "city": "Grand Case",
+  "concierge": "",
+  "contact": {
+   "address": "21 Rue de la Petite Plage, 97150 Grand Case, St. Martin, FWI",
+   "email": "reservations@gcbc.com",
+   "phone": "+590 590 87 51 87",
+   "website": "https://www.grandcasebeachclub.com/"
+  },
+  "country": "St. Martin",
+  "dining": "Sunset Café, Moonrise Bar & Lounge",
+  "events": "",
+  "kids_family": "Family-friendly",
+  "location": "Grand Case and Petite Plage",
+  "lodging": {
+   "residences": "",
+   "rooms": "73 (apartment-style rooms)",
+   "suites": "",
+   "villas": ""
+  },
+  "management": "Independent",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "Grand Case Beach Club",
+  "nightlife": "Moonrise Bar & Lounge",
+  "ownership": "",
+  "perks": "",
+  "pools": "1 pool",
+  "pr_contacts": [],
+  "season": "Year-round",
+  "source": "https://www.grandcasebeachclub.com/",
+  "spa_wellness": "",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Water sports, kiteboarding nearby",
+  "amenities": [
+   "Outdoor pool",
+   "Restaurant",
+   "Beach bar",
+   "Water sports nearby"
+  ],
+  "beach_details": {
+   "length": "",
+   "private_beach": "Direct access to Orient Bay beach",
+   "sand_type": "White sand"
+  },
+  "city": "Orient Bay",
+  "concierge": "",
+  "contact": {
+   "address": "Orient Bay, 97150 St. Martin, FWI",
+   "email": "",
+   "phone": "",
+   "website": "https://www.laplayahotel.com/"
+  },
+  "country": "St. Martin",
+  "dining": "On-site restaurant and beach bar",
+  "events": "",
+  "kids_family": "Family-friendly",
+  "location": "Orient Bay",
+  "lodging": {
+   "residences": "",
+   "rooms": "56 (rooms and suites)",
+   "suites": "",
+   "villas": ""
+  },
+  "management": "Independent",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "La Playa Orient Bay",
+  "nightlife": "",
+  "ownership": "",
+  "perks": "",
+  "pools": "1 outdoor pool",
+  "pr_contacts": [],
+  "season": "Year-round",
+  "source": "https://www.laplayahotel.com/",
+  "spa_wellness": "",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Water sports, casino, nightlife at Maho",
+  "amenities": [
+   "4 pools",
+   "Spa access (Serenity Spa at Sonesta Maho Beach)",
+   "Casino Royale access",
+   "Butler service in top suites",
+   "Fitness center",
+   "Water sports"
+  ],
+  "beach_details": {
+   "length": "",
+   "private_beach": "Beach access at Maho Bay; Edge Pool with cliffside beach setting",
+   "sand_type": "White sand"
+  },
+  "city": "Maho",
+  "concierge": "Concierge service",
+  "contact": {
+   "address": "Maho Bay, 1 Rhine Road, 97150 St. Maarten, Dutch Caribbean",
+   "email": "",
+   "phone": "",
+   "website": "https://www.sonestastmaarten.com/oceanpoint/"
+  },
+  "country": "St. Martin",
+  "dining": "Azul, Portofino, Bluefin (plus access to Sonesta Maho Beach restaurants)",
+  "events": "Weddings and private events",
+  "kids_family": "Adults-only (18+)",
+  "location": "Maho Bay",
+  "lodging": {
+   "residences": "",
+   "rooms": "130 (all-suite, adults-only)",
+   "suites": "",
+   "villas": ""
+  },
+  "management": "Sonesta (Ocean Point)",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "Sonesta Ocean Point Resort",
+  "nightlife": "5 bars; casino and nightlife at adjacent Sonesta Maho Beach Resort",
+  "ownership": "",
+  "perks": "Butler service in top 25 suites; full access to Sonesta Maho Beach Resort amenities",
+  "pools": "4 pools (Edge Pool, Point Pool, swim-out pool, Seascape Pool)",
+  "pr_contacts": [],
+  "season": "Year-round",
+  "source": "https://www.sonestastmaarten.com/oceanpoint/",
+  "spa_wellness": "Serenity Spa (at Sonesta Maho Beach Resort)",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Water sports, tennis, sailing, cycling",
+  "amenities": [
+   "Spa",
+   "3 pools",
+   "Fitness center",
+   "Tennis courts",
+   "Water sports",
+   "Kids club",
+   "Private marina"
+  ],
+  "beach_details": {
+   "length": "",
+   "private_beach": "Private 300-acre island with multiple beaches",
+   "sand_type": "White sand"
+  },
+  "city": "Antigua",
+  "concierge": "Concierge service",
+  "contact": {
+   "address": "Jumby Bay Island, Antigua, West Indies",
+   "email": "",
+   "phone": "",
+   "website": "https://www.oetkercollection.com/hotels/jumby-bay-island/"
+  },
+  "country": "Antigua & Barbuda",
+  "dining": "Estate House, Veranda, Pool Grille/Sand Bar, Beach Shack, 1830 Bar",
+  "events": "Weddings and private events",
+  "kids_family": "Kids club",
+  "location": "Jumby Bay Island (private island)",
+  "lodging": {
+   "residences": "",
+   "rooms": "40 (suites, plus private villas and estates)",
+   "suites": "",
+   "villas": ""
+  },
+  "management": "Oetker Collection",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "Jumby Bay Island, an Oetker Collection Hotel",
+  "nightlife": "1830 Bar",
+  "ownership": "",
+  "perks": "All-inclusive",
+  "pools": "3 pools",
+  "pr_contacts": [],
+  "season": "Year-round; seasonal closure in hurricane season",
+  "source": "https://www.oetkercollection.com/hotels/jumby-bay-island/",
+  "spa_wellness": "Full-service spa",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Water sports, tennis, sailing, diving",
+  "amenities": [
+   "Spa",
+   "Pool",
+   "4 floodlit tennis courts",
+   "Fitness center",
+   "Water sports",
+   "Wine cellar (400+ vintages)",
+   "Kids club (CeeBee Kids)"
+  ],
+  "beach_details": {
+   "length": "",
+   "private_beach": "Two beaches: Grace Bay (surf side) and Morris Bay (calm side)",
+   "sand_type": "White sand"
+  },
+  "city": "St. Mary's",
+  "concierge": "Concierge service",
+  "contact": {
+   "address": "Old Road, St. Mary's, Antigua, West Indies",
+   "email": "",
+   "phone": "",
+   "website": "https://curtainbluff.com/"
+  },
+  "country": "Antigua & Barbuda",
+  "dining": "Tamarind Tree, Sea Grape",
+  "events": "Weddings and private events",
+  "kids_family": "CeeBee Kids club",
+  "location": "Old Road",
+  "lodging": {
+   "residences": "",
+   "rooms": "72 (rooms and suites)",
+   "suites": "",
+   "villas": ""
+  },
+  "management": "Independent (Relais & Châteaux member)",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "Curtain Bluff",
+  "nightlife": "",
+  "ownership": "",
+  "perks": "All-inclusive",
+  "pools": "1 pool",
+  "pr_contacts": [],
+  "season": "Seasonal (typically closed June–October)",
+  "source": "https://curtainbluff.com/",
+  "spa_wellness": "Spa",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Water sports, yoga, sailing",
+  "amenities": [
+   "Garden Spa",
+   "Infinity pool",
+   "Fitness center",
+   "Water sports",
+   "Yoga pavilion"
+  ],
+  "beach_details": {
+   "length": "",
+   "private_beach": "Direct beachfront at Hermitage Bay",
+   "sand_type": "Sand"
+  },
+  "city": "St. Mary",
+  "concierge": "Concierge service",
+  "contact": {
+   "address": "Jennings, St. Mary, Antigua, West Indies",
+   "email": "",
+   "phone": "",
+   "website": "https://hermitagebayantigua.com/"
+  },
+  "country": "Antigua & Barbuda",
+  "dining": "The Restaurant, The Beach Club, The Tree Bar (sushi), Lounge Bar",
+  "events": "Weddings and private events",
+  "kids_family": "Adults-oriented (14+)",
+  "location": "Jennings",
+  "lodging": {
+   "residences": "",
+   "rooms": "30 (villa suites)",
+   "suites": "",
+   "villas": ""
+  },
+  "management": "Independent",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "Hermitage Bay",
+  "nightlife": "The Tree Bar, Lounge Bar",
+  "ownership": "Luxury Hotel Partners (Daniel Shamoon)",
+  "perks": "Adults-oriented (14+)",
+  "pools": "1 infinity pool",
+  "pr_contacts": [],
+  "season": "Year-round (reopened Oct 12, 2025 after full rebuild)",
+  "source": "https://hermitagebayantigua.com/",
+  "spa_wellness": "Garden Spa",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Water sports, kayaking, sailing, tennis",
+  "amenities": [
+   "Indulge Spa",
+   "Pool",
+   "Fitness center",
+   "Tennis",
+   "Water sports",
+   "Library"
+  ],
+  "beach_details": {
+   "length": "0.75 mile (1.2 km)",
+   "private_beach": "Three-quarter-mile (1.2 km) beach",
+   "sand_type": "White sand"
+  },
+  "city": "St. John's",
+  "concierge": "Concierge service",
+  "contact": {
+   "address": "Five Islands Village, St. John's, Antigua, West Indies",
+   "email": "",
+   "phone": "",
+   "website": "https://www.galleybayresort.com/"
+  },
+  "country": "Antigua & Barbuda",
+  "dining": "Sea Grape, Gauguin, Ismay's (supplement), Barefoot Grill",
+  "events": "Weddings and private events",
+  "kids_family": "Adults-only (18+)",
+  "location": "Five Islands Village",
+  "lodging": {
+   "residences": "",
+   "rooms": "98 (rooms, suites and cottages)",
+   "suites": "",
+   "villas": ""
+  },
+  "management": "Elite Island Resorts",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "Galley Bay Resort & Spa",
+  "nightlife": "",
+  "ownership": "",
+  "perks": "Adults-only (18+), all-inclusive",
+  "pools": "1 pool",
+  "pr_contacts": [],
+  "season": "Year-round",
+  "source": "https://www.galleybayresort.com/",
+  "spa_wellness": "Indulge Spa",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Water sports, tennis, sailing, diving",
+  "amenities": [
+   "CARA Organic Spa (6 treatment rooms)",
+   "Pool",
+   "Fitness center",
+   "Tennis courts",
+   "Water sports",
+   "Kids club"
+  ],
+  "beach_details": {
+   "length": "",
+   "private_beach": "Horseshoe bay beach on Antigua's south coast",
+   "sand_type": "White sand"
+  },
+  "city": "St. Mary's",
+  "concierge": "Concierge service",
+  "contact": {
+   "address": "Old Road, St. Mary's, Antigua, West Indies",
+   "email": "",
+   "phone": "",
+   "website": "https://www.carlisle-bay.com/"
+  },
+  "country": "Antigua & Barbuda",
+  "dining": "Indigo on the Beach, East, Ottimo!, Jetty Grill (plus 4 bars)",
+  "events": "Weddings and private events",
+  "kids_family": "Kids club",
+  "location": "Old Road, South Coast",
+  "lodging": {
+   "residences": "",
+   "rooms": "87 (all-suite)",
+   "suites": "",
+   "villas": ""
+  },
+  "management": "Independent (Leading Hotels of the World member)",
+  "market": "Caribbean East",
+  "marketing_contacts": [
+   {
+    "email": "louisescoto@carlisle-bay.com",
+    "name": "Louis Escoto",
+    "phone": "+1 305 900 7520",
+    "title": "Director of Sales USA"
+   }
+  ],
+  "name": "Carlisle Bay",
+  "nightlife": "",
+  "ownership": "",
+  "perks": "",
+  "pools": "1 pool",
+  "pr_contacts": [],
+  "season": "Year-round",
+  "source": "https://www.carlisle-bay.com/",
+  "spa_wellness": "CARA Organic Spa (6 treatment rooms)",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Water sports, snorkeling, kayaking",
+  "amenities": [
+   "Tranquility Spa",
+   "Three-tier infinity pool",
+   "Fitness center",
+   "Water sports",
+   "6 bars"
+  ],
+  "beach_details": {
+   "length": "",
+   "private_beach": "Private beach at Long Bay, adjacent to Devil's Bridge National Park",
+   "sand_type": "White sand"
+  },
+  "city": "St. Philip",
+  "concierge": "Concierge service",
+  "contact": {
+   "address": "Willikies, St. Philip, Antigua, West Indies",
+   "email": "",
+   "phone": "",
+   "website": "https://www.hammockcoveantigua.com/"
+  },
+  "country": "Antigua & Barbuda",
+  "dining": "Lighthouse, Irina's Bistro, Sir Rob's (steakhouse)",
+  "events": "Weddings and private events",
+  "kids_family": "Adults-only (21+)",
+  "location": "Willikies, Long Bay",
+  "lodging": {
+   "residences": "",
+   "rooms": "50 (individual villas)",
+   "suites": "",
+   "villas": ""
+  },
+  "management": "Elite Island Resorts",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "Hammock Cove Antigua",
+  "nightlife": "6 bars",
+  "ownership": "",
+  "perks": "Adults-only (21+), all-inclusive; individual villas",
+  "pools": "1 three-tier infinity pool",
+  "pr_contacts": [],
+  "season": "Year-round",
+  "source": "https://www.hammockcoveantigua.com/",
+  "spa_wellness": "Tranquility Spa",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Water sports, tennis, diving",
+  "amenities": [
+   "The Spa at Blue Waters",
+   "Pools",
+   "Fitness center",
+   "Tennis",
+   "Water sports",
+   "Kids club"
+  ],
+  "beach_details": {
+   "length": "",
+   "private_beach": "Three private beach coves on 17 acres",
+   "sand_type": "White sand"
+  },
+  "city": "St. John's",
+  "concierge": "Concierge service",
+  "contact": {
+   "address": "Soldier's Bay, St. John's, Antigua, West Indies",
+   "email": "",
+   "phone": "",
+   "website": "https://www.bluewatersresort.com/"
+  },
+  "country": "Antigua & Barbuda",
+  "dining": "Cove, Palm, Reef (plus bars including Veronica's)",
+  "events": "Weddings and private events",
+  "kids_family": "Kids club",
+  "location": "Soldier's Bay",
+  "lodging": {
+   "residences": "",
+   "rooms": "85 (rooms, suites and villas — flag: another source cites 116 rooms plus 4 villas)",
+   "suites": "",
+   "villas": ""
+  },
+  "management": "Independent",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "Blue Waters Resort & Spa",
+  "nightlife": "Veronica's bar",
+  "ownership": "",
+  "perks": "",
+  "pools": "Multiple pools",
+  "pr_contacts": [],
+  "season": "Year-round",
+  "source": "https://www.bluewatersresort.com/",
+  "spa_wellness": "The Spa at Blue Waters",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Water sports, snorkeling",
+  "amenities": [
+   "Cottages with private plunge pools",
+   "Beach bar",
+   "Water sports"
+  ],
+  "beach_details": {
+   "length": "1,000 ft",
+   "private_beach": "1,000-ft beach at Turner's Beach with assigned Bali beds",
+   "sand_type": "White sand"
+  },
+  "city": "St. Mary's",
+  "concierge": "",
+  "contact": {
+   "address": "Johnson's Point, St. Mary's, Antigua, West Indies",
+   "email": "reservations@keyonnabeachantigua.com",
+   "phone": "",
+   "website": "https://www.keyonnabeachantigua.com/"
+  },
+  "country": "Antigua & Barbuda",
+  "dining": "One beachfront à-la-carte restaurant",
+  "events": "Weddings and private events",
+  "kids_family": "Adults-only couples",
+  "location": "Turner's Beach, Johnson's Point",
+  "lodging": {
+   "residences": "",
+   "rooms": "Cottages (count unconfirmed)",
+   "suites": "",
+   "villas": ""
+  },
+  "management": "Independent",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "Keyonna Beach Resort Antigua",
+  "nightlife": "",
+  "ownership": "",
+  "perks": "Adults-only couples boutique; assigned Bali beds",
+  "pools": "Private plunge pools in cottages",
+  "pr_contacts": [],
+  "season": "Year-round",
+  "source": "https://www.keyonnabeachantigua.com/",
+  "spa_wellness": "",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Water sports, tennis, sailing, biking",
+  "amenities": [
+   "Spa",
+   "3 infinity-edge pools",
+   "Fitness center",
+   "Tennis courts",
+   "Robert Trent Jones II championship golf",
+   "Water sports",
+   "Kids club"
+  ],
+  "beach_details": {
+   "length": "2–3 miles",
+   "private_beach": "Pinney's Beach frontage",
+   "sand_type": "White sand"
+  },
+  "city": "Charlestown",
+  "concierge": "Concierge service",
+  "contact": {
+   "address": "Pinney's Beach, Nevis, St. Kitts & Nevis",
+   "email": "",
+   "phone": "",
+   "website": "https://www.fourseasons.com/nevis/"
+  },
+  "country": "St. Kitts & Nevis",
+  "dining": "Mango, EsQuilina, On the Dune, Kastawey Beach Bar, Crowned Monkey (101 Rum Bar)",
+  "events": "Weddings and private events",
+  "kids_family": "Kids club",
+  "location": "Pinney's Beach",
+  "lodging": {
+   "residences": "",
+   "rooms": "196 (rooms, suites, villas and residences)",
+   "suites": "",
+   "villas": ""
+  },
+  "management": "Four Seasons Hotels and Resorts",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "Four Seasons Resort Nevis",
+  "nightlife": "101 Rum Bar",
+  "ownership": "",
+  "perks": "",
+  "pools": "3 infinity-edge pools",
+  "pr_contacts": [],
+  "season": "Year-round",
+  "source": "https://www.fourseasons.com/nevis/",
+  "spa_wellness": "Full-service spa",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Water sports, tennis, sailing",
+  "amenities": [
+   "Sugar Mill Spa & Sanctuary (9 treatment rooms)",
+   "2 pools",
+   "Fitness center",
+   "Water sports",
+   "Kids club"
+  ],
+  "beach_details": {
+   "length": "",
+   "private_beach": "Direct frontage on Banana Bay",
+   "sand_type": "Sand"
+  },
+  "city": "Basseterre",
+  "concierge": "Concierge service",
+  "contact": {
+   "address": "1 Banana Bay, Basseterre, St. Kitts",
+   "email": "",
+   "phone": "+1 869 468 1234",
+   "website": "https://www.hyatt.com/park-hyatt/en-US/skbph-park-hyatt-st-kitts"
+  },
+  "country": "St. Kitts & Nevis",
+  "dining": "Great House, Fisherman's Village, Stone Barn (adults-only), Banana Bay Market, Fane's Beach Bar",
+  "events": "Weddings and private events",
+  "kids_family": "Kids club",
+  "location": "Banana Bay, Christophe Harbour",
+  "lodging": {
+   "residences": "",
+   "rooms": "124 (flag: another source cites 126)",
+   "suites": "",
+   "villas": ""
+  },
+  "management": "Hyatt (Park Hyatt)",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "Park Hyatt St. Kitts",
+  "nightlife": "",
+  "ownership": "",
+  "perks": "",
+  "pools": "2 pools (Rampart and Lagoon)",
+  "pr_contacts": [],
+  "season": "Year-round",
+  "source": "https://www.hyatt.com/park-hyatt/en-US/skbph-park-hyatt-st-kitts",
+  "spa_wellness": "Sugar Mill Spa & Sanctuary (9 treatment rooms)",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Farm tours, hiking, yoga, water sports",
+  "amenities": [
+   "Spa",
+   "Infinity pool",
+   "Organic farm",
+   "Fitness center",
+   "Water sports",
+   "Kids program"
+  ],
+  "beach_details": {
+   "length": "",
+   "private_beach": "Not beachfront; beach access via Arthur's beach club at Dieppe Bay (black sand beach)",
+   "sand_type": "Black sand"
+  },
+  "city": "Dieppe Bay",
+  "concierge": "Concierge service",
+  "contact": {
+   "address": "Kittitian Hill, Dieppe Bay, St. Kitts",
+   "email": "",
+   "phone": "",
+   "website": "https://bellemontfarm.com/"
+  },
+  "country": "St. Kitts & Nevis",
+  "dining": "The Kitchen, Mill Bar, Pool Bar & Terrace/Grille, Arthur's (beach club at Dieppe Bay)",
+  "events": "Weddings and private events",
+  "kids_family": "Family-friendly",
+  "location": "Mount Liamuiga slopes",
+  "lodging": {
+   "residences": "",
+   "rooms": "84 (guesthouses and cottages, plus Farmhouse and villas)",
+   "suites": "",
+   "villas": ""
+  },
+  "management": "Independent",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "Belle Mont Sanctuary Resort (Kittitian Hill)",
+  "nightlife": "Mill Bar",
+  "ownership": "",
+  "perks": "400-acre organic farm; farm-to-table dining",
+  "pools": "1 infinity pool",
+  "pr_contacts": [],
+  "season": "Year-round",
+  "source": "https://bellemontfarm.com/",
+  "spa_wellness": "Spa",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Water sports, tennis, sailing",
+  "amenities": [
+   "Palms Spa",
+   "Pool",
+   "Tennis",
+   "Water sports",
+   "Kids activities"
+  ],
+  "beach_details": {
+   "length": "",
+   "private_beach": "Beachfront on Nevis's north coast; 30 acres",
+   "sand_type": "White sand"
+  },
+  "city": "Newcastle",
+  "concierge": "Concierge service",
+  "contact": {
+   "address": "Newcastle, Nevis, St. Kitts & Nevis",
+   "email": "",
+   "phone": "",
+   "website": "https://www.nisbetplantation.com/"
+  },
+  "country": "St. Kitts & Nevis",
+  "dining": "Great House, Coconuts, Sea Breeze (beach bar)",
+  "events": "Weddings and private events",
+  "kids_family": "Family-friendly",
+  "location": "Newcastle, North Coast",
+  "lodging": {
+   "residences": "",
+   "rooms": "36 (rooms and suites in cottages)",
+   "suites": "",
+   "villas": ""
+  },
+  "management": "Independent",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "Nisbet Plantation Beach Club",
+  "nightlife": "",
+  "ownership": "David Dodwell",
+  "perks": "",
+  "pools": "1 pool",
+  "pr_contacts": [],
+  "season": "Year-round",
+  "source": "https://www.nisbetplantation.com/",
+  "spa_wellness": "Palms Spa",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Hiking, tennis, beach shuttle",
+  "amenities": [
+   "Spa",
+   "Pool",
+   "Fitness center",
+   "Tennis",
+   "Water sports",
+   "Historic great house"
+  ],
+  "beach_details": {
+   "length": "",
+   "private_beach": "Private beach 6 miles away via hotel shuttle",
+   "sand_type": "White sand"
+  },
+  "city": "Nevis",
+  "concierge": "Concierge service",
+  "contact": {
+   "address": "Nevis, St. Kitts & Nevis",
+   "email": "",
+   "phone": "",
+   "website": "https://www.montpeliernevis.com/"
+  },
+  "country": "St. Kitts & Nevis",
+  "dining": "Restaurant 750, Indigo, Mill Privée",
+  "events": "Weddings and private events",
+  "kids_family": "Family-friendly",
+  "location": "60 acres at 750 ft elevation",
+  "lodging": {
+   "residences": "",
+   "rooms": "19 (rooms plus private villas)",
+   "suites": "",
+   "villas": ""
+  },
+  "management": "Independent (Relais & Châteaux member)",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "Montpelier Plantation & Beach",
+  "nightlife": "",
+  "ownership": "Hoffman family",
+  "perks": "",
+  "pools": "1 pool",
+  "pr_contacts": [],
+  "season": "Year-round",
+  "source": "https://www.montpeliernevis.com/",
+  "spa_wellness": "Spa",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Water sports, sailing, diving",
+  "amenities": [
+   "Spa (11 treatment rooms)",
+   "Pool",
+   "Fitness center",
+   "Water sports",
+   "Kids club"
+  ],
+  "beach_details": {
+   "length": "",
+   "private_beach": "Direct frontage on Great Bay",
+   "sand_type": "White sand"
+  },
+  "city": "Charlotte Amalie",
+  "concierge": "Concierge service",
+  "contact": {
+   "address": "6900 Great Bay, St. Thomas 00802, US Virgin Islands",
+   "email": "",
+   "phone": "+1 340-775-3333",
+   "website": "https://www.ritzcarlton.com/en/hotels/sttrz-the-ritz-carlton-st-thomas/overview/"
+  },
+  "country": "U.S. Virgin Islands",
+  "dining": "Sails, Alloro, Bleuwater, Coconut Cove, Southwind (coffee shop)",
+  "events": "Weddings and private events",
+  "kids_family": "Ritz Kids program (ages 4–12)",
+  "location": "Great Bay",
+  "lodging": {
+   "residences": "",
+   "rooms": "180 (rooms and suites)",
+   "suites": "",
+   "villas": ""
+  },
+  "management": "Marriott (The Ritz-Carlton)",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "The Ritz-Carlton, St. Thomas",
+  "nightlife": "",
+  "ownership": "",
+  "perks": "",
+  "pools": "1 pool",
+  "pr_contacts": [],
+  "season": "Year-round",
+  "source": "https://www.ritzcarlton.com/en/hotels/sttrz-the-ritz-carlton-st-thomas/overview/",
+  "spa_wellness": "Spa with 11 treatment rooms",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Golf, tennis, water sports, sailing",
+  "amenities": [
+   "Spa",
+   "2 pools",
+   "Fitness center",
+   "18-hole golf course",
+   "8 tennis courts",
+   "Water sports",
+   "Kids club",
+   "Dive shop"
+  ],
+  "beach_details": {
+   "length": "",
+   "private_beach": "Three beaches: Mermaid, Grotto and Whistle",
+   "sand_type": "White sand"
+  },
+  "city": "Christiansted",
+  "concierge": "Concierge service",
+  "contact": {
+   "address": "Estate Shoys, Christiansted, St. Croix 00824, US Virgin Islands",
+   "email": "",
+   "phone": "",
+   "website": "https://www.thebuccaneer.com/"
+  },
+  "country": "U.S. Virgin Islands",
+  "dining": "The Terrace, Mermaid Restaurant, Beauregard's on the Beach, Martel Lounge",
+  "events": "Weddings and private events",
+  "kids_family": "Family-friendly; kids club",
+  "location": "Estate Shoys",
+  "lodging": {
+   "residences": "",
+   "rooms": "134 (rooms and suites)",
+   "suites": "",
+   "villas": ""
+  },
+  "management": "Independent (family-owned, 3 generations; founded 1947)",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "The Buccaneer",
+  "nightlife": "Martel Lounge",
+  "ownership": "Family-owned",
+  "perks": "340 acres; historic property (founded 1947)",
+  "pools": "2 pools",
+  "pr_contacts": [],
+  "season": "Year-round",
+  "source": "https://www.thebuccaneer.com/",
+  "spa_wellness": "Spa",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Water sports, kayaking, snorkeling",
+  "amenities": [
+   "70-ft infinity pool",
+   "Spa services",
+   "Fitness center",
+   "Water sports",
+   "Boat transfers"
+  ],
+  "beach_details": {
+   "length": "",
+   "private_beach": "Private Lovango Cay with beach club",
+   "sand_type": "White sand"
+  },
+  "city": "St. John",
+  "concierge": "Concierge service",
+  "contact": {
+   "address": "1 REM Lovango Cay, St. John 00830, US Virgin Islands",
+   "email": "frontdesk@lovangovi.com",
+   "phone": "+1 855-938-5348",
+   "website": "https://lovangovi.com/"
+  },
+  "country": "U.S. Virgin Islands",
+  "dining": "Waterfront Restaurant, Sandpit Grill",
+  "events": "Weddings and private events",
+  "kids_family": "Family-friendly",
+  "location": "Lovango Cay (private island)",
+  "lodging": {
+   "residences": "",
+   "rooms": "31 (treehouses, villas and glamping tents)",
+   "suites": "",
+   "villas": ""
+  },
+  "management": "Independent",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "Lovango Resort & Beach Club",
+  "nightlife": "",
+  "ownership": "",
+  "perks": "Private-island cay resort; boat transfers",
+  "pools": "1 seventy-foot infinity pool",
+  "pr_contacts": [],
+  "season": "Year-round",
+  "source": "https://lovangovi.com/",
+  "spa_wellness": "Spa services",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Water sports, sailing, diving",
+  "amenities": [
+   "Heavenly Spa (10,200 sq ft, 13 treatment rooms)",
+   "3 pools",
+   "Fitness center",
+   "Water sports",
+   "Kids club",
+   "Private dock"
+  ],
+  "beach_details": {
+   "length": "",
+   "private_beach": "Beach access via Morningstar Beach (adjacent Buoy Haus beach)",
+   "sand_type": "White sand"
+  },
+  "city": "Charlotte Amalie",
+  "concierge": "Concierge service",
+  "contact": {
+   "address": "Frenchman's Bay, St. Thomas 00802, US Virgin Islands",
+   "email": "",
+   "phone": "",
+   "website": "https://www.thewestinstthomas.com/"
+  },
+  "country": "U.S. Virgin Islands",
+  "dining": "Luna Mar, Sugarfin, Shorebird, Frenchman's Roast, Edge Bar",
+  "events": "Weddings and private events",
+  "kids_family": "Kids club",
+  "location": "Frenchman's Bay",
+  "lodging": {
+   "residences": "",
+   "rooms": "364",
+   "suites": "28",
+   "villas": ""
+  },
+  "management": "Marriott (The Westin)",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "The Westin Beach Resort & Spa at Frenchman's Reef",
+  "nightlife": "Edge Bar",
+  "ownership": "",
+  "perks": "",
+  "pools": "3 pools",
+  "pr_contacts": [],
+  "season": "Year-round",
+  "source": "https://www.thewestinstthomas.com/",
+  "spa_wellness": "Heavenly Spa (10,200 sq ft, 13 treatment rooms)",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Diving, water sports, tennis",
+  "amenities": [
+   "Pool",
+   "3 tennis courts",
+   "Dive center",
+   "Water sports",
+   "Beach bar"
+  ],
+  "beach_details": {
+   "length": "",
+   "private_beach": "Beachfront on Nazareth Bay",
+   "sand_type": "White sand"
+  },
+  "city": "St. Thomas",
+  "concierge": "",
+  "contact": {
+   "address": "6280 Estate Nazareth, St. Thomas 00802, US Virgin Islands",
+   "email": "",
+   "phone": "+1 340-775-6550",
+   "website": "https://www.secretharbourvi.com/"
+  },
+  "country": "U.S. Virgin Islands",
+  "dining": "Sunset Grille, The Patio, beach bar",
+  "events": "Weddings",
+  "kids_family": "Family-friendly",
+  "location": "Nazareth Bay, East End",
+  "lodging": {
+   "residences": "",
+   "rooms": "68 (condo units: 48 beachfront, 20 hillside)",
+   "suites": "",
+   "villas": ""
+  },
+  "management": "Independent (condo resort)",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "Secret Harbour Beach Resort",
+  "nightlife": "Beach bar",
+  "ownership": "",
+  "perks": "",
+  "pools": "1 pool",
+  "pr_contacts": [],
+  "season": "Year-round",
+  "source": "https://www.secretharbourvi.com/",
+  "spa_wellness": "",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Water sports, tennis, sailing, diving",
+  "amenities": [
+   "Sense Spa (8 treatment rooms)",
+   "Pool",
+   "Fitness center",
+   "Tennis courts",
+   "Water sports",
+   "Kids club",
+   "Rum Room"
+  ],
+  "beach_details": {
+   "length": "Half mile",
+   "private_beach": "Half-mile crescent beach on 500 acres",
+   "sand_type": "White sand"
+  },
+  "city": "The Valley",
+  "concierge": "Concierge service",
+  "contact": {
+   "address": "Lee Road, The Valley, VG1150, British Virgin Islands",
+   "email": "",
+   "phone": "",
+   "website": "https://www.rosewoodhotels.com/en/little-dix-bay-virgin-gorda"
+  },
+  "country": "British Virgin Islands",
+  "dining": "Sugar Mill, Pavilion, Reef House, Rum Room, Chef's Table",
+  "events": "Weddings and private events",
+  "kids_family": "Kids club",
+  "location": "Virgin Gorda",
+  "lodging": {
+   "residences": "",
+   "rooms": "80 (rooms, suites and villas)",
+   "suites": "",
+   "villas": ""
+  },
+  "management": "Rosewood Hotels & Resorts",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "Rosewood Little Dix Bay",
+  "nightlife": "Rum Room",
+  "ownership": "",
+  "perks": "Founded 1964 by Laurance Rockefeller",
+  "pools": "1 pool",
+  "pr_contacts": [],
+  "season": "Year-round",
+  "source": "https://www.rosewoodhotels.com/en/little-dix-bay-virgin-gorda",
+  "spa_wellness": "Sense, A Rosewood Spa (8 treatment rooms)",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Water sports, sailing, tennis, diving, hiking",
+  "amenities": [
+   "Spa",
+   "Pools",
+   "Tennis courts",
+   "Water sports",
+   "Dive center",
+   "Kids activities",
+   "Private island staff"
+  ],
+  "beach_details": {
+   "length": "",
+   "private_beach": "Private island with beaches including Turtle Beach",
+   "sand_type": "White sand"
+  },
+  "city": "Virgin Gorda",
+  "concierge": "Concierge service",
+  "contact": {
+   "address": "Necker Island, British Virgin Islands",
+   "email": "",
+   "phone": "",
+   "website": "https://www.virginlimitededition.com/necker-island/"
+  },
+  "country": "British Virgin Islands",
+  "dining": "Great House dining; in-villa dining",
+  "events": "Weddings and private events",
+  "kids_family": "Family-friendly (exclusive-use bookings)",
+  "location": "Necker Island (private island)",
+  "lodging": {
+   "residences": "",
+   "rooms": "11 (Great House bedrooms) + 10 Bali Houses; sleeps up to 48",
+   "suites": "",
+   "villas": ""
+  },
+  "management": "Virgin Limited Edition",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "Necker Island",
+  "nightlife": "",
+  "ownership": "Richard Branson (Virgin Limited Edition)",
+  "perks": "All-inclusive; private island",
+  "pools": "Multiple pools",
+  "pr_contacts": [],
+  "season": "Year-round",
+  "source": "https://www.virginlimitededition.com/necker-island/",
+  "spa_wellness": "Spa treatments",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Water sports, sailing, diving, tennis",
+  "amenities": [
+   "Sundara Spa + Studio",
+   "Beach Club (3 pools)",
+   "Fitness center",
+   "Tennis",
+   "Water sports",
+   "Nut House kids club",
+   "Marina (93 berths)"
+  ],
+  "beach_details": {
+   "length": "",
+   "private_beach": "Private beaches on 400 acres in North Sound",
+   "sand_type": "White sand"
+  },
+  "city": "Virgin Gorda",
+  "concierge": "Concierge service",
+  "contact": {
+   "address": "North Sound, Virgin Gorda, British Virgin Islands",
+   "email": "",
+   "phone": "",
+   "website": "https://oilnutbay.com/"
+  },
+  "country": "British Virgin Islands",
+  "dining": "Beach Club, Nova (Marina Village)",
+  "events": "Weddings and private events",
+  "kids_family": "Nut House kids club",
+  "location": "North Sound",
+  "lodging": {
+   "residences": "",
+   "rooms": "50+ (villas and suites)",
+   "suites": "",
+   "villas": ""
+  },
+  "management": "Independent",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "Oil Nut Bay",
+  "nightlife": "",
+  "ownership": "Victor International (David V. Johnson)",
+  "perks": "Boat or helicopter access only",
+  "pools": "3 pools at the Beach Club",
+  "pr_contacts": [],
+  "season": "Year-round",
+  "source": "https://oilnutbay.com/",
+  "spa_wellness": "Sundara Spa + Studio",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Water sports, sailing, diving, hiking",
+  "amenities": [
+   "10,000 sq ft spa (7 treatment rooms)",
+   "Pool",
+   "Fitness center",
+   "Water sports",
+   "Yacht Club",
+   "Dive center"
+  ],
+  "beach_details": {
+   "length": "",
+   "private_beach": "Five beaches including Deadman's Beach",
+   "sand_type": "White sand"
+  },
+  "city": "Tortola",
+  "concierge": "Concierge service",
+  "contact": {
+   "address": "Peter Island, British Virgin Islands",
+   "email": "",
+   "phone": "",
+   "website": "https://www.peterisland.com/"
+  },
+  "country": "British Virgin Islands",
+  "dining": "Drake Steakhouse, Drunken Pelican",
+  "events": "Weddings and private events",
+  "kids_family": "Family-friendly",
+  "location": "Peter Island (private island)",
+  "lodging": {
+   "residences": "",
+   "rooms": "52 (rooms, suites and villas)",
+   "suites": "",
+   "villas": ""
+  },
+  "management": "Independent (Preferred Hotels & Resorts — Legend Collection)",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "Peter Island Resort & Spa",
+  "nightlife": "",
+  "ownership": "",
+  "perks": "1,800-acre private island; reopened Dec 2024 after 7-year post-Irma closure — current open status unconfirmed",
+  "pools": "1 pool",
+  "pr_contacts": [],
+  "season": "Year-round",
+  "source": "https://www.peterisland.com/",
+  "spa_wellness": "10,000 sq ft spa with 7 treatment rooms",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Water sports, snorkeling, diving, hiking, tennis",
+  "amenities": [
+   "Hibiscus Spa",
+   "Pools",
+   "Tennis",
+   "Water sports",
+   "Kids activities",
+   "Farm and gardens"
+  ],
+  "beach_details": {
+   "length": "Half mile (White Bay Beach)",
+   "private_beach": "Seven beaches including half-mile White Bay Beach",
+   "sand_type": "White sand"
+  },
+  "city": "Tortola",
+  "concierge": "Concierge service",
+  "contact": {
+   "address": "Guana Island, British Virgin Islands",
+   "email": "",
+   "phone": "",
+   "website": "https://guana.com/"
+  },
+  "country": "British Virgin Islands",
+  "dining": "Communal dining at the Great House; in-cottage dining",
+  "events": "Weddings and private events",
+  "kids_family": "Family-friendly",
+  "location": "Guana Island (private island)",
+  "lodging": {
+   "residences": "",
+   "rooms": "14 (Sea View Cottages) + pool cottage + 4 villas; capacity 35–42",
+   "suites": "",
+   "villas": ""
+  },
+  "management": "Independent",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "Guana Island",
+  "nightlife": "",
+  "ownership": "",
+  "perks": "850-acre private island; 18th-century Quaker estate; all-inclusive",
+  "pools": "Pools at villas and estate",
+  "pr_contacts": [],
+  "season": "Year-round",
+  "source": "https://guana.com/",
+  "spa_wellness": "Hibiscus Spa",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Golf, tennis, water sports, nature trail",
+  "amenities": [
+   "Spa Botánico",
+   "Pool",
+   "Fitness center",
+   "3 championship golf courses",
+   "Tennis",
+   "Water sports",
+   "11-mile Rockefeller Nature Trail",
+   "Kids club"
+  ],
+  "beach_details": {
+   "length": "",
+   "private_beach": "Direct beachfront on Dorado Beach",
+   "sand_type": "White sand"
+  },
+  "city": "Dorado",
+  "concierge": "Concierge service",
+  "contact": {
+   "address": "100 Dorado Beach Drive, Dorado 00646, Puerto Rico",
+   "email": "",
+   "phone": "",
+   "website": "https://www.ritzcarlton.com/en/hotels/sjudo-dorado-beach-a-ritz-carlton-reserve/overview/"
+  },
+  "country": "Puerto Rico",
+  "dining": "COA, Positivo Sand Bar, Encanto Beach Club Bar & Grill, La Cocina Gourmet, Flor de Sal",
+  "events": "Weddings and private events",
+  "kids_family": "Kids club",
+  "location": "Dorado Beach",
+  "lodging": {
+   "residences": "",
+   "rooms": "96 (rooms and suites, plus private residences)",
+   "suites": "",
+   "villas": ""
+  },
+  "management": "Marriott (The Ritz-Carlton Reserve)",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "Dorado Beach, a Ritz-Carlton Reserve",
+  "nightlife": "",
+  "ownership": "",
+  "perks": "Rockefeller estate; 11-mile nature trail",
+  "pools": "1 pool",
+  "pr_contacts": [],
+  "season": "Year-round",
+  "source": "https://www.ritzcarlton.com/en/hotels/sjudo-dorado-beach-a-ritz-carlton-reserve/overview/",
+  "spa_wellness": "Spa Botánico",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Golf, water sports, tennis, nature reserve walks",
+  "amenities": [
+   "Spa",
+   "Pools",
+   "Fitness center",
+   "Robert Trent Jones Jr. championship golf",
+   "Tennis",
+   "Water sports",
+   "Kids club"
+  ],
+  "beach_details": {
+   "length": "2 miles",
+   "private_beach": "2 miles of beach on Bahia Beach (483 acres)",
+   "sand_type": "White sand"
+  },
+  "city": "Río Grande",
+  "concierge": "Concierge service",
+  "contact": {
+   "address": "State Road 187 Km 4.2, Río Grande 00745, Puerto Rico",
+   "email": "",
+   "phone": "",
+   "website": "https://www.fourseasons.com/puertorico/"
+  },
+  "country": "Puerto Rico",
+  "dining": "Paros, Seagrapes (plus additional venues)",
+  "events": "Weddings and private events",
+  "kids_family": "Kids club",
+  "location": "Bahia Beach",
+  "lodging": {
+   "residences": "",
+   "rooms": "104",
+   "suites": "35",
+   "villas": "4 (plus 85 private residences — flag: another source cites 150 rooms and suites total)"
+  },
+  "management": "Four Seasons Hotels and Resorts",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "Four Seasons Resort and Residences Puerto Rico",
+  "nightlife": "",
+  "ownership": "",
+  "perks": "Opened Nov 20, 2025 (reflagged from St. Regis Bahia Beach)",
+  "pools": "Multiple pools",
+  "pr_contacts": [],
+  "season": "Year-round",
+  "source": "https://www.fourseasons.com/puertorico/",
+  "spa_wellness": "Spa",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Water sports, beach activities, city excursions",
+  "amenities": [
+   "Spa with Puerto Rico's only Hammam",
+   "4 pools",
+   "Fitness center",
+   "Beach butlers",
+   "Historic 1919 building",
+   "Boutique"
+  ],
+  "beach_details": {
+   "length": "",
+   "private_beach": "Protected beach area at Condado Beach with Beach Butlers",
+   "sand_type": "White sand"
+  },
+  "city": "San Juan",
+  "concierge": "Concierge service",
+  "contact": {
+   "address": "1055 Ashford Avenue, San Juan 00907, Puerto Rico",
+   "email": "",
+   "phone": "",
+   "website": "https://www.condadovanderbilt.com/"
+  },
+  "country": "Puerto Rico",
+  "dining": "1919, STK, Ola Oceanfront Bistro, Tacos & Tequila, VC Lounge, AVO Cigar Lounge",
+  "events": "Weddings and private events",
+  "kids_family": "Family-friendly",
+  "location": "Condado Beach",
+  "lodging": {
+   "residences": "",
+   "rooms": "316 (flag: another source cites 319)",
+   "suites": "107",
+   "villas": ""
+  },
+  "management": "Independent",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "Condado Vanderbilt Hotel",
+  "nightlife": "VC Lounge, AVO Cigar Lounge",
+  "ownership": "",
+  "perks": "Historic hotel built 1919; Beach Butlers; Puerto Rico's only Hammam",
+  "pools": "4 pools",
+  "pr_contacts": [],
+  "season": "Year-round",
+  "source": "https://www.condadovanderbilt.com/",
+  "spa_wellness": "Spa with Puerto Rico's only Hammam",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Water sports, casino, nightlife",
+  "amenities": [
+   "Well & Being Spa",
+   "4 pools",
+   "Fitness center",
+   "Foxwoods El San Juan Casino",
+   "13 dining venues",
+   "Water sports"
+  ],
+  "beach_details": {
+   "length": "2 miles",
+   "private_beach": "2 miles of Isla Verde Beach",
+   "sand_type": "White sand"
+  },
+  "city": "Carolina",
+  "concierge": "Concierge service",
+  "contact": {
+   "address": "6063 Isla Verde Avenue, Carolina 00979, Puerto Rico",
+   "email": "esjinfo@fairmont.com",
+   "phone": "+1 787 791 1000",
+   "website": "https://www.elsanjuanhotel.com/"
+  },
+  "country": "Puerto Rico",
+  "dining": "13 dining venues including Caña, Meat Market, El San Juan Beach Club, Riva, Il Sole, Crudo Sushi",
+  "events": "Weddings, private events, conventions",
+  "kids_family": "Family-friendly",
+  "location": "Isla Verde",
+  "lodging": {
+   "residences": "",
+   "rooms": "266",
+   "suites": "36 (plus 3 specialty suites)",
+   "villas": "83 (villa rooms)"
+  },
+  "management": "Accor (Fairmont)",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "Fairmont El San Juan Hotel",
+  "nightlife": "Brava nightclub, Chico Cabaret; Foxwoods El San Juan Casino",
+  "ownership": "",
+  "perks": "",
+  "pools": "4 pools",
+  "pr_contacts": [],
+  "season": "Year-round",
+  "source": "https://www.elsanjuanhotel.com/",
+  "spa_wellness": "Well & Being Spa",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Golf, tennis, croquet, horseback riding, water sports, hiking",
+  "amenities": [
+   "18-hole oceanfront golf course",
+   "2 outdoor pools",
+   "Fitness center",
+   "Tennis",
+   "Croquet",
+   "Organic farm",
+   "Helipad"
+  ],
+  "beach_details": {
+   "length": "",
+   "private_beach": "Rugged cliff coast; not a traditional swimmable beachfront — hotel offers beach shuttles with beach amenities to nearby beaches (e.g., Playa Montones)",
+   "sand_type": ""
+  },
+  "city": "Isabela",
+  "concierge": "Concierge service",
+  "contact": {
+   "address": "Ave Noel Estrada 396, Isabela 00662, Puerto Rico",
+   "email": "reservations@royalisabela.com",
+   "phone": "+1 787 609 5888",
+   "website": "https://www.royalisabela.com/"
+  },
+  "country": "Puerto Rico",
+  "dining": "La Casa (signature restaurant), golf grill",
+  "events": "Weddings and private events",
+  "kids_family": "Family-friendly",
+  "location": "Northwest coast headland",
+  "lodging": {
+   "residences": "",
+   "rooms": "20 (freestanding casitas, 1,500 sq ft each with private plunge pool)",
+   "suites": "",
+   "villas": ""
+  },
+  "management": "Independent",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "Royal Isabela",
+  "nightlife": "",
+  "ownership": "",
+  "perks": "",
+  "pools": "2 outdoor pools plus private plunge pools in each casita",
+  "pr_contacts": [],
+  "season": "Year-round",
+  "source": "https://www.royalisabela.com/",
+  "spa_wellness": "Spa services",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Golf, tennis, pickleball, water sports, rainforest excursions",
+  "amenities": [
+   "El Yunque Spa",
+   "Multiple pools",
+   "Fitness center",
+   "2 championship golf courses",
+   "Rackets Center (tennis, pickleball)",
+   "Casino Rio Mar",
+   "Kids club (Xplorers Club)",
+   "Water sports"
+  ],
+  "beach_details": {
+   "length": "2 miles",
+   "private_beach": "2 miles of secluded beach between the Atlantic and El Yunque National Forest",
+   "sand_type": "White sand"
+  },
+  "city": "Río Grande",
+  "concierge": "Concierge service",
+  "contact": {
+   "address": "6000 Rio Mar Boulevard, Río Grande 00745, Puerto Rico",
+   "email": "",
+   "phone": "",
+   "website": "https://www.wyndhamhotels.com/wyndham/rio-grande-pr/wyndham-grand-rio-mar-beach-resort/spa/overview"
+  },
+  "country": "Puerto Rico",
+  "dining": "Roots Coastal Kitchen, Iguanas Cocina Puertorriqueña, Palio, Caicu Bar, Tiki Hut, 5 O'Clock Somewhere (9+ outlets)",
+  "events": "Weddings, private events, conventions",
+  "kids_family": "Xplorers Club; family activity pool with waterslide",
+  "location": "El Yunque foothills, Northeast coast",
+  "lodging": {
+   "residences": "",
+   "rooms": "400 (flag: older sources cite 600 rooms including 72 suites)",
+   "suites": "",
+   "villas": ""
+  },
+  "management": "Wyndham (Wyndham Grand)",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "Wyndham Grand Rio Mar Rainforest Beach and Golf Resort",
+  "nightlife": "Casino Rio Mar; speakeasy cabaret",
+  "ownership": "",
+  "perks": "Freshly completed $70 million reimagining (2025)",
+  "pools": "Multiple lagoon-style pools including Aura Adult Swim Lounge",
+  "pr_contacts": [],
+  "season": "Year-round",
+  "source": "https://www.wyndhamhotels.com/wyndham/rio-grande-pr/wyndham-grand-rio-mar-beach-resort/spa/overview",
+  "spa_wellness": "El Yunque Spa",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Yoga, art classes, water sports, mountain biking, hiking, chocolate tours",
+  "amenities": [
+   "Kai en Ciel Spa",
+   "Infinity pools in sanctuaries",
+   "Jade Mountain Club",
+   "Celestial Terrace",
+   "Full access to Anse Chastanet facilities",
+   "Brewery at Emerald Estate"
+  ],
+  "beach_details": {
+   "length": "1/4 mile (each)",
+   "private_beach": "Access to two Anse Chastanet beaches: Anse Chastanet and Anse Mamin (each ~1/4 mile)",
+   "sand_type": "Soft sand"
+  },
+  "city": "Soufrière",
+  "concierge": "24-hour butler (Major Domos)",
+  "contact": {
+   "address": "Soufrière, St. Lucia",
+   "email": "",
+   "phone": "",
+   "website": "https://www.jademountain.com/"
+  },
+  "country": "St. Lucia",
+  "dining": "Jade Mountain Club (Chef Allen Susser), Celestial Terrace; full access to Anse Chastanet restaurants",
+  "events": "Weddings and private events",
+  "kids_family": "Minimum age 15; children welcome at sister resort Anse Chastanet",
+  "location": "Above Anse Chastanet, Southwest coast",
+  "lodging": {
+   "residences": "",
+   "rooms": "29 (open-wall sanctuaries: 24 infinity-pool sanctuaries + 5 sky jacuzzi suites)",
+   "suites": "",
+   "villas": ""
+  },
+  "management": "Independent (Troubetzkoy family)",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "Jade Mountain",
+  "nightlife": "Celestial Terrace",
+  "ownership": "Troubetzkoy family",
+  "perks": "24-hour butler service; techno-free sanctuaries with missing fourth wall",
+  "pools": "Private infinity pools in 24 sanctuaries",
+  "pr_contacts": [],
+  "season": "Year-round",
+  "source": "https://www.jademountain.com/",
+  "spa_wellness": "Kai en Ciel Spa",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Sailing, scuba diving, snorkeling, hiking",
+  "amenities": [
+   "Rainforest Spa",
+   "Pools",
+   "Fitness center",
+   "Sailing Club",
+   "Dive center",
+   "Kids club",
+   "Boutique"
+  ],
+  "beach_details": {
+   "length": "",
+   "private_beach": "Direct frontage on Anse des Pitons (Sugar Beach) between the Pitons",
+   "sand_type": "White sand"
+  },
+  "city": "Soufrière",
+  "concierge": "Concierge service",
+  "contact": {
+   "address": "Val des Pitons, La Baie de Silence, Soufrière LC09 101, St. Lucia",
+   "email": "",
+   "phone": "+1 758 456 8000",
+   "website": "https://www.viceroyhotelsandresorts.com/sugar-beach"
+  },
+  "country": "St. Lucia",
+  "dining": "Saltwood, Bonté, The Terrace, Jalousie Grill, Boopa's, Jetty Burgers, Cane Bar",
+  "events": "Weddings and private events",
+  "kids_family": "Kids club",
+  "location": "Val des Pitons, between the Pitons",
+  "lodging": {
+   "residences": "",
+   "rooms": "131 (rooms, cottages, villas and residences on 100+ acres)",
+   "suites": "",
+   "villas": ""
+  },
+  "management": "Viceroy Hotels & Resorts",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "Sugar Beach, A Viceroy Resort",
+  "nightlife": "Saltwood Lounge",
+  "ownership": "",
+  "perks": "",
+  "pools": "Multiple pools",
+  "pr_contacts": [],
+  "season": "Year-round",
+  "source": "https://www.viceroyhotelsandresorts.com/sugar-beach",
+  "spa_wellness": "Rainforest Spa",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Scuba diving, snorkeling, water sports, mountain biking, hiking, tennis, yoga",
+  "amenities": [
+   "Spa",
+   "Pools",
+   "Fitness center",
+   "PADI dive center",
+   "Tennis",
+   "12 miles of mountain bike trails",
+   "Water sports",
+   "Art gallery",
+   "Boutiques"
+  ],
+  "beach_details": {
+   "length": "1/4 mile (each)",
+   "private_beach": "Two beaches: Anse Chastanet and Anse Mamin (each ~1/4 mile)",
+   "sand_type": "Soft sand"
+  },
+  "city": "Soufrière",
+  "concierge": "Concierge service",
+  "contact": {
+   "address": "Soufrière, St. Lucia",
+   "email": "",
+   "phone": "",
+   "website": "https://ansechastanet.com/"
+  },
+  "country": "St. Lucia",
+  "dining": "Treehouse, Trou au Diable, Apsara (East India–St. Lucia fusion), Emerald's (vegetarian), Jungle Beach Bar & Grill",
+  "events": "Weddings and private events",
+  "kids_family": "Children welcome",
+  "location": "600-acre estate, Southwest coast",
+  "lodging": {
+   "residences": "",
+   "rooms": "49 (beach and hillside bungalows)",
+   "suites": "",
+   "villas": ""
+  },
+  "management": "Independent (Troubetzkoy family)",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "Anse Chastanet",
+  "nightlife": "Piton Lounge and Bar",
+  "ownership": "Troubetzkoy family",
+  "perks": "",
+  "pools": "Pools",
+  "pr_contacts": [],
+  "season": "Year-round",
+  "source": "https://ansechastanet.com/",
+  "spa_wellness": "Spa",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Water sports, running club, hiking",
+  "amenities": [
+   "Maison Spa",
+   "Pool",
+   "Fitness center",
+   "Water sports",
+   "Walk-in wine cellar",
+   "Cap Maison Running and Hiking Club"
+  ],
+  "beach_details": {
+   "length": "",
+   "private_beach": "Private cove-like sandy beach below the cliff (private steps)",
+   "sand_type": "Sand"
+  },
+  "city": "Cap Estate",
+  "concierge": "Concierge service",
+  "contact": {
+   "address": "PO Box 2188, Smugglers Cove Drive, Cap Estate, St. Lucia",
+   "email": "",
+   "phone": "",
+   "website": "https://www.capmaison.com/"
+  },
+  "country": "St. Lucia",
+  "dining": "The Cliff at Cap, The Naked Fisherman, Rock Maison",
+  "events": "Weddings and private events",
+  "kids_family": "Family-friendly",
+  "location": "Cap Estate, Northwest tip",
+  "lodging": {
+   "residences": "",
+   "rooms": "49 (rooms, suites and villas; many with private pools or rooftop terraces)",
+   "suites": "",
+   "villas": ""
+  },
+  "management": "Independent (family-owned)",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "Cap Maison",
+  "nightlife": "The Cliff Bar",
+  "ownership": "Family-owned",
+  "perks": "Rock Maison private dining deck; champagne zipline",
+  "pools": "1 pool; private plunge pools in select suites",
+  "pr_contacts": [],
+  "season": "Year-round",
+  "source": "https://www.capmaison.com/",
+  "spa_wellness": "Maison Spa",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Land and water sports, golf academy, fencing, archery, PADI diving, sailing",
+  "amenities": [
+   "Wellness Centre with Ayurvedic Temple",
+   "3 pools",
+   "Fitness center",
+   "PADI dive center",
+   "Tennis and pickleball courts",
+   "Water sports",
+   "8 restaurants and bars"
+  ],
+  "beach_details": {
+   "length": "",
+   "private_beach": "Private cove beach at Cariblue Bay",
+   "sand_type": "White sand"
+  },
+  "city": "Castries",
+  "concierge": "Concierge service",
+  "contact": {
+   "address": "Cariblue Beach, Castries, St. Lucia",
+   "email": "",
+   "phone": "",
+   "website": "https://www.thebodyholiday.com/"
+  },
+  "country": "St. Lucia",
+  "dining": "Cariblue, Cariblue Windows, TAO, Pavilion Grill, Wellness Café, I-TAL; ClubHouse Bar, Piano Bar",
+  "events": "Weddings and private events",
+  "kids_family": "Family-friendly",
+  "location": "Cariblue Bay, Northwest coast",
+  "lodging": {
+   "residences": "",
+   "rooms": "155 (rooms and suites, plus 4 villas)",
+   "suites": "",
+   "villas": ""
+  },
+  "management": "Independent (SunSwept Resorts)",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "BodyHoliday",
+  "nightlife": "Piano Bar",
+  "ownership": "",
+  "perks": "All-inclusive with daily 50-minute spa treatment per guest",
+  "pools": "3 pools",
+  "pr_contacts": [],
+  "season": "Year-round",
+  "source": "https://www.thebodyholiday.com/",
+  "spa_wellness": "Wellness Centre (Ayurveda Temple); daily spa treatment included",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Water sports, yoga, pickleball, sailing",
+  "amenities": [
+   "The Spa at Silversands",
+   "100 m infinity pool (Caribbean's longest)",
+   "24-hour fitness center",
+   "Yoga deck",
+   "Pickleball",
+   "Water sports"
+  ],
+  "beach_details": {
+   "length": "",
+   "private_beach": "Direct frontage on Grand Anse Beach",
+   "sand_type": "White sand"
+  },
+  "city": "St. George's",
+  "concierge": "Concierge service",
+  "contact": {
+   "address": "P.O. Box 1046, Grand Anse, St. George's, Grenada",
+   "email": "",
+   "phone": "",
+   "website": "https://www.silversandsgrenada.com/"
+  },
+  "country": "Grenada",
+  "dining": "Asiatique, Grenadian Grill, Puro (rum bar), Beach Lounge",
+  "events": "Weddings and private events",
+  "kids_family": "Kids club",
+  "location": "Grand Anse",
+  "lodging": {
+   "residences": "",
+   "rooms": "43 (suites — flag: another source cites 39 rooms plus 4 suites)",
+   "suites": "",
+   "villas": "8–9 (flag: sources cite 8 or 9)"
+  },
+  "management": "Independent (Silversands Collection)",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "Silversands Grenada",
+  "nightlife": "Puro (rum and whiskey bar)",
+  "ownership": "",
+  "perks": "Caribbean's longest infinity pool (100 m); Tesla transfers from sister property",
+  "pools": "100 m infinity pool",
+  "pr_contacts": [],
+  "season": "Year-round",
+  "source": "https://www.silversandsgrenada.com/",
+  "spa_wellness": "The Spa at Silversands (open 24 hours)",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Water sports, tennis, sailing",
+  "amenities": [
+   "Janissa Spa",
+   "Free-form pool",
+   "Tennis",
+   "Water sports",
+   "Open-air yoga studio"
+  ],
+  "beach_details": {
+   "length": "1,600 ft",
+   "private_beach": "1,600 ft of beach on Grand Anse Beach",
+   "sand_type": "White sand"
+  },
+  "city": "St. George's",
+  "concierge": "Concierge service",
+  "contact": {
+   "address": "Grand Anse Beach, St. George's, Grenada",
+   "email": "",
+   "phone": "",
+   "website": "https://www.spiceislandbeachresort.com/"
+  },
+  "country": "Grenada",
+  "dining": "Oliver's (Creole and international), Sea & Surf Terrace and Bar",
+  "events": "Weddings and private events",
+  "kids_family": "Family-friendly",
+  "location": "Grand Anse",
+  "lodging": {
+   "residences": "",
+   "rooms": "64 (all-suite)",
+   "suites": "",
+   "villas": ""
+  },
+  "management": "Independent (Small Luxury Hotels of the World member)",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "Spice Island Beach Resort",
+  "nightlife": "",
+  "ownership": "Hopkin family",
+  "perks": "All-inclusive; AAA Five Diamond",
+  "pools": "1 free-form pool; private pools in 17 pool suites",
+  "pr_contacts": [],
+  "season": "Year-round",
+  "source": "https://www.spiceislandbeachresort.com/",
+  "spa_wellness": "Janissa Spa",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Water sports, tennis, PADI diving, sailing",
+  "amenities": [
+   "Spa at Calabash",
+   "Infinity pool",
+   "Fitness center",
+   "2 floodlit tennis courts",
+   "PADI dive center",
+   "Yoga and pilates pavilion"
+  ],
+  "beach_details": {
+   "length": "",
+   "private_beach": "Private sheltered beach on Prickly Bay",
+   "sand_type": "White sand"
+  },
+  "city": "St. George's",
+  "concierge": "Concierge service",
+  "contact": {
+   "address": "L'Anse Aux Epines Main Road, St. George's, Grenada",
+   "email": "",
+   "phone": "",
+   "website": "https://www.calabashgrenada.com/"
+  },
+  "country": "Grenada",
+  "dining": "Rhodes, Nori (Japanese), The Beach Club",
+  "events": "Weddings and private events",
+  "kids_family": "Family-friendly",
+  "location": "L'Anse aux Épines, Prickly Bay",
+  "lodging": {
+   "residences": "",
+   "rooms": "30 (all-suite)",
+   "suites": "",
+   "villas": ""
+  },
+  "management": "Independent (Relais & Châteaux member)",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "Calabash",
+  "nightlife": "",
+  "ownership": "Garbutt family (family-owned)",
+  "perks": "Cooked-to-order breakfast on your terrace or the beach; 8 acres of gardens",
+  "pools": "1 infinity pool",
+  "pr_contacts": [],
+  "season": "Year-round",
+  "source": "https://www.calabashgrenada.com/",
+  "spa_wellness": "Spa at Calabash",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Water sports, fitness room activities, excursions",
+  "amenities": [
+   "Spa by Sisley (sauna, steam room, jacuzzi)",
+   "Infinity pool",
+   "Fitness room",
+   "2 restaurants",
+   "Panoramic bar",
+   "Private beach with reserved loungers"
+  ],
+  "beach_details": {
+   "length": "",
+   "private_beach": "Private equipped beach below the bluff",
+   "sand_type": "White sand"
+  },
+  "city": "Sainte-Anne",
+  "concierge": "Concierge service",
+  "contact": {
+   "address": "Route de Sainte-Anne, 97180 Sainte-Anne, Guadeloupe",
+   "email": "",
+   "phone": "",
+   "website": "https://www.toubana.com/"
+  },
+  "country": "Guadeloupe",
+  "dining": "Le Grand Bleu, Toubana La Plage, Le Bar de la Mer",
+  "events": "Weddings and private events",
+  "kids_family": "Family-friendly (childcare on request)",
+  "location": "Bluff above the sea, Sainte-Anne, Grande-Terre",
+  "lodging": {
+   "residences": "",
+   "rooms": "31 (bungalows)",
+   "suites": "12",
+   "villas": "3 (400–630 sq m with private chef service)"
+  },
+  "management": "Independent (family-run — Arnoux family)",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "La Toubana Hotel & Spa",
+  "nightlife": "Le Bar de la Mer",
+  "ownership": "Arnoux family",
+  "perks": "First 5-star hotel in Guadeloupe; reserved beach bed from arrival to departure",
+  "pools": "1 infinity pool; private pools in select bungalows, suites and villas",
+  "pr_contacts": [],
+  "season": "Year-round",
+  "source": "https://www.toubana.com/",
+  "spa_wellness": "Spa by Sisley",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Catamaran, windsurfing, Hobie Cat sailing, tennis, aqua playground",
+  "amenities": [
+   "Club Med Spa by Sothys",
+   "Zen Oasis (18+ calm area with sea-facing infinity pool)",
+   "Splash park",
+   "Kids clubs (Baby Club Med from 4 months)",
+   "4 bars",
+   "Water sports center"
+  ],
+  "beach_details": {
+   "length": "",
+   "private_beach": "Peninsula bordered by two white-sand beaches; lagoon protected by coral reef",
+   "sand_type": "White sand"
+  },
+  "city": "Sainte-Anne",
+  "concierge": "Concierge service",
+  "contact": {
+   "address": "Sainte-Anne, Grande-Terre, Guadeloupe, French West Indies",
+   "email": "",
+   "phone": "",
+   "website": "https://www.clubmed.us/r/caravelle/y"
+  },
+  "country": "Guadeloupe",
+  "dining": "The Hibiscus (main restaurant), The Allamanda Beach Lounge",
+  "events": "",
+  "kids_family": "Kids clubs from 4 months; family accommodation area",
+  "location": "Sainte-Anne peninsula, Grande-Terre",
+  "lodging": {
+   "residences": "",
+   "rooms": "Rooms in Superior, Deluxe, Zen Oasis and Suite categories (total count unpublished)",
+   "suites": "",
+   "villas": ""
+  },
+  "management": "Club Med",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "Club Med La Caravelle",
+  "nightlife": "4 bars",
+  "ownership": "",
+  "perks": "All-inclusive; opened 1971, fully renovated 2019",
+  "pools": "Multiple pools including adults-only Zen Oasis infinity pool",
+  "pr_contacts": [],
+  "season": "Year-round",
+  "source": "https://www.clubmed.us/r/caravelle/y",
+  "spa_wellness": "Club Med Spa by Sothys",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Water sports, tennis, sailing, diving",
+  "amenities": [
+   "Cape Spa (Cinq Mondes)",
+   "Infinity pool",
+   "Fitness room",
+   "Tennis court",
+   "Water sports",
+   "Private dock and boat excursions"
+  ],
+  "beach_details": {
+   "length": "",
+   "private_beach": "Private beach on a protected lagoon",
+   "sand_type": "White sand"
+  },
+  "city": "Le François",
+  "concierge": "Concierge service",
+  "contact": {
+   "address": "Quartier La Prairie, Le François 97240, Martinique",
+   "email": "",
+   "phone": "",
+   "website": "https://www.capest.com/"
+  },
+  "country": "Martinique",
+  "dining": "Le Bélem, Le Campêche, Cohi Bar",
+  "events": "Weddings and private events",
+  "kids_family": "Family-friendly (no dedicated kids club)",
+  "location": "Peninsula at Le François, Atlantic coast",
+  "lodging": {
+   "residences": "",
+   "rooms": "50 (suites in 18 villas)",
+   "suites": "",
+   "villas": ""
+  },
+  "management": "Independent (Relais & Châteaux member)",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "Le Cap Est Lagoon Resort & Spa",
+  "nightlife": "Cohi Bar",
+  "ownership": "",
+  "perks": "Many suites with private plunge pools and outdoor showers",
+  "pools": "1 infinity pool; private plunge pools in most suites",
+  "pr_contacts": [],
+  "season": "Year-round",
+  "source": "https://www.capest.com/",
+  "spa_wellness": "Cape Spa (Cinq Mondes treatments)",
+  "vip_clubs": ""
+ },
+ {
+  "activities": "Water sports nearby, rainforest excursions, golf nearby",
+  "amenities": [
+   "Spa",
+   "Infinity pool",
+   "Fitness",
+   "Restaurant and bar",
+   "Contemporary art collection"
+  ],
+  "beach_details": {
+   "length": "",
+   "private_beach": "Hillside property; beach access by car to Anse Mitan and nearby beaches",
+   "sand_type": ""
+  },
+  "city": "Les Trois-Îlets",
+  "concierge": "Concierge service",
+  "contact": {
+   "address": "Route du Fort d'Alet, Anse Mitan, Les Trois-Îlets 97229, Martinique",
+   "email": "reservation@la-suite-villa.com",
+   "phone": "+596 596 598 800",
+   "website": "https://www.la-suite-villa.com/"
+  },
+  "country": "Martinique",
+  "dining": "Le Zandoli (gastronomic), O Ti Zandoli (bistronomique sharing concept)",
+  "events": "Weddings, seminars (seminar room for 40)",
+  "kids_family": "Family-friendly",
+  "location": "Hills above Anse Mitan, Trois-Îlets",
+  "lodging": {
+   "residences": "",
+   "rooms": "15 (6 suites + 9 private villas)",
+   "suites": "",
+   "villas": ""
+  },
+  "management": "Independent",
+  "market": "Caribbean East",
+  "marketing_contacts": [],
+  "name": "La Suite Villa",
+  "nightlife": "",
+  "ownership": "Gilles Duplan",
+  "perks": "Private Jacuzzis in many accommodations; infinity pool overlooking the Bay of Fort-de-France",
+  "pools": "1 infinity pool; private Jacuzzis and plunge pools in accommodations",
+  "pr_contacts": [],
+  "season": "Year-round",
+  "source": "https://www.la-suite-villa.com/",
+  "spa_wellness": "Spa",
+  "vip_clubs": ""
+ }
+]

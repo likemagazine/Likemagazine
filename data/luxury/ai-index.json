@@ -282,6 +282,27 @@
    },
    "variableMeasured": "listing",
    "count": 480
+  },
+  {
+   "@type": "Dataset",
+   "name": "Top 500 Beach Club Resorts Worldwide",
+   "description": "Top 500 beach club resorts worldwide — private beaches, cabanas, villas, dining, and full contact details.",
+   "url": "https://likeleaders.com/sections/luxury-beach-clubs.html",
+   "creator": {
+    "@id": "https://likeleaders.com/#organization"
+   },
+   "isPartOf": {
+    "@type": "CreativeWork",
+    "name": "LIKE® Magazine Luxury Guide",
+    "url": "https://likeleaders.com/sections/luxury-guide.html"
+   },
+   "distribution": {
+    "@type": "DataDownload",
+    "encodingFormat": "application/json",
+    "contentUrl": "https://likeleaders.com/data/luxury/beach-clubs.json"
+   },
+   "variableMeasured": "listing",
+   "count": 504
   }
  ],
  "hasPart": [

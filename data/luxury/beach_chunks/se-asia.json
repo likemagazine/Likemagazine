@@ -1,0 +1,3212 @@
+[
+ {
+  "name": "Amankila",
+  "location": "Manggis, East Bali",
+  "city": "Karangasem",
+  "country": "Indonesia",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "Aman",
+  "contact": {
+   "address": "Jl. Raya Manggis, Manggis, Karangasem, Bali 80871, Indonesia",
+   "phone": "+62 361 2100 333",
+   "email": "",
+   "website": "https://www.aman.com/resorts/amankila"
+  },
+  "beach_details": {
+   "private_beach": "Yes - private black-sand beach below the cliff, reached by winding path",
+   "length": "",
+   "sand_type": "Black sand"
+  },
+  "amenities": [
+   "Beach Club with 41-metre pool",
+   "Three-tier infinity pool",
+   "Fitness Pavilion",
+   "Massage Pavilion in coconut grove",
+   "Yoga classes",
+   "Water sports",
+   "Snorkelling excursions",
+   "Sunset cruises",
+   "Cooking classes",
+   "Organic garden"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "Three-tier infinity pool; 41m Beach Club pool",
+  "lodging": {
+   "rooms": "",
+   "suites": "31",
+   "villas": "",
+   "residences": ""
+  },
+  "dining": "Sandikala (signature Indonesian/international); The Terrace; Terrace Bar; Beach Club restaurant",
+  "spa_wellness": "Massage Pavilion; yoga in coconut grove or in-suite",
+  "activities": "Water sports, snorkelling, sunset cruises, cooking classes, temple tours, mountain biking",
+  "nightlife": "",
+  "events": "Full buyouts; weddings on black-sand beach or by three-tier pool",
+  "season": "Closed for seasonal maintenance until 20 January 2027",
+  "kids_family": "",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.aman.com/resorts/amankila"
+ },
+ {
+  "name": "Bvlgari Resort Bali",
+  "location": "Uluwatu",
+  "city": "Badung",
+  "country": "Indonesia",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "Bvlgari Hotels & Resorts",
+  "contact": {
+   "address": "Jalan Goa Lempeh, Banjar Dinas Kangin, Uluwatu, Bali, Indonesia",
+   "phone": "+62 361 847 1000",
+   "email": "",
+   "website": "https://www.bulgarihotels.com/en_US/bali"
+  },
+  "beach_details": {
+   "private_beach": "Yes - secluded private beach at cliff base, accessible only by the resort's inclined elevator",
+   "length": "",
+   "sand_type": "White sand"
+  },
+  "amenities": [
+   "Private plunge pool in every villa",
+   "Clifftop infinity pool",
+   "Bvlgari Spa",
+   "Il Bar",
+   "Butler service",
+   "20-metre heated pool at Bvlgari Villa"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "Clifftop infinity pool; private plunge pools in all villas",
+  "lodging": {
+   "rooms": "",
+   "suites": "",
+   "villas": "",
+   "residences": ""
+  },
+  "dining": "Il Ristorante - Luca Fantin (Italian fine dining); Sangkar (Indonesian/international); La Spiaggia (beachside seafood)",
+  "spa_wellness": "Bvlgari Spa",
+  "activities": "Surfing nearby (Uluwatu, Padang Padang); beach walks; dolphin watching",
+  "nightlife": "",
+  "events": "Weddings and private events",
+  "season": "",
+  "kids_family": "",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.bulgarihotels.com/en_US/bali"
+ },
+ {
+  "name": "Four Seasons Resort Bali at Jimbaran Bay",
+  "location": "Jimbaran Bay",
+  "city": "Jimbaran",
+  "country": "Indonesia",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "Four Seasons Hotels and Resorts",
+  "contact": {
+   "address": "Jimbaran Bay, Bali, Indonesia",
+   "phone": "",
+   "email": "",
+   "website": "https://www.fourseasons.com/jimbaranbay"
+  },
+  "beach_details": {
+   "private_beach": "Private Sundara Beach Club area on Jimbaran Bay; the sand itself is public",
+   "length": "3 miles of golden sand (Jimbaran Bay)",
+   "sand_type": "Golden sand"
+  },
+  "amenities": [
+   "Sundara Beach Club with 57-metre infinity pool",
+   "Cooking Academy",
+   "Yoga bale",
+   "Tropicsurf school",
+   "Watersports centre",
+   "Jimba Club (kids/teens)"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "57m beachfront infinity pool at Sundara; main infinity-edge pool; Quiet Pool with waterfall",
+  "lodging": {
+   "rooms": "",
+   "suites": "",
+   "villas": "147",
+   "residences": "9"
+  },
+  "dining": "Sundara (beachfront seafood); Taman Wantilan; Jala (Balinese); Alu (poolside cafe)",
+  "spa_wellness": "Spa with beachside open-air pavilions; yoga bale",
+  "activities": "Surfing, diving, watersports, cooking school, cultural activities",
+  "nightlife": "",
+  "events": "",
+  "season": "",
+  "kids_family": "Jimba Club",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.fourseasons.com/jimbaranbay"
+ },
+ {
+  "name": "Alila Villas Uluwatu",
+  "location": "Uluwatu",
+  "city": "Pecatu",
+  "country": "Indonesia",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "Alila Hotels and Resorts (Hyatt)",
+  "contact": {
+   "address": "Jl. Belimbing Sari, Banjar Tambiyak, Pecatu, Bali 80364, Indonesia",
+   "phone": "",
+   "email": "",
+   "website": "https://www.alilahotels.com/uluwatu"
+  },
+  "beach_details": {
+   "private_beach": "No swimmable beach - clifftop resort; beach below reached by ~600-step descent, no lifeguard, swimming not advised",
+   "length": "",
+   "sand_type": ""
+  },
+  "amenities": [
+   "50-metre cliff-edge infinity pool",
+   "Private plunge pool in every villa",
+   "Cliff-hanging cabanas",
+   "Spa Alila",
+   "Sunset Cabana Bar",
+   "EarthCheck Best Practice certified design"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "50m cliff-edge infinity pool; private plunge pools in all villas",
+  "lodging": {
+   "rooms": "",
+   "suites": "",
+   "villas": "65",
+   "residences": ""
+  },
+  "dining": "CIRE (ocean-view, seasonal/organic); The Warung (Indonesian); Sunset Cabana Bar; Batique Whiskey & Cigar",
+  "spa_wellness": "Spa Alila with cliff-edge treatment cabana",
+  "activities": "Surfing (Uluwatu breaks), temple visits, private cabana dining",
+  "nightlife": "",
+  "events": "",
+  "season": "",
+  "kids_family": "",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.alilahotels.com/uluwatu"
+ },
+ {
+  "name": "AYANA Resort Bali",
+  "location": "Jimbaran",
+  "city": "Jimbaran",
+  "country": "Indonesia",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "AYANA Hospitality",
+  "management": "AYANA Hospitality",
+  "contact": {
+   "address": "Jl. Karang Mas Sejahtera, Jimbaran, Bali 80364, Indonesia",
+   "phone": "+62 361 702222",
+   "email": "reservation@ayanaresort.com",
+   "website": "https://www.ayana.com/bali/ayana-resort-and-spa"
+  },
+  "beach_details": {
+   "private_beach": "Yes - private white-sand beach (Kubu Beach) on 1.3 km of coastline",
+   "length": "1.3 km coastline",
+   "sand_type": "White sand"
+  },
+  "amenities": [
+   "Rock Bar Bali (clifftop)",
+   "14 pools across AYANA Estate",
+   "90-hectare estate",
+   "Thermes Marins Bali spa",
+   "Tevana Garden",
+   "Private beach picnics",
+   "Farm-to-bar workshops"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "14 pools across the estate",
+  "lodging": {
+   "rooms": "294",
+   "suites": "",
+   "villas": "78",
+   "residences": ""
+  },
+  "dining": "Rock Bar; 19 restaurants across the estate",
+  "spa_wellness": "Thermes Marins Bali - oceanfront spa villas",
+  "activities": "Beach picnics, farm-to-bar workshops, garden walks, water sports",
+  "nightlife": "Rock Bar Bali",
+  "events": "Weddings (Tresna Chapel, Champa Garden and 10 more venues)",
+  "season": "",
+  "kids_family": "Family pools and activities across the estate",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.ayana.com/bali/ayana-resort-and-spa"
+ },
+ {
+  "name": "The Mulia, Mulia Resort & Villas",
+  "location": "Nusa Dua",
+  "city": "Nusa Dua",
+  "country": "Indonesia",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "",
+  "contact": {
+   "address": "Jl. Raya Nusa Dua Selatan, Kawasan Sawangan, Nusa Dua, Bali 80362, Indonesia",
+   "phone": "+62 361 301 7777",
+   "email": "info.bali@themulia.com",
+   "website": "https://www.themulia.com"
+  },
+  "beach_details": {
+   "private_beach": "Yes - secluded 1 km private beachfront on Nusa Dua Bay",
+   "length": "1 km",
+   "sand_type": "White sand"
+  },
+  "amenities": [
+   "Oasis oceanfront infinity pool (Bali's longest beachfront infinity pool)",
+   "Mulia Spa",
+   "Four pools",
+   "Fitness centre (MMA, TRX, Pilates)",
+   "Tennis courts",
+   "Kids facilities",
+   "Beach cinema",
+   "Water sports"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "Four pools including oceanfront Oasis infinity pool",
+  "lodging": {
+   "rooms": "",
+   "suites": "",
+   "villas": "",
+   "residences": ""
+  },
+  "dining": "Soleil (seaside Mediterranean/Pan-Asian); Table8 (Cantonese); The Cafe; Edogin (Japanese); Living Room; The Lounge; Mulia Deli patisserie",
+  "spa_wellness": "Mulia Spa - aqua-based treatments; aerial yoga, sound healing, watsu",
+  "activities": "Water sports, snorkelling, kayaking, beach volleyball, cultural sessions",
+  "nightlife": "Sky Bar; ZJ's; The Bar; Cascade Lounge",
+  "events": "",
+  "season": "",
+  "kids_family": "Dedicated kids facilities",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.themulia.com"
+ },
+ {
+  "name": "The St. Regis Bali Resort",
+  "location": "Nusa Dua",
+  "city": "Nusa Dua",
+  "country": "Indonesia",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "St. Regis Hotels & Resorts (Marriott International)",
+  "contact": {
+   "address": "Kawasan Pariwisata, Nusa Dua, Lot S6, PO Box 44, Nusa Dua, Bali 80363, Indonesia",
+   "phone": "+62 361 847 8111",
+   "email": "",
+   "website": "https://www.marriott.com/en-us/hotels/dpsxr-the-st-regis-bali-resort/overview/"
+  },
+  "beach_details": {
+   "private_beach": "Yes - prime semi-private white-sand beachfront in gated Nusa Dua complex",
+   "length": "",
+   "sand_type": "White sand"
+  },
+  "amenities": [
+   "3,668 sqm saltwater swimming lagoon",
+   "Beachside pool with swim-up bar and cabanas",
+   "Remede Spa with Aqua-Vitale pool",
+   "Bespoke butler service",
+   "Watersports centre",
+   "Bali National Golf Club next door"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "Saltwater lagoon; beachside pool with swim-up bar; children's pool; Remede Spa Aqua-Vitale pool",
+  "lodging": {
+   "rooms": "",
+   "suites": "81",
+   "villas": "41",
+   "residences": "2"
+  },
+  "dining": "Kayuputi (signature beachfront fine dining); Boneka; Dulang (Balinese); The St. Regis Bar; Vista Bar (swim-up)",
+  "spa_wellness": "Remede Spa",
+  "activities": "Windsurfing, kayaking, watersports, golf nearby",
+  "nightlife": "",
+  "events": "Weddings and events",
+  "season": "",
+  "kids_family": "",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.marriott.com/en-us/hotels/dpsxr-the-st-regis-bali-resort/overview/"
+ },
+ {
+  "name": "The Ritz-Carlton, Bali",
+  "location": "Nusa Dua (Sawangan)",
+  "city": "Nusa Dua",
+  "country": "Indonesia",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "The Ritz-Carlton Hotel Company (Marriott International)",
+  "contact": {
+   "address": "Jalan Raya Nusa Dua Selatan Lot III, Sawangan, Nusa Dua, Bali 80361, Indonesia",
+   "phone": "+62 361 849 8988",
+   "email": "rc.dpssw.reservation@ritzcarlton.com",
+   "website": "https://www.ritzcarlton.com/en/hotels/dpssw-the-ritz-carlton-bali/overview/"
+  },
+  "beach_details": {
+   "private_beach": "Yes - white beachfront at cliff base, linked by glass elevator",
+   "length": "",
+   "sand_type": "White sand"
+  },
+  "amenities": [
+   "Glass cliff elevator",
+   "Beachfront chapel",
+   "Ritz Kids",
+   "Marine-inspired spa",
+   "12.7-hectare clifftop and beachside estate"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "Multiple pools including lagoon-access pools and private villa pools",
+  "lodging": {
+   "rooms": "",
+   "suites": "313",
+   "villas": "",
+   "residences": ""
+  },
+  "dining": "Senses (breakfast); Bejana (Indonesian, Culinary Cave); Breezes Tapas Lounge; The Beach Grill (seafood); The Ritz-Carlton Lounge and Bar",
+  "spa_wellness": "The Spa - marine-inspired, Balinese garden setting",
+  "activities": "Water sports, cultural activities, daily recreational program",
+  "nightlife": "",
+  "events": "Beachfront chapel weddings; extensive meeting venues",
+  "season": "",
+  "kids_family": "Ritz Kids (complimentary)",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.ritzcarlton.com/en/hotels/dpssw-the-ritz-carlton-bali/overview/"
+ },
+ {
+  "name": "The Apurva Kempinski Bali",
+  "location": "Nusa Dua (Sawangan)",
+  "city": "Nusa Dua",
+  "country": "Indonesia",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "Kempinski Hotels",
+  "contact": {
+   "address": "Jl. Raya Nusa Dua Selatan, Bali, Indonesia",
+   "phone": "",
+   "email": "info.bali@kempinski.com",
+   "website": "https://www.kempinski.com/en/bali/the-apurva-kempinski-bali"
+  },
+  "beach_details": {
+   "private_beach": "Yes - private beach at cliff base",
+   "length": "",
+   "sand_type": ""
+  },
+  "amenities": [
+   "250-step Grand Staircase",
+   "60-metre main pool",
+   "Cliff Lounge with hydro jet pools",
+   "Villa Lounge",
+   "Art gallery",
+   "Ocean-view fitness centre",
+   "Family club"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "60-metre main pool; kids' pool; private plunge pools in 176 suites and 43 villas; lagoon pool access rooms",
+  "lodging": {
+   "rooms": "246",
+   "suites": "176",
+   "villas": "43",
+   "residences": ""
+  },
+  "dining": "Koral (Bali's first aquarium restaurant); Izakaya by OKU (Japanese); Bai Yun (Chinese dim sum/hotpot); L'Atelier by Cyril Kongo; Pala Restaurant & Rooftop Bar; Selasar Deli; Reef Beach Club",
+  "spa_wellness": "Apurva Spa - ocean-facing, traditional Indonesian therapies",
+  "activities": "Cultural performances, water sports",
+  "nightlife": "",
+  "events": "Meetings and events spaces; weddings",
+  "season": "",
+  "kids_family": "Family club; kids' pool",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.kempinski.com/en/bali/the-apurva-kempinski-bali"
+ },
+ {
+  "name": "Sofitel Bali Nusa Dua Beach Resort",
+  "location": "Nusa Dua",
+  "city": "Nusa Dua",
+  "country": "Indonesia",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "Sofitel (Accor)",
+  "contact": {
+   "address": "Lot N5, ITDC Tourism Complex, Nusa Dua, Bali 80363, Indonesia",
+   "phone": "+62 361 849 2888",
+   "email": "",
+   "website": "https://sofitelbalinusadua.com/"
+  },
+  "beach_details": {
+   "private_beach": "Yes - 500 metres of private beach",
+   "length": "500 metres",
+   "sand_type": "White sand"
+  },
+  "amenities": [
+   "Lagoon pools",
+   "So Spa",
+   "So Fit fitness centre",
+   "Kids Club",
+   "12 function rooms",
+   "Grand ballroom; ocean-view ballroom",
+   "7 km beachside pathway"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "Lagoon pools",
+  "lodging": {
+   "rooms": "374",
+   "suites": "39",
+   "villas": "",
+   "residences": ""
+  },
+  "dining": "Kwee Zeen (all-day Asian); Cucina (Italian-Mediterranean); Toya Beach Bar & Grill (beachfront)",
+  "spa_wellness": "So Spa; Vietura anti-ageing",
+  "activities": "Cycling, water sports, beachfront gazebo massages",
+  "nightlife": "",
+  "events": "28 meeting rooms; weddings",
+  "season": "",
+  "kids_family": "Kids Club (ages 0-12)",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://sofitelbalinusadua.com/"
+ },
+ {
+  "name": "Grand Hyatt Bali",
+  "location": "Nusa Dua",
+  "city": "Nusa Dua",
+  "country": "Indonesia",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "Hyatt",
+  "contact": {
+   "address": "Kawasan Wisata Nusa Dua ITDC, Nusa Dua, Bali 80363, Indonesia",
+   "phone": "",
+   "email": "",
+   "website": "https://www.hyatt.com/grand-hyatt/en-US/dpsgh-grand-hyatt-bali"
+  },
+  "beach_details": {
+   "private_beach": "Yes - 650-metre private white-sand beach",
+   "length": "650 metres",
+   "sand_type": "White sand"
+  },
+  "amenities": [
+   "Five swimming pools",
+   "Kriya Spa (24 spa villas)",
+   "Bay Club Fitness Centre",
+   "Kids Club",
+   "Club Lounge",
+   "41-acre water-palace gardens"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "Five pools including adults-only Bay Club pool",
+  "lodging": {
+   "rooms": "636",
+   "suites": "",
+   "villas": "",
+   "residences": ""
+  },
+  "dining": "Salsa Verde (Italian seaside); Nampu (Japanese); Pasar Senggol (Balinese night market); Watercourt; Garden Cafe",
+  "spa_wellness": "Kriya Spa - Balinese water-palace design",
+  "activities": "Beachside water sports, squash, cultural activities",
+  "nightlife": "",
+  "events": "",
+  "season": "",
+  "kids_family": "Kids Club; family suites and themed rooms",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.hyatt.com/grand-hyatt/en-US/dpsgh-grand-hyatt-bali"
+ },
+ {
+  "name": "InterContinental Bali Resort",
+  "location": "Jimbaran Bay",
+  "city": "Jimbaran",
+  "country": "Indonesia",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "InterContinental Hotels & Resorts (IHG)",
+  "contact": {
+   "address": "Jalan Uluwatu 45, Jimbaran, Bali 80361, Indonesia",
+   "phone": "+62 361 701 888",
+   "email": "icbali@ihg.com",
+   "website": "https://www.ihg.com/intercontinental/hotels/us/en/bali/dpsha/hoteldetail"
+  },
+  "beach_details": {
+   "private_beach": "Yes - 500-yard prime white-sand beachfront on Jimbaran Bay",
+   "length": "500 yards",
+   "sand_type": "White sand"
+  },
+  "amenities": [
+   "Six outdoor pools",
+   "Spa Uluwatu with beachside pavilions",
+   "Club InterContinental wing",
+   "24-hour fitness centre",
+   "Watersports centre",
+   "Shopping arcade",
+   "Planet Trekkers Kids Club"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "Six pools including private Club pool",
+  "lodging": {
+   "rooms": "425",
+   "suites": "",
+   "villas": "",
+   "residences": ""
+  },
+  "dining": "Bella Cucina (Mediterranean); KO (Japanese); Jimbaran Gardens (Balinese beachfront); Taman Gita; Sunset Beach Bar & Grill; The Chowk (Indian)",
+  "spa_wellness": "Spa Uluwatu - villa retreats, beachside pavilions",
+  "activities": "Beach volleyball, yoga, watersports, cultural activities",
+  "nightlife": "",
+  "events": "Meeting and wedding venues; beachfront mansions in Club wing",
+  "season": "",
+  "kids_family": "Planet Trekkers Kids Club",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.ihg.com/intercontinental/hotels/us/en/bali/dpsha/hoteldetail"
+ },
+ {
+  "name": "Raffles Bali",
+  "location": "Jimbaran",
+  "city": "Jimbaran",
+  "country": "Indonesia",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "Raffles Hotels & Resorts (Accor)",
+  "contact": {
+   "address": "Jalan Karang Mas Sejahtera 1A, Jimbaran, Bali 80361, Indonesia",
+   "phone": "+62 361 201 5800",
+   "email": "Bali@raffles.com",
+   "website": "https://www.raffles.com/bali"
+  },
+  "beach_details": {
+   "private_beach": "Yes - exclusive secluded private beach at hillside base",
+   "length": "",
+   "sand_type": ""
+  },
+  "amenities": [
+   "Beachfront infinity pool",
+   "Raffles Spa",
+   "Wellbeing Butlers",
+   "Fitness centre",
+   "Tennis courts",
+   "Jogging trails",
+   "23-hectare tropical estate"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "Beachfront infinity pool; private pool in every villa",
+  "lodging": {
+   "rooms": "",
+   "suites": "",
+   "villas": "32",
+   "residences": ""
+  },
+  "dining": "Rumari (signature South East Asian); Loloan Beach Bar & Grill (beachfront seafood/pizza); The Writers Bar; Secret Cave private dining; Purnama Honeymoon Bale",
+  "spa_wellness": "Raffles Spa; yoga, meditation, reiki, sound healing",
+  "activities": "Nature walks, cultural immersions, tennis",
+  "nightlife": "",
+  "events": "",
+  "season": "",
+  "kids_family": "",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.raffles.com/bali"
+ },
+ {
+  "name": "Jumeirah Bali",
+  "location": "Uluwatu (Pecatu)",
+  "city": "Pecatu",
+  "country": "Indonesia",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "Jumeirah Group",
+  "contact": {
+   "address": "Kawasan Pecatu Indah Resort, Jl. Raya Uluwatu, Pecatu, Bali, Indonesia",
+   "phone": "+62 361 201 5000",
+   "email": "jbareservations@jumeirah.com",
+   "website": "https://www.jumeirah.com/en/stay/bali/jumeirah-bali"
+  },
+  "beach_details": {
+   "private_beach": "Yes - direct access to Dreamland Beach below the cliffs",
+   "length": "",
+   "sand_type": "White sand"
+  },
+  "amenities": [
+   "Three swimming pools (Segaran lagoon pool)",
+   "Talise Spa (1,705 sqm, hammam)",
+   "One- and Three-Bedroom Residences",
+   "Majapahit water-palace architecture"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "Three pools; private pools in villas",
+  "lodging": {
+   "rooms": "",
+   "suites": "",
+   "villas": "123",
+   "residences": ""
+  },
+  "dining": "Akasa (clifftop Asian grill); Segaran Dining Terrace (seafood barbecue); Maja Sunset Lounge (afternoon tea); Mantra (wine cellar)",
+  "spa_wellness": "Talise Spa - five treatment rooms, steam, sauna, Turkish hammam",
+  "activities": "Surfing and diving nearby; cultural experiences",
+  "nightlife": "",
+  "events": "",
+  "season": "",
+  "kids_family": "Two-Bedroom Oceanfront Villas for families",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.jumeirah.com/en/stay/bali/jumeirah-bali"
+ },
+ {
+  "name": "The Legian Seminyak, Bali",
+  "location": "Seminyak Beach",
+  "city": "Seminyak",
+  "country": "Indonesia",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "LHM Hotels",
+  "contact": {
+   "address": "Jl. Kayu Aya, Seminyak, Bali 80361, Indonesia",
+   "phone": "+62 361 730 622",
+   "email": "",
+   "website": "https://thelegianbali.com/"
+  },
+  "beach_details": {
+   "private_beach": "Beachfront on Seminyak Beach (public beach)",
+   "length": "",
+   "sand_type": "Golden sand"
+  },
+  "amenities": [
+   "Three-tier swimming pools",
+   "Wellness by The Legian spa",
+   "Health club",
+   "The Club private villa compound",
+   "Member of Leading Hotels of the World"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "Three-tier ocean-view pools; private pools in villas",
+  "lodging": {
+   "rooms": "",
+   "suites": "67",
+   "villas": "14",
+   "residences": ""
+  },
+  "dining": "The Restaurant (Asian/European oceanfront); The Club dining",
+  "spa_wellness": "Wellness by The Legian",
+  "activities": "Surfing, beach activities, Seminyak shopping and nightlife nearby",
+  "nightlife": "",
+  "events": "",
+  "season": "",
+  "kids_family": "",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://thelegianbali.com/"
+ },
+ {
+  "name": "W Bali - Seminyak",
+  "location": "Petitenget Beach, Seminyak",
+  "city": "Seminyak",
+  "country": "Indonesia",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "W Hotels (Marriott International)",
+  "contact": {
+   "address": "Jl. Petitenget, Kerobokan, Seminyak, Bali 80361, Indonesia",
+   "phone": "+62 361 300 0106",
+   "email": "taste.wbali@whotels.com",
+   "website": "https://www.marriott.com/en-us/hotels/dpswh-w-bali-seminyak/overview/"
+  },
+  "beach_details": {
+   "private_beach": "Beachfront on Seminyak/Petitenget Beach (public beach)",
+   "length": "",
+   "sand_type": "Golden sand"
+  },
+  "amenities": [
+   "Alune oceanfront beach club (opened Sept 2026)",
+   "WET pool",
+   "AWAY Spa",
+   "FIT 24-hour gym",
+   "Whatever/Whenever service",
+   "Club Lacoste padel"
+  ],
+  "vip_clubs": "Alune - oceanfront beach club with private pool cabanas",
+  "perks": "",
+  "pools": "WET pool; private plunge pools in Oasis Villas",
+  "lodging": {
+   "rooms": "152",
+   "suites": "6",
+   "villas": "75",
+   "residences": ""
+  },
+  "dining": "Starfish Bloo (beachfront Mediterranean/Asian, Sunday brunch); FIRE (steakhouse); W Lounge; Wet Deck; Alune",
+  "spa_wellness": "AWAY Spa (24/7); FIT gym",
+  "activities": "Surfing, beach activities, padel",
+  "nightlife": "W Lounge; Wet Deck resident DJs; Alune",
+  "events": "Great Room events; weddings",
+  "season": "",
+  "kids_family": "",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.marriott.com/en-us/hotels/dpswh-w-bali-seminyak/overview/"
+ },
+ {
+  "name": "Alila Seminyak",
+  "location": "Petitenget Beach, Seminyak",
+  "city": "Seminyak",
+  "country": "Indonesia",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "Alila Hotels and Resorts (Hyatt)",
+  "contact": {
+   "address": "Jl. Taman Ganesha No. 9, Petitenget, Bali 80361, Indonesia",
+   "phone": "",
+   "email": "",
+   "website": "https://www.alilahotels.com/seminyak"
+  },
+  "beach_details": {
+   "private_beach": "Beachfront on Petitenget Beach (public beach)",
+   "length": "",
+   "sand_type": "Dark volcanic sand"
+  },
+  "amenities": [
+   "Five infinity pools (two rooftop, two adults-only)",
+   "Spa Alila",
+   "Beach Bar beach club",
+   "24-hour fitness centre",
+   "Balinese temple on site"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "Five infinity pools; private pool in Penthouse",
+  "lodging": {
+   "rooms": "176",
+   "suites": "",
+   "villas": "",
+   "residences": ""
+  },
+  "dining": "Seasalt (beachfront seafood); Beach Bar (sunset tapas/barbecue)",
+  "spa_wellness": "Spa Alila",
+  "activities": "Surfing, beach activities, Seminyak dining and shopping nearby",
+  "nightlife": "",
+  "events": "",
+  "season": "",
+  "kids_family": "Drop-in kids club; babysitting",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.alilahotels.com/seminyak"
+ },
+ {
+  "name": "COMO Uma Canggu",
+  "location": "Echo Beach, Canggu",
+  "city": "Canggu",
+  "country": "Indonesia",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "COMO Hotels and Resorts",
+  "contact": {
+   "address": "Jalan Pantai Batu Mejan, Echo Beach, Canggu, Bali 80361, Indonesia",
+   "phone": "+62 361 302 2228",
+   "email": "como.uma.canggu@comohotels.com",
+   "website": "https://www.comohotels.com/en/como-uma-canggu"
+  },
+  "beach_details": {
+   "private_beach": "Beachfront on Batu Mejan/Echo Beach (public surf beach)",
+   "length": "",
+   "sand_type": "Volcanic sand"
+  },
+  "amenities": [
+   "COMO Beach Club",
+   "Large lagoon pool",
+   "COMO Shambhala Retreat spa",
+   "Jungle Sports Centre",
+   "Tropicsurf programmes",
+   "Yoga and Pilates studios"
+  ],
+  "vip_clubs": "COMO Beach Club - modern surf-shack beach club with lap pool",
+  "perks": "",
+  "pools": "Lagoon pool; Beach Club lap pool; private pools in Uma Pool Residences and Penthouses",
+  "lodging": {
+   "rooms": "52",
+   "suites": "",
+   "villas": "",
+   "residences": "67"
+  },
+  "dining": "COMO Beach Club (global menu, wood-fired grill); glow (juice/salad bar)",
+  "spa_wellness": "COMO Shambhala Retreat - 8 treatment rooms, yoga, Pilates",
+  "activities": "Surfing (Tropicsurf), beach activities, wellness programmes",
+  "nightlife": "",
+  "events": "Venues for up to 100 guests; rooftop dinners",
+  "season": "",
+  "kids_family": "Family-friendly activities",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.comohotels.com/en/como-uma-canggu"
+ },
+ {
+  "name": "Potato Head Studios & Suites",
+  "location": "Petitenget Beach, Seminyak",
+  "city": "Seminyak",
+  "country": "Indonesia",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "Ronald Akili",
+  "management": "Potato Head",
+  "contact": {
+   "address": "Jl. Petitenget No. 51B, Seminyak, Bali, Indonesia",
+   "phone": "+62 361 620 7979",
+   "email": "sales.desa@potatohead.co",
+   "website": "https://seminyak.potatohead.co/"
+  },
+  "beach_details": {
+   "private_beach": "Beachfront on Petitenget Beach (public beach)",
+   "length": "",
+   "sand_type": ""
+  },
+  "amenities": [
+   "Potato Head Beach Club (two infinity pools)",
+   "The Sanctuary spa",
+   "Headstream creative studios",
+   "Zero-waste design by OMA/Andra Matin",
+   "Art installations"
+  ],
+  "vip_clubs": "Potato Head Beach Club - landmark beach club with two infinity pools, live entertainment",
+  "perks": "",
+  "pools": "Two infinity pools at Beach Club; private decked pools in Pool Suites",
+  "lodging": {
+   "rooms": "167",
+   "suites": "58",
+   "villas": "",
+   "residences": ""
+  },
+  "dining": "Beach Club dining; Ijen (zero-waste seafood); Kaum (Indonesian); Tanaman (plant-based); Pizza Garden; Dome; Sunset Park rooftop",
+  "spa_wellness": "The Sanctuary spa",
+  "activities": "Music, art, cultural programming; surfing nearby",
+  "nightlife": "Beach Club; Sunset Park; Klymax",
+  "events": "",
+  "season": "",
+  "kids_family": "",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://seminyak.potatohead.co/"
+ },
+ {
+  "name": "The Oberoi Beach Resort, Bali",
+  "location": "Seminyak Beach",
+  "city": "Seminyak",
+  "country": "Indonesia",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "Oberoi Hotels & Resorts",
+  "contact": {
+   "address": "Jalan Kayu Aya, Seminyak, Bali 80361, Indonesia",
+   "phone": "+62 361 730 361",
+   "email": "reservations.tobi@oberoihotels.com",
+   "website": "https://www.oberoihotels.com/hotels-in-bali/"
+  },
+  "beach_details": {
+   "private_beach": "500 metres of direct beachfront on Seminyak Beach",
+   "length": "500 metres",
+   "sand_type": ""
+  },
+  "amenities": [
+   "Open-air spa",
+   "Natural stone amphitheatre with Balinese dance performances",
+   "Beachfront pool",
+   "15 acres of tropical gardens",
+   "Fitness centre"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "Beachfront pool; private pools in villas",
+  "lodging": {
+   "rooms": "60",
+   "suites": "",
+   "villas": "14",
+   "residences": ""
+  },
+  "dining": "Frangipani Cafe; Kura Kura Restaurant; Kayu Bar",
+  "spa_wellness": "The Oberoi Spa (open-air)",
+  "activities": "Cultural performances, beach activities, surfing nearby",
+  "nightlife": "",
+  "events": "",
+  "season": "",
+  "kids_family": "",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.oberoihotels.com/hotels-in-bali/"
+ },
+ {
+  "name": "The Oberoi Beach Resort, Lombok",
+  "location": "Medana Beach, Tanjung",
+  "city": "Tanjung",
+  "country": "Indonesia",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "Oberoi Hotels & Resorts",
+  "contact": {
+   "address": "Medana Beach, Tanjung, PO Box 1096, North Lombok 83352, Indonesia",
+   "phone": "",
+   "email": "",
+   "website": "https://www.oberoihotels.com/hotels-in-lombok"
+  },
+  "beach_details": {
+   "private_beach": "Yes - private Medana Beach with beach cabanas",
+   "length": "",
+   "sand_type": "White sand"
+  },
+  "amenities": [
+   "40-metre infinity pool",
+   "Beach Club with kayaks, paddleboards, snorkel gear",
+   "Private pier",
+   "24 acres of landscaped gardens",
+   "Tennis court",
+   "Fitness centre",
+   "Amphitheatre"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "40m infinity pool; private 8x5m pools in Luxury Pool Villas",
+  "lodging": {
+   "rooms": "30",
+   "suites": "",
+   "villas": "20",
+   "residences": ""
+  },
+  "dining": "Lumbung Restaurant (Indonesian/international); Sunbird Cafe; Tokek Bar; private beach dining",
+  "spa_wellness": "The Oberoi Spa - open-air garden treatment rooms",
+  "activities": "Snorkelling, kayaking, boat tours, tennis, croquet, wood carving classes",
+  "nightlife": "",
+  "events": "",
+  "season": "",
+  "kids_family": "Family-friendly villas; babysitting",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.oberoihotels.com/hotels-in-lombok"
+ },
+ {
+  "name": "Katamaran Hotel & Resort",
+  "location": "Senggigi (Mangsit Beach)",
+  "city": "Senggigi",
+  "country": "Indonesia",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "",
+  "contact": {
+   "address": "Jl. Raya Mangsit, Senggigi, Lombok 83355, Indonesia",
+   "phone": "+62 370 619 7888",
+   "email": "",
+   "website": "https://www.katamaranresort.com/"
+  },
+  "beach_details": {
+   "private_beach": "Beachfront on Mangsit Beach, Senggigi (views to Mount Agung)",
+   "length": "",
+   "sand_type": ""
+  },
+  "amenities": [
+   "Two-level infinity pools",
+   "Soul Bliss Spa",
+   "Organic herb garden",
+   "Yoga by the beach",
+   "Fitness centre",
+   "Concierge"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "Two-level infinity pools; private pools in Tropical Pool Villas and Oceanfront Suites",
+  "lodging": {
+   "rooms": "",
+   "suites": "32",
+   "villas": "20",
+   "residences": ""
+  },
+  "dining": "The Sail Restaurant (oceanfront); The Kliff Bistro (sunset); Pool Bar",
+  "spa_wellness": "Soul Bliss Spa",
+  "activities": "Yoga, snorkelling, island excursions",
+  "nightlife": "",
+  "events": "",
+  "season": "",
+  "kids_family": "",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.katamaranresort.com/"
+ },
+ {
+  "name": "Amanpuri",
+  "location": "Pansea Beach, Cape Panwa",
+  "city": "Phuket",
+  "country": "Thailand",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "Aman",
+  "contact": {
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://www.aman.com/resorts/amanpuri"
+  },
+  "beach_details": {
+   "private_beach": "Yes - Pansea Beach (shared only with neighbouring The Surin)",
+   "length": "",
+   "sand_type": ""
+  },
+  "amenities": [
+   "Holistic Wellness Centre",
+   "Yoga sala",
+   "Pilates studio",
+   "Tennis courts",
+   "Library",
+   "Private yacht cruises",
+   "PADI dive centre",
+   "Kayaking",
+   "Cooking classes"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "Main pool; private pools in villas",
+  "lodging": {
+   "rooms": "40",
+   "suites": "",
+   "villas": "40",
+   "residences": ""
+  },
+  "dining": "Buabok (Thai); Arva (Italian); Nama (Japanese); Beach Terrace",
+  "spa_wellness": "Holistic Wellness Centre - medical wellness, Ayurveda, Traditional Chinese Medicine",
+  "activities": "PADI diving, sailing, kayaking, yoga, wellness programmes, marine excursions",
+  "nightlife": "",
+  "events": "Private buyouts; beach weddings",
+  "season": "Annually closes mid-May to mid-September",
+  "kids_family": "",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.aman.com/resorts/amanpuri"
+ },
+ {
+  "name": "Trisara",
+  "location": "Naithon Beach (private cove)",
+  "city": "Phuket",
+  "country": "Thailand",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "",
+  "contact": {
+   "address": "60/1 Moo 6, Srisoonthorn Road, Cherngtalay, Thalang, Phuket 83110, Thailand",
+   "phone": "+66 76 310 100",
+   "email": "",
+   "website": "https://www.trisara.com"
+  },
+  "beach_details": {
+   "private_beach": "Yes - private cove off Naithon Beach",
+   "length": "",
+   "sand_type": ""
+  },
+  "amenities": [
+   "45-metre oceanfront saltwater infinity pool",
+   "Kids' club",
+   "Tennis courts",
+   "Fitness centre",
+   "Boating excursions",
+   "Private yacht charters"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "45m saltwater infinity pool; private pools in pool villas",
+  "lodging": {
+   "rooms": "",
+   "suites": "",
+   "villas": "",
+   "residences": ""
+  },
+  "dining": "PRU (Michelin-starred, farm-to-table); Cielo; Seafood; JAMPA",
+  "spa_wellness": "Spa",
+  "activities": "Snorkelling, sea kayaking, private yacht trips, cooking classes, Muay Thai",
+  "nightlife": "",
+  "events": "Weddings and private celebrations",
+  "season": "",
+  "kids_family": "Kids' club; family-friendly residences",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.trisara.com"
+ },
+ {
+  "name": "Rosewood Phuket",
+  "location": "Emerald Bay",
+  "city": "Patong",
+  "country": "Thailand",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "Rosewood Hotels & Resorts",
+  "contact": {
+   "address": "88/28 Muen-Ngern Road, Patong, Kathu, Phuket 83150, Thailand",
+   "phone": "",
+   "email": "",
+   "website": "https://www.rosewoodhotels.com/en/phuket"
+  },
+  "beach_details": {
+   "private_beach": "Yes - 600 metres of Emerald Bay beachfront",
+   "length": "600m",
+   "sand_type": ""
+  },
+  "amenities": [
+   "Manor House",
+   "Private plunge pools in villas",
+   "Kids' club",
+   "Fitness studio",
+   "Water sports centre",
+   "Private boat excursions"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "Private plunge pools; main resort pool",
+  "lodging": {
+   "rooms": "",
+   "suites": "",
+   "villas": "71",
+   "residences": ""
+  },
+  "dining": "Ta Khai (Thai seafood); Red Sauce (Italian); The Shack (beach bar); Mai (bar)",
+  "spa_wellness": "Asaya wellness sanctuary",
+  "activities": "Water sports, snorkelling, sea kayaking, island-hopping excursions",
+  "nightlife": "",
+  "events": "Beachfront weddings and private events",
+  "season": "",
+  "kids_family": "",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.rosewoodhotels.com/en/phuket"
+ },
+ {
+  "name": "Banyan Tree Phuket",
+  "location": "Bang Tao Bay (Laguna Phuket)",
+  "city": "Phuket",
+  "country": "Thailand",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "Banyan Group",
+  "contact": {
+   "address": "33 Moo 4, Srisoonthorn Road, Cherngtalay, Thalang, Phuket 83110, Thailand",
+   "phone": "+66 76 372 400",
+   "email": "phuket@banyantree.com",
+   "website": "https://www.banyantree.com/thailand/phuket"
+  },
+  "beach_details": {
+   "private_beach": "Yes - 3km beachfront on Bang Tao Bay; RAVA Beach Club (150m beach club zone)",
+   "length": "150m (RAVA Beach Club zone)",
+   "sand_type": ""
+  },
+  "amenities": [
+   "RAVA Beach Club",
+   "Lagoon pools",
+   "Tennis courts",
+   "Kids' club",
+   "Fitness centre",
+   "Golf at Laguna Golf Phuket",
+   "Water sports"
+  ],
+  "vip_clubs": "RAVA Beach Club",
+  "perks": "",
+  "pools": "Lagoon pool access from villas; main pools",
+  "lodging": {
+   "rooms": "",
+   "suites": "",
+   "villas": "218",
+   "residences": ""
+  },
+  "dining": "Saffron (Thai); TRE (Italian); Watercourt (all-day)",
+  "spa_wellness": "Banyan Tree Spa Phuket; Rainforest hydrotherapy",
+  "activities": "Golf, water sports, cooking classes, nature walks in Laguna Phuket",
+  "nightlife": "",
+  "events": "",
+  "season": "",
+  "kids_family": "Kids' club",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.banyantree.com/thailand/phuket"
+ },
+ {
+  "name": "InterContinental Phuket Resort",
+  "location": "Kamala Beach",
+  "city": "Kamala",
+  "country": "Thailand",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "IHG Hotels & Resorts (InterContinental)",
+  "contact": {
+   "address": "333, 333/3 Moo 3, Kamala, Kathu, Phuket 83150, Thailand",
+   "phone": "",
+   "email": "",
+   "website": "https://phuket.intercontinental.com"
+  },
+  "beach_details": {
+   "private_beach": "Yes - beachfront on Kamala Beach",
+   "length": "",
+   "sand_type": ""
+  },
+  "amenities": [
+   "Five pools",
+   "Kids' club (Planet Trekkers)",
+   "Fitness centre",
+   "Dive centre",
+   "Weddings and events venues",
+   "Concierge"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "Five pools",
+  "lodging": {
+   "rooms": "221",
+   "suites": "",
+   "villas": "",
+   "residences": ""
+  },
+  "dining": "Jaras (Michelin Guide); hom (Michelin Guide); Tengoku (Japanese); Pinto (Thai); Pine Beach Bar; 333 at the Beach; Devas' Lounge",
+  "spa_wellness": "Sati Spa",
+  "activities": "Diving, snorkelling, surfing Kamala, island trips",
+  "nightlife": "",
+  "events": "Beachfront weddings and events",
+  "season": "",
+  "kids_family": "Planet Trekkers kids' club",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://phuket.intercontinental.com"
+ },
+ {
+  "name": "The Surin Phuket",
+  "location": "Pansea Beach (private cove)",
+  "city": "Phuket",
+  "country": "Thailand",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "Design Hotels (member)",
+  "contact": {
+   "address": "118 Moo 3, Choengtalay, Thalang, Phuket 83110, Thailand",
+   "phone": "",
+   "email": "",
+   "website": "https://www.thesurinphuket.com"
+  },
+  "beach_details": {
+   "private_beach": "Yes - Pansea Beach cove (shared only with neighbouring Amanpuri)",
+   "length": "",
+   "sand_type": "White sand"
+  },
+  "amenities": [
+   "Hexagonal pool",
+   "Boutique",
+   "Private cabanas",
+   "Water sports",
+   "Yoga",
+   "Kids' club",
+   "Library"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "Hexagonal hillside pool",
+  "lodging": {
+   "rooms": "",
+   "suites": "103",
+   "villas": "",
+   "residences": ""
+  },
+  "dining": "Lomtalay (Thai, on the beach); Beach Restaurant; Sunset Restaurant; Beach Bar",
+  "spa_wellness": "The Surin Spa",
+  "activities": "Sea kayaking, snorkelling, private boat trips, yoga",
+  "nightlife": "",
+  "events": "Beach weddings and private events",
+  "season": "",
+  "kids_family": "",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.thesurinphuket.com"
+ },
+ {
+  "name": "Twinpalms Phuket",
+  "location": "Surin Beach",
+  "city": "Phuket",
+  "country": "Thailand",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "",
+  "contact": {
+   "address": "106/46 Moo 3, Surin Beach Road, Cherngtalay, Thalang, Phuket 83110, Thailand",
+   "phone": "+66 76 316 500",
+   "email": "book@twinpalmshotelsresorts.com",
+   "website": "https://www.twinpalms.com"
+  },
+  "beach_details": {
+   "private_beach": "No - 175m stroll to Surin Beach; sister beach clubs Catch Beach Club and HQ Beach Lounge on Bang Tao Beach (complimentary shuttle)",
+   "length": "",
+   "sand_type": ""
+  },
+  "amenities": [
+   "Small Luxury Hotels of the World member",
+   "Lagoon pool",
+   "Residence Hosts in penthouses",
+   "Andaman yacht charters",
+   "Gallery shop",
+   "Complimentary beach shuttles"
+  ],
+  "vip_clubs": "Catch Beach Club; HQ Beach Lounge (sister clubs on Bang Tao Beach)",
+  "perks": "",
+  "pools": "Lagoon pool; private pools in lofts and penthouses",
+  "lodging": {
+   "rooms": "",
+   "suites": "97",
+   "villas": "",
+   "residences": ""
+  },
+  "dining": "Oriental Spoon (Thai fusion); Wagyu Steakhouse; Thãn; Catch Beach Club; The Lazy Coconut; Palm Seaside",
+  "spa_wellness": "Spa",
+  "activities": "Yacht charters, water sports, Sunday brunch, Friday BBQ at Catch",
+  "nightlife": "",
+  "events": "Weddings and private events",
+  "season": "",
+  "kids_family": "Family-friendly",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.twinpalms.com"
+ },
+ {
+  "name": "The Nai Harn",
+  "location": "Nai Harn Bay",
+  "city": "Phuket",
+  "country": "Thailand",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "",
+  "contact": {
+   "address": "23/3 Moo 1, Vises Road, Rawai, Muang, Phuket 83130, Thailand",
+   "phone": "+66 76 380 200",
+   "email": "",
+   "website": "https://www.thenaiharn.com/"
+  },
+  "beach_details": {
+   "private_beach": "No - 1-minute walk to Nai Harn Beach (steps away); bespoke beach services",
+   "length": "",
+   "sand_type": "White sand"
+  },
+  "amenities": [
+   "Leading Hotels of the World member (only one in Phuket)",
+   "Rooftop infinity pool",
+   "Family Wing with plunge pool",
+   "Press-for-Champagne buttons on suites",
+   "Library",
+   "Boutique"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "Rooftop infinity pool",
+  "lodging": {
+   "rooms": "76",
+   "suites": "44",
+   "villas": "",
+   "residences": ""
+  },
+  "dining": "Rock Salt (Mediterranean-Thai, James Suckling wine list); Cosmo (all-day); Hansha (rooftop sushi & sashimi); PRIME (14-seat grill); Reflections rooftop lounge",
+  "spa_wellness": "The Spa at The Nai Harn (5 suites)",
+  "activities": "Kayaking, snorkelling, scuba diving, sailing",
+  "nightlife": "",
+  "events": "",
+  "season": "",
+  "kids_family": "Primarily adults-oriented; Family Wing available",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.thenaiharn.com/"
+ },
+ {
+  "name": "Sri Panwa",
+  "location": "Cape Panwa",
+  "city": "Phuket",
+  "country": "Thailand",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "Charn Issara Residence Co., Ltd. (Charn Issara Development)",
+  "management": "",
+  "contact": {
+   "address": "88 Moo 8, Sakdidej Road, Tambon Vichit, Muang, Phuket 83000, Thailand",
+   "phone": "+66 76 371 000",
+   "email": "chill@sripanwa.com",
+   "website": "https://www.sripanwa.com"
+  },
+  "beach_details": {
+   "private_beach": "Yes - private beach below the 40-acre Cape Panwa headland",
+   "length": "",
+   "sand_type": ""
+  },
+  "amenities": [
+   "Baba Poolclub (5,000 sqm)",
+   "Baba Nest rooftop bar",
+   "Baba 88 Disco Bar",
+   "Habita enclave (Olympic-size forest waterfall pool)",
+   "Tennis courts",
+   "Game room",
+   "Cooking school",
+   "Yacht mooring",
+   "Private limousine transfers"
+  ],
+  "vip_clubs": "Baba Poolclub; Baba Nest (rooftop bar)",
+  "perks": "",
+  "pools": "Seven pools incl. 25m infinity-edge lap pool; private pools in villas",
+  "lodging": {
+   "rooms": "",
+   "suites": "7",
+   "villas": "45",
+   "residences": "7"
+  },
+  "dining": "Baba Soul Food (Thai); Baba Poolclub / BabaQ; Baba Iki (Japanese); Baba Nest rooftop",
+  "spa_wellness": "Cool Spa; BDMS wellness clinic",
+  "activities": "Tennis, water sports, yacht trips, cooking school",
+  "nightlife": "Baba 88 Disco Bar (local and international DJs)",
+  "events": "",
+  "season": "",
+  "kids_family": "Kids club",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.sripanwa.com"
+ },
+ {
+  "name": "Anantara Mai Khao Phuket Villas",
+  "location": "Mai Khao Beach",
+  "city": "Phuket",
+  "country": "Thailand",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "Anantara Hotels & Resorts (Minor Hotels)",
+  "contact": {
+   "address": "888 Moo 3, Mai Khao, Thalang, Phuket 83110, Thailand",
+   "phone": "+66 76 336 100",
+   "email": "phuket@anantara.com",
+   "website": "https://www.anantara.com/en/mai-khao-phuket"
+  },
+  "beach_details": {
+   "private_beach": "Yes - Mai Khao Beach, Phuket's longest beach (~11km), fringed by Sirinath National Park",
+   "length": "~11km (Mai Khao Beach)",
+   "sand_type": "Golden sand"
+  },
+  "amenities": [
+   "Lagoon-style layout (Southern Thai village style)",
+   "Kids' club",
+   "Tennis courts",
+   "Fitness centre",
+   "Yoga/Muay Thai on the beach",
+   "Private yacht charters",
+   "Pet-friendly villas"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "Private pools in villas; main pool",
+  "lodging": {
+   "rooms": "",
+   "suites": "70",
+   "villas": "83",
+   "residences": "30"
+  },
+  "dining": "Sea Fire Salt; Vayu; Infinity Bar; Talad; La Sala",
+  "spa_wellness": "Award-winning Anantara Spa",
+  "activities": "Yoga and Muay Thai on the beach, private yacht cruises, cultural excursions",
+  "nightlife": "",
+  "events": "Weddings and private events",
+  "season": "",
+  "kids_family": "Kids' club; children under 12 stay and eat free (from kids' menu)",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.anantara.com/en/mai-khao-phuket"
+ },
+ {
+  "name": "JW Marriott Phuket Resort & Spa",
+  "location": "Mai Khao Beach",
+  "city": "Phuket",
+  "country": "Thailand",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "JW Marriott (Marriott International)",
+  "contact": {
+   "address": "231 Moo 3, Mai Khao, Talang, Phuket 83110, Thailand",
+   "phone": "+66 76 338 000",
+   "email": "jwmarriott.phuket@marriotthotels.com",
+   "website": "https://www.marriott.com/en-us/hotels/hktjw-jw-marriott-phuket-resort-and-spa/overview/"
+  },
+  "beach_details": {
+   "private_beach": "Yes - Mai Khao Beach beachfront",
+   "length": "",
+   "sand_type": ""
+  },
+  "amenities": [
+   "M Beach Club",
+   "JW Garden",
+   "Mai Khao Marine Turtle Foundation",
+   "Cooking School by JW",
+   "Family by JW experiences",
+   "Tennis",
+   "Kids' club"
+  ],
+  "vip_clubs": "M Beach Club",
+  "perks": "",
+  "pools": "Three pools",
+  "lodging": {
+   "rooms": "",
+   "suites": "",
+   "villas": "262",
+   "residences": ""
+  },
+  "dining": "Ginja Taste (Thai); Cucina (Italian); Andaman Grill; Benihana (teppanyaki); M Beach Club (Smokehouse BBQ); Siam Deli; Splash Bar; Rim Nam Pool Bar",
+  "spa_wellness": "The Spa",
+  "activities": "Thai cooking classes, turtle conservation, water sports, cultural tours",
+  "nightlife": "",
+  "events": "Mai Khao Ballroom (600 guests); Lotus Pavilion; beach weddings",
+  "season": "",
+  "kids_family": "Family by JW; kids' club",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.marriott.com/en-us/hotels/hktjw-jw-marriott-phuket-resort-and-spa/overview/"
+ },
+ {
+  "name": "SALA Phuket Mai Khao Beach Resort",
+  "location": "Mai Khao Beach (Sirinat National Park)",
+  "city": "Phuket",
+  "country": "Thailand",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "SALA Hospitality Group",
+  "contact": {
+   "address": "333 Moo 3, Mai Khao Beach, Thalang, Phuket 83110, Thailand",
+   "phone": "+66 76 338 888",
+   "email": "reservations@salaphuket.com",
+   "website": "https://www.salahospitality.com/phuket/"
+  },
+  "beach_details": {
+   "private_beach": "Yes - Mai Khao Beach beachfront inside Sirinat National Park",
+   "length": "",
+   "sand_type": ""
+  },
+  "amenities": [
+   "SALA Farm (farm-to-table)",
+   "Sino-Portuguese architecture",
+   "100 Candles private dining experience",
+   "Floating breakfast",
+   "Library",
+   "Boardroom"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "Two beachfront pools; private pools in villas",
+  "lodging": {
+   "rooms": "63",
+   "suites": "",
+   "villas": "",
+   "residences": ""
+  },
+  "dining": "SALA Restaurant (beachfront, Thai & international); SALA Beach Bar; SALA Bar; rooftop and in-villa dining",
+  "spa_wellness": "SALA Spa",
+  "activities": "Farm tours, Thai cooking classes, water sports, beach walks",
+  "nightlife": "",
+  "events": "Beachfront weddings and private events",
+  "season": "",
+  "kids_family": "Kids' pool; family-friendly",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.salahospitality.com/phuket/"
+ },
+ {
+  "name": "Dusit Thani Laguna Phuket",
+  "location": "Bang Tao Beach (Laguna Phuket)",
+  "city": "Phuket",
+  "country": "Thailand",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "Dusit International",
+  "contact": {
+   "address": "390 Moo 1, Srisoontorn Road, Cherngtalay, Thalang, Phuket 83110, Thailand",
+   "phone": "",
+   "email": "",
+   "website": "https://www.dusit.com/dusitthani-lagunaphuket/"
+  },
+  "beach_details": {
+   "private_beach": "Yes - 200-400 metres of Bang Tao Beach frontage",
+   "length": "200-400m",
+   "sand_type": "White sand"
+  },
+  "amenities": [
+   "Casuarina Beach Club",
+   "25 acres of tropical gardens between two lagoons",
+   "Dusit Club lounge",
+   "Kids' club",
+   "Fitness centre",
+   "Laguna Phuket golf shuttle",
+   "Tennis"
+  ],
+  "vip_clubs": "Casuarina Beach Club",
+  "perks": "",
+  "pools": "Main pool; private rooftop infinity pools in pool villas",
+  "lodging": {
+   "rooms": "253",
+   "suites": "",
+   "villas": "",
+   "residences": ""
+  },
+  "dining": "Casuarina Beach Restaurant & Bar; La Trattoria (Italian); Ruen Thai (Michelin-recognised Royal Thai); Laguna Cafe; Pool Cafe; Horizon Lounge",
+  "spa_wellness": "Spa",
+  "activities": "Golf, water sports, Thai cooking classes",
+  "nightlife": "",
+  "events": "Dusit Laguna Hall; al fresco event venues",
+  "season": "",
+  "kids_family": "Kids' club",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.dusit.com/dusitthani-lagunaphuket/"
+ },
+ {
+  "name": "Banyan Tree Samui",
+  "location": "Lamai Bay (private bay)",
+  "city": "Koh Samui",
+  "country": "Thailand",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "Banyan Group",
+  "contact": {
+   "address": "99/9 Moo 4, Maret, Lamai, Koh Samui, Surat Thani 84310, Thailand",
+   "phone": "+66 77 915 333",
+   "email": "samui@banyantree.com",
+   "website": "https://www.banyantree.com/thailand/samui"
+  },
+  "beach_details": {
+   "private_beach": "Yes - private beach flanked by coral reefs on Lamai Bay (one of four private beaches on Samui)",
+   "length": "",
+   "sand_type": "White sand"
+  },
+  "amenities": [
+   "38-acre hillside estate",
+   "Private speedboat (Sense of the Sea) for Ang Thong Marine Park trips",
+   "Villa Host personal concierge",
+   "Wellbeing Sanctuary",
+   "Kids' club",
+   "Library",
+   "Meeting & events centre"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "50m main pool; private infinity pool in each villa",
+  "lodging": {
+   "rooms": "",
+   "suites": "",
+   "villas": "88",
+   "residences": ""
+  },
+  "dining": "Saffron (Thai, 2025 MICHELIN Guide); The Edge (all-day); Sands (beachside); Beachside Thai street-food nights",
+  "spa_wellness": "Banyan Tree Spa - signature Rainforest hydrotherapy; 10 treatment pavilions",
+  "activities": "Speedboat excursions, snorkelling, kayaking, paddleboarding, windsurfing, sailing, Muay Thai",
+  "nightlife": "",
+  "events": "",
+  "season": "",
+  "kids_family": "Kids' club; kids' pool",
+  "pr_contacts": [],
+  "marketing_contacts": [
+   {
+    "name": "Palita Sakarcheep",
+    "title": "Meetings & Events",
+    "email": "palita.sa@banyantree.com",
+    "phone": ""
+   }
+  ],
+  "concierge": "",
+  "source": "https://www.banyantree.com/thailand/samui"
+ },
+ {
+  "name": "Six Senses Samui",
+  "location": "Baan Plai Laem (north tip)",
+  "city": "Koh Samui",
+  "country": "Thailand",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "Six Senses (IHG)",
+  "contact": {
+   "address": "9/10 Moo 5, Baan Plai Laem, Bophut, Koh Samui, Surat Thani 84320, Thailand",
+   "phone": "",
+   "email": "",
+   "website": "https://www.sixsenses.com/"
+  },
+  "beach_details": {
+   "private_beach": "Yes - practically private beach on the northern tip headland",
+   "length": "",
+   "sand_type": ""
+  },
+  "amenities": [
+   "Beach club (Drift at the Beach)",
+   "Wine cellar",
+   "Library",
+   "Private butler in every villa",
+   "Speedboat",
+   "Farm on the Hill sustainability programme"
+  ],
+  "vip_clubs": "Beach club with watersports centre",
+  "perks": "",
+  "pools": "Huge aquamarine infinity pool; private pools in most villas",
+  "lodging": {
+   "rooms": "",
+   "suites": "",
+   "villas": "67",
+   "residences": ""
+  },
+  "dining": "Dining on the Rocks (signature, on the headland); Dining on the Hill; Drift at the Beach",
+  "spa_wellness": "Six Senses Spa",
+  "activities": "Watersports, speedboat excursions, farm experiences, beach clean-ups",
+  "nightlife": "",
+  "events": "Weddings; new culinary outlet under construction Oct-Nov 2026 (Dining on the Hill temporarily closed during works)",
+  "season": "",
+  "kids_family": "Family-friendly villas incl. two-bedroom Beach Reserve; babysitting",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.sixsenses.com/"
+ },
+ {
+  "name": "Four Seasons Resort Koh Samui",
+  "location": "Laem Yai Bay (northwest tip)",
+  "city": "Koh Samui",
+  "country": "Thailand",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "Four Seasons Hotels and Resorts",
+  "contact": {
+   "address": "219 Moo 5, Angthong, Koh Samui, Surat Thani 84140, Thailand",
+   "phone": "",
+   "email": "",
+   "website": "https://www.fourseasons.com/kohsamui/"
+  },
+  "beach_details": {
+   "private_beach": "Yes - private bay on Laem Yai",
+   "length": "",
+   "sand_type": "White sand"
+  },
+  "amenities": [
+   "The White Lotus Season 3 filmed here",
+   "50m pool",
+   "Tennis courts",
+   "Golf buggies",
+   "Private residences with live-in host",
+   "24-hour in-villa dining"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "50m pool; private infinity pool in every villa",
+  "lodging": {
+   "rooms": "",
+   "suites": "",
+   "villas": "70",
+   "residences": ""
+  },
+  "dining": "KOH Thai Kitchen & Bar; Pla Pla (beachside seafood); KOH Bar; CoCoRum (rum bar, Asia's first rum vault)",
+  "spa_wellness": "Award-winning spa",
+  "activities": "Yoga, meditation, beach massages, island excursions",
+  "nightlife": "",
+  "events": "Corporate retreats, incentive programmes, weddings on the private beach",
+  "season": "",
+  "kids_family": "Family-friendly; kids' programmes",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.fourseasons.com/kohsamui/"
+ },
+ {
+  "name": "W Koh Samui",
+  "location": "Maenam Beach (north coast)",
+  "city": "Koh Samui",
+  "country": "Thailand",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "W Hotels (Marriott International)",
+  "contact": {
+   "address": "4/1 Moo 1, Tambon Maenam, Koh Samui, Surat Thani 84330, Thailand",
+   "phone": "+66 77 915 999",
+   "email": "",
+   "website": "https://www.marriott.com/en-us/hotels/usmwh-w-koh-samui/overview/"
+  },
+  "beach_details": {
+   "private_beach": "Yes - private sandy beachfront on Maenam Beach",
+   "length": "",
+   "sand_type": "White sand"
+  },
+  "amenities": [
+   "WOOBAR (nightly fire shows)",
+   "Pet-friendly villas",
+   "Whatever/Whenever service",
+   "FIT gym",
+   "WET pool",
+   "Private yacht access"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "WET infinity pool; private pool in each villa",
+  "lodging": {
+   "rooms": "",
+   "suites": "",
+   "villas": "74",
+   "residences": ""
+  },
+  "dining": "The Kitchen Table (all-day); Namu (Japanese); WOOBAR; Sip",
+  "spa_wellness": "AWAY Spa (7 treatment rooms)",
+  "activities": "Kitesurfing, windsurfing, snorkelling, yoga",
+  "nightlife": "WOOBAR - nightly fire shows, DJs; Sip beach bar",
+  "events": "Weddings and private events",
+  "season": "",
+  "kids_family": "",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.marriott.com/en-us/hotels/usmwh-w-koh-samui/overview/"
+ },
+ {
+  "name": "Conrad Koh Samui",
+  "location": "Taling Ngam (southwest tip)",
+  "city": "Koh Samui",
+  "country": "Thailand",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "Conrad Hotels & Resorts (Hilton)",
+  "contact": {
+   "address": "49/8-9 Moo 4, Hillcrest Road, Taling Ngam, Koh Samui, Surat Thani 84140, Thailand",
+   "phone": "+66 77 915 888",
+   "email": "",
+   "website": "https://www.hilton.com/en/hotels/usmksci-conrad-koh-samui/"
+  },
+  "beach_details": {
+   "private_beach": "Yes - 100m private white-sand beach below the hillside (Aow Thai)",
+   "length": "100m",
+   "sand_type": "White sand"
+  },
+  "amenities": [
+   "25-acre hillside estate",
+   "Iris Farm (8,000 sqm organic farm supplying restaurants)",
+   "KO Lounge",
+   "Cliffside wine cellar",
+   "SILAPA art gallery",
+   "Kids' club",
+   "24-hour buggy service"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "Main infinity pool; private 10m infinity pool in every villa",
+  "lodging": {
+   "rooms": "",
+   "suites": "",
+   "villas": "81",
+   "residences": ""
+  },
+  "dining": "Jahn (contemporary steakhouse); Azure Bar & Grill (Mediterranean); Aow Thai (beachfront); Zest; eco cafe",
+  "spa_wellness": "Conrad Spa (6 treatment rooms; Ayurvedic treatments)",
+  "activities": "Yoga, kayaking, paddleboarding, snorkelling, farm tours, Thai cooking",
+  "nightlife": "",
+  "events": "Buyout weddings (Indian wedding specialist)",
+  "season": "",
+  "kids_family": "Free kids' club",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.hilton.com/en/hotels/usmksci-conrad-koh-samui/"
+ },
+ {
+  "name": "InterContinental Koh Samui Resort",
+  "location": "Taling Ngam Beach (Baan Taling Ngam)",
+  "city": "Koh Samui",
+  "country": "Thailand",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "IHG Hotels & Resorts (InterContinental)",
+  "contact": {
+   "address": "295 Moo 3, Taling Ngam Beach, Koh Samui 84140, Thailand",
+   "phone": "",
+   "email": "",
+   "website": "https://www.ihg.com/intercontinental/hotels/us/en/koh-samui/usmks/hoteldetail"
+  },
+  "beach_details": {
+   "private_beach": "Yes - private beach on 22-acre beachfront estate with 150m licensed private jetty",
+   "length": "150m (private pier)",
+   "sand_type": "White sand"
+  },
+  "amenities": [
+   "22-acre estate (Koh Samui's first luxury resort site)",
+   "150m licensed private jetty",
+   "Air Bar (sunset)",
+   "Club Lounge with butler service",
+   "Planet Trekkers kids' club",
+   "Tennis",
+   "24-hour fitness"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "Six to seven swimming pools incl. 360-degree-view infinity pool",
+  "lodging": {
+   "rooms": "79",
+   "suites": "",
+   "villas": "",
+   "residences": ""
+  },
+  "dining": "Amber (Thai fine dining); Flames (beachfront grill); Air Bar; Serene Lounge",
+  "spa_wellness": "Baan Thai Spa by HARNN (120m above sea level)",
+  "activities": "Bi-weekly sunset beach dinners with fire show, speedboat transfers to Angthong Marine Park",
+  "nightlife": "",
+  "events": "Beach weddings; MICE (Taling Ngam meeting room)",
+  "season": "",
+  "kids_family": "Planet Trekkers kids' club",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.ihg.com/intercontinental/hotels/us/en/koh-samui/usmks/hoteldetail"
+ },
+ {
+  "name": "Kimpton Kitalay Samui",
+  "location": "Choeng Mon Beach",
+  "city": "Koh Samui",
+  "country": "Thailand",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "Kimpton Hotels & Restaurants (IHG)",
+  "contact": {
+   "address": "10/79 Moo 5, Bophut, Choeng Mon Beach, Koh Samui, Surat Thani 84320, Thailand",
+   "phone": "+66 77 951 999",
+   "email": "",
+   "website": "https://www.kimptonkitalaysamui.com/"
+  },
+  "beach_details": {
+   "private_beach": "Beachfront on Choeng Mon Beach (direct step-out)",
+   "length": "",
+   "sand_type": "Golden sand"
+  },
+  "amenities": [
+   "Olympic-sized seafront swimming pool",
+   "Seven outdoor pools",
+   "FishHouse (Michelin Guide 2024 & 2025)",
+   "24-hour room service",
+   "Pet-friendly",
+   "Fitness centre"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "Olympic-sized seafront pool plus six more; private plunge pools in villas",
+  "lodging": {
+   "rooms": "",
+   "suites": "",
+   "villas": "138",
+   "residences": ""
+  },
+  "dining": "FishHouse Restaurant & Bar (seafood, Michelin Guide); Boho (Thai lifestyle cafe); SHADES Ocean Lounge & Bar; SHIO (Japanese, seasonal); HOM Baking Company; LANAI (cocktails, seasonal)",
+  "spa_wellness": "Kitavaree Spa & Wellness",
+  "activities": "Poolside yoga, beach BBQ feasts with fire shows, water sports",
+  "nightlife": "",
+  "events": "Beachfront weddings and events",
+  "season": "",
+  "kids_family": "Family-friendly; kids' club; family suites",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.kimptonkitalaysamui.com/"
+ },
+ {
+  "name": "Anantara Bophut Koh Samui Resort",
+  "location": "Bophut Beach",
+  "city": "Koh Samui",
+  "country": "Thailand",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "Samui Resort & Spa Limited",
+  "management": "Anantara Hotels & Resorts (Minor Hotels)",
+  "contact": {
+   "address": "99/9 Bophut Bay, Bophut 84320, Thailand",
+   "phone": "+66 77 428 300",
+   "email": "",
+   "website": "https://www.anantara.com/en/bophut-koh-samui"
+  },
+  "beach_details": {
+   "private_beach": "Beachfront on Bophut Beach (golden sands; former coconut plantation)",
+   "length": "",
+   "sand_type": "Golden sand"
+  },
+  "amenities": [
+   "Lily-pond landscaping",
+   "Designer Dining private-chef experiences",
+   "Walking distance to Fisherman's Village",
+   "Tennis courts",
+   "Pet-friendly",
+   "13 rai (21,500 sqm) estate"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "Infinity pool; plunge pools in Beachfront Pool Suites",
+  "lodging": {
+   "rooms": "",
+   "suites": "106",
+   "villas": "",
+   "residences": ""
+  },
+  "dining": "Guilty (South American); Thin Tai (southern Thai); TAN Beach Lounge",
+  "spa_wellness": "Award-winning Anantara Spa (walled garden; 6 treatment suites)",
+  "activities": "SUP, sea kayaking, beach walks, cultural excursions",
+  "nightlife": "",
+  "events": "Beach and garden weddings; indoor banquet room",
+  "season": "",
+  "kids_family": "Tree House Kids' Club; Active Zone teens' lounge; two-bedroom Family Suites",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.anantara.com/en/bophut-koh-samui"
+ },
+ {
+  "name": "Santiburi Koh Samui",
+  "location": "Maenam Beach",
+  "city": "Koh Samui",
+  "country": "Thailand",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "",
+  "contact": {
+   "address": "12/12 Moo 1, Maenam Beach, Koh Samui, Surat Thani 84320, Thailand",
+   "phone": "+66 77 425 031",
+   "email": "",
+   "website": "https://santiburisamui.com/"
+  },
+  "beach_details": {
+   "private_beach": "Yes - 300 metres of exclusive beachfront on Maenam Beach",
+   "length": "300m",
+   "sand_type": "White sand"
+  },
+  "amenities": [
+   "Leading Hotels of the World member",
+   "23-acre palm sanctuary",
+   "Reserve Host in Grand Reserve Pool Villas",
+   "Kids' activity centre",
+   "Golf at Santiburi Samui Country Club (par 72, 18-hole)",
+   "Tennis & squash",
+   "Sports centre"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "Two swimming pools; private pools in pool villas",
+  "lodging": {
+   "rooms": "",
+   "suites": "12",
+   "villas": "84",
+   "residences": ""
+  },
+  "dining": "The Beach House (beach bar & restaurant); Sala Thai (fine Thai); Vimarnmek (breakfast); Pool Bar; torch-lit beach seafood barbecues",
+  "spa_wellness": "Santiburi Spa (Ayutthaya-inspired; treatments for children and teens)",
+  "activities": "Watersports, cycling, cookery classes, golf, beach yoga",
+  "nightlife": "",
+  "events": "Beach and garden weddings",
+  "season": "",
+  "kids_family": "Kids' activity centre; family Duplex Suites; children's pool with water slide",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://santiburisamui.com/"
+ },
+ {
+  "name": "Vana Belle, a Luxury Collection Resort, Koh Samui",
+  "location": "Chaweng Noi Beach",
+  "city": "Koh Samui",
+  "country": "Thailand",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "The Luxury Collection (Marriott International)",
+  "contact": {
+   "address": "9/99 Moo 3, Chaweng Noi Beach, Koh Samui, Surat Thani 84320, Thailand",
+   "phone": "+66 77 915 555",
+   "email": "",
+   "website": "https://www.marriott.com/en-us/hotels/usmvl-vana-belle-a-luxury-collection-resort-koh-samui/overview/"
+  },
+  "beach_details": {
+   "private_beach": "Yes - private beach cove on Chaweng Noi Beach",
+   "length": "",
+   "sand_type": "White sand"
+  },
+  "amenities": [
+   "Private plunge pool in every suite and villa",
+   "Beachfront infinity pool",
+   "Tikki hut poolside bar",
+   "Boutique",
+   "Library",
+   "24-hour gym",
+   "Airport shuttle"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "Beachfront infinity pool; private plunge pool in every suite/villa",
+  "lodging": {
+   "rooms": "",
+   "suites": "80",
+   "villas": "",
+   "residences": ""
+  },
+  "dining": "Panali (Southern Thai); Kiree (bistro/international); Lobby Lounge (afternoon tea)",
+  "spa_wellness": "Vana Spa",
+  "activities": "Beach yoga, snorkelling, water sports",
+  "nightlife": "",
+  "events": "",
+  "season": "",
+  "kids_family": "Children's recreation",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.marriott.com/en-us/hotels/usmvl-vana-belle-a-luxury-collection-resort-koh-samui/overview/"
+ },
+ {
+  "name": "Silavadee Pool Spa Resort",
+  "location": "Laem Nan Beach (between Chaweng and Lamai)",
+  "city": "Koh Samui",
+  "country": "Thailand",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "",
+  "contact": {
+   "address": "208/66 Moo 4, Maret, Koh Samui, Surat Thani 84310, Thailand",
+   "phone": "",
+   "email": "",
+   "website": "https://www.silavadee.com/"
+  },
+  "beach_details": {
+   "private_beach": "Yes - private 'secret beach' cove enclosed by granite boulders (Laem Nan), snorkelling reef",
+   "length": "",
+   "sand_type": ""
+  },
+  "amenities": [
+   "Back-to-nature concept",
+   "Aqua Jet Massage Beds in villa pools",
+   "Wine & cigar lounge",
+   "Rooftop bar",
+   "Library",
+   "Concierge"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "Two outdoor infinity pools; private infinity pools in villas",
+  "lodging": {
+   "rooms": "36",
+   "suites": "",
+   "villas": "44",
+   "residences": ""
+  },
+  "dining": "The Height (fine Thai); Sun Moon Star (Sun poolside / Moon teak dining / Star rooftop bar); Chalay Rock Bar",
+  "spa_wellness": "Silavadee Wellness Spa (5 private treatment villas)",
+  "activities": "Kayaking, Muay Thai classes, snorkelling",
+  "nightlife": "",
+  "events": "Romantic in-villa dining; rooftop dinners",
+  "season": "",
+  "kids_family": "",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.silavadee.com/"
+ },
+ {
+  "name": "The Ritz-Carlton Koh Samui",
+  "location": "Plai Laem",
+  "city": "Koh Samui",
+  "country": "Thailand",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "YTL Hotels",
+  "management": "The Ritz-Carlton Hotel Company (Marriott)",
+  "contact": {
+   "address": "",
+   "phone": "+66 77 915 777",
+   "email": "",
+   "website": "https://www.ritzcarlton.com/en/hotels/usmrz-the-ritz-carlton-koh-samui/overview/"
+  },
+  "beach_details": {
+   "private_beach": "Yes - beachfront",
+   "length": "",
+   "sand_type": ""
+  },
+  "amenities": [
+   "58-acre beachfront estate",
+   "Kids' club",
+   "Tennis courts",
+   "Fitness centre",
+   "Cooking classes",
+   "MICE venues",
+   "Private yacht trips"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "Multiple pools",
+  "lodging": {
+   "rooms": "",
+   "suites": "",
+   "villas": "175",
+   "residences": ""
+  },
+  "dining": "Shook! (all-day); Pak Tai (Southern Thai); Sea Breeze (beachfront); The Ranch (pool bar)",
+  "spa_wellness": "Spa Village",
+  "activities": "Snorkelling, sailing, Thai cooking classes, island excursions",
+  "nightlife": "",
+  "events": "Weddings and private events",
+  "season": "",
+  "kids_family": "",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.ritzcarlton.com/en/hotels/usmrz-the-ritz-carlton-koh-samui/overview/"
+ },
+ {
+  "name": "Phulay Bay, a Ritz-Carlton Reserve",
+  "location": "Than Bok Khorani National Park",
+  "city": "Krabi",
+  "country": "Thailand",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "The Ritz-Carlton Hotel Company (Ritz-Carlton Reserve)",
+  "contact": {
+   "address": "",
+   "phone": "+66 75 628 111",
+   "email": "",
+   "website": "https://www.ritzcarlton.com/en/hotels/kbvrz-phulay-bay-a-ritz-carlton-reserve/overview/"
+  },
+  "beach_details": {
+   "private_beach": "Yes - private beachfront",
+   "length": "",
+   "sand_type": ""
+  },
+  "amenities": [
+   "Signature Reserve Pool",
+   "Kids' club",
+   "Fitness centre",
+   "Reserve Butler",
+   "Cooking classes",
+   "Nature walks"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "Signature Reserve pool; private pools in villas",
+  "lodging": {
+   "rooms": "54",
+   "suites": "",
+   "villas": "",
+   "residences": ""
+  },
+  "dining": "Lae Lay; Chomtawan; Plai Fah; Jampoon; Sri Trang; Pirom",
+  "spa_wellness": "The Spa",
+  "activities": "Rock climbing, kayaking, island-hopping, cooking classes, Thai boxing",
+  "nightlife": "",
+  "events": "Weddings and private events",
+  "season": "",
+  "kids_family": "",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.ritzcarlton.com/en/hotels/kbvrz-phulay-bay-a-ritz-carlton-reserve/overview/"
+ },
+ {
+  "name": "Centara Reserve Krabi",
+  "location": "Pai Plong Bay",
+  "city": "Krabi",
+  "country": "Thailand",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "Centara Hotels & Resorts",
+  "contact": {
+   "address": "",
+   "phone": "",
+   "email": "ckbr@chr.co.th",
+   "website": "https://www.centarahotelsresorts.com/centarareserve/crk"
+  },
+  "beach_details": {
+   "private_beach": "Yes - 500 metres of beachfront on Pai Plong Bay",
+   "length": "500m",
+   "sand_type": ""
+  },
+  "amenities": [
+   "Kids' club",
+   "Fitness centre",
+   "Tennis",
+   "Water sports",
+   "Cooking classes",
+   "Residences for sale"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "Main pool; private pools in pool villas",
+  "lodging": {
+   "rooms": "192",
+   "suites": "",
+   "villas": "",
+   "residences": ""
+  },
+  "dining": "",
+  "spa_wellness": "Spa",
+  "activities": "Snorkelling, kayaking, island tours, cooking classes",
+  "nightlife": "",
+  "events": "Weddings and private events",
+  "season": "",
+  "kids_family": "",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.centarahotelsresorts.com/centarareserve/crk"
+ },
+ {
+  "name": "Rayavadee",
+  "location": "Railay Beach (Phranang Peninsula)",
+  "city": "Krabi",
+  "country": "Thailand",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "",
+  "contact": {
+   "address": "214 Moo 2, T. Ao Nang, Muang, Krabi 81000, Thailand",
+   "phone": "",
+   "email": "",
+   "website": "https://www.rayavadee.com/"
+  },
+  "beach_details": {
+   "private_beach": "Within walking distance of three beaches - Railay West, Railay East and Phra Nang Cave Beach (public beaches; hotel not permitted to place loungers on the sand)",
+   "length": "",
+   "sand_type": "White sand"
+  },
+  "amenities": [
+   "Lagoon-style infinity pool by Railay Beach",
+   "Boutique",
+   "24-hour private dining",
+   "Tennis court",
+   "Fitness room",
+   "Yoga",
+   "Boat-access only (resort ferry port)"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "Lagoon-style infinity pool; private pools in Pool Pavilions and villas",
+  "lodging": {
+   "rooms": "",
+   "suites": "",
+   "villas": "98",
+   "residences": ""
+  },
+  "dining": "Raya Dining (Western); Krua Phranang (Thai seafood, beachside); Raitalay Terrace (poolside); The Grotto (limestone cavern)",
+  "spa_wellness": "Full-service spa",
+  "activities": "Rock climbing Railay, kayaking, diving, boat trips to Koh Poda",
+  "nightlife": "",
+  "events": "Destination weddings on the beach",
+  "season": "",
+  "kids_family": "Family-friendly pavilions",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.rayavadee.com/"
+ },
+ {
+  "name": "The Tubkaak Krabi Boutique Resort",
+  "location": "Tubkaak Beach",
+  "city": "Krabi",
+  "country": "Thailand",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "",
+  "contact": {
+   "address": "123 Moo 3, Tumbol Nongtalay, Amphur Muang, Krabi 81180, Thailand",
+   "phone": "",
+   "email": "",
+   "website": "https://www.tubkaakresort.com/"
+  },
+  "beach_details": {
+   "private_beach": "Yes - beachfront on quiet Tubkaak Beach with views of the 13 Hong Islands",
+   "length": "",
+   "sand_type": "White sand"
+  },
+  "amenities": [
+   "Organic garden",
+   "Library with bar",
+   "Signature outdoor sunken bathtubs in all rooms",
+   "Romantic candlelit beach dinners"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "Freeform pool; private pools in pool villas and Haven Suite",
+  "lodging": {
+   "rooms": "",
+   "suites": "",
+   "villas": "59",
+   "residences": ""
+  },
+  "dining": "The Arundina (classic Thai, beachfront); Di Mare (Italian seafood)",
+  "spa_wellness": "L'Escape Spa",
+  "activities": "Snorkelling Hong Islands, kayaking, nature trails, boat trips",
+  "nightlife": "",
+  "events": "Beach weddings",
+  "season": "",
+  "kids_family": "Family-friendly suites (Tubkaak Suite sleeps 5)",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.tubkaakresort.com/"
+ },
+ {
+  "name": "Amatara Welleisure Resort",
+  "location": "Cape Panwa",
+  "city": "Phuket",
+  "country": "Thailand",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "",
+  "contact": {
+   "address": "",
+   "phone": "+66 76 318 888",
+   "email": "",
+   "website": "https://www.amatara.com/"
+  },
+  "beach_details": {
+   "private_beach": "Yes - Cape Panwa beachfront",
+   "length": "",
+   "sand_type": ""
+  },
+  "amenities": [
+   "The Retreat wellness centre",
+   "Thermal bathing circuit",
+   "Kids' club",
+   "Fitness centre",
+   "Tennis",
+   "Water sports",
+   "Private yacht trips"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "Multiple pools including private villa pools",
+  "lodging": {
+   "rooms": "",
+   "suites": "",
+   "villas": "105",
+   "residences": ""
+  },
+  "dining": "",
+  "spa_wellness": "The Retreat - thermal circuit, Hammam, spa treatments, wellness programmes",
+  "activities": "Wellness programmes, water sports, island trips, cooking classes",
+  "nightlife": "",
+  "events": "Weddings and private events",
+  "season": "",
+  "kids_family": "",
+  "pr_contacts": [],
+  "marketing_contacts": [
+   {
+    "name": "Sukunya Sairaya",
+    "title": "",
+    "email": "sukunya.s@amatara.com",
+    "phone": ""
+   }
+  ],
+  "concierge": "",
+  "source": "https://www.amatara.com/"
+ },
+ {
+  "name": "Fusion Resort & Villas Da Nang",
+  "location": "My Khe Beach",
+  "city": "Da Nang",
+  "country": "Vietnam",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "Fusion Hotel Group",
+  "contact": {
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://www.fusionresorts.com/"
+  },
+  "beach_details": {
+   "private_beach": "Yes - My Khe Beach beachfront",
+   "length": "",
+   "sand_type": ""
+  },
+  "amenities": [
+   "All-spa-inclusive concept",
+   "Two outdoor pools",
+   "Kids' club",
+   "Fitness centre",
+   "Water sports",
+   "Cooking classes"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "Two outdoor pools; private pools in villas",
+  "lodging": {
+   "rooms": "",
+   "suites": "80",
+   "villas": "",
+   "residences": ""
+  },
+  "dining": "",
+  "spa_wellness": "Maia Spa & Wellness",
+  "activities": "Water sports, yoga, tai chi, cycling",
+  "nightlife": "",
+  "events": "Weddings and private events",
+  "season": "",
+  "kids_family": "",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.fusionresorts.com/"
+ },
+ {
+  "name": "Fusion Resort Cam Ranh - All Spa Inclusive",
+  "location": "Bai Dai (Long Beach)",
+  "city": "Cam Ranh",
+  "country": "Vietnam",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "Fusion Hotel Group",
+  "contact": {
+   "address": "Lot D10B, Nguyen Tat Thanh Street, Bai Dong, Cam Hai Dong, Cam Lam, Khanh Hoa 650000, Vietnam",
+   "phone": "+84 258 398 9777",
+   "email": "",
+   "website": "https://www.fusionresorts.com/camranh"
+  },
+  "beach_details": {
+   "private_beach": "Yes - private stretch of Bai Dai beach",
+   "length": "",
+   "sand_type": ""
+  },
+  "amenities": [
+   "All-spa-inclusive concept",
+   "Two outdoor pools",
+   "Children's club",
+   "Health club",
+   "Free valet parking",
+   "Breakfast Anywhere Anytime"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "Two outdoor pools; private pools in villas",
+  "lodging": {
+   "rooms": "",
+   "suites": "",
+   "villas": "122",
+   "residences": ""
+  },
+  "dining": "Fresh; Breeze; Zen Bar",
+  "spa_wellness": "Maia Spa & Wellness (massages, scrubs, facials, wraps; tai chi, yoga, qi gong)",
+  "activities": "Tai chi, yoga, qi gong, water sports, cycling",
+  "nightlife": "",
+  "events": "",
+  "season": "",
+  "kids_family": "Complimentary children's club",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.fusionresorts.com/camranh"
+ },
+ {
+  "name": "The Anam Cam Ranh",
+  "location": "Long Beach (Bai Dai)",
+  "city": "Cam Ranh",
+  "country": "Vietnam",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "",
+  "contact": {
+   "address": "",
+   "phone": "+84 258 398 9499",
+   "email": "info.cr@theanam.com",
+   "website": "https://www.theanam.com/"
+  },
+  "beach_details": {
+   "private_beach": "Yes - 300 metres of Long Beach frontage",
+   "length": "300m",
+   "sand_type": ""
+  },
+  "amenities": [
+   "Beach club",
+   "Kids' club",
+   "Fitness centre",
+   "Tennis",
+   "Water sports",
+   "Cooking classes"
+  ],
+  "vip_clubs": "Beach club",
+  "perks": "",
+  "pools": "Main pool",
+  "lodging": {
+   "rooms": "",
+   "suites": "",
+   "villas": "",
+   "residences": ""
+  },
+  "dining": "French and Vietnamese restaurants",
+  "spa_wellness": "Spa",
+  "activities": "Water sports, snorkelling, diving, island excursions",
+  "nightlife": "",
+  "events": "Beach weddings and events",
+  "season": "",
+  "kids_family": "",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.theanam.com/"
+ },
+ {
+  "name": "Four Seasons Resort The Nam Hai, Hoi An",
+  "location": "Ha My Beach",
+  "city": "Hoi An",
+  "country": "Vietnam",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "Four Seasons Hotels and Resorts",
+  "contact": {
+   "address": "Block Ha My Dong B, Dien Duong Ward, Dien Ban Town, Hoi An, Vietnam",
+   "phone": "",
+   "email": "",
+   "website": "https://www.fourseasons.com/hoian/"
+  },
+  "beach_details": {
+   "private_beach": "Yes - private kilometre-long stretch of Ha My Beach white sand",
+   "length": "1km",
+   "sand_type": "White sand"
+  },
+  "amenities": [
+   "86-acre estate with 4,000+ coconut palms",
+   "Cooking Academy with organic garden",
+   "Kids' club",
+   "Tennis courts",
+   "Golf nearby",
+   "Shuttle to Hoi An Ancient Town"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "Three cascading pools; private pools in pool villas",
+  "lodging": {
+   "rooms": "",
+   "suites": "",
+   "villas": "100",
+   "residences": ""
+  },
+  "dining": "La Sen (Vietnamese-French fusion, beachfront); Cafe Nam Hai (Indian); NAYUU (Japanese omakase); Sol & Sao (beach bar); Pool & Beach bar",
+  "spa_wellness": "Heart of the Earth Spa (8 floating treatment pavilions over lotus lagoon)",
+  "activities": "Cooking academy, watersports (wakeboarding, tubing), golf, cultural excursions to 3 UNESCO sites",
+  "nightlife": "",
+  "events": "Beachfront weddings and private celebrations",
+  "season": "",
+  "kids_family": "Kids' club; 8 family villas (2-5 bedrooms)",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.fourseasons.com/hoian/"
+ },
+ {
+  "name": "Hyatt Regency Danang Resort and Spa",
+  "location": "Non Nuoc Beach (Marble Mountains)",
+  "city": "Da Nang",
+  "country": "Vietnam",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "Hyatt Hotels Corporation",
+  "contact": {
+   "address": "5 Truong Sa Street, Hoa Hai Ward, Ngu Hanh Son District, Danang 550000, Vietnam",
+   "phone": "+84 236 398 1234",
+   "email": "reservation.danang@hyatt.com",
+   "website": "https://www.hyatt.com/hyatt-regency/en-US/danhr-hyatt-regency-danang-resort-and-spa"
+  },
+  "beach_details": {
+   "private_beach": "Yes - 700 metres of white sand on Non Nuoc Beach",
+   "length": "700m",
+   "sand_type": "White sand"
+  },
+  "amenities": [
+   "49-acre beach resort and residential complex",
+   "Five-pool complex incl. adults-only pool",
+   "Camp Hyatt kids club",
+   "9-hole mini golf",
+   "24-hour fitness centre",
+   "Meeting & event spaces incl. 500 sqm Regency Ballroom",
+   "Bicycles",
+   "Rock climbing"
+  ],
+  "vip_clubs": "Vive Oceane Beach Club & Restaurant",
+  "perks": "",
+  "pools": "Five outdoor pools incl. adults-only; private pools in villas",
+  "lodging": {
+   "rooms": "198",
+   "suites": "",
+   "villas": "18",
+   "residences": "142"
+  },
+  "dining": "Vive Oceane (French-Mediterranean & Vietnamese beach club); Osteria al Mare (Italian all-day); Xanh House (Vietnamese seafood); Le Petit Chef (dining show); Pool House; Terrasse Bar; Baguette",
+  "spa_wellness": "VIE Spa",
+  "activities": "Yoga, surfing, water sports, golf, cultural tours (3 UNESCO sites nearby)",
+  "nightlife": "",
+  "events": "Regency Ballroom (400 standing); beachfront weddings up to 700 guests",
+  "season": "",
+  "kids_family": "Camp Hyatt kids club; family-friendly",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.hyatt.com/hyatt-regency/en-US/danhr-hyatt-regency-danang-resort-and-spa"
+ },
+ {
+  "name": "JW Marriott Phu Quoc Emerald Bay Resort & Spa",
+  "location": "Khem Beach",
+  "city": "Phu Quoc",
+  "country": "Vietnam",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "JW Marriott (Marriott International)",
+  "contact": {
+   "address": "Eco-Tourism at Bai Khem, Phu Quoc Special Economic Zone, An Giang Province, Vietnam",
+   "phone": "+84 297 377 9999",
+   "email": "",
+   "website": "https://www.marriott.com/en-us/hotels/pqcjw-jw-marriott-phu-quoc-emerald-bay-resort-and-spa/overview/"
+  },
+  "beach_details": {
+   "private_beach": "Yes - Khem Beach (calm, pristine waters)",
+   "length": "",
+   "sand_type": "White sand"
+  },
+  "amenities": [
+   "Bill Bensley '19th-century French university' design",
+   "Green Globe certified",
+   "Seashell-shaped mosaic pool (T+L Top 2 Best Hotel Pools Vietnam 2023-24)",
+   "Kids' club",
+   "Fitness centre"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "Seashell-shaped mosaic pool; private plunge pools in villas",
+  "lodging": {
+   "rooms": "",
+   "suites": "",
+   "villas": "",
+   "residences": ""
+  },
+  "dining": "Pink Pearl by Olivier E. (French fine dining, Michelin-starred chef); four restaurants and a bar",
+  "spa_wellness": "Spa",
+  "activities": "Kayaking, snorkelling, island excursions",
+  "nightlife": "",
+  "events": "Beachfront weddings and events",
+  "season": "",
+  "kids_family": "Family-friendly; villas sleep up to 4 adults + 4 children",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.marriott.com/en-us/hotels/pqcjw-jw-marriott-phu-quoc-emerald-bay-resort-and-spa/overview/"
+ },
+ {
+  "name": "Six Senses Con Dao",
+  "location": "Dat Doc Beach, Con Son Island",
+  "city": "Con Dao",
+  "country": "Vietnam",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "Six Senses (IHG)",
+  "contact": {
+   "address": "Dat Doc Beach, Con Son, Ba Ria-Vung Tau 790000, Vietnam",
+   "phone": "",
+   "email": "",
+   "website": "https://www.sixsenses.com/"
+  },
+  "beach_details": {
+   "private_beach": "Yes - private mile-long Dat Doc Beach in protected national & marine park",
+   "length": "~1.5-2km",
+   "sand_type": "White sand"
+  },
+  "amenities": [
+   "Private butler in every villa",
+   "Turtle conservation (Turtle Island Paradise)",
+   "Organic garden",
+   "Water bottling plant",
+   "Cinema under the stars",
+   "Library"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "Central swimming pool; private infinity pool in every villa",
+  "lodging": {
+   "rooms": "",
+   "suites": "",
+   "villas": "50",
+   "residences": ""
+  },
+  "dining": "By the Beach (locally-caught seafood); Vietnamese by the Market; Deli.ght; Elephant Bar; Splash Bar",
+  "spa_wellness": "Six Senses Spa Con Dao (yoga pavilion, holistic treatments)",
+  "activities": "Snorkelling, diving, private boat excursions, hiking, turtle watching",
+  "nightlife": "",
+  "events": "Private buyouts; destination weddings",
+  "season": "",
+  "kids_family": "",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.sixsenses.com/"
+ },
+ {
+  "name": "Six Senses Ninh Van Bay",
+  "location": "Ninh Van Bay (boat access only)",
+  "city": "Nha Trang",
+  "country": "Vietnam",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "Six Senses (IHG)",
+  "contact": {
+   "address": "Ninh Van Bay, Ninh Hoa, Khanh Hoa 650000, Vietnam",
+   "phone": "",
+   "email": "",
+   "website": "https://www.sixsenses.com/"
+  },
+  "beach_details": {
+   "private_beach": "Yes - private golden-sand beach; resort accessible only by sea",
+   "length": "",
+   "sand_type": "White sand"
+  },
+  "amenities": [
+   "One MICHELIN Key (2025, 2026)",
+   "Coral propagation programme (Institute of Oceanography)",
+   "Private butler in every villa",
+   "Wine cave",
+   "Water Reserve & Rock Retreat signature villas"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "Main pool; private pool in every villa",
+  "lodging": {
+   "rooms": "",
+   "suites": "",
+   "villas": "59",
+   "residences": ""
+  },
+  "dining": "Dining by the Bay; Dining by the Rocks (signature); Dining by the Pool; The Farmhouse (plant-based); Grandma's Kitchen",
+  "spa_wellness": "Six Senses Spa Ninh Van Bay",
+  "activities": "Diving, waterskiing, kayaking, fishing, tennis, Heo mountain hikes, snorkelling at private beach",
+  "nightlife": "",
+  "events": "Weddings and private events",
+  "season": "",
+  "kids_family": "Kids' club; Family Beach Pool Villas",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.sixsenses.com/"
+ },
+ {
+  "name": "Amanoi",
+  "location": "Vinh Hy Bay, Nui Chua National Park",
+  "city": "Ninh Thuan",
+  "country": "Vietnam",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "Aman",
+  "contact": {
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://www.aman.com/resorts/amanoi"
+  },
+  "beach_details": {
+   "private_beach": "Yes - private golden-sand shoreline on Vinh Hy Bay (marine reserve); Beach Club with dining area and second pool",
+   "length": "",
+   "sand_type": "Golden sand"
+  },
+  "amenities": [
+   "Clifftop 140 sqm infinity pool",
+   "Beach Club with second pool",
+   "Lakeside Aman Spa",
+   "Central Pavilion (Restaurant, Bar, Library)",
+   "Cultural experiences (Cham)",
+   "Diving, boat tours"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "Clifftop infinity pool; Beach Club pool; private pools in Pool Villas (up to 36 sqm)",
+  "lodging": {
+   "rooms": "9",
+   "suites": "",
+   "villas": "24",
+   "residences": "12"
+  },
+  "dining": "Central Pavilion Restaurant & Bar; Beach Club dining; Cliff Pool dinners; Beachside BBQ; lake dinners",
+  "spa_wellness": "Aman Spa - lakeside, lotus-filled; Hammam/Banya in Wellness Pool Villas",
+  "activities": "Snorkelling, diving, kitesurfing at My Hoa, boat tours, Cham cultural visits",
+  "nightlife": "",
+  "events": "Private buyouts; cliff-pool dinners",
+  "season": "",
+  "kids_family": "",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.aman.com/resorts/amanoi"
+ },
+ {
+  "name": "Zannier Bai San Ho",
+  "location": "Phu Yen coast (private peninsula)",
+  "city": "Tuy Hoa",
+  "country": "Vietnam",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "Zannier Hotels",
+  "contact": {
+   "address": "Hoa Thanh Commune, Tuy Hoa, Phu Yen Province, Vietnam",
+   "phone": "",
+   "email": "",
+   "website": "https://www.zannierhotels.com/baisanho"
+  },
+  "beach_details": {
+   "private_beach": "Yes - one-kilometre white-sand beach fringed by coral (protected coral reef bay)",
+   "length": "1km",
+   "sand_type": "White sand"
+  },
+  "amenities": [
+   "98-hectare (245-acre) private peninsula",
+   "Green Globe certified",
+   "Zero-motor-vehicle policy (foot/bicycle/buggy)",
+   "Hoa Sen Spa (372 sqm)",
+   "Tennis & padel courts",
+   "Water sports centre",
+   "Kids club"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "Infinity pool; private plunge pools in most villa categories",
+  "lodging": {
+   "rooms": "",
+   "suites": "",
+   "villas": "73",
+   "residences": ""
+  },
+  "dining": "Nha O (hilltop all-day, SE Asian & international); Lang Chai (beach seafood grill); Ba Hai (regional Vietnamese); Ham Bar (Indochine cocktails)",
+  "spa_wellness": "Hoa Sen Spa - Vietnamese healing arts, herbal therapies, hammams",
+  "activities": "Catamaran, snorkelling coral reefs, Cham dynasty excursions, rice-paddy walks",
+  "nightlife": "",
+  "events": "Weddings and private events",
+  "season": "",
+  "kids_family": "Kids club; family villas (3-4 bedroom Grand Bay Pool Villas)",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.zannierhotels.com/baisanho"
+ },
+ {
+  "name": "Anantara Quy Nhon Villas",
+  "location": "Bai Dai (private cove), Quy Nhon Bay",
+  "city": "Quy Nhon",
+  "country": "Vietnam",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "Anantara Hotels & Resorts (Minor Hotels)",
+  "contact": {
+   "address": "Bai Dai, Ghenh Rang, Quy Nhon Nam Ward, Gia Lai Province, Vietnam",
+   "phone": "+84 256 384 0077",
+   "email": "",
+   "website": "https://www.anantara.com/en/quy-nhon"
+  },
+  "beach_details": {
+   "private_beach": "Yes - private cove on Bai Dai, Quy Nhon Bay",
+   "length": "",
+   "sand_type": ""
+  },
+  "amenities": [
+   "25 pool villas on 7 acres",
+   "Villa Host service",
+   "The Vietage luxury rail journeys",
+   "All-inclusive packages",
+   "Wine cellars in villas",
+   "BBQ facilities"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "Infinity pool; cliff-edge cantilevered private pools",
+  "lodging": {
+   "rooms": "",
+   "suites": "",
+   "villas": "25",
+   "residences": ""
+  },
+  "dining": "Sea.Fire.Salt. (seafood); pool bar lounge; Designer Dining by Anantara (beach/private deck)",
+  "spa_wellness": "Anantara Spa (cliffside jungle spa)",
+  "activities": "Martial arts (Viet Vo Dao), Vietnamese cooking classes, Cham ruin excursions, coracle fishing, diving",
+  "nightlife": "",
+  "events": "New Year's Eve gala dinners; beach weddings",
+  "season": "All-inclusive escape packages available",
+  "kids_family": "",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.anantara.com/en/quy-nhon"
+ },
+ {
+  "name": "Song Saa Private Island",
+  "location": "Koh Rong Archipelago (Koh Ouen & Koh Bong)",
+  "city": "Sihanoukville",
+  "country": "Cambodia",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "Song Saa Collective (founders Rory and Melita Hunter)",
+  "management": "",
+  "contact": {
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://www.songsaa.com"
+  },
+  "beach_details": {
+   "private_beach": "Yes - private white-sand beaches on two private islands; Cambodia's first marine reserve surrounds the resort",
+   "length": "",
+   "sand_type": "White sand"
+  },
+  "amenities": [
+   "Two private islands linked by footbridge",
+   "Cambodia's first marine reserve",
+   "B Corp certified",
+   "Song Saa Foundation",
+   "Yoga & meditation centre",
+   "Infinity pool",
+   "Island boutique",
+   "Private mooring"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "Large infinity pool; private pool in every villa",
+  "lodging": {
+   "rooms": "",
+   "suites": "",
+   "villas": "27",
+   "residences": ""
+  },
+  "dining": "Vista Bar & Restaurant (overwater, Khmer-Western fusion); Driftwood Bar & Kitchen (beachside pizzas, tapas); Destination Dining",
+  "spa_wellness": "Song Saa Sanctuary spa (2 private spa villas)",
+  "activities": "Sailing, diving, kayaking, snorkelling, marine conservation",
+  "nightlife": "",
+  "events": "Weddings; private buyouts",
+  "season": "",
+  "kids_family": "Family-friendly; private Royal Villa",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.songsaa.com"
+ },
+ {
+  "name": "Six Senses Krabey Island",
+  "location": "Krabey Island (private island, off Ream National Park)",
+  "city": "Sihanoukville",
+  "country": "Cambodia",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "Six Senses (IHG)",
+  "contact": {
+   "address": "Koh Krabey, Ream, Sihanoukville, Cambodia",
+   "phone": "",
+   "email": "reservations-krabey@sixsenses.com",
+   "website": "https://www.sixsenses.com/"
+  },
+  "beach_details": {
+   "private_beach": "Yes - private sand beach and beach cove on 30-acre (12-hectare) private island, 5km off Ream National Park",
+   "length": "",
+   "sand_type": "White sand"
+  },
+  "amenities": [
+   "30-acre private island (boat access only)",
+   "Earth Lab (zero-waste centre)",
+   "Horizon lap pool",
+   "Oceanfront boardwalk",
+   "Overwater Cinema Paradiso",
+   "Sky observatory",
+   "Guest Experience Maker in every villa",
+   "Water bottling plant"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "Horizon lap pool; private infinity plunge pool in every villa",
+  "lodging": {
+   "rooms": "",
+   "suites": "",
+   "villas": "40",
+   "residences": ""
+  },
+  "dining": "AHA Restaurant (pan-Asian, all-day); Tree Restaurant (Khmer, seafood); Sunset Bar; Double-Dip (pool deli & ice cream)",
+  "spa_wellness": "Six Senses Spa (Khmer healing traditions, herbal steam, yoga, sound therapy)",
+  "activities": "Snorkelling, guided jungle hikes, sustainability activities, star-gazing",
+  "nightlife": "",
+  "events": "Full-island buyout weddings (up to 100 guests); The Beach Retreat (3-bedroom, sleeps 8)",
+  "season": "",
+  "kids_family": "Family-friendly; two-bedroom pool villas; The Beach Retreat",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.sixsenses.com/"
+ },
+ {
+  "name": "Alila Villas Koh Russey",
+  "location": "Koh Russey (Bamboo Island), Koh Rong Archipelago",
+  "city": "Sihanoukville",
+  "country": "Cambodia",
+  "market": "Bali, Indonesia, Thailand & Southeast Asia",
+  "ownership": "",
+  "management": "Alila (Hyatt)",
+  "contact": {
+   "address": "Koh Russey, Prey Nup District, Ream Commune, Sihanoukville, Cambodia",
+   "phone": "",
+   "email": "",
+   "website": "https://www.hyatt.com/alila/"
+  },
+  "beach_details": {
+   "private_beach": "Yes - 1.2km of copper-sand beach on private island (85% nature)",
+   "length": "1.2km",
+   "sand_type": "Copper sand"
+  },
+  "amenities": [
+   "EarthCheck BPDS certified (first in Cambodia)",
+   "Studiogoto design (architect Chioh-Hui Goh)",
+   "Beachfront infinity pool",
+   "Yoga studio (complimentary classes)",
+   "Outdoor cinema",
+   "Organic garden",
+   "15% development / 85% nature"
+  ],
+  "vip_clubs": "",
+  "perks": "",
+  "pools": "Beachfront infinity pool; private pool in every pavilion and villa",
+  "lodging": {
+   "rooms": "50",
+   "suites": "",
+   "villas": "13",
+   "residences": ""
+  },
+  "dining": "Horizon (French fusion, fine dining); Beach Shack (Khmer, seafood grills); Sunset Bar",
+  "spa_wellness": "Spa Alila (beachfront)",
+  "activities": "Kayaking, paddleboarding, snorkelling, yoga, Tai Chi, beach hammocks",
+  "nightlife": "",
+  "events": "Horizon Restaurant and Beach Shack transform for banquets",
+  "season": "",
+  "kids_family": "Family-friendly; 2- and 4-bedroom villas with chef & butler options",
+  "pr_contacts": [],
+  "marketing_contacts": [],
+  "concierge": "",
+  "source": "https://www.hyatt.com/alila/"
+ }
+]

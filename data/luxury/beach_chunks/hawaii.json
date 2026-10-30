@@ -1,0 +1,1271 @@
+[
+  {
+    "name": "Four Seasons Resort Hualalai",
+    "location": "Ka'upulehu, Kohala Coast, Big Island",
+    "city": "Kailua-Kona",
+    "country": "United States",
+    "market": "Hawaii",
+    "ownership": "",
+    "management": "Four Seasons Hotels and Resorts",
+    "contact": {
+      "address": "72-100 Ka'upulehu Drive, Kailua-Kona, HI 96740",
+      "phone": "+1 (808) 325-8000",
+      "email": "",
+      "website": "https://www.fourseasons.com/hualalai/"
+    },
+    "beach_details": {
+      "private_beach": "Half-mile stretch of oceanfront beach on the northwest Kona Coast; Ka'upulehu Beach",
+      "length": "Half mile",
+      "sand_type": "White sand"
+    },
+    "amenities": [
+      "King's Pond (1.8-million-gallon swimmable aquarium with 1,000 tropical fish)",
+      "Ocean Pool with lava-rock breakwater",
+      "Adults-only pool with swim-up bar",
+      "Kids' pool",
+      "Jack Nicklaus championship golf course",
+      "Tennis courts",
+      "Fitness center",
+      "Cultural center",
+      "Marine Activity Center with on-site marine biologists",
+      "Private cabanas",
+      "In-room dining"
+    ],
+    "vip_clubs": "",
+    "perks": "",
+    "pools": "Seven pools including adults-only pool with swim-up bar, kids' pool, Ocean Pool and King's Pond",
+    "lodging": {
+      "rooms": "196",
+      "suites": "53",
+      "villas": "",
+      "residences": ""
+    },
+    "dining": "'ULU (oceanfront, Pan-Asian/Hawaiian), NOIO (omakase sushi lounge), Miller & Lux (steakhouse by Chef Tyler Florence), Residents' Beach House, Beach Tree Bar and Lounge",
+    "spa_wellness": "Hualalai Spa",
+    "activities": "Manta ray night snorkeling, outrigger canoe, cultural programs, golf, tennis, marine biology programs",
+    "nightlife": "Nightly live entertainment at Beach Tree Bar and Lounge",
+    "events": "",
+    "season": "Year-round",
+    "kids_family": "Kids' pool; family programs",
+    "pr_contacts": [],
+    "marketing_contacts": [],
+    "concierge": "",
+    "source": "https://www.fourseasons.com/hualalai/"
+  },
+  {
+    "name": "Mauna Lani, Auberge Resorts Collection",
+    "location": "Kohala Coast, Big Island",
+    "city": "Waimea",
+    "country": "United States",
+    "market": "Hawaii",
+    "ownership": "",
+    "management": "Auberge Resorts Collection",
+    "contact": {
+      "address": "68-1400 Mauna Lani Drive, Waimea, HI 96743",
+      "phone": "855-201-3179",
+      "email": "",
+      "website": "https://aubergeresorts.com/maunalani/"
+    },
+    "beach_details": {
+      "private_beach": "Private Mauna Lani Beach Club on white-sand beach at Makaiwa Bay",
+      "length": "",
+      "sand_type": "White sand"
+    },
+    "amenities": [
+      "Mauna Lani Beach Club (private)",
+      "Surf Shack watersports",
+      "Three pools (Resort Pool, Adult Pool)",
+      "Auberge Spa",
+      "Fitness and racquet sports",
+      "Two 18-hole championship golf courses",
+      "Francis Brown Club lounge",
+      "Cultural programs"
+    ],
+    "vip_clubs": "Francis Brown Club (private club lounge)",
+    "perks": "",
+    "pools": "Oceanfront Resort Pool and Adult Pool",
+    "lodging": {
+      "rooms": "292",
+      "suites": "36",
+      "villas": "",
+      "residences": "Residence Collection (two-bedroom residences)"
+    },
+    "dining": "CanoeHouse (oceanfront), HāLani (Mediterranean-inspired), Surf Shack, Hā Bar",
+    "spa_wellness": "Auberge Spa",
+    "activities": "Kainalu Ocean Sports (surf, SUP, snorkel, outrigger canoe, whale/dolphin paddles), golf, tennis and pickleball",
+    "nightlife": "",
+    "events": "",
+    "season": "Year-round",
+    "kids_family": "Family pool; multigenerational programming",
+    "pr_contacts": [],
+    "marketing_contacts": [],
+    "concierge": "",
+    "source": "https://aubergeresorts.com/maunalani/"
+  },
+  {
+    "name": "Mauna Kea Beach Hotel, Autograph Collection",
+    "location": "Kohala Coast, Big Island",
+    "city": "Kamuela",
+    "country": "United States",
+    "market": "Hawaii",
+    "ownership": "Prince Resorts Hawaii (Seibu Prince Hotels Worldwide)",
+    "management": "Prince Resorts Hawaii; Autograph Collection (Marriott)",
+    "contact": {
+      "address": "62-100 Mauna Kea Beach Drive, Kohala Coast, HI 96743",
+      "phone": "+1 808-882-7222",
+      "email": "",
+      "website": "https://www.maunakeabeachhotel.com/"
+    },
+    "beach_details": {
+      "private_beach": "Kauna'oa Bay — soft white-sand beach",
+      "length": "",
+      "sand_type": "White sand"
+    },
+    "amenities": [
+      "Kauna'oa Bay beach",
+      "Destination spa with 11 treatment rooms",
+      "Infinity pool",
+      "Adults-only pool",
+      "Mauna Kea Golf Course (Robert Trent Jones Sr.)",
+      "Seaside Tennis Center (9 oceanfront tennis courts, 8 pickleball courts)",
+      "Fitness center",
+      "Asian and Pacific art collection",
+      "Manta ray viewing"
+    ],
+    "vip_clubs": "",
+    "perks": "Marriott Bonvoy",
+    "pools": "Infinity pool; adults-only pool",
+    "lodging": {
+      "rooms": "252",
+      "suites": "",
+      "villas": "",
+      "residences": ""
+    },
+    "dining": "Manta (signature, Kauna'oa Bay views); four dining venues",
+    "spa_wellness": "Destination spa (11 indoor and al fresco treatment rooms, salon)",
+    "activities": "Golf, tennis, pickleball, snorkeling, manta ray viewing, cultural programs (lei making, hula, language classes, outrigger canoe)",
+    "nightlife": "",
+    "events": "Mauna Kea Luau",
+    "season": "Year-round",
+    "kids_family": "",
+    "pr_contacts": [],
+    "marketing_contacts": [],
+    "concierge": "",
+    "source": "https://www.maunakeabeachhotel.com/"
+  },
+  {
+    "name": "The Westin Hapuna Beach Resort",
+    "location": "Kohala Coast, Big Island",
+    "city": "Waimea",
+    "country": "United States",
+    "market": "Hawaii",
+    "ownership": "Seibu Holdings, Inc.",
+    "management": "Prince Resorts Hawaii (Westin franchise, Marriott)",
+    "contact": {
+      "address": "62-100 Kauna'oa Drive, Kohala Coast, HI 96743",
+      "phone": "+1 808-880-1111",
+      "email": "",
+      "website": "https://www.marriott.com/en-us/hotels/koawi-the-westin-hapuna-beach-resort/overview/"
+    },
+    "beach_details": {
+      "private_beach": "Direct access to Hapuna Beach — white-sand beach",
+      "length": "",
+      "sand_type": "White sand"
+    },
+    "amenities": [
+      "Hapuna Beach access",
+      "Two ocean-view pools including adults-only infinity pool",
+      "Family pool",
+      "Hapuna Spa by Mandara",
+      "WestinWORKOUT Center and CrossFit Studio",
+      "Arnold Palmer-designed 18-hole Hapuna Golf Course",
+      "The Spa at Mauna Kea access",
+      "Hapuna Beach Hale (beach rentals)",
+      "85,000+ sq ft event space"
+    ],
+    "vip_clubs": "",
+    "perks": "Marriott Bonvoy",
+    "pools": "Two ocean-view pools including adults-only infinity pool; family pool",
+    "lodging": {
+      "rooms": "",
+      "suites": "",
+      "villas": "",
+      "residences": ""
+    },
+    "dining": "Meridia (Mediterranean, oceanfront), Naupaka Beach Grill",
+    "spa_wellness": "Hapuna Spa by Mandara; The Spa at Mauna Kea",
+    "activities": "Golf, beach rentals (SUP, snorkel, kayak, body boards), fitness",
+    "nightlife": "",
+    "events": "",
+    "season": "Year-round",
+    "kids_family": "Family pool; pet-friendly rooms",
+    "pr_contacts": [],
+    "marketing_contacts": [],
+    "concierge": "Concierge desk",
+    "source": "https://www.marriott.com/en-us/hotels/koawi-the-westin-hapuna-beach-resort/overview/"
+  },
+  {
+    "name": "Fairmont Orchid",
+    "location": "Kohala Coast, Big Island",
+    "city": "Waimea",
+    "country": "United States",
+    "market": "Hawaii",
+    "ownership": "",
+    "management": "Fairmont Hotels & Resorts (Accor)",
+    "contact": {
+      "address": "1 North Kaniku Drive, Kohala Coast, HI 96743",
+      "phone": "+1 808-885-2000",
+      "email": "orchid@fairmont.com",
+      "website": "https://www.fairmont.com/orchid-hawaii/"
+    },
+    "beach_details": {
+      "private_beach": "Secluded white-sand beach on Pauoa Bay; private lagoon snorkeling",
+      "length": "",
+      "sand_type": "White sand"
+    },
+    "amenities": [
+      "Pauoa Bay beach and lagoon",
+      "10,000-sq-ft oceanfront pool",
+      "Fairmont Gold floor and lounge",
+      "Spa",
+      "24-hour fitness center",
+      "Hui Holokai beach ambassadors",
+      "Snorkel equipment",
+      "Hawaiian cultural classes",
+      "Tennis"
+    ],
+    "vip_clubs": "Fairmont Gold (private reception, lounge, personalized service)",
+    "perks": "ALL - Accor Live Limitless",
+    "pools": "10,000-sq-ft oceanfront pool",
+    "lodging": {
+      "rooms": "",
+      "suites": "",
+      "villas": "",
+      "residences": ""
+    },
+    "dining": "Multiple restaurants and bars (oceanfront and poolside)",
+    "spa_wellness": "Spa and wellness",
+    "activities": "Snorkeling in private lagoon, cultural classes, golf nearby",
+    "nightlife": "",
+    "events": "",
+    "season": "Year-round",
+    "kids_family": "",
+    "pr_contacts": [],
+    "marketing_contacts": [],
+    "concierge": "FairmontORCconcierge@bluehawaiian.com; +1 808-887-7320",
+    "source": "https://www.fairmont.com/orchid-hawaii/"
+  },
+  {
+    "name": "Kona Village, A Rosewood Resort",
+    "location": "Kona Coast, Big Island",
+    "city": "Kailua-Kona",
+    "country": "United States",
+    "market": "Hawaii",
+    "ownership": "",
+    "management": "Rosewood Hotels & Resorts",
+    "contact": {
+      "address": "72-300 Maheawalu Drive, Kailua-Kona, HI 96740",
+      "phone": "+1 808-865-0100",
+      "email": "",
+      "website": "https://www.rosewoodhotels.com/en/kona-village"
+    },
+    "beach_details": {
+      "private_beach": "Kahuwai Bay — black-sand beach",
+      "length": "",
+      "sand_type": "Black sand"
+    },
+    "amenities": [
+      "150 standalone thatch-roofed hale",
+      "Four outdoor pools including adults-only lap pool",
+      "Asaya Spa",
+      "Fitness center",
+      "Tennis and pickleball",
+      "Complimentary bicycles",
+      "Cultural programming (petroglyphs, archaeological sites)",
+      "Private cabanas"
+    ],
+    "vip_clubs": "",
+    "perks": "",
+    "pools": "Four outdoor pools including adults-only lap pool",
+    "lodging": {
+      "rooms": "150",
+      "suites": "",
+      "villas": "Kauhale (one- to four-bedroom, some with private pools)",
+      "residences": ""
+    },
+    "dining": "Moana (signature), Kahuwai Cookhouse & Market, Shipwreck Bar & Sushi, Talk Story Bar, Moana Cocktail Bar, Hawaiian Beach Bar",
+    "spa_wellness": "Asaya Spa",
+    "activities": "Ocean activities, cultural experiences, tennis, pickleball, cycling",
+    "nightlife": "Talk Story Bar; Shipwreck Bar",
+    "events": "Hale Ho'okipa Lū'au & Event Grounds",
+    "season": "Year-round",
+    "kids_family": "Family pool; sand-bottom kids pool",
+    "pr_contacts": [],
+    "marketing_contacts": [],
+    "concierge": "konavillage.concierge@rosewoodhotels.com",
+    "source": "https://www.rosewoodhotels.com/en/kona-village"
+  },
+  {
+    "name": "Four Seasons Resort Maui at Wailea",
+    "location": "Wailea, Maui",
+    "city": "Wailea",
+    "country": "United States",
+    "market": "Hawaii",
+    "ownership": "",
+    "management": "Four Seasons Hotels and Resorts",
+    "contact": {
+      "address": "3900 Wailea Alanui Drive, Wailea, Maui, HI 96753",
+      "phone": "+1 (808) 874-8000",
+      "email": "",
+      "website": "https://www.fourseasons.com/maui/"
+    },
+    "beach_details": {
+      "private_beach": "Wailea Beach — golden sands; snorkeling, paddleboarding",
+      "length": "",
+      "sand_type": "Golden sand"
+    },
+    "amenities": [
+      "Wailea Beach with chaise lounges, umbrellas and personalized service",
+      "Resort cabanas",
+      "Spa & Wellness Centre",
+      "Fitness facilities",
+      "Racquet sports",
+      "Club Floor rooms",
+      "Luxury boutiques",
+      "Cultural programs"
+    ],
+    "vip_clubs": "The Club (Club Floor: breakfast, full-service bar, private check-in/out)",
+    "perks": "",
+    "pools": "Multiple pools; elevated poolside experiences",
+    "lodging": {
+      "rooms": "383",
+      "suites": "",
+      "villas": "",
+      "residences": ""
+    },
+    "dining": "Spago Maui, Ferraro's Restaurant & Bar (oceanfront), DUO Steak and Seafood, KOMO (sushi)",
+    "spa_wellness": "Spa & Wellness Centre (Aquathermal experience)",
+    "activities": "Snorkeling, paddleboarding, cultural activities, racquet sports",
+    "nightlife": "",
+    "events": "",
+    "season": "Year-round",
+    "kids_family": "Family programs",
+    "pr_contacts": [],
+    "marketing_contacts": [],
+    "concierge": "",
+    "source": "https://www.fourseasons.com/maui/"
+  },
+  {
+    "name": "Grand Wailea, A Waldorf Astoria Resort",
+    "location": "Wailea, Maui",
+    "city": "Wailea",
+    "country": "United States",
+    "market": "Hawaii",
+    "ownership": "BRE Hotels & Resorts (Blackstone)",
+    "management": "Hilton (Waldorf Astoria)",
+    "contact": {
+      "address": "3850 Wailea Alanui Drive, Wailea, HI 96753",
+      "phone": "+1-808-875-1234",
+      "email": "",
+      "website": "https://www.grandwailea.com/"
+    },
+    "beach_details": {
+      "private_beach": "Wailea Beach",
+      "length": "",
+      "sand_type": "White/golden sand"
+    },
+    "amenities": [
+      "Nine pools with 2,000-ft river and waterslides",
+      "Kilolani Spa",
+      "Napua club-level floors",
+      "Ho'olei Villas",
+      "Wellness Rooms",
+      "Fitness center",
+      "Chapel",
+      "Tennis"
+    ],
+    "vip_clubs": "Napua (club-level rooms and suites on private upper floors)",
+    "perks": "Hilton Honors",
+    "pools": "Nine pools with 2,000-ft river and waterslides; elaborate family pools and adults areas",
+    "lodging": {
+      "rooms": "737",
+      "suites": "57",
+      "villas": "50",
+      "residences": ""
+    },
+    "dining": "Nobu Grand Wailea Maui, Humuhumunukunukuapua'a, Olivine, Botero (lobby lounge)",
+    "spa_wellness": "Kilolani Spa & Salon",
+    "activities": "Outrigger canoe, cultural programs, tennis",
+    "nightlife": "Botero — live music nightly",
+    "events": "",
+    "season": "Year-round",
+    "kids_family": "Family pools, kids' programs",
+    "pr_contacts": [],
+    "marketing_contacts": [],
+    "concierge": "Napua concierge",
+    "source": "https://www.grandwailea.com/"
+  },
+  {
+    "name": "Andaz Maui at Wailea Resort",
+    "location": "Wailea, Maui",
+    "city": "Wailea",
+    "country": "United States",
+    "market": "Hawaii",
+    "ownership": "",
+    "management": "Hyatt (Andaz)",
+    "contact": {
+      "address": "3550 Wailea Alanui Drive, Wailea, HI 96753",
+      "phone": "+1 808-573-1234",
+      "email": "",
+      "website": "https://www.hyatt.com/andaz/en-US/oggaw-andaz-maui-at-wailea-resort"
+    },
+    "beach_details": {
+      "private_beach": "Direct access to Mokapu Beach",
+      "length": "",
+      "sand_type": ""
+    },
+    "amenities": [
+      "15 beachfront acres",
+      "Cascading infinity pools",
+      "'Awili Spa & Salon",
+      "Fitness center",
+      "Private lanais in all accommodations",
+      "Beach villas with kitchens and plunge pools"
+    ],
+    "vip_clubs": "",
+    "perks": "World of Hyatt",
+    "pools": "Cascading infinity pools",
+    "lodging": {
+      "rooms": "320",
+      "suites": "",
+      "villas": "30 villas",
+      "residences": ""
+    },
+    "dining": "Ka'ana Kitchen (farm-to-table), Morimoto Maui, Mokapu Market, Bumbye Bar, Lawai'a Lounge",
+    "spa_wellness": "'Awili Spa & Salon",
+    "activities": "Beach activities, cultural programs",
+    "nightlife": "Lawai'a Lounge (evening lobby bar)",
+    "events": "Feast at Mōkapu (luxury lu'au)",
+    "season": "Year-round",
+    "kids_family": "",
+    "pr_contacts": [],
+    "marketing_contacts": [],
+    "concierge": "",
+    "source": "https://www.hyatt.com/andaz/en-US/oggaw-andaz-maui-at-wailea-resort"
+  },
+  {
+    "name": "Fairmont Kea Lani",
+    "location": "Wailea, Maui",
+    "city": "Wailea",
+    "country": "United States",
+    "market": "Hawaii",
+    "ownership": "",
+    "management": "Fairmont Hotels & Resorts (Accor)",
+    "contact": {
+      "address": "4100 Wailea Alanui Drive, Wailea, Maui, HI 96753",
+      "phone": "+1 808-875-4100",
+      "email": "info@kealani.com",
+      "website": "https://www.fairmont.com/kea-lani-maui/"
+    },
+    "beach_details": {
+      "private_beach": "Polo Beach — sugar-white sand",
+      "length": "",
+      "sand_type": "White sand"
+    },
+    "amenities": [
+      "Hawaii's only all-suite and villa oceanfront resort",
+      "Three pools (adults-only tranquility pool + two family pools, 140-ft waterslide)",
+      "Fairmont Spa (13 treatment rooms)",
+      "Hale Kukuna cultural center",
+      "Pilina bar and sushi lounge",
+      "24-hour fitness center",
+      "Hawaiian cultural programs"
+    ],
+    "vip_clubs": "",
+    "perks": "ALL - Accor Live Limitless",
+    "pools": "Three pools including adults-only tranquility pool",
+    "lodging": {
+      "rooms": "",
+      "suites": "413",
+      "villas": "37",
+      "residences": ""
+    },
+    "dining": "Pilina (bar and sushi lounge), AMA Bar & Grill (Upper Pool, swim-up bar), multiple restaurants",
+    "spa_wellness": "Fairmont Spa (13 treatment rooms, oceanside and poolside cabanas)",
+    "activities": "Kayak, paddleboard, surf, snorkel, scuba; Hawaiian outrigger canoe; hula and 'ukulele lessons",
+    "nightlife": "Pilina (bar and sushi lounge)",
+    "events": "Ali'i Imu Experience; oceanside weddings",
+    "season": "Year-round",
+    "kids_family": "Family pools with waterslide; children's programs",
+    "pr_contacts": [],
+    "marketing_contacts": [],
+    "concierge": "",
+    "source": "https://www.fairmont.com/kea-lani-maui/"
+  },
+  {
+    "name": "Wailea Beach Resort – Marriott, Maui",
+    "location": "Wailea, Maui",
+    "city": "Wailea",
+    "country": "United States",
+    "market": "Hawaii",
+    "ownership": "",
+    "management": "Marriott International",
+    "contact": {
+      "address": "3700 Wailea Alanui Drive, Wailea, HI 96753",
+      "phone": "+1 808-879-1922",
+      "email": "",
+      "website": "https://www.marriott.com/en-us/hotels/hnmmc-wailea-beach-resort-marriott-maui/overview/"
+    },
+    "beach_details": {
+      "private_beach": "Between Wailea Beach and Ulua Beach",
+      "length": "",
+      "sand_type": ""
+    },
+    "amenities": [
+      "Six resort pools",
+      "Hawaii's longest hotel waterslide",
+      "Private floating cabanas",
+      "Mandara Spa",
+      "Modern fitness center",
+      "Oceanfront Villas (1-4 bedrooms)",
+      "Luau",
+      "Private cinema",
+      "Children's center"
+    ],
+    "vip_clubs": "",
+    "perks": "Marriott Bonvoy",
+    "pools": "Six resort pools; longest hotel waterslide in Hawaii",
+    "lodging": {
+      "rooms": "543",
+      "suites": "58",
+      "villas": "Oceanfront Villas (one- to four-bedroom)",
+      "residences": ""
+    },
+    "dining": "HUMBLE MARKET KITCHIN by Roy Yamaguchi, KAPA, Whale's Tale; six dining options",
+    "spa_wellness": "Mandara Spa",
+    "activities": "Waterslides, beach activities, luau",
+    "nightlife": "",
+    "events": "Luau show",
+    "season": "Year-round",
+    "kids_family": "Children's center; adventure pool with waterslides; family-friendly",
+    "pr_contacts": [],
+    "marketing_contacts": [],
+    "concierge": "Concierge desk",
+    "source": "https://www.marriott.com/en-us/hotels/hnmmc-wailea-beach-resort-marriott-maui/overview/"
+  },
+  {
+    "name": "Montage Kapalua Bay",
+    "location": "Kapalua, Maui",
+    "city": "Lahaina",
+    "country": "United States",
+    "market": "Hawaii",
+    "ownership": "",
+    "management": "Montage Hotels & Resorts",
+    "contact": {
+      "address": "",
+      "phone": "(808) 662-6600",
+      "email": "",
+      "website": "https://www.montagehotels.com/kapaluabay/"
+    },
+    "beach_details": {
+      "private_beach": "Beachfront atop Kapalua Bay",
+      "length": "",
+      "sand_type": ""
+    },
+    "amenities": [
+      "24 acres beachfront",
+      "50 residential-style accommodations",
+      "Spa Montage",
+      "Cliff House venue",
+      "Fitness center",
+      "Tennis"
+    ],
+    "vip_clubs": "",
+    "perks": "",
+    "pools": "",
+    "lodging": {
+      "rooms": "",
+      "suites": "50 residential-style suites (one- to four-bedroom)",
+      "villas": "",
+      "residences": "6 grand residences"
+    },
+    "dining": "Cane & Canoe (signature), Cliff House / Champagne Hale",
+    "spa_wellness": "Spa Montage",
+    "activities": "Whale watching (Jan-Mar), snorkeling, golf nearby",
+    "nightlife": "",
+    "events": "Weddings and gatherings",
+    "season": "Year-round",
+    "kids_family": "",
+    "pr_contacts": [
+      {
+        "name": "Jamie Goldstein",
+        "title": "PR (Hawkins International PR)",
+        "email": "Jamie@hawkpr.com",
+        "phone": "(212) 255-6541"
+      },
+      {
+        "name": "Catherine Hutchison",
+        "title": "Resort contact",
+        "email": "chutchison@montagehotels.com",
+        "phone": "(808) 662-6639"
+      }
+    ],
+    "marketing_contacts": [],
+    "concierge": "",
+    "source": "https://www.montagehotels.com/kapaluabay/"
+  },
+  {
+    "name": "The Ritz-Carlton Maui, Kapalua",
+    "location": "Kapalua, Maui",
+    "city": "Lahaina",
+    "country": "United States",
+    "market": "Hawaii",
+    "ownership": "",
+    "management": "Marriott (The Ritz-Carlton)",
+    "contact": {
+      "address": "1 Ritz-Carlton Drive, Kapalua, HI 96761",
+      "phone": "+1 808-669-6200",
+      "email": "",
+      "website": "https://www.ritzcarlton.com/en/hotels/jhmrz-the-ritz-carlton-maui-kapalua/overview/"
+    },
+    "beach_details": {
+      "private_beach": "Beachfront; direct access to D.T. Fleming Beach; Honokahua Bay",
+      "length": "",
+      "sand_type": ""
+    },
+    "amenities": [
+      "468 rooms and suites",
+      "Ritz-Carlton Club Lounge at Anuenue Room",
+      "17,500-sq-ft spa with 15 treatment rooms",
+      "Two championship golf courses (Bay and Plantation)",
+      "Kapalua Golf Academy",
+      "Fire Lanai rooms with private fire pits",
+      "Residential suites with kitchens",
+      "Poolside cabanas (Oasis Day Bed, Poolside Cabana Suite)"
+    ],
+    "vip_clubs": "The Ritz-Carlton Club Lounge at the Anuenue Room (dedicated concierge)",
+    "perks": "Marriott Bonvoy",
+    "pools": "Multiple pools; whirlpool",
+    "lodging": {
+      "rooms": "468",
+      "suites": "",
+      "villas": "",
+      "residences": "Residential suites (one- and two-bedroom)"
+    },
+    "dining": "The Banyan Tree, Ulana Terrace (breakfast), Burger Shack, Alaloa Lounge, Kai Cafe, 'Olu Poolside / 'Olu Cafe, Tales of the Kapa Moe luau",
+    "spa_wellness": "The Ritz-Carlton Spa Maui, Kapalua (17,500 sq ft, 15 treatment rooms)",
+    "activities": "Golf, snorkeling (Kapalua Bay), yoga, hiking trails, horseback riding, 70+ weekly curated experiences",
+    "nightlife": "Alaloa Lounge (live entertainment); Kapalua Concert Series",
+    "events": "Kapalua Wine & Food Festival (June); Whale Tales (February); Tales of the Kapa Moe luau",
+    "season": "Year-round",
+    "kids_family": "Family programs",
+    "pr_contacts": [],
+    "marketing_contacts": [],
+    "concierge": "Concierge desk; Club Concierge",
+    "source": "https://www.ritzcarlton.com/en/hotels/jhmrz-the-ritz-carlton-maui-kapalua/overview/"
+  },
+  {
+    "name": "Hyatt Regency Maui Resort and Spa",
+    "location": "Ka'anapali, Maui",
+    "city": "Lahaina",
+    "country": "United States",
+    "market": "Hawaii",
+    "ownership": "",
+    "management": "Hyatt",
+    "contact": {
+      "address": "200 Nohea Kai Drive, Lahaina, HI 96761-1985",
+      "phone": "+1 808-661-1234",
+      "email": "",
+      "website": "https://www.hyatt.com/hyatt-regency/en-US/oggrm-hyatt-regency-maui-resort-and-spa"
+    },
+    "beach_details": {
+      "private_beach": "Ka'anapali Beach — 40 oceanfront acres",
+      "length": "",
+      "sand_type": ""
+    },
+    "amenities": [
+      "Waterpark pool with 150-ft lava-tube slide and swim-up grotto bar",
+      "Adults-only infinity pool",
+      "Kamaha'o (Marilyn Monroe Spa) — Maui's only oceanfront full-service spa",
+      "Regency Club Lounge",
+      "24-hour fitness center",
+      "Three towers",
+      "Ka'anapali Golf Courses (adjacent)",
+      "Penguin habitat",
+      "Japanese garden"
+    ],
+    "vip_clubs": "Regency Club Lounge (private concierge, breakfast, sunset cocktails)",
+    "perks": "World of Hyatt",
+    "pools": "Waterpark pool with 150-ft slide; adults-only infinity pool; children's splash pad",
+    "lodging": {
+      "rooms": "810",
+      "suites": "31",
+      "villas": "",
+      "residences": ""
+    },
+    "dining": "Japengo, Son'z Steakhouse, Umalu, Grotto Bar, Swan Court, Drums of the Pacific Lu'au",
+    "spa_wellness": "Kamaha'o, a Marilyn Monroe Spa (oceanfront)",
+    "activities": "SUP, kayak, snorkel, scuba; golf; cultural programs",
+    "nightlife": "",
+    "events": "Drums of the Pacific Lu'au",
+    "season": "Year-round",
+    "kids_family": "Waterpark pool; kids' programs",
+    "pr_contacts": [],
+    "marketing_contacts": [],
+    "concierge": "",
+    "source": "https://www.hyatt.com/hyatt-regency/en-US/oggrm-hyatt-regency-maui-resort-and-spa"
+  },
+  {
+    "name": "1 Hotel Hanalei Bay",
+    "location": "Princeville (Hanalei Bay), Kauai",
+    "city": "Princeville",
+    "country": "United States",
+    "market": "Hawaii",
+    "ownership": "",
+    "management": "1 Hotels (SH Hotels & Resorts)",
+    "contact": {
+      "address": "5520 Ka Haku Road, Princeville, HI 96722",
+      "phone": "+1 808-826-9644",
+      "email": "",
+      "website": "https://www.1hotels.com/hanalei-bay/"
+    },
+    "beach_details": {
+      "private_beach": "Hillside above Hanalei Bay; Puu Poa Beach below",
+      "length": "",
+      "sand_type": ""
+    },
+    "amenities": [
+      "252 rooms incl. 51 suites",
+      "18,000-sq-ft Bamford Wellness Spa",
+      "LEED-certified sustainable design",
+      "Multiple pools",
+      "Seedlings kids program",
+      "Princeville Makai Golf Club (Robert Trent Jones Jr.)",
+      "Tennis and pickleball",
+      "Electric Audi fleet",
+      "Retreat Collection (VIP)"
+    ],
+    "vip_clubs": "Retreat Collection (concierge, cabana, spa treatments, transfers)",
+    "perks": "",
+    "pools": "Multiple pools",
+    "lodging": {
+      "rooms": "252",
+      "suites": "51",
+      "villas": "",
+      "residences": ""
+    },
+    "dining": "1 Kitchen (signature, farm-to-table), Welina Terrace (Japanese-inspired), The Sandbox (poolside), Neighbors Café, The Juice Bar, Wai'oli",
+    "spa_wellness": "Bamford Wellness Spa (18,000 sq ft)",
+    "activities": "Hiking, kayaking, golf, tennis, pickleball, beach cruisers",
+    "nightlife": "Welina Terrace (live local music)",
+    "events": "Rooted in Place harvest dinners",
+    "season": "Year-round",
+    "kids_family": "Seedlings kids program",
+    "pr_contacts": [],
+    "marketing_contacts": [],
+    "concierge": "",
+    "source": "https://www.1hotels.com/hanalei-bay/"
+  },
+  {
+    "name": "Grand Hyatt Kauai Resort & Spa",
+    "location": "Poipu, Kauai",
+    "city": "Koloa",
+    "country": "United States",
+    "market": "Hawaii",
+    "ownership": "",
+    "management": "Hyatt",
+    "contact": {
+      "address": "1571 Poipu Road, Koloa, HI 96756",
+      "phone": "+1 808-742-1234",
+      "email": "",
+      "website": "https://www.hyatt.com/grand-hyatt/en-US/kauai-grand-hyatt-kauai-resort-and-spa"
+    },
+    "beach_details": {
+      "private_beach": "Poipu Beach — white sands",
+      "length": "",
+      "sand_type": "White sand"
+    },
+    "amenities": [
+      "50 acres of gardens",
+      "Multi-level pool complex with lazy river and 150-ft waterslide",
+      "1.5-acre saltwater lagoon",
+      "Anara Spa",
+      "Grand Club",
+      "Poipu Bay Golf Course",
+      "Tennis",
+      "24-hour front desk"
+    ],
+    "vip_clubs": "Grand Club",
+    "perks": "World of Hyatt",
+    "pools": "Multi-level pools, lazy river, 150-ft waterslide, saltwater lagoon",
+    "lodging": {
+      "rooms": "605",
+      "suites": "42",
+      "villas": "",
+      "residences": ""
+    },
+    "dining": "Tidepools (contemporary Hawaiian), Stevenson's Sushi & Spirits, Grand Hyatt Kaua'i Luau",
+    "spa_wellness": "Anara Spa",
+    "activities": "Golf, tennis, luau, cultural programs",
+    "nightlife": "",
+    "events": "Grand Hyatt Kaua'i Luau",
+    "season": "Year-round",
+    "kids_family": "Lazy river, waterslide, kids' programs",
+    "pr_contacts": [],
+    "marketing_contacts": [],
+    "concierge": "",
+    "source": "https://www.hyatt.com/grand-hyatt/en-US/kauai-grand-hyatt-kauai-resort-and-spa"
+  },
+  {
+    "name": "Ko'a Kea Resort on Poipu Beach",
+    "location": "Poipu, Kauai",
+    "city": "Koloa",
+    "country": "United States",
+    "market": "Hawaii",
+    "ownership": "Pacific Hospitality Group",
+    "management": "Pacific Hospitality Group (Meritage Collection)",
+    "contact": {
+      "address": "2251 Poipu Road, Koloa, HI 96756",
+      "phone": "+1 808-742-4200",
+      "email": "",
+      "website": "https://www.koakea.com/"
+    },
+    "beach_details": {
+      "private_beach": "Direct access to Poipu Beach",
+      "length": "",
+      "sand_type": ""
+    },
+    "amenities": [
+      "121 rooms incl. 9 suites",
+      "Oceanfront spa",
+      "Outdoor pool and lava-rock hot tub",
+      "Fitness studio",
+      "Red Salt restaurant",
+      "Hoku watersports hut",
+      "Oceanside fire pits",
+      "11,170 sq ft meeting space"
+    ],
+    "vip_clubs": "",
+    "perks": "",
+    "pools": "Tropical pool and lava-rock hot tub with ocean views",
+    "lodging": {
+      "rooms": "121",
+      "suites": "9",
+      "villas": "",
+      "residences": ""
+    },
+    "dining": "Red Salt (modern Hawaiian, award-winning), sushi venue, poolside dining",
+    "spa_wellness": "Oceanfront spa",
+    "activities": "Hoku watersports (bike, snorkel, SUP, surf rentals and lessons)",
+    "nightlife": "",
+    "events": "Weddings and celebrations",
+    "season": "Year-round",
+    "kids_family": "",
+    "pr_contacts": [],
+    "marketing_contacts": [],
+    "concierge": "Concierge",
+    "source": "https://www.koakea.com/"
+  },
+  {
+    "name": "Sheraton Kauai Coconut Beach Resort",
+    "location": "Kapaa (Coconut Coast), Kauai",
+    "city": "Kapaa",
+    "country": "United States",
+    "market": "Hawaii",
+    "ownership": "",
+    "management": "Davidson Hospitality Group (Pivot Hotels & Resorts); Sheraton (Marriott)",
+    "contact": {
+      "address": "650 Aleka Loop, Kapaa, HI 96746",
+      "phone": "+1 808-822-3455",
+      "email": "",
+      "website": "https://www.marriott.com/en-us/hotels/lihsk-sheraton-kauai-coconut-beach-resort/overview/"
+    },
+    "beach_details": {
+      "private_beach": "Coconut Beach — beachfront; rocky shoreline, not ideal for swimming",
+      "length": "",
+      "sand_type": ""
+    },
+    "amenities": [
+      "314 rooms",
+      "Zero-edge infinity pool with separate children/adult areas",
+      "Oceanfront bar",
+      "Fire pits",
+      "Beach loungers",
+      "Fitness center",
+      "Luau Ka Hikina",
+      "Century-old coconut grove"
+    ],
+    "vip_clubs": "",
+    "perks": "Marriott Bonvoy",
+    "pools": "Infinity-edge pool with children and adult areas",
+    "lodging": {
+      "rooms": "314",
+      "suites": "2",
+      "villas": "",
+      "residences": ""
+    },
+    "dining": "The Crooked Surf (oceanfront bar & restaurant), Moamoa Hawaiian Fish House, Daybreak Restaurant, First Light Coffee and Juice Bar, Fire Hen Arcade and Bar",
+    "spa_wellness": "",
+    "activities": "Sunrise beach yoga, coastal biking, Wailua River adventures",
+    "nightlife": "",
+    "events": "Luau Ka Hikina",
+    "season": "Year-round",
+    "kids_family": "Children's pool area; family-friendly",
+    "pr_contacts": [],
+    "marketing_contacts": [],
+    "concierge": "Concierge desk",
+    "source": "https://www.marriott.com/en-us/hotels/lihsk-sheraton-kauai-coconut-beach-resort/overview/"
+  },
+  {
+    "name": "Halekulani",
+    "location": "Waikiki, Oahu",
+    "city": "Honolulu",
+    "country": "United States",
+    "market": "Hawaii",
+    "ownership": "Halekulani Corporation (Mitsui Fudosan)",
+    "management": "Halekulani Corporation",
+    "contact": {
+      "address": "2199 Kalia Road, Honolulu, HI 96815",
+      "phone": "1 (808) 923-2311",
+      "email": "reservations@halekulani.com",
+      "website": "https://www.halekulani.com/"
+    },
+    "beach_details": {
+      "private_beach": "Beachfront on Waikiki Beach; unobstructed Diamond Head views",
+      "length": "",
+      "sand_type": ""
+    },
+    "amenities": [
+      "453 rooms and suites",
+      "SpaHalekulani",
+      "Pool",
+      "Fitness & movement studio",
+      "Three restaurants, three cocktail lounges",
+      "No resort fee",
+      "Complimentary arts & culture access (Bishop Museum, Iolani Palace, etc.)",
+      "Historian-led legacy tours"
+    ],
+    "vip_clubs": "",
+    "perks": "",
+    "pools": "Pool with poolside bar",
+    "lodging": {
+      "rooms": "453",
+      "suites": "42",
+      "villas": "",
+      "residences": ""
+    },
+    "dining": "La Mer (AAA Five Diamond, Forbes 5-Star French), Orchids (oceanfront), House Without a Key, Lewers Lounge",
+    "spa_wellness": "SpaHalekulani (holistic, Pacific healing traditions)",
+    "activities": "Cultural programs, legacy tours, beach activities",
+    "nightlife": "Lewers Lounge; live music",
+    "events": "",
+    "season": "Year-round",
+    "kids_family": "",
+    "pr_contacts": [],
+    "marketing_contacts": [],
+    "concierge": "",
+    "source": "https://www.halekulani.com/"
+  },
+  {
+    "name": "The Royal Hawaiian, a Luxury Collection Resort",
+    "location": "Waikiki, Oahu",
+    "city": "Honolulu",
+    "country": "United States",
+    "market": "Hawaii",
+    "ownership": "Kyo-ya Hotels & Resorts, LP",
+    "management": "Marriott (The Luxury Collection)",
+    "contact": {
+      "address": "2259 Kalakaua Avenue, Honolulu, HI 96815",
+      "phone": "+1-808-923-7311",
+      "email": "",
+      "website": "https://www.royal-hawaiian.com/"
+    },
+    "beach_details": {
+      "private_beach": "Waikiki Beach; private beachfront cabanas",
+      "length": "",
+      "sand_type": ""
+    },
+    "amenities": [
+      "528 rooms; Historic Wing and Mailani Tower",
+      "Abhasa Spa",
+      "Poolside cabanas",
+      "Beachfront luau",
+      "66,000+ sq ft beachfront space"
+    ],
+    "vip_clubs": "",
+    "perks": "Marriott Bonvoy",
+    "pools": "Pool; private poolside cabanas",
+    "lodging": {
+      "rooms": "528",
+      "suites": "34",
+      "villas": "",
+      "residences": ""
+    },
+    "dining": "Azure (award-winning seafood), Mai Tai Bar, Surf Lanai, Ahaaina (A Royal Hawaiian Luau), Royal Hawaiian Bakery",
+    "spa_wellness": "Abhasa Spa",
+    "activities": "Luau, cultural experiences",
+    "nightlife": "Mai Tai Bar (live music)",
+    "events": "Ahaaina luau (Mon & Thu)",
+    "season": "Year-round",
+    "kids_family": "",
+    "pr_contacts": [],
+    "marketing_contacts": [],
+    "concierge": "",
+    "source": "https://www.royal-hawaiian.com/"
+  },
+  {
+    "name": "Moana Surfrider, A Westin Resort & Spa",
+    "location": "Waikiki, Oahu",
+    "city": "Honolulu",
+    "country": "United States",
+    "market": "Hawaii",
+    "ownership": "Kyo-ya Company, Ltd.",
+    "management": "Marriott (Westin)",
+    "contact": {
+      "address": "2365 Kalakaua Avenue, Honolulu, HI 96815",
+      "phone": "+1 808-922-3111",
+      "email": "",
+      "website": "https://www.marriott.com/en-us/hotels/hnlwi-moana-surfrider-a-westin-resort-and-spa-waikiki-beach/overview/"
+    },
+    "beach_details": {
+      "private_beach": "Waikiki Beach; 600 feet of shoreline",
+      "length": "600 feet of shoreline",
+      "sand_type": ""
+    },
+    "amenities": [
+      "791 guest rooms (Tower, Banyan, Surfrider wings)",
+      "Moana Lani Spa (17,000+ sq ft, oceanfront)",
+      "Outdoor pool",
+      "WestinWORKOUT Fitness Studio",
+      "Beach cabanas and daybeds",
+      "Cultural programming",
+      "Historic Hotels of America member"
+    ],
+    "vip_clubs": "",
+    "perks": "Marriott Bonvoy",
+    "pools": "Moana Pool (outdoor)",
+    "lodging": {
+      "rooms": "791",
+      "suites": "47",
+      "villas": "",
+      "residences": ""
+    },
+    "dining": "Beachhouse at The Moana, The Beach Bar, The Veranda (afternoon tea), Vintage 1901 (wine bar), Surfrider Cafe, Honolulu Coffee",
+    "spa_wellness": "Moana Lani Spa, a Heavenly Spa by Westin (Waikiki's only oceanfront spa; 16 treatment rooms, 2 oceanfront couples suites)",
+    "activities": "Outrigger canoe surfing, surf lessons, sunrise ceremony, lei making, historical tours, oceanfront yoga",
+    "nightlife": "Vintage 1901 (live piano); The Beach Bar (live entertainment)",
+    "events": "Oceanfront weddings; resort event calendar",
+    "season": "Year-round",
+    "kids_family": "Poppins Day Care (at Sheraton Waikiki); children's recreation",
+    "pr_contacts": [],
+    "marketing_contacts": [],
+    "concierge": "Oahu Activities Concierge",
+    "source": "https://www.marriott.com/en-us/hotels/hnlwi-moana-surfrider-a-westin-resort-and-spa-waikiki-beach/overview/"
+  },
+  {
+    "name": "The Kahala Hotel & Resort",
+    "location": "Kahala, Oahu",
+    "city": "Honolulu",
+    "country": "United States",
+    "market": "Hawaii",
+    "ownership": "Resorttrust Group (Resorttrust Hawaii, LLC)",
+    "management": "Resorttrust Hawaii, LLC",
+    "contact": {
+      "address": "5000 Kahala Avenue, Honolulu, HI 96816",
+      "phone": "+1-808-739-8888",
+      "email": "",
+      "website": "https://www.kahalaresort.com/"
+    },
+    "beach_details": {
+      "private_beach": "800 feet of white-sand beach; private beach",
+      "length": "800 feet",
+      "sand_type": "White sand"
+    },
+    "amenities": [
+      "338 rooms (306 rooms + 32 suites)",
+      "Private dolphin lagoon",
+      "Kahala Spa",
+      "Five restaurants",
+      "Fitness center",
+      "Tropical gardens",
+      "Business center"
+    ],
+    "vip_clubs": "",
+    "perks": "",
+    "pools": "Pool; Seaside Grill poolside",
+    "lodging": {
+      "rooms": "306",
+      "suites": "32",
+      "villas": "",
+      "residences": ""
+    },
+    "dining": "Hoku's (by Alan Wong), Plumeria Beach House, Seaside Grill, The Veranda; five restaurants",
+    "spa_wellness": "Kahala Spa (award-winning, native Hawaiian healing)",
+    "activities": "Cultural activities, dolphin lagoon viewing, live music",
+    "nightlife": "Live music",
+    "events": "",
+    "season": "Year-round",
+    "kids_family": "Children's activities",
+    "pr_contacts": [
+      {
+        "name": "",
+        "title": "Press inquiries",
+        "email": "news@kahalaresort.com",
+        "phone": ""
+      }
+    ],
+    "marketing_contacts": [],
+    "concierge": "",
+    "source": "https://www.kahalaresort.com/"
+  },
+  {
+    "name": "The Ritz-Carlton O'ahu, Turtle Bay",
+    "location": "North Shore, Oahu",
+    "city": "Kahuku",
+    "country": "United States",
+    "market": "Hawaii",
+    "ownership": "Host Hotels & Resorts",
+    "management": "Marriott (The Ritz-Carlton)",
+    "contact": {
+      "address": "57-091 Kamehameha Highway, Kahuku, HI 96731",
+      "phone": "+1 808-293-6000",
+      "email": "",
+      "website": "https://www.turtlebayresort.com/"
+    },
+    "beach_details": {
+      "private_beach": "Five miles of coastline; seven beaches; Kuilima Cove",
+      "length": "Five miles of coastline",
+      "sand_type": ""
+    },
+    "amenities": [
+      "450 rooms, suites, villas and Ocean Bungalows",
+      "Ritz-Carlton Club",
+      "Ocean Bungalows with private infinity pool",
+      "Spa & wellness",
+      "Golf (Fazio course)",
+      "Stables and horseback riding",
+      "Nature trails",
+      "Snorkeling, kayak, canoe tours"
+    ],
+    "vip_clubs": "The Ritz-Carlton Club (private oceanfront lounge, daily culinary presentations, dedicated concierge)",
+    "perks": "Marriott Bonvoy",
+    "pools": "Main Resort Pool; Sunset Pool Bar; Ocean Bungalows private infinity pool",
+    "lodging": {
+      "rooms": "450",
+      "suites": "",
+      "villas": "",
+      "residences": ""
+    },
+    "dining": "Alaia (signature), Beach House by Roy Yamaguchi (Kuilima Cove), Off The Lip (lobby bar), Sunset Pool Bar, Ho'olana (coffee), Lei Lei's Bar & Grill, Paniolo luau",
+    "spa_wellness": "Spa & wellness",
+    "activities": "Horseback riding, snorkeling, kayak and canoe tours, hiking trails, golf, surf",
+    "nightlife": "Off The Lip (sunset cocktails); live music at Sunset Pool Bar",
+    "events": "Paniolo, A Hawaiian Cowboy Lū'au (weekly)",
+    "season": "Year-round",
+    "kids_family": "Family-friendly; pet-friendly rooms",
+    "pr_contacts": [],
+    "marketing_contacts": [],
+    "concierge": "Concierge desk; Club concierge",
+    "source": "https://www.turtlebayresort.com/"
+  },
+  {
+    "name": "Four Seasons Resort O'ahu at Ko Olina",
+    "location": "Ko Olina, Oahu",
+    "city": "Kapolei",
+    "country": "United States",
+    "market": "Hawaii",
+    "ownership": "",
+    "management": "Four Seasons Hotels and Resorts",
+    "contact": {
+      "address": "92-1001 Olani Street, Kapolei, HI 96707",
+      "phone": "+1 (808) 679-0079",
+      "email": "",
+      "website": "https://www.fourseasons.com/oahu/"
+    },
+    "beach_details": {
+      "private_beach": "White-sand beach on Ko Olina Lagoon (Lagoon One)",
+      "length": "",
+      "sand_type": "White sand"
+    },
+    "amenities": [
+      "370 rooms and suites",
+      "Four pools including adults-only infinity-edge pool",
+      "Naupaka Spa & Wellness Centre",
+      "Club Lounge (16th/17th floors)",
+      "Fitness center",
+      "Tennis and pickleball",
+      "Cultural programs",
+      "Complimentary snorkeling gear"
+    ],
+    "vip_clubs": "Club Lounge (16th and 17th floors; breakfast, hors d'oeuvres, premium beverages)",
+    "perks": "",
+    "pools": "Four pools including adults-only infinity-edge pool with swim-up bar",
+    "lodging": {
+      "rooms": "370",
+      "suites": "55",
+      "villas": "",
+      "residences": ""
+    },
+    "dining": "Mina's Fish House (signature, Chef Michael Mina), Noe (Italian), La Hiki, Mānalo Lounge, Waterman Bar, Hokulea, five|one|six (rooftop), Dr. Mai Tai's",
+    "spa_wellness": "Naupaka Spa & Wellness Centre",
+    "activities": "Nalu Surf Experience (pro surf instruction), Pearl Harbor Warbird Legacy Flight, Polynesian canoe, cultural workshops",
+    "nightlife": "Dr. Mai Tai's; five|one|six rooftop bar",
+    "events": "",
+    "season": "Year-round",
+    "kids_family": "Kids' club; family-friendly",
+    "pr_contacts": [],
+    "marketing_contacts": [],
+    "concierge": "",
+    "source": "https://www.fourseasons.com/oahu/"
+  },
+  {
+    "name": "Aulani, A Disney Resort & Spa",
+    "location": "Ko Olina, Oahu",
+    "city": "Kapolei",
+    "country": "United States",
+    "market": "Hawaii",
+    "ownership": "Disney (Disney Vacation Club / Disney Parks)",
+    "management": "Disney",
+    "contact": {
+      "address": "92-1185 Ali'inui Drive, Kapolei, HI 96707",
+      "phone": "(808) 674-6200",
+      "email": "",
+      "website": "https://www.disneyaulani.com/"
+    },
+    "beach_details": {
+      "private_beach": "Private beach on Ko Olina beach cove",
+      "length": "",
+      "sand_type": ""
+    },
+    "amenities": [
+      "351 hotel rooms incl. 16 suites; 481 DVC villas incl. 20 Grand Villas",
+      "Waikolohe Valley pools, lazy river, waterslides",
+      "Rainbow Reef snorkeling lagoon",
+      "Laniwai Spa",
+      "Aunty's Beach House kids club",
+      "Character experiences",
+      "Wedding lawn",
+      "Fitness center"
+    ],
+    "vip_clubs": "",
+    "perks": "",
+    "pools": "Waikolohe Valley pools, lazy river, slides; adult-only areas",
+    "lodging": {
+      "rooms": "351",
+      "suites": "16",
+      "villas": "481",
+      "residences": ""
+    },
+    "dining": "Makahiki (character dining); multiple restaurants, lounges and pool bars",
+    "spa_wellness": "Laniwai - A Disney Spa",
+    "activities": "Rainbow Reef snorkeling, character experiences, cultural programs",
+    "nightlife": "",
+    "events": "",
+    "season": "Year-round",
+    "kids_family": "Aunty's Beach House (kids club); pools and lazy river",
+    "pr_contacts": [],
+    "marketing_contacts": [],
+    "concierge": "",
+    "source": "https://www.disneyaulani.com/"
+  }
+]
