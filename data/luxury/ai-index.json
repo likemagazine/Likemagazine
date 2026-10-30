@@ -261,6 +261,27 @@
    },
    "variableMeasured": "listing",
    "count": 480
+  },
+  {
+   "@type": "Dataset",
+   "name": "Top 500 Ski Resorts Worldwide",
+   "description": "Top 500 ski resorts worldwide — mountain stats, ownership, lodging, dining, season passes, and full contact details.",
+   "url": "https://likeleaders.com/sections/luxury-ski-resorts.html",
+   "creator": {
+    "@id": "https://likeleaders.com/#organization"
+   },
+   "isPartOf": {
+    "@type": "CreativeWork",
+    "name": "LIKE® Magazine Luxury Guide",
+    "url": "https://likeleaders.com/sections/luxury-guide.html"
+   },
+   "distribution": {
+    "@type": "DataDownload",
+    "encodingFormat": "application/json",
+    "contentUrl": "https://likeleaders.com/data/luxury/ski-resorts.json"
+   },
+   "variableMeasured": "listing",
+   "count": 480
   }
  ],
  "hasPart": [
