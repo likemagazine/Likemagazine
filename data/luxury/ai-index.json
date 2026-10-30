@@ -303,6 +303,90 @@
    },
    "variableMeasured": "listing",
    "count": 504
+  },
+  {
+   "@type": "Dataset",
+   "name": "Ski & Après-Ski Apparel Brands",
+   "description": "59 ski and après-ski apparel brands, from technical skiwear to luxury alpine style — curated for LIKE® Magazine Luxury Guide on likeleaders.com.",
+   "url": "https://likeleaders.com/sections/luxury-apparel-ski.html",
+   "creator": {
+    "@id": "https://likeleaders.com/#organization"
+   },
+   "isPartOf": {
+    "@type": "CreativeWork",
+    "name": "LIKE® Magazine Luxury Guide",
+    "url": "https://likeleaders.com/sections/luxury-guide.html"
+   },
+   "distribution": {
+    "@type": "DataDownload",
+    "encodingFormat": "application/json",
+    "contentUrl": "https://likeleaders.com/data/luxury/apparel-ski.json"
+   },
+   "variableMeasured": "listing",
+   "count": 59
+  },
+  {
+   "@type": "Dataset",
+   "name": "Beach & Resort Swimwear Brands",
+   "description": "57 beach and resort swimwear brands, from luxury maisons to cult swim labels — curated for LIKE® Magazine Luxury Guide on likeleaders.com.",
+   "url": "https://likeleaders.com/sections/luxury-apparel-beach.html",
+   "creator": {
+    "@id": "https://likeleaders.com/#organization"
+   },
+   "isPartOf": {
+    "@type": "CreativeWork",
+    "name": "LIKE® Magazine Luxury Guide",
+    "url": "https://likeleaders.com/sections/luxury-guide.html"
+   },
+   "distribution": {
+    "@type": "DataDownload",
+    "encodingFormat": "application/json",
+    "contentUrl": "https://likeleaders.com/data/luxury/apparel-beach.json"
+   },
+   "variableMeasured": "listing",
+   "count": 57
+  },
+  {
+   "@type": "Dataset",
+   "name": "Golf Apparel Brands",
+   "description": "41 golf apparel brands, from heritage clubhouse labels to modern golf fashion — curated for LIKE® Magazine Luxury Guide on likeleaders.com.",
+   "url": "https://likeleaders.com/sections/luxury-apparel-golf.html",
+   "creator": {
+    "@id": "https://likeleaders.com/#organization"
+   },
+   "isPartOf": {
+    "@type": "CreativeWork",
+    "name": "LIKE® Magazine Luxury Guide",
+    "url": "https://likeleaders.com/sections/luxury-guide.html"
+   },
+   "distribution": {
+    "@type": "DataDownload",
+    "encodingFormat": "application/json",
+    "contentUrl": "https://likeleaders.com/data/luxury/apparel-golf.json"
+   },
+   "variableMeasured": "listing",
+   "count": 41
+  },
+  {
+   "@type": "Dataset",
+   "name": "Equestrian Apparel Brands",
+   "description": "50 equestrian apparel brands, from riding houses to saddlery makers — curated for LIKE® Magazine Luxury Guide on likeleaders.com.",
+   "url": "https://likeleaders.com/sections/luxury-apparel-equestrian.html",
+   "creator": {
+    "@id": "https://likeleaders.com/#organization"
+   },
+   "isPartOf": {
+    "@type": "CreativeWork",
+    "name": "LIKE® Magazine Luxury Guide",
+    "url": "https://likeleaders.com/sections/luxury-guide.html"
+   },
+   "distribution": {
+    "@type": "DataDownload",
+    "encodingFormat": "application/json",
+    "contentUrl": "https://likeleaders.com/data/luxury/apparel-equestrian.json"
+   },
+   "variableMeasured": "listing",
+   "count": 50
   }
  ],
  "hasPart": [
