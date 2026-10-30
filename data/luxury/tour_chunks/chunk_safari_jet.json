@@ -1,0 +1,2269 @@
+{
+ "items": [
+  {
+   "name": "&Beyond",
+   "specialty": "Luxury safaris, lodges & camps",
+   "city": "Johannesburg",
+   "country": "South Africa",
+   "ownership": "",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://andbeyond.com",
+   "destinations": [
+    "South Africa",
+    "Botswana",
+    "Kenya",
+    "Tanzania",
+    "Namibia",
+    "Zimbabwe",
+    "Mozambique",
+    "Rwanda",
+    "Uganda",
+    "India",
+    "Bhutan",
+    "Sri Lanka",
+    "Nepal",
+    "Chile",
+    "Argentina",
+    "Peru",
+    "Ecuador"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Safaris"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://andbeyond.com"
+  },
+  {
+   "name": "Singita",
+   "specialty": "Luxury safari lodges & wildlife reserves",
+   "city": "Cape Town",
+   "country": "South Africa",
+   "ownership": "",
+   "address": "1 Oakdale Road, Newlands, Cape Town, 7700",
+   "phone": "",
+   "email": "",
+   "website": "https://singita.com",
+   "destinations": [
+    "South Africa",
+    "Zimbabwe",
+    "Tanzania",
+    "Rwanda"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Safaris"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://singita.com"
+  },
+  {
+   "name": "Wilderness",
+   "specialty": "Luxury safaris & eco-lodges",
+   "city": "Maun",
+   "country": "Botswana",
+   "ownership": "Wilderness Holdings Ltd (listed on the Botswana Stock Exchange; secondary listing JSE)",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://wildernessdestinations.com",
+   "destinations": [
+    "Botswana",
+    "Namibia",
+    "Zambia",
+    "Zimbabwe",
+    "South Africa",
+    "Kenya",
+    "Rwanda",
+    "Congo"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Safaris"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://wildernessdestinations.com"
+  },
+  {
+   "name": "Sanctuary Retreats",
+   "specialty": "Luxury safari lodges, camps & river cruises",
+   "city": "London",
+   "country": "UK",
+   "ownership": "Abercrombie & Kent Travel Group (rebranded on-site as A&K Sanctuary)",
+   "address": "",
+   "phone": "(800) 554-7016",
+   "email": "",
+   "website": "https://sanctuaryretreats.com",
+   "destinations": [
+    "Botswana",
+    "Zambia",
+    "Tanzania",
+    "Kenya",
+    "Uganda",
+    "Egypt",
+    "Myanmar",
+    "China"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Safaris",
+    "River cruises"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://sanctuaryretreats.com"
+  },
+  {
+   "name": "Micato Safaris",
+   "specialty": "Luxury East Africa safaris",
+   "city": "New York",
+   "country": "USA",
+   "ownership": "Family-owned (Pinto family)",
+   "address": "15 West 26th Street, 11th Floor, New York, NY 10010",
+   "phone": "+1-212-545-7111",
+   "email": "",
+   "website": "https://micato.com",
+   "destinations": [
+    "Kenya",
+    "Tanzania",
+    "Rwanda",
+    "Uganda",
+    "South Africa",
+    "Zimbabwe",
+    "Botswana",
+    "India"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Safaris"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://micato.com"
+  },
+  {
+   "name": "Ker & Downey Africa",
+   "specialty": "Luxury tailor-made safaris",
+   "city": "Cape Town",
+   "country": "South Africa",
+   "ownership": "",
+   "address": "",
+   "phone": "+267 686 1282",
+   "email": "",
+   "website": "https://kerdowneyafrica.com",
+   "destinations": [
+    "Botswana",
+    "South Africa",
+    "Namibia",
+    "Zambia",
+    "Zimbabwe",
+    "Kenya",
+    "Tanzania",
+    "Rwanda"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Safaris"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://kerdowneyafrica.com"
+  },
+  {
+   "name": "Great Plains Conservation",
+   "specialty": "Conservation-led luxury safaris",
+   "city": "Maun",
+   "country": "Botswana",
+   "ownership": "Founded by Dereck & Beverly Joubert",
+   "address": "",
+   "phone": "+27 087 354 6591",
+   "email": "reservations@greatplainsconservation.com",
+   "website": "https://greatplainsconservation.com",
+   "destinations": [
+    "Botswana",
+    "Kenya",
+    "Zimbabwe"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Safaris"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://greatplainsconservation.com"
+  },
+  {
+   "name": "Asilia Africa",
+   "specialty": "Luxury safari camps, East Africa",
+   "city": "Arusha",
+   "country": "Tanzania",
+   "ownership": "",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://asiliaafrica.com",
+   "destinations": [
+    "Tanzania",
+    "Kenya"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Safaris"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://asiliaafrica.com"
+  },
+  {
+   "name": "Elewana Collection",
+   "specialty": "Luxury safari lodges & camps",
+   "city": "Arusha",
+   "country": "Tanzania",
+   "ownership": "",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://elewanacollection.com",
+   "destinations": [
+    "Tanzania",
+    "Kenya",
+    "Zanzibar"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Safaris"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://elewanacollection.com"
+  },
+  {
+   "name": "Cheli & Peacock Safaris",
+   "specialty": "Luxury Kenya safaris & camps",
+   "city": "Nairobi",
+   "country": "Kenya",
+   "ownership": "",
+   "address": "",
+   "phone": "+254 730 721 000",
+   "email": "safaris@chelipeacock.com",
+   "website": "https://chelipeacock.com",
+   "destinations": [
+    "Kenya",
+    "Tanzania"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Safaris"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://chelipeacock.com"
+  },
+  {
+   "name": "Alex Walker's Serian",
+   "specialty": "Luxury walking & mobile safaris",
+   "city": "",
+   "country": "Tanzania",
+   "ownership": "",
+   "address": "",
+   "phone": "",
+   "email": "safaris@serian.com",
+   "website": "https://serian.com",
+   "destinations": [
+    "Tanzania",
+    "Kenya"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Safaris"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://serian.com"
+  },
+  {
+   "name": "Nomad Tanzania",
+   "specialty": "Luxury Tanzania safaris & camps",
+   "city": "Arusha",
+   "country": "Tanzania",
+   "ownership": "",
+   "address": "44 River Rd, Arusha",
+   "phone": "+255 787 595 908",
+   "email": "",
+   "website": "https://nomad-tanzania.com",
+   "destinations": [
+    "Tanzania"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Safaris"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://nomad-tanzania.com"
+  },
+  {
+   "name": "Taj Safaris",
+   "specialty": "Luxury India tiger safaris",
+   "city": "Mumbai",
+   "country": "India",
+   "ownership": "Indian Hotels Company Ltd (Taj); safari expertise in partnership with &Beyond",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://www.tajhotels.com",
+   "destinations": [
+    "India",
+    "Nepal"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Safaris"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://www.ihcltata.com/press-room/this-summer-taj-invites-you-on-a-trail-of-the-mysterious-bengal-tiger"
+  },
+  {
+   "name": "Pugdundee Safaris",
+   "specialty": "Luxury India wildlife lodges",
+   "city": "",
+   "country": "India",
+   "ownership": "",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://pugdundeesafaris.com",
+   "destinations": [
+    "India"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Safaris"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://pugdundeesafaris.com"
+  },
+  {
+   "name": "Sujan",
+   "specialty": "Luxury India safari & heritage lodges",
+   "city": "New Delhi",
+   "country": "India",
+   "ownership": "",
+   "address": "1 Sri Aurobindo Marg, Hauz Khas, New Delhi 110016",
+   "phone": "+91 11 4617 2700",
+   "email": "reservations@thesujanlife.com",
+   "website": "https://thesujanlife.com",
+   "destinations": [
+    "India"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Safaris"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://thesujanlife.com"
+  },
+  {
+   "name": "Oberoi Hotels & Resorts",
+   "specialty": "Luxury hotels incl. wildlife resorts",
+   "city": "New Delhi",
+   "country": "India",
+   "ownership": "The Oberoi Group (EIH Ltd)",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://oberoihotels.com",
+   "destinations": [
+    "India",
+    "Egypt",
+    "Mauritius",
+    "Indonesia",
+    "Morocco",
+    "Saudi Arabia"
+   ],
+   "fleet": [
+    "Vanyavilas, Ranthambhore; Sukhvilas, Siswan"
+   ],
+   "trip_types": [
+    "Safaris",
+    "Hotel stays"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://oberoihotels.com"
+  },
+  {
+   "name": "Volcanoes Safaris",
+   "specialty": "Luxury gorilla & chimpanzee safaris",
+   "city": "Kampala",
+   "country": "Uganda",
+   "ownership": "",
+   "address": "1 Kololo Hill Drive, Kampala",
+   "phone": "+256 772 741 720",
+   "email": "",
+   "website": "https://volcanoessafaris.com",
+   "destinations": [
+    "Uganda",
+    "Rwanda",
+    "Congo"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Safaris"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://volcanoessafaris.com"
+  },
+  {
+   "name": "Wildplaces Africa",
+   "specialty": "Luxury Uganda safari lodges",
+   "city": "",
+   "country": "Uganda",
+   "ownership": "",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://wildplacesafrica.com",
+   "destinations": [
+    "Uganda"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Safaris"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://wildplacesafrica.com"
+  },
+  {
+   "name": "Sabi Sabi Private Game Reserve",
+   "specialty": "Luxury Big Five safari lodges",
+   "city": "",
+   "country": "South Africa",
+   "ownership": "",
+   "address": "",
+   "phone": "+27 11 447 7172",
+   "email": "res@sabisabi.com",
+   "website": "https://sabisabi.com",
+   "destinations": [
+    "South Africa"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Safaris"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://sabisabi.com"
+  },
+  {
+   "name": "Londolozi Game Reserve",
+   "specialty": "Luxury safari lodges, Sabi Sand",
+   "city": "",
+   "country": "South Africa",
+   "ownership": "Independent (Varty family)",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://londolozi.com",
+   "destinations": [
+    "South Africa"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Safaris"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://londolozi.com"
+  },
+  {
+   "name": "MalaMala Game Reserve",
+   "specialty": "Luxury safari, Sabi Sand & Greater Kruger",
+   "city": "",
+   "country": "South Africa",
+   "ownership": "",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://malamala.com",
+   "destinations": [
+    "South Africa"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Safaris"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://malamala.com"
+  },
+  {
+   "name": "The Royal Portfolio",
+   "specialty": "Luxury hotels, lodges & private islands",
+   "city": "Cape Town",
+   "country": "South Africa",
+   "ownership": "Independent (Bester family)",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://theroyalportfolio.com",
+   "destinations": [
+    "South Africa"
+   ],
+   "fleet": [
+    "Royal Malewane; La Residence; Birkenhead House; Liz McGrath Collection"
+   ],
+   "trip_types": [
+    "Safaris",
+    "Hotel stays"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://theroyalportfolio.com"
+  },
+  {
+   "name": "Tswalu Kalahari Reserve",
+   "specialty": "Luxury Kalahari safari reserve",
+   "city": "",
+   "country": "South Africa",
+   "ownership": "Oppenheimer family",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://tswalu.com",
+   "destinations": [
+    "South Africa"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Safaris"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://tswalu.com"
+  },
+  {
+   "name": "Virgin Limited Edition",
+   "specialty": "Luxury retreats incl. safari lodges",
+   "city": "London",
+   "country": "UK",
+   "ownership": "Virgin Group",
+   "address": "",
+   "phone": "",
+   "email": "enquiries@virginlimitededition.com",
+   "website": "https://virginlimitededition.com",
+   "destinations": [
+    "South Africa",
+    "Kenya",
+    "Morocco",
+    "Switzerland",
+    "France",
+    "UK",
+    "Caribbean"
+   ],
+   "fleet": [
+    "Ulusaba; Mahali Mzuri"
+   ],
+   "trip_types": [
+    "Safaris",
+    "Hotel stays"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://virginlimitededition.com"
+  },
+  {
+   "name": "Angama",
+   "specialty": "Luxury Maasai Mara safari lodges",
+   "city": "",
+   "country": "Kenya",
+   "ownership": "",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://angama.com",
+   "destinations": [
+    "Kenya"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Safaris"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://angama.com"
+  },
+  {
+   "name": "Cottar's Safaris",
+   "specialty": "Luxury 1920s-style safari camp, Maasai Mara",
+   "city": "",
+   "country": "Kenya",
+   "ownership": "Independent (Cottar family, operating since 1919)",
+   "address": "",
+   "phone": "+254 733 773 377",
+   "email": "bookings@cottarsafaris.com",
+   "website": "https://cottars.com",
+   "destinations": [
+    "Kenya",
+    "Tanzania"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Safaris"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://cottars.com"
+  },
+  {
+   "name": "Saruni",
+   "specialty": "Luxury Kenya safari lodges & camps",
+   "city": "Nairobi",
+   "country": "Kenya",
+   "ownership": "",
+   "address": "",
+   "phone": "+254 796 222 555",
+   "email": "reservations@sarunibasecamp.com",
+   "website": "https://saruni.com",
+   "destinations": [
+    "Kenya"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Safaris"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://saruni.com"
+  },
+  {
+   "name": "Time + Tide Africa",
+   "specialty": "Luxury safari lodges & island camps",
+   "city": "Lusaka",
+   "country": "Zambia",
+   "ownership": "",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://timeandtideafrica.com",
+   "destinations": [
+    "Zambia",
+    "Zimbabwe",
+    "Madagascar"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Safaris"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://timeandtideafrica.com"
+  },
+  {
+   "name": "African Bush Camps",
+   "specialty": "Luxury safari camps, Southern Africa",
+   "city": "",
+   "country": "Botswana",
+   "ownership": "",
+   "address": "",
+   "phone": "+27 21 701 0270",
+   "email": "contact@africanbushcamps.com",
+   "website": "https://africanbushcamps.com",
+   "destinations": [
+    "Botswana",
+    "Zimbabwe",
+    "Zambia"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Safaris"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://africanbushcamps.com"
+  },
+  {
+   "name": "Natural Selection",
+   "specialty": "Luxury Botswana safari camps",
+   "city": "Maun",
+   "country": "Botswana",
+   "ownership": "",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://naturalselection.travel",
+   "destinations": [
+    "Botswana",
+    "Namibia",
+    "South Africa"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Safaris"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://naturalselection.travel"
+  },
+  {
+   "name": "Kwando Safaris",
+   "specialty": "Luxury Botswana safaris",
+   "city": "Maun",
+   "country": "Botswana",
+   "ownership": "",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://kwandosafaris.com",
+   "destinations": [
+    "Botswana",
+    "Namibia",
+    "Zimbabwe",
+    "Victoria Falls"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Safaris"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://kwandosafaris.com"
+  },
+  {
+   "name": "ultimate.earth (Ultimate Safaris)",
+   "specialty": "Luxury Namibia safaris & retreats",
+   "city": "Windhoek",
+   "country": "Namibia",
+   "ownership": "Independent, owner-run (rebranded from Ultimate Safaris to ultimate.earth)",
+   "address": "5 & 7 Brandberg Street, Eros Park, Windhoek",
+   "phone": "+264 61 248 137",
+   "email": "",
+   "website": "https://ultimate.earth",
+   "destinations": [
+    "Namibia"
+   ],
+   "fleet": [
+    "Onduli Ridge; Camp Sossus; Camp Doros; Galton House"
+   ],
+   "trip_types": [
+    "Safaris"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://ultimate.earth"
+  },
+  {
+   "name": "Robin Pope Safaris",
+   "specialty": "Luxury Zambia walking safaris",
+   "city": "",
+   "country": "Zambia",
+   "ownership": "",
+   "address": "",
+   "phone": "+260 957 090 441",
+   "email": "info@robinpopesafaris.net",
+   "website": "https://robinpopesafaris.net",
+   "destinations": [
+    "Zambia",
+    "Malawi",
+    "Zimbabwe"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Safaris"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://robinpopesafaris.net"
+  },
+  {
+   "name": "Chem Chem Safari (Auberge Safari)",
+   "specialty": "Luxury Tanzania slow safaris",
+   "city": "",
+   "country": "Tanzania",
+   "ownership": "Privately owned by Fabia Bausch & Nicolas Negre; brand & commercial alignment with Auberge Collection (Auberge Safari) since May 2026 - not a change of ownership",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://auberge.com/safari/",
+   "destinations": [
+    "Tanzania"
+   ],
+   "fleet": [
+    "Chem Chem Lodge; Little Chem Chem; Forest Chem Chem"
+   ],
+   "trip_types": [
+    "Safaris"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://auberge.com/safari/travel/faq/"
+  },
+  {
+   "name": "Legendary Expeditions (Auberge Safari)",
+   "specialty": "Luxury Tanzania safaris & lodges",
+   "city": "Arusha",
+   "country": "Tanzania",
+   "ownership": "Friedkin family; presented under the Auberge Safari brand since May 2026",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://www.legendaryexpeditions.co.tz/",
+   "destinations": [
+    "Tanzania"
+   ],
+   "fleet": [
+    "Mwiba Lodge; Mila; Nyasi; Songa; Legendary Lodge"
+   ],
+   "trip_types": [
+    "Safaris"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://auberge.com/safari/travel/faq/"
+  },
+  {
+   "name": "Mahlatini",
+   "specialty": "Luxury tailor-made Africa safaris",
+   "city": "",
+   "country": "UK",
+   "ownership": "",
+   "address": "",
+   "phone": "+1 347 708 1755",
+   "email": "",
+   "website": "https://mahlatini.com",
+   "destinations": [
+    "South Africa",
+    "Botswana",
+    "Kenya",
+    "Tanzania",
+    "Namibia",
+    "Zambia",
+    "Zimbabwe",
+    "Rwanda",
+    "Mozambique",
+    "Indian Ocean islands"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Safaris"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://mahlatini.com"
+  },
+  {
+   "name": "Expert Africa",
+   "specialty": "Luxury tailor-made Africa safaris",
+   "city": "London",
+   "country": "UK",
+   "ownership": "",
+   "address": "",
+   "phone": "+44 20 3405 6666",
+   "email": "",
+   "website": "https://expertafrica.com",
+   "destinations": [
+    "Botswana",
+    "Namibia",
+    "Zambia",
+    "Zimbabwe",
+    "South Africa",
+    "Mozambique",
+    "Malawi",
+    "Tanzania",
+    "Kenya",
+    "Rwanda",
+    "Uganda"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Safaris"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://expertafrica.com"
+  },
+  {
+   "name": "Aardvark Safaris",
+   "specialty": "Luxury tailor-made Africa safaris",
+   "city": "",
+   "country": "UK",
+   "ownership": "",
+   "address": "",
+   "phone": "01980 849160",
+   "email": "discover@aardvarksafaris.com",
+   "website": "https://aardvarksafaris.co.uk",
+   "destinations": [
+    "Kenya",
+    "Tanzania",
+    "Botswana",
+    "South Africa",
+    "Namibia",
+    "Zambia",
+    "Zimbabwe",
+    "Rwanda",
+    "Uganda"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Safaris"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://aardvarksafaris.co.uk"
+  },
+  {
+   "name": "Tanzania Odyssey",
+   "specialty": "Luxury Tanzania & Zanzibar safaris",
+   "city": "London",
+   "country": "UK",
+   "ownership": "",
+   "address": "The Mews, 5-6 Putney Common, London SW15 1HL",
+   "phone": "+44 20 8704 1216",
+   "email": "info@tanzaniaodyssey.com",
+   "website": "https://tanzaniaodyssey.com",
+   "destinations": [
+    "Tanzania",
+    "Zanzibar",
+    "Kenya"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Safaris"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://tanzaniaodyssey.com"
+  },
+  {
+   "name": "Go2Africa",
+   "specialty": "Luxury tailor-made Africa safaris",
+   "city": "Cape Town",
+   "country": "South Africa",
+   "ownership": "",
+   "address": "",
+   "phone": "+27 21 481 4900",
+   "email": "",
+   "website": "https://go2africa.com",
+   "destinations": [
+    "South Africa",
+    "Botswana",
+    "Kenya",
+    "Tanzania",
+    "Namibia",
+    "Zambia",
+    "Zimbabwe",
+    "Rwanda",
+    "Mozambique",
+    "Indian Ocean islands"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Safaris"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://go2africa.com"
+  },
+  {
+   "name": "Rhino Africa",
+   "specialty": "Luxury tailor-made Africa safaris",
+   "city": "Cape Town",
+   "country": "South Africa",
+   "ownership": "",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://rhinoafrica.com",
+   "destinations": [
+    "South Africa",
+    "Botswana",
+    "Kenya",
+    "Tanzania",
+    "Namibia",
+    "Zambia",
+    "Zimbabwe",
+    "Rwanda",
+    "Mozambique"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Safaris"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://rhinoafrica.com"
+  },
+  {
+   "name": "Natural World Safaris",
+   "specialty": "Luxury tailor-made safaris & wildlife travel",
+   "city": "",
+   "country": "UK",
+   "ownership": "",
+   "address": "",
+   "phone": "+44 1273 691 642",
+   "email": "sales@naturalworldsafaris.com",
+   "website": "https://naturalworldsafaris.com",
+   "destinations": [
+    "Africa",
+    "India",
+    "Polar regions",
+    "Worldwide wildlife"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Safaris",
+    "Wildlife tours"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://naturalworldsafaris.com"
+  },
+  {
+   "name": "Journeys by Design",
+   "specialty": "Luxury tailor-made safaris",
+   "city": "",
+   "country": "UK",
+   "ownership": "",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://journeysbydesign.com",
+   "destinations": [
+    "Africa",
+    "Asia",
+    "Latin America",
+    "Polar"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Safaris"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://journeysbydesign.com"
+  },
+  {
+   "name": "Steppes Travel",
+   "specialty": "Luxury tailor-made travel & safaris",
+   "city": "",
+   "country": "UK",
+   "ownership": "",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://steppestravel.com",
+   "destinations": [
+    "Africa",
+    "Asia",
+    "Latin America",
+    "Europe"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Safaris"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://steppestravel.com"
+  },
+  {
+   "name": "Rothschild Safaris",
+   "specialty": "Luxury Africa safaris",
+   "city": "",
+   "country": "USA",
+   "ownership": "",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://rothschildsafaris.com",
+   "destinations": [
+    "Kenya",
+    "Tanzania",
+    "South Africa",
+    "Botswana",
+    "Rwanda"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Safaris"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://rothschildsafaris.com"
+  },
+  {
+   "name": "MORE Family Collection",
+   "specialty": "Luxury lodges & hotels, Southern Africa",
+   "city": "",
+   "country": "South Africa",
+   "ownership": "MORE Collection (More Family Collection)",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://more.co.za",
+   "destinations": [
+    "South Africa"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Safaris",
+    "Hotel stays"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://more.co.za"
+  },
+  {
+   "name": "Grootbos Private Nature Reserve",
+   "specialty": "Luxury coastal & safari reserve",
+   "city": "",
+   "country": "South Africa",
+   "ownership": "",
+   "address": "",
+   "phone": "+27 28 384 8008",
+   "email": "bookings@grootbos.co.za",
+   "website": "https://grootbos.com",
+   "destinations": [
+    "South Africa"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Safaris"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://grootbos.com"
+  },
+  {
+   "name": "Wolwedans",
+   "specialty": "Luxury Namibia desert lodges",
+   "city": "",
+   "country": "Namibia",
+   "ownership": "",
+   "address": "",
+   "phone": "",
+   "email": "reservations@wolwedans.com",
+   "website": "https://wolwedans.com",
+   "destinations": [
+    "Namibia"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Safaris"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://wolwedans.com"
+  },
+  {
+   "name": "Chiawa Safaris",
+   "specialty": "Luxury Zambia safari camps, Lower Zambezi",
+   "city": "",
+   "country": "Zambia",
+   "ownership": "Chiawa Collection (Chongwe Safaris)",
+   "address": "",
+   "phone": "",
+   "email": "res@chiawa.com",
+   "website": "https://chiawa.com",
+   "destinations": [
+    "Zambia"
+   ],
+   "fleet": [
+    "Chiawa Camp; Old Mondoro"
+   ],
+   "trip_types": [
+    "Safaris"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://chiawa.com"
+  },
+  {
+   "name": "TCS World Travel",
+   "specialty": "Private jet expeditions",
+   "city": "Seattle",
+   "country": "USA",
+   "ownership": "",
+   "address": "",
+   "phone": "1-888-723-4480",
+   "email": "guestrelations@tcsworldtravel.com",
+   "website": "https://tcsworldtravel.com",
+   "destinations": [
+    "Worldwide"
+   ],
+   "fleet": [
+    "Custom Boeing 757 / Airbus A321 private jets"
+   ],
+   "trip_types": [
+    "Private jet journeys"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://tcsworldtravel.com"
+  },
+  {
+   "name": "Four Seasons Private Jet",
+   "specialty": "Private jet journeys",
+   "city": "Toronto",
+   "country": "Canada",
+   "ownership": "Four Seasons Hotels and Resorts; journeys sold & operated by TCS World Travel, aircraft by Titan Airways",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://www.fourseasons.com/privatejet/",
+   "destinations": [
+    "Worldwide"
+   ],
+   "fleet": [
+    "Custom Airbus A321, 48 seats"
+   ],
+   "trip_types": [
+    "Private jet journeys"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://www.fourseasons.com/privatejet/"
+  },
+  {
+   "name": "Abercrombie & Kent",
+   "specialty": "Ultra-luxury tailor-made travel; private jet journeys",
+   "city": "London",
+   "country": "UK",
+   "ownership": "A&K Travel Group",
+   "address": "",
+   "phone": "(800) 554-7016",
+   "email": "",
+   "website": "https://abercrombiekent.com",
+   "destinations": [
+    "Worldwide"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Private jet journeys",
+    "Safaris",
+    "Tailor-made travel"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://abercrombiekent.com"
+  },
+  {
+   "name": "National Geographic Expeditions",
+   "specialty": "Expedition travel; private jet journeys",
+   "city": "Washington",
+   "country": "USA",
+   "ownership": "National Geographic / Lindblad partnership for expeditions",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://nationalgeographicexpeditions.com",
+   "destinations": [
+    "Worldwide"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Private jet journeys",
+    "Expeditions",
+    "Safaris"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://nationalgeographicexpeditions.com"
+  },
+  {
+   "name": "Smithsonian Journeys",
+   "specialty": "Educational luxury travel; private jet journeys",
+   "city": "Washington",
+   "country": "USA",
+   "ownership": "Smithsonian Institution",
+   "address": "",
+   "phone": "855-330-1542",
+   "email": "",
+   "website": "https://smithsonianjourneys.org",
+   "destinations": [
+    "Worldwide"
+   ],
+   "fleet": [
+    "Airbus A321 private jet, 52 guests (operated by TCS World Travel)"
+   ],
+   "trip_types": [
+    "Private jet journeys",
+    "Small-ship cruises",
+    "Land tours"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://www.smithsonianjourneys.org/tours/seven-continents-around-the-world-by-private-jet/"
+  },
+  {
+   "name": "Safrans du Monde",
+   "specialty": "Private jet world tours",
+   "city": "Paris",
+   "country": "France",
+   "ownership": "",
+   "address": "",
+   "phone": "+33 1 48 78 71 51",
+   "email": "info@safransdumonde.com",
+   "website": "https://safransdumonde.com",
+   "destinations": [
+    "Worldwide"
+   ],
+   "fleet": [
+    "Chartered private aircraft"
+   ],
+   "trip_types": [
+    "Private jet journeys"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://safransdumonde.com"
+  },
+  {
+   "name": "Captain's Choice",
+   "specialty": "Private jet tours",
+   "city": "",
+   "country": "Australia",
+   "ownership": "",
+   "address": "",
+   "phone": "1800 622 628",
+   "email": "guestrelations@captainschoice.com.au",
+   "website": "https://captainschoice.com.au",
+   "destinations": [
+    "Worldwide"
+   ],
+   "fleet": [
+    "Chartered private aircraft"
+   ],
+   "trip_types": [
+    "Private jet journeys"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://captainschoice.com.au"
+  },
+  {
+   "name": "Pelorus",
+   "specialty": "Private yacht expeditions & experiential travel",
+   "city": "London",
+   "country": "UK",
+   "ownership": "",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://pelorusx.com",
+   "destinations": [
+    "Worldwide"
+   ],
+   "fleet": [
+    "Expedition yachts"
+   ],
+   "trip_types": [
+    "Yacht expeditions",
+    "Tailor-made travel"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://pelorusx.com"
+  },
+  {
+   "name": "EYOS Expeditions",
+   "specialty": "Private yacht expeditions",
+   "city": "",
+   "country": "USA",
+   "ownership": "",
+   "address": "",
+   "phone": "+1 801 390 7025",
+   "email": "",
+   "website": "https://eyos-expeditions.com",
+   "destinations": [
+    "Polar regions",
+    "Pacific",
+    "Worldwide"
+   ],
+   "fleet": [
+    "Superyacht expeditions"
+   ],
+   "trip_types": [
+    "Yacht expeditions"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://eyos-expeditions.com"
+  },
+  {
+   "name": "Cookson Adventures",
+   "specialty": "Bespoke expeditions & private travel",
+   "city": "London",
+   "country": "UK",
+   "ownership": "",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://cooksonadventures.com",
+   "destinations": [
+    "Worldwide"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Expeditions",
+    "Tailor-made travel"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://cooksonadventures.com"
+  },
+  {
+   "name": "Black Tomato",
+   "specialty": "Ultra-luxury tailor-made travel",
+   "city": "London",
+   "country": "UK",
+   "ownership": "",
+   "address": "Albert House, 256-260 Old Street, London EC1V 9DD",
+   "phone": "+44 20 7426 9888",
+   "email": "",
+   "website": "https://blacktomato.com",
+   "destinations": [
+    "Worldwide"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Tailor-made travel"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://blacktomato.com"
+  },
+  {
+   "name": "Remote Lands",
+   "specialty": "Ultra-luxury Asia travel",
+   "city": "New York",
+   "country": "USA",
+   "ownership": "",
+   "address": "120 East 56th Street, Suite 1600 PH, New York, NY 10022",
+   "phone": "+1 (212) 518-1618",
+   "email": "",
+   "website": "https://remotelands.com",
+   "destinations": [
+    "Asia"
+   ],
+   "fleet": [
+    "Private jets & yachts on request"
+   ],
+   "trip_types": [
+    "Tailor-made travel",
+    "Private jet journeys"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://remotelands.com"
+  },
+  {
+   "name": "Jacada Travel",
+   "specialty": "Luxury tailor-made travel",
+   "city": "London",
+   "country": "UK",
+   "ownership": "",
+   "address": "",
+   "phone": "646-895-8368",
+   "email": "",
+   "website": "https://jacadatravel.com",
+   "destinations": [
+    "Africa",
+    "Asia",
+    "Latin America",
+    "Europe",
+    "Polar"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Tailor-made travel",
+    "Safaris"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://jacadatravel.com"
+  },
+  {
+   "name": "Scott Dunn",
+   "specialty": "Luxury tailor-made travel",
+   "city": "London",
+   "country": "UK",
+   "ownership": "",
+   "address": "",
+   "phone": "020 8682 5400",
+   "email": "",
+   "website": "https://scottdunn.com",
+   "destinations": [
+    "Worldwide"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Tailor-made travel"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://scottdunn.com"
+  },
+  {
+   "name": "cazenove+loyd",
+   "specialty": "Luxury tailor-made travel",
+   "city": "London",
+   "country": "UK",
+   "ownership": "Co-owned by Henrietta Loyd & Christopher Wilmot-Sitwell (founded 1993 by Henrietta Loyd & Susie Cazenove)",
+   "address": "",
+   "phone": "+44 207 384 2332",
+   "email": "info@cazloyd.com",
+   "website": "https://cazloyd.com",
+   "destinations": [
+    "Africa",
+    "Asia",
+    "Latin America",
+    "Middle East",
+    "Polar regions",
+    "Worldwide"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Tailor-made travel",
+    "Safaris"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://cazloyd.com/about-us/"
+  },
+  {
+   "name": "Original Travel",
+   "specialty": "Luxury tailor-made travel",
+   "city": "London",
+   "country": "UK",
+   "ownership": "",
+   "address": "111 Upper Richmond Road, London SW15 2TL",
+   "phone": "+44 (0)20 3958 6120",
+   "email": "",
+   "website": "https://originaltravel.co.uk",
+   "destinations": [
+    "Worldwide"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Tailor-made travel"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://originaltravel.co.uk"
+  },
+  {
+   "name": "The Luminaire",
+   "specialty": "Ultra-luxury private travel",
+   "city": "London",
+   "country": "UK",
+   "ownership": "",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://theluminaire.com",
+   "destinations": [
+    "Worldwide"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Tailor-made travel"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://theluminaire.com"
+  },
+  {
+   "name": "Red Savannah",
+   "specialty": "Luxury tailor-made travel & villas",
+   "city": "Cheltenham",
+   "country": "UK",
+   "ownership": "",
+   "address": "",
+   "phone": "+44 (0)1242 787 800",
+   "email": "",
+   "website": "https://redsavannah.com",
+   "destinations": [
+    "Worldwide"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Tailor-made travel",
+    "Villa holidays"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://redsavannah.com"
+  },
+  {
+   "name": "Audley Travel",
+   "specialty": "Luxury tailor-made travel",
+   "city": "Witney",
+   "country": "UK",
+   "ownership": "Audley Travel Group Limited",
+   "address": "The New Mill, New Mill Lane, Witney, Oxfordshire OX29 9SX",
+   "phone": "",
+   "email": "",
+   "website": "https://www.audleytravel.com",
+   "destinations": [
+    "Worldwide"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Tailor-made travel"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://www.audleytravel.com"
+  },
+  {
+   "name": "Carrier",
+   "specialty": "Luxury tailor-made travel",
+   "city": "",
+   "country": "UK",
+   "ownership": "",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://carrier.co.uk",
+   "destinations": [
+    "Worldwide"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Tailor-made travel"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://carrier.co.uk"
+  },
+  {
+   "name": "Elegant Resorts",
+   "specialty": "Luxury tailor-made travel",
+   "city": "",
+   "country": "UK",
+   "ownership": "",
+   "address": "",
+   "phone": "01244 897 111",
+   "email": "",
+   "website": "https://elegantresorts.co.uk",
+   "destinations": [
+    "Caribbean",
+    "Indian Ocean",
+    "Europe",
+    "Worldwide"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Tailor-made travel"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://elegantresorts.co.uk"
+  },
+  {
+   "name": "Artisans of Leisure",
+   "specialty": "Ultra-luxury private tours",
+   "city": "New York",
+   "country": "USA",
+   "ownership": "",
+   "address": "",
+   "phone": "",
+   "email": "info@artisansofleisure.com",
+   "website": "https://artisansofleisure.com",
+   "destinations": [
+    "Worldwide"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Private tours",
+    "Tailor-made travel"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://artisansofleisure.com"
+  },
+  {
+   "name": "Exeter International",
+   "specialty": "Luxury Europe & beyond travel",
+   "city": "Tampa",
+   "country": "USA",
+   "ownership": "",
+   "address": "",
+   "phone": "800 633 1008",
+   "email": "",
+   "website": "https://exeterinternational.com",
+   "destinations": [
+    "Europe",
+    "Russia & Central Asia",
+    "Middle East",
+    "Africa"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Tailor-made travel"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://exeterinternational.com"
+  },
+  {
+   "name": "Geographic Expeditions",
+   "specialty": "Luxury small-group expeditions",
+   "city": "San Francisco",
+   "country": "USA",
+   "ownership": "",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://geoex.com",
+   "destinations": [
+    "Asia",
+    "Africa",
+    "Latin America",
+    "Polar regions"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Expeditions",
+    "Safaris"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://geoex.com"
+  },
+  {
+   "name": "Butterfield & Robinson",
+   "specialty": "Luxury active travel",
+   "city": "Toronto",
+   "country": "Canada",
+   "ownership": "",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://butterfield.com",
+   "destinations": [
+    "Worldwide"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Active travel",
+    "Private journeys"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://butterfield.com"
+  },
+  {
+   "name": "Backroads",
+   "specialty": "Luxury active travel",
+   "city": "Berkeley",
+   "country": "USA",
+   "ownership": "",
+   "address": "",
+   "phone": "800 462 2848",
+   "email": "",
+   "website": "https://backroads.com",
+   "destinations": [
+    "Worldwide"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Active travel"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://backroads.com"
+  },
+  {
+   "name": "Quark Expeditions",
+   "specialty": "Polar expeditions",
+   "city": "",
+   "country": "USA",
+   "ownership": "",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://quarkexpeditions.com",
+   "destinations": [
+    "Antarctica",
+    "Arctic"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Expedition cruises"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://quarkexpeditions.com"
+  },
+  {
+   "name": "Lindblad Expeditions",
+   "specialty": "Expedition cruises",
+   "city": "New York",
+   "country": "USA",
+   "ownership": "Lindblad Expeditions Holdings, Inc. (NASDAQ: LIND)",
+   "address": "11 W 42nd Street, New York, NY 10036",
+   "phone": "1-800-397-3348",
+   "email": "",
+   "website": "https://expeditions.com",
+   "destinations": [
+    "Polar regions",
+    "Galapagos",
+    "Alaska",
+    "Worldwide"
+   ],
+   "fleet": [
+    "Expedition ships"
+   ],
+   "trip_types": [
+    "Expedition cruises"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://expeditions.com"
+  },
+  {
+   "name": "Ponant",
+   "specialty": "Luxury expedition cruises",
+   "city": "Marseille",
+   "country": "France",
+   "ownership": "Artemis Group",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://ponant.com",
+   "destinations": [
+    "Polar regions",
+    "Worldwide"
+   ],
+   "fleet": [
+    "Le Commandant Charcot; Ponant Explorers series; Sisterships"
+   ],
+   "trip_types": [
+    "Expedition cruises"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://ponant.com"
+  },
+  {
+   "name": "Aqua Expeditions",
+   "specialty": "Luxury river & ocean expeditions",
+   "city": "",
+   "country": "Singapore",
+   "ownership": "",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://aquaexpeditions.com",
+   "destinations": [
+    "Peru (Amazon)",
+    "Cambodia & Vietnam (Mekong)",
+    "Indonesia",
+    "Galapagos"
+   ],
+   "fleet": [
+    "Aqua Blu; Aqua Mare; Aqua Nera; Aqua Mekong"
+   ],
+   "trip_types": [
+    "Expedition cruises"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://aquaexpeditions.com"
+  },
+  {
+   "name": "Belmond",
+   "specialty": "Luxury trains, cruises, hotels & safaris",
+   "city": "London",
+   "country": "UK",
+   "ownership": "LVMH Moet Hennessy Louis Vuitton (acquired April 2019)",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://belmond.com",
+   "destinations": [
+    "Worldwide"
+   ],
+   "fleet": [
+    "Venice Simplon-Orient-Express; Royal Scotsman; Andean Explorer; African safari lodges; river barges"
+   ],
+   "trip_types": [
+    "Rail journeys",
+    "Safaris",
+    "River cruises",
+    "Hotel stays"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [
+    {
+     "name": "Belmond Bellini Club",
+     "offers": "Loyalty recognition across Belmond hotels, trains and cruises"
+    }
+   ],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://www.lvmh.com/en/publications/lvmhs-acquisition-of-belmond-approved"
+  },
+  {
+   "name": "Rovos Rail",
+   "specialty": "Luxury rail journeys",
+   "city": "Pretoria",
+   "country": "South Africa",
+   "ownership": "Family-owned (founder Rohan Vos)",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://www.rovos.com",
+   "destinations": [
+    "South Africa",
+    "Namibia",
+    "Botswana",
+    "Zimbabwe",
+    "Zambia",
+    "Tanzania",
+    "Angola",
+    "Malawi",
+    "Mozambique",
+    "Eswatini"
+   ],
+   "fleet": [
+    "Restored vintage train-hotel"
+   ],
+   "trip_types": [
+    "Rail journeys"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://www.rovos.com/blog/"
+  },
+  {
+   "name": "Rocky Mountaineer",
+   "specialty": "Luxury rail journeys",
+   "city": "Vancouver",
+   "country": "Canada",
+   "ownership": "Great Canadian Railtour Company",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://www.rockymountaineer.com",
+   "destinations": [
+    "Canada",
+    "USA (Colorado & Utah)"
+   ],
+   "fleet": [
+    "Glass-dome coaches; GoldLeaf & SilverLeaf service"
+   ],
+   "trip_types": [
+    "Rail journeys"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://www.rockymountaineer.com"
+  },
+  {
+   "name": "Ritz-Carlton Yacht Collection",
+   "specialty": "Luxury yacht cruises",
+   "city": "",
+   "country": "USA",
+   "ownership": "Marriott International (Ritz-Carlton)",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://ritzcarltonyachtcollection.com",
+   "destinations": [
+    "Mediterranean",
+    "Caribbean",
+    "Northern Europe",
+    "Asia-Pacific"
+   ],
+   "fleet": [
+    "Evrima; Ilma; Luminara"
+   ],
+   "trip_types": [
+    "Yacht cruises"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://ritzcarltonyachtcollection.com"
+  },
+  {
+   "name": "SeaDream Yacht Club",
+   "specialty": "Luxury yacht cruises",
+   "city": "Oslo",
+   "country": "Norway",
+   "ownership": "",
+   "address": "",
+   "phone": "+1 800 707 4911",
+   "email": "",
+   "website": "https://seadream.com",
+   "destinations": [
+    "Mediterranean",
+    "Caribbean",
+    "Norway"
+   ],
+   "fleet": [
+    "SeaDream I; SeaDream II"
+   ],
+   "trip_types": [
+    "Yacht cruises"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://seadream.com"
+  },
+  {
+   "name": "Windstar Cruises",
+   "specialty": "Luxury small-ship cruises",
+   "city": "Miami",
+   "country": "USA",
+   "ownership": "",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://windstarcruises.com",
+   "destinations": [
+    "Worldwide"
+   ],
+   "fleet": [
+    "Wind Star; Wind Spirit; Star Legend class"
+   ],
+   "trip_types": [
+    "Small-ship cruises"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://windstarcruises.com"
+  },
+  {
+   "name": "Kensington Tours",
+   "specialty": "Luxury private guided travel",
+   "city": "Toronto",
+   "country": "Canada",
+   "ownership": "",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://kensingtontours.com",
+   "destinations": [
+    "Worldwide"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Private guided tours",
+    "Tailor-made travel"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://kensingtontours.com"
+  },
+  {
+   "name": "Ampersand Travel",
+   "specialty": "Luxury tailor-made travel",
+   "city": "London",
+   "country": "UK",
+   "ownership": "",
+   "address": "",
+   "phone": "+44 (0)20 7819 9770",
+   "email": "",
+   "website": "https://ampersandtravel.com",
+   "destinations": [
+    "Africa",
+    "Asia",
+    "Latin America",
+    "Europe"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Tailor-made travel",
+    "Safaris"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://ampersandtravel.com"
+  }
+ ]
+}

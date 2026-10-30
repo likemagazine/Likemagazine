@@ -1,0 +1,2986 @@
+{
+  "items": [
+    {
+      "name": "Backroads",
+      "specialty": "Adventure travel — active: cycling, hiking, multi-adventure",
+      "city": "Berkeley",
+      "country": "USA",
+      "ownership": "Founder-led (Tom Hale, Founder, President & CEO; founded 1979)",
+      "address": "801 Cedar St, Berkeley, CA 94710",
+      "phone": "800-462-2848",
+      "email": "",
+      "website": "https://www.backroads.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Cycling tours",
+        "Hiking tours",
+        "Multi-adventure",
+        "Family adventures",
+        "Private trips"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [
+        {
+          "name": "Liz Einbinder",
+          "title": "Media Contact",
+          "email": "liz_einbinder@backroads.co",
+          "phone": ""
+        }
+      ],
+      "marketing_contacts": [],
+      "source": "https://www.backroads.com"
+    },
+    {
+      "name": "Butterfield & Robinson",
+      "specialty": "Adventure travel — luxury active: cycling, walking, multi-active",
+      "city": "Toronto",
+      "country": "Canada",
+      "ownership": "Butterfield family (founded 1966 by George & Martha Butterfield and Sidney Robinson)",
+      "address": "70 Bond St, Suite 300, Toronto, ON M5B 1X3",
+      "phone": "1-866-551-9090",
+      "email": "",
+      "website": "https://www.butterfield.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Cycling tours",
+        "Walking tours",
+        "Multi-active",
+        "Private custom journeys",
+        "Family trips"
+      ],
+      "price_positioning": "Luxury",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.butterfield.com"
+    },
+    {
+      "name": "Geographic Expeditions (GeoEx)",
+      "specialty": "Adventure travel — expeditions: trekking, cultural, overland",
+      "city": "San Francisco",
+      "country": "USA",
+      "ownership": "Independent (CEO Brady Binstadt, as published)",
+      "address": "1016 Lincoln Blvd, San Francisco, CA 94129",
+      "phone": "+1 888 570 7108",
+      "email": "info@geoex.com",
+      "website": "https://www.geoex.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Treks",
+        "Cultural tours",
+        "Safaris",
+        "Expedition cruises",
+        "Rail journeys",
+        "Custom journeys"
+      ],
+      "price_positioning": "Luxury",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.geoex.com"
+    },
+    {
+      "name": "G Adventures",
+      "specialty": "Adventure travel — small-group adventure",
+      "city": "Toronto",
+      "country": "Canada",
+      "ownership": "Founder-led (Bruce Poon Tip, Founder & CEO; founded 1990)",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "https://www.gadventures.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Small-group adventures",
+        "Active tours",
+        "Marine tours",
+        "Family adventures"
+      ],
+      "price_positioning": "Mid-range/Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.gadventures.com"
+    },
+    {
+      "name": "Intrepid Travel",
+      "specialty": "Adventure travel — small-group adventure",
+      "city": "",
+      "country": "",
+      "ownership": "Intrepid Group (founders Darrell Wade & Geoff Manchester; CEO James Thornton, as published)",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "https://www.intrepidtravel.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Small-group adventures",
+        "Active tours",
+        "Food adventures",
+        "Family adventures",
+        "Premium tours"
+      ],
+      "price_positioning": "Mid-range/Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.intrepidtravel.com"
+    },
+    {
+      "name": "Natural Habitat Adventures (Nat Hab)",
+      "specialty": "Adventure travel — wildlife & conservation travel",
+      "city": "Boulder",
+      "country": "USA",
+      "ownership": "Lindblad Expeditions Holdings, Inc. (majority owner since May 2016; founder Ben Bressler, President, retains interest). Official conservation travel partner of World Wildlife Fund since 2003.",
+      "address": "PO Box 3065, Boulder, CO 80307",
+      "phone": "800-543-8917",
+      "email": "info@nathab.com",
+      "website": "https://www.nathab.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Wildlife safaris",
+        "Polar bear tours",
+        "Small-group nature expeditions",
+        "Photography adventures"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.nathab.com"
+    },
+    {
+      "name": "Austin Adventures",
+      "specialty": "Adventure travel — active: national parks, multi-sport, family",
+      "city": "Billings",
+      "country": "USA",
+      "ownership": "Active Adventures group (Queenstown, NZ; joined forces July 1, 2021; three-brand global company)",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "https://www.austinadventures.com",
+      "destinations": [
+        "USA",
+        "Canada",
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Multi-sport adventures",
+        "National parks tours",
+        "Family adventures",
+        "Hiking",
+        "Biking",
+        "Kayaking"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.austinadventures.com"
+    },
+    {
+      "name": "Active Adventures",
+      "specialty": "Adventure travel — active: hiking, biking, kayaking",
+      "city": "Queenstown",
+      "country": "New Zealand",
+      "ownership": "Independent group (parent of Austin Adventures and Discovery Bicycle Tours; joined 2021/2024)",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "https://activeadventures.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Hiking tours",
+        "Biking tours",
+        "Kayaking",
+        "Multi-sport adventures"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://activeadventures.com"
+    },
+    {
+      "name": "DuVine Cycling + Adventure Co.",
+      "specialty": "Adventure travel — luxury cycling & culinary",
+      "city": "Somerville",
+      "country": "USA",
+      "ownership": "Lindblad Expeditions Holdings, Inc. (majority stake, March 2021); founder Andy Levine retains interest and continues as President & CEO",
+      "address": "",
+      "phone": "+1 888 396 5383",
+      "email": "",
+      "website": "https://www.duvine.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Cycling tours",
+        "Culinary & wine tours",
+        "Private custom trips"
+      ],
+      "price_positioning": "Luxury",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.duvine.com"
+    },
+    {
+      "name": "Trek Travel",
+      "specialty": "Adventure travel — luxury cycling",
+      "city": "Madison",
+      "country": "USA",
+      "ownership": "Trek Bicycle Corporation (Waterloo, WI); President Tania Burke (as published)",
+      "address": "613 Williamson Street, Suite 207, Madison, WI 53703",
+      "phone": "+1-866-464-8735",
+      "email": "",
+      "website": "https://www.trektravel.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Cycling tours",
+        "Hiking tours",
+        "E-bike tours",
+        "Private trips"
+      ],
+      "price_positioning": "Luxury",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.trektravel.com"
+    },
+    {
+      "name": "VBT Bicycling Vacations",
+      "specialty": "Adventure travel — cycling & walking",
+      "city": "Williston",
+      "country": "USA",
+      "ownership": "Xanterra Travel Collection (acquired Dec 2012, per company release; current parent not re-verified this pass)",
+      "address": "426 Industrial Ave #120, Williston, VT 05495",
+      "phone": "1.800.245.3868",
+      "email": "",
+      "website": "https://www.vbt.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Cycling tours",
+        "Walking tours",
+        "Discovery Tours"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.vbt.com"
+    },
+    {
+      "name": "Country Walkers",
+      "specialty": "Adventure travel — walking & hiking",
+      "city": "Williston",
+      "country": "USA",
+      "ownership": "VBT Bicycling Vacations (merged May 2014; operates as VBT | Country Walkers)",
+      "address": "426 Industrial Ave #120, Williston, VT 05495",
+      "phone": "1.800.245.3868",
+      "email": "",
+      "website": "https://www.countrywalkers.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Walking tours",
+        "Hiking tours",
+        "Discovery Tours"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.countrywalkers.com"
+    },
+    {
+      "name": "Discovery Bicycle Tours",
+      "specialty": "Adventure travel — cycling",
+      "city": "Woodstock",
+      "country": "USA",
+      "ownership": "Active Adventures group (Queenstown, NZ; joined Aug 1, 2024; three-brand global company)",
+      "address": "2520 W. Woodstock Rd, Woodstock, VT 05091",
+      "phone": "800-257-2226",
+      "email": "info@discoverybicycletours.com",
+      "website": "https://discoverybicycletours.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Cycling tours"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://discoverybicycletours.com"
+    },
+    {
+      "name": "Wilderness Travel",
+      "specialty": "Adventure travel — adventure: hiking, wildlife, cultural, expedition cruises",
+      "city": "Berkeley",
+      "country": "USA",
+      "ownership": "Independent (founded 1978)",
+      "address": "1102 Ninth St, Berkeley, CA 94710",
+      "phone": "1-800-368-2794",
+      "email": "info@wildernesstravel.com",
+      "website": "https://www.wildernesstravel.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Hiking & trekking",
+        "Wildlife safaris",
+        "Cultural journeys",
+        "Expedition cruises",
+        "Snorkeling",
+        "Private journeys"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.wildernesstravel.com"
+    },
+    {
+      "name": "Mountain Travel Sobek",
+      "specialty": "Adventure travel — adventure: hiking, trekking, rafting, safari",
+      "city": "Emeryville",
+      "country": "USA",
+      "ownership": "Independent (founded 1969). Preferred travel outfitter for National Geographic Active Expeditions, NYT Journeys and Smithsonian Active Journeys (as published).",
+      "address": "1266 66th St, Emeryville, CA 94608",
+      "phone": "800-974-0300",
+      "email": "",
+      "website": "https://www.mtsobek.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Hiking & trekking",
+        "Rafting",
+        "Wildlife safaris",
+        "Cultural tours",
+        "Adventure cruises",
+        "Family adventures"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.mtsobek.com"
+    },
+    {
+      "name": "Overseas Adventure Travel (O.A.T.)",
+      "specialty": "Adventure travel — small-group adventure",
+      "city": "Boston",
+      "country": "USA",
+      "ownership": "Grand Circle family of companies",
+      "address": "Congress St, Boston, MA 02210",
+      "phone": "1-800-955-1925",
+      "email": "",
+      "website": "https://www.oattravel.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Small-group adventures",
+        "Small-ship adventures"
+      ],
+      "price_positioning": "Mid-range/Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.oattravel.com"
+    },
+    {
+      "name": "Grand Circle Travel",
+      "specialty": "Adventure travel — escorted tours & small-ship cruises",
+      "city": "Boston",
+      "country": "USA",
+      "ownership": "Grand Circle Corporation",
+      "address": "Congress St, Boston, MA 02210",
+      "phone": "1-800-221-2610",
+      "email": "",
+      "website": "https://www.gct.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Escorted land tours",
+        "River cruises",
+        "Small-ship cruises"
+      ],
+      "price_positioning": "Mid-range",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.gct.com"
+    },
+    {
+      "name": "Road Scholar",
+      "specialty": "Adventure travel — educational adventure",
+      "city": "Boston",
+      "country": "USA",
+      "ownership": "Road Scholar (nonprofit educational travel organization)",
+      "address": "Boston, MA 02205",
+      "phone": "800-454-5768",
+      "email": "",
+      "website": "https://www.roadscholar.org",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Educational adventures",
+        "Active adventures",
+        "Grandparent/grandchild programs"
+      ],
+      "price_positioning": "Mid-range",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.roadscholar.org"
+    },
+    {
+      "name": "Smithsonian Journeys",
+      "specialty": "Adventure travel — educational expedition travel",
+      "city": "Washington",
+      "country": "USA",
+      "ownership": "Smithsonian Institution; travel program operated by Academic Travel Abroad (Washington, DC; 71-year-old educational travel company, partnered with Smithsonian since 1975)",
+      "address": "Washington, DC 20026",
+      "phone": "855.330.1542",
+      "email": "",
+      "website": "https://www.smithsonianjourneys.org",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Expert-led journeys",
+        "Small-ship cruises",
+        "Land expeditions",
+        "Rail journeys"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.smithsonianjourneys.org"
+    },
+    {
+      "name": "National Geographic Expeditions",
+      "specialty": "Adventure travel — expedition & photography travel",
+      "city": "Washington",
+      "country": "USA",
+      "ownership": "National Geographic Partners (Disney). Ocean expeditions operated by Lindblad Expeditions under the National Geographic-Lindblad Expeditions co-brand (partnership since 2004, extended through 2040).",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "https://www.nationalgeographic.com/expeditions/",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Expedition cruises",
+        "Land expeditions",
+        "Photography expeditions",
+        "Family expeditions"
+      ],
+      "price_positioning": "Premium/Luxury",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.nationalgeographic.com/expeditions/"
+    },
+    {
+      "name": "Orbridge",
+      "specialty": "Adventure travel — educational group travel",
+      "city": "",
+      "country": "USA",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "(866) 639-0079",
+      "email": "info@orbridge.com",
+      "website": "https://www.orbridge.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Educational group travel",
+        "Small-ship cruises",
+        "Alumni & affinity travel"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.orbridge.com"
+    },
+    {
+      "name": "Kensington Tours",
+      "specialty": "Adventure travel — private luxury adventure & safari",
+      "city": "Toronto",
+      "country": "Canada",
+      "ownership": "Kensington Tours Ltd. (portfolio includes Kensington Expeditions, Kensington Ultraluxe, Kensington Yachts, Kensington Cruise)",
+      "address": "2 Queen Street East, 20th Floor, Toronto, ON M5C 3G7",
+      "phone": "1 888 903 2001",
+      "email": "",
+      "website": "https://www.kensingtontours.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Private guided tours",
+        "Wildlife & safari journeys",
+        "Polar expeditions",
+        "Yacht expeditions"
+      ],
+      "price_positioning": "Luxury",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.kensingtontours.com"
+    },
+    {
+      "name": "Abercrombie & Kent",
+      "specialty": "Adventure travel — luxury adventure & expedition",
+      "city": "Downers Grove",
+      "country": "USA",
+      "ownership": "Abercrombie & Kent Travel Group (AKTG); Founder & Co-Chairman Geoffrey Kent (as published)",
+      "address": "1411 Opus Place, Downers Grove, IL 60515",
+      "phone": "(800) 554-7016",
+      "email": "",
+      "website": "https://www.abercrombiekent.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Luxury safaris",
+        "Private adventures",
+        "Expedition cruises",
+        "Tailor-made journeys"
+      ],
+      "price_positioning": "Luxury",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.abercrombiekent.com"
+    },
+    {
+      "name": "Cox & Kings",
+      "specialty": "Adventure travel — escorted adventure & cultural journeys",
+      "city": "Melbourne",
+      "country": "Australia",
+      "ownership": "Abercrombie & Kent Travel Group (brand; relaunched in Australia 2026 with Melbourne-based reservations team). NOTE: original India parent Cox & Kings Limited is under liquidation — brand now operates under AKTG.",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "https://coxandkings.com.au/",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Escorted small-group tours",
+        "Private journeys"
+      ],
+      "price_positioning": "Premium/Luxury",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://coxandkings.com.au/"
+    },
+    {
+      "name": "World Expeditions",
+      "specialty": "Adventure travel — adventure: trekking, cycling, polar",
+      "city": "Sydney",
+      "country": "Australia",
+      "ownership": "World Expeditions Travel Group (founded 1975; group includes UTracks, Walkers' Britain & Europe)",
+      "address": "",
+      "phone": "1-800-567-2216",
+      "email": "",
+      "website": "https://www.worldexpeditions.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Trekking",
+        "Cycling",
+        "Polar expeditions",
+        "Cultural journeys"
+      ],
+      "price_positioning": "Mid-range/Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.worldexpeditions.com"
+    },
+    {
+      "name": "Peregrine Adventures",
+      "specialty": "Adventure travel — small-group adventure (brand retired)",
+      "city": "",
+      "country": "",
+      "ownership": "Intrepid Group. FLAG: brand retired January 2022 and folded into Intrepid Travel (popular itineraries continue as Intrepid Premium).",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "https://www.peregrineadventures.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Small-group adventures (via Intrepid Premium)"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.peregrineadventures.com"
+    },
+    {
+      "name": "Adventure World",
+      "specialty": "Adventure travel — soft adventure & expedition",
+      "city": "",
+      "country": "Australia",
+      "ownership": "The Travel Corporation (acquired by Apollo-managed funds, Oct 2024); Managing Director Neil Rodgers (as published)",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "https://www.adventureworld.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Soft adventure",
+        "Expedition cruises",
+        "Polar",
+        "Tailor-made journeys"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.adventureworld.com"
+    },
+    {
+      "name": "Swain Destinations",
+      "specialty": "Adventure travel — custom luxury adventure & safari",
+      "city": "Haverford",
+      "country": "USA",
+      "ownership": "Swain family (founded 1987 by Ian & Linda Swain; Ian Swain II became President & Owner, April 2026, per company announcement)",
+      "address": "110 Quaker Ln, Haverford, PA",
+      "phone": "(800) 227-9246",
+      "email": "",
+      "website": "https://www.swaindestinations.com",
+      "destinations": [
+        "Africa",
+        "Australia",
+        "New Zealand",
+        "South Pacific",
+        "Middle East"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Custom luxury journeys",
+        "Safaris",
+        "Private travel"
+      ],
+      "price_positioning": "Luxury",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.swaindestinations.com"
+    },
+    {
+      "name": "Big Five Tours & Expeditions",
+      "specialty": "Adventure travel — luxury adventure & safari",
+      "city": "Stuart",
+      "country": "USA",
+      "ownership": "Independent",
+      "address": "1551 SE Palm Ct, Stuart, FL 34994",
+      "phone": "1-800-244-3483",
+      "email": "",
+      "website": "https://www.bigfive.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Luxury safaris",
+        "Adventure expeditions",
+        "Sustainable tours"
+      ],
+      "price_positioning": "Luxury",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.bigfive.com"
+    },
+    {
+      "name": "Ker & Downey",
+      "specialty": "Adventure travel — luxury experiential adventure & safari",
+      "city": "Katy",
+      "country": "USA",
+      "ownership": "Independent (privately held)",
+      "address": "6703 Highway Blvd, Katy, TX 77494",
+      "phone": "(281) 371-2500",
+      "email": "",
+      "website": "https://www.kerdowney.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Luxury safaris",
+        "Custom experiential journeys",
+        "Private travel"
+      ],
+      "price_positioning": "Luxury",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.kerdowney.com"
+    },
+    {
+      "name": "Extraordinary Journeys",
+      "specialty": "Adventure travel — luxury adventure & safari",
+      "city": "",
+      "country": "USA",
+      "ownership": "Independent (privately held)",
+      "address": "",
+      "phone": "+1-212-226-7331",
+      "email": "",
+      "website": "https://www.extraordinaryjourneys.com",
+      "destinations": [
+        "Africa",
+        "Asia",
+        "Latin America"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Luxury safaris",
+        "Custom adventures",
+        "Private travel"
+      ],
+      "price_positioning": "Luxury",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.extraordinaryjourneys.com"
+    },
+    {
+      "name": "Adventures by Disney",
+      "specialty": "Adventure travel — family adventure",
+      "city": "",
+      "country": "USA",
+      "ownership": "Disney Experiences (The Walt Disney Company)",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "https://www.adventuresbydisney.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Guided family adventures",
+        "Private adventures",
+        "Expedition cruises"
+      ],
+      "price_positioning": "Premium/Luxury",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.adventuresbydisney.com"
+    },
+    {
+      "name": "Lindblad Expeditions",
+      "specialty": "Adventure travel — expedition cruises & land adventures",
+      "city": "New York",
+      "country": "USA",
+      "ownership": "Lindblad Expeditions Holdings, Inc. (NASDAQ: LIND). Land subsidiaries include Natural Habitat Adventures (2016), DuVine Cycling + Adventure Co. and Off the Beaten Path (2021), Classic Journeys (2021), Thomson Safaris (2024) — per company announcements. CEO Natalya Leahy; Chief Expedition Officer Trey Byus (as published).",
+      "address": "",
+      "phone": "1.800.397.3348",
+      "email": "",
+      "website": "https://www.expeditions.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Expedition cruises",
+        "Land expeditions"
+      ],
+      "price_positioning": "Premium/Luxury",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.expeditions.com"
+    },
+    {
+      "name": "Quark Expeditions",
+      "specialty": "Adventure travel — polar expeditions",
+      "city": "",
+      "country": "",
+      "ownership": "Travelopia (as reported; not re-verified on official site this pass)",
+      "address": "",
+      "phone": "+1 (877) 585-1235",
+      "email": "",
+      "website": "https://www.quarkexpeditions.com",
+      "destinations": [
+        "Antarctica",
+        "Arctic"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Polar expedition cruises"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.quarkexpeditions.com"
+    },
+    {
+      "name": "HX (Hurtigruten Expeditions)",
+      "specialty": "Adventure travel — expedition cruises",
+      "city": "London",
+      "country": "UK",
+      "ownership": "Investor consortium led by Arini Capital Management, Cyrus Capital Partners and Tresidor (separated from Hurtigruten Group, 2025). CEO Gebhard Rainer (as published).",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "https://www.travelhx.com",
+      "destinations": [
+        "Antarctica",
+        "Arctic",
+        "Alaska",
+        "Galapagos"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Expedition cruises"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.travelhx.com"
+    },
+    {
+      "name": "Aurora Expeditions",
+      "specialty": "Adventure travel — polar expeditions",
+      "city": "",
+      "country": "Australia",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "https://www.auroraexpeditions.com.au",
+      "destinations": [
+        "Antarctica",
+        "Arctic"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Polar expedition cruises",
+        "Adventure activities"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.auroraexpeditions.com.au"
+    },
+    {
+      "name": "Oceanwide Expeditions",
+      "specialty": "Adventure travel — polar expeditions",
+      "city": "",
+      "country": "",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "https://www.oceanwide-expeditions.com",
+      "destinations": [
+        "Antarctica",
+        "Arctic"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Polar expedition cruises"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.oceanwide-expeditions.com"
+    },
+    {
+      "name": "Poseidon Expeditions",
+      "specialty": "Adventure travel — polar expeditions",
+      "city": "",
+      "country": "",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "800-555-0678",
+      "email": "",
+      "website": "https://www.poseidonexpeditions.com",
+      "destinations": [
+        "Antarctica",
+        "Arctic"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Polar expedition cruises"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.poseidonexpeditions.com"
+    },
+    {
+      "name": "Adventure Canada",
+      "specialty": "Adventure travel — expedition cruises",
+      "city": "",
+      "country": "Canada",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "+1-800-363-7566",
+      "email": "",
+      "website": "https://www.adventurecanada.com",
+      "destinations": [
+        "Canada",
+        "Arctic",
+        "Antarctica"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Expedition cruises",
+        "Cultural expeditions"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.adventurecanada.com"
+    },
+    {
+      "name": "Polar Latitudes",
+      "specialty": "Adventure travel — Antarctica expeditions",
+      "city": "",
+      "country": "USA",
+      "ownership": "Independent (Founder & President John McKeon, as published)",
+      "address": "",
+      "phone": "+1 (802) 698-8479",
+      "email": "",
+      "website": "https://www.polar-latitudes.com",
+      "destinations": [
+        "Antarctica"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Expedition cruises"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.polar-latitudes.com"
+    },
+    {
+      "name": "UnCruise Adventures",
+      "specialty": "Adventure travel — small-ship adventure cruises",
+      "city": "",
+      "country": "USA",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "https://www.uncruise.com",
+      "destinations": [
+        "Alaska",
+        "USA"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Small-ship adventure cruises",
+        "Wilderness expeditions"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.uncruise.com"
+    },
+    {
+      "name": "AdventureSmith Explorations",
+      "specialty": "Adventure travel — small-ship adventure cruises",
+      "city": "",
+      "country": "USA",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "1-877-620-2875",
+      "email": "",
+      "website": "https://www.adventuresmithexplorations.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Small-ship cruises",
+        "Expedition cruises",
+        "Active adventures"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.adventuresmithexplorations.com"
+    },
+    {
+      "name": "Zegrahm Expeditions",
+      "specialty": "Adventure travel — expedition travel",
+      "city": "",
+      "country": "USA",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "1-844 421 0109",
+      "email": "",
+      "website": "https://www.zegrahm.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Expedition cruises",
+        "Overland expeditions"
+      ],
+      "price_positioning": "Premium/Luxury",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.zegrahm.com"
+    },
+    {
+      "name": "Chimu Adventures",
+      "specialty": "Adventure travel — polar & Latin America adventures",
+      "city": "Sydney",
+      "country": "Australia",
+      "ownership": "Nordic Hamburg (investment Sept 25, 2024; Intrepid Travel divested its stake). Co-founder & Managing Director Chad Carey (as published).",
+      "address": "",
+      "phone": "1 800 246 6134",
+      "email": "info@chimuadventures.com",
+      "website": "https://www.chimuadventures.com",
+      "destinations": [
+        "Antarctica",
+        "Arctic",
+        "South America"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Polar expedition cruises",
+        "Latin America adventures"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.chimuadventures.com"
+    },
+    {
+      "name": "Swoop Adventures",
+      "specialty": "Adventure travel — polar adventures",
+      "city": "",
+      "country": "UK",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "1-888-970-4571",
+      "email": "",
+      "website": "https://www.swoop-adventures.com",
+      "destinations": [
+        "Antarctica",
+        "Arctic",
+        "Patagonia"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Polar expedition cruises",
+        "Adventure travel"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.swoop-adventures.com"
+    },
+    {
+      "name": "Tauck",
+      "specialty": "Adventure travel — luxury escorted adventure",
+      "city": "Wilton",
+      "country": "USA",
+      "ownership": "Tauck family (founded 1925; family-owned and operated)",
+      "address": "10 Westport Rd, Wilton, CT",
+      "phone": "+1-203-899-6500",
+      "email": "",
+      "website": "https://www.tauck.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Guided land journeys",
+        "Small-ship cruises",
+        "River cruises",
+        "Safaris",
+        "Family travel (Tauck Bridges)"
+      ],
+      "price_positioning": "Luxury",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.tauck.com"
+    },
+    {
+      "name": "Classic Journeys",
+      "specialty": "Adventure travel — cultural walking adventures",
+      "city": "",
+      "country": "USA",
+      "ownership": "Lindblad Expeditions Holdings, Inc. (acquired 2021, per company announcements)",
+      "address": "",
+      "phone": "800-200-3887",
+      "email": "",
+      "website": "https://www.classicjourneys.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Cultural walking tours",
+        "Family journeys",
+        "Private journeys"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.classicjourneys.com"
+    },
+    {
+      "name": "Thomson Family Adventures",
+      "specialty": "Adventure travel — family adventure",
+      "city": "",
+      "country": "USA",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "https://www.familyadventures.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Family adventures",
+        "Small-group family tours"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.familyadventures.com"
+    },
+    {
+      "name": "Thomson Safaris",
+      "specialty": "Adventure travel — safari & adventure",
+      "city": "Watertown",
+      "country": "USA",
+      "ownership": "Lindblad Expeditions Holdings, Inc. (acquired 2024, ~$30M, per company announcements)",
+      "address": "Watertown, MA 02472",
+      "phone": "800-235-0289",
+      "email": "",
+      "website": "https://www.thomsonsafaris.com",
+      "destinations": [
+        "Tanzania",
+        "Kenya"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Safaris",
+        "Walking safaris",
+        "Family safaris"
+      ],
+      "price_positioning": "Premium/Luxury",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.thomsonsafaris.com"
+    },
+    {
+      "name": "Myths and Mountains",
+      "specialty": "Adventure travel — cultural adventure",
+      "city": "Incline Village",
+      "country": "USA",
+      "ownership": "FLAG: standalone website unverified (domain redirects to parked domain saka7xk.com); reported as operating within Wild Frontiers (UK) since 2019 partnership. Founder Dr. Antonia Neubauer (per company press releases).",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "",
+      "destinations": [
+        "Asia",
+        "South America"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Cultural adventures",
+        "Custom journeys"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": ""
+    },
+    {
+      "name": "Boundless Journeys",
+      "specialty": "Adventure travel — active adventure",
+      "city": "",
+      "country": "USA",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "1-800-941-8010",
+      "email": "",
+      "website": "https://www.boundlessjourneys.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Hiking",
+        "Trekking",
+        "Safaris",
+        "Cultural adventures"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.boundlessjourneys.com"
+    },
+    {
+      "name": "Off the Beaten Path",
+      "specialty": "Adventure travel — active: national parks",
+      "city": "",
+      "country": "USA",
+      "ownership": "Lindblad Expeditions Holdings, Inc. (majority stake, March 2021)",
+      "address": "",
+      "phone": "800.445.2995",
+      "email": "",
+      "website": "https://www.offthebeatenpath.com",
+      "destinations": [
+        "USA"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "National parks adventures",
+        "Hiking",
+        "Multi-sport"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.offthebeatenpath.com"
+    },
+    {
+      "name": "Journeys International",
+      "specialty": "Adventure travel — adventure & cultural",
+      "city": "",
+      "country": "USA",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "800-255-8735",
+      "email": "",
+      "website": "https://www.journeysinternational.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Cultural adventures",
+        "Custom journeys"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.journeysinternational.com"
+    },
+    {
+      "name": "MIR Corporation",
+      "specialty": "Adventure travel — adventure: Central Asia & beyond",
+      "city": "",
+      "country": "USA",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "800-424-7289",
+      "email": "",
+      "website": "https://www.mircorp.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Cultural adventures",
+        "Rail journeys",
+        "Expeditions"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.mircorp.com"
+    },
+    {
+      "name": "ROW Adventures",
+      "specialty": "Adventure travel — adventure: rafting, multi-sport",
+      "city": "",
+      "country": "USA",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "https://www.rowadventures.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Whitewater rafting",
+        "Multi-sport",
+        "Small-ship cruises"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.rowadventures.com"
+    },
+    {
+      "name": "OARS",
+      "specialty": "Adventure travel — adventure: whitewater rafting",
+      "city": "",
+      "country": "USA",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "1 (800) 346-6277",
+      "email": "",
+      "website": "https://www.oars.com",
+      "destinations": [
+        "USA",
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Whitewater rafting",
+        "Multi-sport",
+        "Hiking"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.oars.com"
+    },
+    {
+      "name": "Western River Expeditions",
+      "specialty": "Adventure travel — adventure: whitewater rafting",
+      "city": "",
+      "country": "USA",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "(801) 459-3525",
+      "email": "",
+      "website": "https://www.westernriver.com",
+      "destinations": [
+        "USA"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Whitewater rafting"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.westernriver.com"
+    },
+    {
+      "name": "Zephyr Adventures",
+      "specialty": "Adventure travel — active adventure",
+      "city": "",
+      "country": "USA",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "https://www.zephyr.travel",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Trekking",
+        "Hiking",
+        "Multi-sport"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.zephyr.travel"
+    },
+    {
+      "name": "Artisans of Leisure",
+      "specialty": "Adventure travel — luxury private adventure",
+      "city": "",
+      "country": "USA",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "1 (800) 214-8144",
+      "email": "info@artisansofleisure.com",
+      "website": "https://www.artisansofleisure.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Private luxury tours",
+        "Cultural adventures",
+        "Family travel",
+        "Culinary travel"
+      ],
+      "price_positioning": "Luxury",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.artisansofleisure.com"
+    },
+    {
+      "name": "Sojourn Bicycling & Active Vacations",
+      "specialty": "Adventure travel — cycling",
+      "city": "",
+      "country": "USA",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "https://www.gosojourn.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Cycling tours",
+        "Active vacations"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.gosojourn.com"
+    },
+    {
+      "name": "ExperiencePlus! Bicycle Tours",
+      "specialty": "Adventure travel — cycling",
+      "city": "",
+      "country": "USA",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "970-484-8489",
+      "email": "",
+      "website": "https://www.experienceplus.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Cycling tours",
+        "Bike & barge"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.experienceplus.com"
+    },
+    {
+      "name": "Ciclismo Classico",
+      "specialty": "Adventure travel — cycling",
+      "city": "",
+      "country": "USA",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "1-800-866-7314",
+      "email": "",
+      "website": "https://www.ciclismoclassico.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Cycling tours",
+        "Culinary cycling"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.ciclismoclassico.com"
+    },
+    {
+      "name": "Escape Adventures",
+      "specialty": "Adventure travel — cycling & multi-sport",
+      "city": "Las Vegas",
+      "country": "USA",
+      "ownership": "Independent",
+      "address": "Discovery Dr, Las Vegas, NV 89135",
+      "phone": "1.800.596.2953",
+      "email": "info@escapeadventures.com",
+      "website": "https://www.escapeadventures.com",
+      "destinations": [
+        "USA"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Cycling tours",
+        "Mountain biking",
+        "Multi-sport"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.escapeadventures.com"
+    },
+    {
+      "name": "Western Spirit Cycling",
+      "specialty": "Adventure travel — mountain biking",
+      "city": "",
+      "country": "USA",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "https://www.westernspirit.com",
+      "destinations": [
+        "USA"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Mountain biking",
+        "Multi-sport"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.westernspirit.com"
+    },
+    {
+      "name": "Lizard Head Cycling Guides",
+      "specialty": "Adventure travel — cycling",
+      "city": "Ophir",
+      "country": "USA",
+      "ownership": "Independent",
+      "address": "Ophir, CO 81426",
+      "phone": "970.728.5891",
+      "email": "info@lizardheadcyclingguides.com",
+      "website": "https://www.lizardheadcyclingguides.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Road cycling",
+        "Mountain biking",
+        "Custom tours"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.lizardheadcyclingguides.com"
+    },
+    {
+      "name": "BikeTours.com (BikeTours Direct)",
+      "specialty": "Adventure travel — cycling",
+      "city": "",
+      "country": "USA",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "https://www.biketours.com",
+      "destinations": [
+        "Europe",
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Self-guided cycling",
+        "Guided cycling",
+        "Bike & barge"
+      ],
+      "price_positioning": "Mid-range",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.biketours.com"
+    },
+    {
+      "name": "Rim Tours",
+      "specialty": "Adventure travel — mountain biking",
+      "city": "",
+      "country": "USA",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "(435) 259-5223",
+      "email": "",
+      "website": "https://www.rimtours.com",
+      "destinations": [
+        "USA"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Mountain biking"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.rimtours.com"
+    },
+    {
+      "name": "SpiceRoads Cycling",
+      "specialty": "Adventure travel — cycling",
+      "city": "",
+      "country": "",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "+1 720 827 3119",
+      "email": "",
+      "website": "https://www.spiceroads.com",
+      "destinations": [
+        "Asia"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Cycling tours",
+        "Mountain biking"
+      ],
+      "price_positioning": "Mid-range/Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.spiceroads.com"
+    },
+    {
+      "name": "Grasshopper Adventures",
+      "specialty": "Adventure travel — cycling",
+      "city": "",
+      "country": "",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "1-844-874-3720",
+      "email": "",
+      "website": "https://www.grasshopperadventures.com",
+      "destinations": [
+        "Southeast Asia"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Cycling tours",
+        "Multi-sport"
+      ],
+      "price_positioning": "Mid-range/Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.grasshopperadventures.com"
+    },
+    {
+      "name": "H+I Adventures",
+      "specialty": "Adventure travel — mountain biking",
+      "city": "Inverness",
+      "country": "UK",
+      "ownership": "Independent (Owner & Founder Euan Wilson, as published)",
+      "address": "",
+      "phone": "01463 231 441",
+      "email": "info@mountainbikeworldwide.com",
+      "website": "https://www.mountainbikeworldwide.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Mountain biking",
+        "E-MTB tours"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.mountainbikeworldwide.com"
+    },
+    {
+      "name": "Cog Wild",
+      "specialty": "Adventure travel — mountain biking",
+      "city": "Bend",
+      "country": "USA",
+      "ownership": "Independent",
+      "address": "SW Columbia Street, Bend, OR 97702",
+      "phone": "541-385-7002",
+      "email": "INFO@COGWILD.COM",
+      "website": "https://www.cogwild.com",
+      "destinations": [
+        "USA"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Mountain biking",
+        "Shuttle services"
+      ],
+      "price_positioning": "Mid-range",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.cogwild.com"
+    },
+    {
+      "name": "Ryder-Walker Alpine Adventures",
+      "specialty": "Adventure travel — hiking & trekking",
+      "city": "Telluride",
+      "country": "USA",
+      "ownership": "Family owned and operated (founded 1984, as published)",
+      "address": "PO Box 947, Telluride, CO 81435",
+      "phone": "888.586.8365",
+      "email": "adventure@ryderwalker.com",
+      "website": "https://ryderwalker.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Guided hiking",
+        "Self-guided hiking",
+        "Private treks",
+        "Inn-to-inn walks"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://ryderwalker.com"
+    },
+    {
+      "name": "Alpenwild",
+      "specialty": "Adventure travel — hiking: Alps",
+      "city": "",
+      "country": "USA",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "https://www.alpenwild.com",
+      "destinations": [
+        "Europe"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Guided hiking",
+        "Self-guided hiking",
+        "Rail journeys"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.alpenwild.com"
+    },
+    {
+      "name": "Alpine Hikers",
+      "specialty": "Adventure travel — hiking",
+      "city": "",
+      "country": "USA",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "(928) 778-0345",
+      "email": "info@alpinehikers.com",
+      "website": "https://www.alpinehikers.com",
+      "destinations": [
+        "USA",
+        "Europe"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Guided hiking",
+        "Inn-to-inn walks"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.alpinehikers.com"
+    },
+    {
+      "name": "Exodus Adventure Travels",
+      "specialty": "Adventure travel — adventure: hiking, cycling",
+      "city": "",
+      "country": "UK",
+      "ownership": "Travelopia (as reported; not re-verified on official site this pass)",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "https://www.exodus.co.uk",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Hiking & trekking",
+        "Cycling",
+        "Wildlife",
+        "Cultural adventures"
+      ],
+      "price_positioning": "Mid-range/Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.exodus.co.uk"
+    },
+    {
+      "name": "Explore!",
+      "specialty": "Adventure travel — adventure",
+      "city": "",
+      "country": "UK",
+      "ownership": "Travelopia (as reported; not re-verified on official site this pass)",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "https://www.explore.co.uk",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Small-group adventures",
+        "Walking",
+        "Cycling",
+        "Family adventures"
+      ],
+      "price_positioning": "Mid-range",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.explore.co.uk"
+    },
+    {
+      "name": "Headwater",
+      "specialty": "Adventure travel — walking & cycling",
+      "city": "",
+      "country": "UK",
+      "ownership": "Travelopia (as reported; not re-verified on official site this pass)",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "https://www.headwater.com",
+      "destinations": [
+        "Europe"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Walking holidays",
+        "Cycling holidays"
+      ],
+      "price_positioning": "Mid-range/Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.headwater.com"
+    },
+    {
+      "name": "KE Adventure Travel",
+      "specialty": "Adventure travel — adventure: trekking",
+      "city": "",
+      "country": "UK",
+      "ownership": "Travelopia (as reported; not re-verified on official site this pass)",
+      "address": "",
+      "phone": "+1 888 630 4415",
+      "email": "",
+      "website": "https://www.keadventure.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Trekking",
+        "Hiking",
+        "Cycling",
+        "Polar"
+      ],
+      "price_positioning": "Mid-range/Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.keadventure.com"
+    },
+    {
+      "name": "Dragoman",
+      "specialty": "Adventure travel — overland adventure",
+      "city": "",
+      "country": "UK",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "https://www.dragoman.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Overland expeditions",
+        "Small-group adventures"
+      ],
+      "price_positioning": "Mid-range",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.dragoman.com"
+    },
+    {
+      "name": "Tucan Travel",
+      "specialty": "Adventure travel — adventure",
+      "city": "",
+      "country": "UK",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "https://www.tucantravel.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Small-group adventures",
+        "Overland tours"
+      ],
+      "price_positioning": "Mid-range",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.tucantravel.com"
+    },
+    {
+      "name": "Wild Frontiers",
+      "specialty": "Adventure travel — adventure: off-beat",
+      "city": "",
+      "country": "UK",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "https://www.wildfrontierstravel.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Off-beat adventures",
+        "Cultural journeys",
+        "Small-group tours"
+      ],
+      "price_positioning": "Mid-range/Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.wildfrontierstravel.com"
+    },
+    {
+      "name": "Steppes Travel",
+      "specialty": "Adventure travel — tailor-made adventure",
+      "city": "",
+      "country": "UK",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "https://www.steppestravel.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Tailor-made adventures",
+        "Small-group journeys"
+      ],
+      "price_positioning": "Premium/Luxury",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.steppestravel.com"
+    },
+    {
+      "name": "The Mountain Company",
+      "specialty": "Adventure travel — trekking",
+      "city": "",
+      "country": "UK",
+      "ownership": "Independent (UK-based, as published)",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "https://www.themountaincompany.co.uk",
+      "destinations": [
+        "Nepal",
+        "Bhutan",
+        "Asia"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Trekking",
+        "Walking holidays"
+      ],
+      "price_positioning": "Mid-range/Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.themountaincompany.co.uk"
+    },
+    {
+      "name": "Inntravel",
+      "specialty": "Adventure travel — self-guided walking & cycling",
+      "city": "",
+      "country": "UK",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "https://www.inntravel.co.uk",
+      "destinations": [
+        "Europe"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Self-guided walking",
+        "Self-guided cycling",
+        "Rail journeys"
+      ],
+      "price_positioning": "Mid-range/Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.inntravel.co.uk"
+    },
+    {
+      "name": "Macs Adventure",
+      "specialty": "Adventure travel — self-guided active",
+      "city": "",
+      "country": "UK",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "https://www.macsadventure.com",
+      "destinations": [
+        "Europe",
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Self-guided walking",
+        "Self-guided cycling"
+      ],
+      "price_positioning": "Mid-range/Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.macsadventure.com"
+    },
+    {
+      "name": "HF Holidays",
+      "specialty": "Adventure travel — walking holidays",
+      "city": "",
+      "country": "UK",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "https://www.hfholidays.co.uk",
+      "destinations": [
+        "UK",
+        "Europe"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Guided walking holidays"
+      ],
+      "price_positioning": "Mid-range",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.hfholidays.co.uk"
+    },
+    {
+      "name": "Ramblers Walking Holidays",
+      "specialty": "Adventure travel — walking holidays",
+      "city": "",
+      "country": "UK",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "https://www.ramblerswalkingholidays.co.uk",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Guided walking holidays"
+      ],
+      "price_positioning": "Mid-range",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.ramblerswalkingholidays.co.uk"
+    },
+    {
+      "name": "UTracks",
+      "specialty": "Adventure travel — active: walking & cycling, Europe",
+      "city": "Sydney",
+      "country": "Australia",
+      "ownership": "World Expeditions Travel Group (division; trading as a division of World Expeditions Monde Ltd, per T&Cs)",
+      "address": "Level 2, 55 York Street, Sydney, NSW 2000",
+      "phone": "+61 2 8270 8488",
+      "email": "",
+      "website": "https://www.utracks.com",
+      "destinations": [
+        "Europe"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Walking holidays",
+        "Cycling holidays",
+        "Self-guided",
+        "Bike & barge",
+        "Camino"
+      ],
+      "price_positioning": "Mid-range",
+      "loyalty_programs": [],
+      "pr_contacts": [
+        {
+          "name": "Lizzie Cooper",
+          "title": "PR Manager (UK PR for World Expeditions / UTracks / Walkers' Britain & Europe)",
+          "email": "",
+          "phone": ""
+        }
+      ],
+      "marketing_contacts": [],
+      "source": "https://www.utracks.com"
+    },
+    {
+      "name": "Joseph Van Os Photo Safaris",
+      "specialty": "Adventure travel — photography",
+      "city": "Vashon Island",
+      "country": "USA",
+      "ownership": "Independent (founded 1980; Joe Van Os namesake, as published)",
+      "address": "PO Box 1615, Vashon Island, WA 98070",
+      "phone": "(206) 463-5383",
+      "email": "info@photosafaris.com",
+      "website": "https://photosafaris.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Photo tours",
+        "Photo safaris",
+        "Wildlife photography",
+        "Landscape photography"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://photosafaris.com"
+    },
+    {
+      "name": "Backcountry Journeys",
+      "specialty": "Adventure travel — photography",
+      "city": "",
+      "country": "",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "https://www.backcountryjourneys.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Photography tours",
+        "Workshops"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.backcountryjourneys.com"
+    },
+    {
+      "name": "Naturalist Journeys",
+      "specialty": "Adventure travel — birding & nature",
+      "city": "",
+      "country": "",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "https://www.naturalistjourneys.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Birding tours",
+        "Nature tours"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.naturalistjourneys.com"
+    },
+    {
+      "name": "Victor Emanuel Nature Tours (VENT)",
+      "specialty": "Adventure travel — birding & nature",
+      "city": "",
+      "country": "",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "https://www.ventbird.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Birding tours",
+        "Nature tours",
+        "Photo tours"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.ventbird.com"
+    },
+    {
+      "name": "Rockjumper Birding Tours",
+      "specialty": "Adventure travel — birding",
+      "city": "",
+      "country": "",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "1-888-990-5552",
+      "email": "info@rockjumper.com",
+      "website": "https://www.rockjumperbirding.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Birding tours"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.rockjumperbirding.com"
+    },
+    {
+      "name": "WINGS Birding Tours",
+      "specialty": "Adventure travel — birding",
+      "city": "",
+      "country": "",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "https://www.wingsbirds.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Birding tours"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.wingsbirds.com"
+    },
+    {
+      "name": "Cheesemans' Ecology Safaris",
+      "specialty": "Adventure travel — wildlife & nature",
+      "city": "",
+      "country": "",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "800.527.5330",
+      "email": "",
+      "website": "https://www.cheesemans.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Wildlife safaris",
+        "Ecology tours",
+        "Small-group nature tours"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.cheesemans.com"
+    },
+    {
+      "name": "The International Kitchen",
+      "specialty": "Adventure travel — culinary",
+      "city": "Chicago",
+      "country": "USA",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "(312) 467-0560",
+      "email": "",
+      "website": "https://www.theinternationalkitchen.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Cooking vacations",
+        "Culinary tours",
+        "Wine tours"
+      ],
+      "price_positioning": "Premium/Luxury",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.theinternationalkitchen.com"
+    },
+    {
+      "name": "Access Culinary Trips",
+      "specialty": "Adventure travel — culinary",
+      "city": "Bainbridge Island",
+      "country": "USA",
+      "ownership": "Independent (founded 2001; CEO Tamar Lowell, as published)",
+      "address": "600 Winslow Way E Suite 236, Bainbridge Island, WA 98110",
+      "phone": "1-800-567-9400",
+      "email": "info@accesstrips.com",
+      "website": "https://www.accesstrips.com",
+      "destinations": [
+        "Italy",
+        "Spain",
+        "Morocco",
+        "Vietnam",
+        "Cuba",
+        "Thailand"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Cooking vacations",
+        "Culinary tours",
+        "Food tours"
+      ],
+      "price_positioning": "Premium/Luxury",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.accesstrips.com"
+    },
+    {
+      "name": "Frontiers North Adventures",
+      "specialty": "Adventure travel — polar bear & Arctic adventures",
+      "city": "",
+      "country": "",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "https://www.frontiersnorth.com",
+      "destinations": [
+        "Canada"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Polar bear tours",
+        "Beluga whale tours",
+        "Northern lights"
+      ],
+      "price_positioning": "Premium/Luxury",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.frontiersnorth.com"
+    },
+    {
+      "name": "Churchill Wild",
+      "specialty": "Adventure travel — polar bear safaris",
+      "city": "",
+      "country": "Canada",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "1-866-846-9453",
+      "email": "INFO@CHURCHILLWILD.COM",
+      "website": "https://www.churchillwild.com",
+      "destinations": [
+        "Canada"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Polar bear walking safaris",
+        "Arctic safaris"
+      ],
+      "price_positioning": "Luxury",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.churchillwild.com"
+    },
+    {
+      "name": "Great Canadian Trails",
+      "specialty": "Adventure travel — active: hiking, cycling, multisport",
+      "city": "",
+      "country": "Canada",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "1-866-305-2257",
+      "email": "",
+      "website": "https://www.greatcanadiantrails.com",
+      "destinations": [
+        "Canada"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Hiking",
+        "Cycling",
+        "Multisport",
+        "Winter adventures"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.greatcanadiantrails.com"
+    },
+    {
+      "name": "Walk Japan",
+      "specialty": "Adventure travel — walking: Japan",
+      "city": "",
+      "country": "",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "https://www.walkjapan.com",
+      "destinations": [
+        "Japan"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Guided walking tours",
+        "Cultural tours"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.walkjapan.com"
+    },
+    {
+      "name": "InsideJapan Tours",
+      "specialty": "Adventure travel — Japan adventure",
+      "city": "",
+      "country": "",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "0117 244 3380",
+      "email": "",
+      "website": "https://www.insidejapantours.com",
+      "destinations": [
+        "Japan"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Self-guided adventures",
+        "Small-group tours",
+        "Cycling"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.insidejapantours.com"
+    },
+    {
+      "name": "50 Degrees North",
+      "specialty": "Adventure travel — Nordic adventures",
+      "city": "",
+      "country": "",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "https://www.fiftydegreesnorth.com",
+      "destinations": [
+        "Norway",
+        "Iceland",
+        "Finland",
+        "Sweden"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Northern lights",
+        "Arctic adventures",
+        "Tailor-made"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.fiftydegreesnorth.com"
+    },
+    {
+      "name": "Nordic Visitor",
+      "specialty": "Adventure travel — Nordic adventures",
+      "city": "",
+      "country": "",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "1-800-490-1019",
+      "email": "",
+      "website": "https://www.nordicvisitor.com",
+      "destinations": [
+        "Iceland",
+        "Norway",
+        "Greenland"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Self-drive",
+        "Guided tours",
+        "Northern lights"
+      ],
+      "price_positioning": "Premium",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.nordicvisitor.com"
+    },
+    {
+      "name": "&Beyond",
+      "specialty": "Adventure travel — luxury safari & adventure",
+      "city": "",
+      "country": "",
+      "ownership": "Independent (privately held)",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "https://www.andbeyond.com",
+      "destinations": [
+        "Africa",
+        "South America",
+        "Asia"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Luxury safaris",
+        "Private journeys",
+        "Expedition cruises"
+      ],
+      "price_positioning": "Luxury",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.andbeyond.com"
+    },
+    {
+      "name": "Micato Safaris",
+      "specialty": "Adventure travel — luxury safari",
+      "city": "",
+      "country": "",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "+1-800-642-2861",
+      "email": "",
+      "website": "https://www.micato.com",
+      "destinations": [
+        "Africa",
+        "India"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Luxury safaris",
+        "Private safaris"
+      ],
+      "price_positioning": "Luxury",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.micato.com"
+    },
+    {
+      "name": "Wilderness",
+      "specialty": "Adventure travel — luxury safari & conservation",
+      "city": "",
+      "country": "",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "https://www.wildernessdestinations.com",
+      "destinations": [
+        "Africa"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Luxury safaris",
+        "Conservation travel"
+      ],
+      "price_positioning": "Luxury",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.wildernessdestinations.com"
+    },
+    {
+      "name": "Great Plains Conservation",
+      "specialty": "Adventure travel — luxury safari & conservation",
+      "city": "",
+      "country": "South Africa",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "https://www.greatplainsconservation.com",
+      "destinations": [
+        "Africa"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Luxury safaris",
+        "Conservation safaris"
+      ],
+      "price_positioning": "Luxury",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.greatplainsconservation.com"
+    },
+    {
+      "name": "Singita",
+      "specialty": "Adventure travel — luxury safari lodges & experiences",
+      "city": "",
+      "country": "",
+      "ownership": "Singita (privately held)",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "https://www.singita.com",
+      "destinations": [
+        "Africa"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Luxury safaris",
+        "Lodge-based journeys"
+      ],
+      "price_positioning": "Luxury",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.singita.com"
+    },
+    {
+      "name": "Asilia Africa",
+      "specialty": "Adventure travel — safari",
+      "city": "",
+      "country": "",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "https://www.asiliaafrica.com",
+      "destinations": [
+        "Kenya",
+        "Tanzania"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Safaris",
+        "Walking safaris"
+      ],
+      "price_positioning": "Premium/Luxury",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.asiliaafrica.com"
+    },
+    {
+      "name": "Nomad Tanzania",
+      "specialty": "Adventure travel — safari",
+      "city": "",
+      "country": "",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "https://www.nomad-tanzania.com",
+      "destinations": [
+        "Tanzania"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Safaris",
+        "Walking safaris"
+      ],
+      "price_positioning": "Luxury",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.nomad-tanzania.com"
+    },
+    {
+      "name": "Expert Africa",
+      "specialty": "Adventure travel — safari specialists",
+      "city": "",
+      "country": "",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "1-800-242-2434",
+      "email": "",
+      "website": "https://www.expertafrica.com",
+      "destinations": [
+        "Africa"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Safaris",
+        "Tailor-made"
+      ],
+      "price_positioning": "Premium/Luxury",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.expertafrica.com"
+    },
+    {
+      "name": "Deeper Africa",
+      "specialty": "Adventure travel — safari",
+      "city": "Boulder",
+      "country": "USA",
+      "ownership": "Independent",
+      "address": "Boulder, CO 80301",
+      "phone": "(888) 658-7102",
+      "email": "info@deeperafrica.com",
+      "website": "https://www.deeperafrica.com",
+      "destinations": [
+        "Africa"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Safaris",
+        "Custom journeys"
+      ],
+      "price_positioning": "Premium/Luxury",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.deeperafrica.com"
+    },
+    {
+      "name": "Black Tomato",
+      "specialty": "Adventure travel — luxury adventure",
+      "city": "",
+      "country": "UK",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "020 7426 9888",
+      "email": "",
+      "website": "https://www.blacktomato.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Tailor-made adventures",
+        "Family adventures"
+      ],
+      "price_positioning": "Luxury",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.blacktomato.com"
+    },
+    {
+      "name": "Scott Dunn",
+      "specialty": "Adventure travel — luxury adventure",
+      "city": "",
+      "country": "UK",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "https://www.scottdunn.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Tailor-made luxury travel",
+        "Family adventures",
+        "Honeymoons"
+      ],
+      "price_positioning": "Luxury",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.scottdunn.com"
+    },
+    {
+      "name": "Original Travel",
+      "specialty": "Adventure travel — luxury adventure",
+      "city": "",
+      "country": "UK",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "https://www.originaltravel.co.uk",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Tailor-made adventures",
+        "Honeymoons",
+        "Family travel"
+      ],
+      "price_positioning": "Luxury",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.originaltravel.co.uk"
+    },
+    {
+      "name": "Pelorus",
+      "specialty": "Adventure travel — luxury expedition & yachting adventures",
+      "city": "",
+      "country": "UK",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "020 3848 5424",
+      "email": "",
+      "website": "https://www.pelorusx.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Expeditions",
+        "Yachting adventures",
+        "Private travel"
+      ],
+      "price_positioning": "Luxury",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.pelorusx.com"
+    },
+    {
+      "name": "Cookson Adventures",
+      "specialty": "Adventure travel — luxury expedition",
+      "city": "",
+      "country": "UK",
+      "ownership": "Independent",
+      "address": "",
+      "phone": "",
+      "email": "",
+      "website": "https://www.cooksonadventures.com",
+      "destinations": [
+        "Worldwide"
+      ],
+      "fleet": [],
+      "trip_types": [
+        "Bespoke expeditions",
+        "Private travel"
+      ],
+      "price_positioning": "Luxury",
+      "loyalty_programs": [],
+      "pr_contacts": [],
+      "marketing_contacts": [],
+      "source": "https://www.cooksonadventures.com"
+    }
+  ]
+}

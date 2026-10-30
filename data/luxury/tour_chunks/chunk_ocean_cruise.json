@@ -1,0 +1,1928 @@
+{
+ "items": [
+  {
+   "name": "Viking Cruises (Viking Ocean Cruises)",
+   "specialty": "Luxury ocean cruises",
+   "city": "Basel",
+   "country": "Switzerland",
+   "ownership": "Viking Holdings Ltd (Bermuda parent, NYSE: VIK)",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://www.vikingcruises.com/",
+   "destinations": [
+    "Mediterranean",
+    "Northern Europe",
+    "Caribbean",
+    "Alaska",
+    "Asia",
+    "South America",
+    "World cruises"
+   ],
+   "fleet": [
+    "Viking Star — 930 guests",
+    "Viking Sea — 930 guests",
+    "Viking Sky — 930 guests",
+    "Viking Sun — 930 guests",
+    "Viking Orion — 930 guests",
+    "Viking Jupiter — 930 guests",
+    "Viking Venus — 930 guests",
+    "Viking Mars — 930 guests",
+    "Viking Neptune — 930 guests",
+    "Viking Saturn — 930 guests",
+    "Viking Vesta — 930 guests",
+    "Viking Mira — 930 guests",
+    "Viking Libra — 930 guests"
+   ],
+   "trip_types": [
+    "Ocean cruises"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://www.vikingcruises.com/"
+  },
+  {
+   "name": "Silversea Cruises",
+   "specialty": "Luxury ocean cruises",
+   "city": "Miami",
+   "country": "USA",
+   "ownership": "Royal Caribbean Group (100% since July 2020)",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://www.silversea.com/",
+   "destinations": [
+    "Mediterranean",
+    "Caribbean",
+    "Alaska",
+    "South Pacific",
+    "Asia",
+    "Antarctica",
+    "World cruises"
+   ],
+   "fleet": [
+    "Silver Muse",
+    "Silver Moon",
+    "Silver Dawn",
+    "Silver Nova",
+    "Silver Ray",
+    "Silver Spirit",
+    "Silver Whisper",
+    "Silver Shadow",
+    "Silver Cloud",
+    "Silver Wind",
+    "Silver Origin",
+    "Silver Endeavour"
+   ],
+   "trip_types": [
+    "Ocean cruises",
+    "Expedition cruises"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://www.silversea.com/"
+  },
+  {
+   "name": "Seabourn",
+   "specialty": "Luxury ocean cruises",
+   "city": "Seattle",
+   "country": "USA",
+   "ownership": "Carnival Corporation & plc",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://www.seabourn.com/",
+   "destinations": [
+    "Mediterranean",
+    "Caribbean",
+    "Alaska",
+    "Asia",
+    "South Pacific",
+    "World cruises"
+   ],
+   "fleet": [
+    "Seabourn Odyssey",
+    "Seabourn Sojourn",
+    "Seabourn Quest",
+    "Seabourn Encore",
+    "Seabourn Ovation",
+    "Seabourn Venture",
+    "Seabourn Pursuit"
+   ],
+   "trip_types": [
+    "Ocean cruises",
+    "Expedition cruises"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://www.seabourn.com/"
+  },
+  {
+   "name": "Regent Seven Seas Cruises",
+   "specialty": "Luxury ocean cruises",
+   "city": "Miami",
+   "country": "USA",
+   "ownership": "Norwegian Cruise Line Holdings Ltd",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://www.rssc.com/",
+   "destinations": [
+    "Mediterranean",
+    "Caribbean",
+    "Alaska",
+    "Asia",
+    "South Pacific",
+    "World cruises"
+   ],
+   "fleet": [
+    "Seven Seas Explorer",
+    "Seven Seas Grandeur",
+    "Seven Seas Mariner",
+    "Seven Seas Navigator",
+    "Seven Seas Splendor",
+    "Seven Seas Voyager",
+    "Seven Seas Prestige"
+   ],
+   "trip_types": [
+    "Ocean cruises"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://www.rssc.com/"
+  },
+  {
+   "name": "Oceania Cruises",
+   "specialty": "Luxury ocean cruises",
+   "city": "Miami",
+   "country": "USA",
+   "ownership": "Norwegian Cruise Line Holdings Ltd",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://www.oceaniacruises.com/",
+   "destinations": [
+    "Mediterranean",
+    "Caribbean",
+    "Alaska",
+    "Asia",
+    "South Pacific",
+    "World cruises"
+   ],
+   "fleet": [
+    "Regatta",
+    "Insignia",
+    "Nautica",
+    "Sirena",
+    "Marina",
+    "Riviera",
+    "Vista",
+    "Allura"
+   ],
+   "trip_types": [
+    "Ocean cruises"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://www.oceaniacruises.com/"
+  },
+  {
+   "name": "Crystal",
+   "specialty": "Luxury ocean cruises",
+   "city": "Hallandale Beach",
+   "country": "USA",
+   "ownership": "A&K Travel Group (Manfredi Lefebvre d'Ovidio and Geoffrey Kent; acquired 2022)",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://www.crystalcruises.com/",
+   "destinations": [
+    "Mediterranean",
+    "Caribbean",
+    "Northern Europe",
+    "Asia",
+    "World cruises"
+   ],
+   "fleet": [
+    "Crystal Serenity",
+    "Crystal Symphony"
+   ],
+   "trip_types": [
+    "Ocean cruises"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://www.crystalcruises.com/"
+  },
+  {
+   "name": "Explora Journeys",
+   "specialty": "Luxury ocean cruises",
+   "city": "Geneva",
+   "country": "Switzerland",
+   "ownership": "MSC Group (privately owned, Aponte family)",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://explorajourneys.com/",
+   "destinations": [
+    "Mediterranean",
+    "Caribbean",
+    "Northern Europe",
+    "Middle East",
+    "Asia"
+   ],
+   "fleet": [
+    "EXPLORA I",
+    "EXPLORA II",
+    "EXPLORA III",
+    "EXPLORA IV",
+    "EXPLORA V"
+   ],
+   "trip_types": [
+    "Ocean cruises"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [
+    {
+     "name": "Explora Club",
+     "offers": "Loyalty tier programme for returning guests"
+    }
+   ],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://explorajourneys.com/"
+  },
+  {
+   "name": "Azamara",
+   "specialty": "Premium ocean cruises",
+   "city": "Miami",
+   "country": "USA",
+   "ownership": "Sycamore Partners (acquired March 2021)",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://www.azamara.com/",
+   "destinations": [
+    "Mediterranean",
+    "Caribbean",
+    "Asia",
+    "Australia",
+    "World cruises"
+   ],
+   "fleet": [
+    "Azamara Journey — 690 guests",
+    "Azamara Quest — 690 guests",
+    "Azamara Pursuit — 690 guests",
+    "Azamara Onward — 690 guests"
+   ],
+   "trip_types": [
+    "Ocean cruises"
+   ],
+   "price_positioning": "Premium",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://www.azamara.com/"
+  },
+  {
+   "name": "Windstar Cruises",
+   "specialty": "Luxury small-ship ocean cruises",
+   "city": "Miami",
+   "country": "USA",
+   "ownership": "Xanterra Travel Collection (Anschutz Corporation)",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://www.windstarcruises.com/",
+   "destinations": [
+    "Mediterranean",
+    "Caribbean",
+    "South Pacific",
+    "Asia",
+    "Northern Europe"
+   ],
+   "fleet": [
+    "Wind Star — 148 guests",
+    "Wind Spirit — 148 guests",
+    "Wind Surf — 342 guests",
+    "Star Breeze — 312 guests",
+    "Star Legend — 312 guests",
+    "Star Pride — 312 guests"
+   ],
+   "trip_types": [
+    "Ocean cruises"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://www.windstarcruises.com/"
+  },
+  {
+   "name": "Paul Gauguin Cruises",
+   "specialty": "Luxury ocean cruises",
+   "city": "",
+   "country": "",
+   "ownership": "PONANT EXPLORATIONS GROUP (acquired 2019)",
+   "address": "",
+   "phone": "+1 833-992-0435",
+   "email": "",
+   "website": "https://www.pgcruises.com/",
+   "destinations": [
+    "South Pacific",
+    "French Polynesia"
+   ],
+   "fleet": [
+    "m/s Paul Gauguin — 330 guests"
+   ],
+   "trip_types": [
+    "Ocean cruises"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [
+    {
+     "name": "PONANT Yacht Club",
+     "offers": "Shared loyalty programme across the PONANT EXPLORATIONS GROUP"
+    }
+   ],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://www.pgcruises.com/"
+  },
+  {
+   "name": "SeaDream Yacht Club",
+   "specialty": "Luxury yacht cruises",
+   "city": "Oslo",
+   "country": "Norway",
+   "ownership": "Family-owned by founder and chairman Atle Brynestad",
+   "address": "601 Brickell Key Dr #1050, Miami, FL 33131, USA; Pustutveien 18, NO-1396 Billingstad, Norway",
+   "phone": "(855) 844-8620",
+   "email": "info@seadream.com",
+   "website": "https://www.seadream.com/",
+   "destinations": [
+    "Mediterranean",
+    "Caribbean",
+    "Norwegian fjords",
+    "Transatlantic"
+   ],
+   "fleet": [
+    "SeaDream I — 112 guests",
+    "SeaDream II — 112 guests"
+   ],
+   "trip_types": [
+    "Ocean cruises"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://www.seadream.com/"
+  },
+  {
+   "name": "Star Clippers",
+   "specialty": "Luxury tall-ship sailing cruises",
+   "city": "Monte Carlo",
+   "country": "Monaco",
+   "ownership": "Privately owned by the Krafft family (Star Clippers Monaco SAM)",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://www.starclippers.com/",
+   "destinations": [
+    "Mediterranean",
+    "Caribbean",
+    "Southeast Asia",
+    "Transatlantic"
+   ],
+   "fleet": [
+    "Royal Clipper — 227 guests",
+    "Star Clipper — 170 guests",
+    "Star Flyer — 170 guests"
+   ],
+   "trip_types": [
+    "Ocean cruises"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://www.starclippers.com/"
+  },
+  {
+   "name": "Cunard",
+   "specialty": "Luxury ocean cruises",
+   "city": "Southampton",
+   "country": "United Kingdom",
+   "ownership": "Carnival Corporation & plc (since 1998)",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://www.cunard.com/",
+   "destinations": [
+    "Transatlantic",
+    "Mediterranean",
+    "Caribbean",
+    "Northern Europe",
+    "World cruises"
+   ],
+   "fleet": [
+    "Queen Mary 2",
+    "Queen Victoria",
+    "Queen Elizabeth",
+    "Queen Anne"
+   ],
+   "trip_types": [
+    "Ocean cruises"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://www.cunard.com/"
+  },
+  {
+   "name": "Holland America Line",
+   "specialty": "Premium ocean cruises",
+   "city": "Seattle",
+   "country": "USA",
+   "ownership": "Carnival Corporation & plc",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://www.hollandamerica.com/",
+   "destinations": [
+    "Alaska",
+    "Caribbean",
+    "Mediterranean",
+    "Northern Europe",
+    "Asia",
+    "World cruises"
+   ],
+   "fleet": [
+    "Koningsdam",
+    "Nieuw Statendam",
+    "Rotterdam",
+    "Zuiderdam",
+    "Oosterdam",
+    "Westerdam",
+    "Noordam",
+    "Zaandam",
+    "Volendam",
+    "Eurodam",
+    "Nieuw Amsterdam"
+   ],
+   "trip_types": [
+    "Ocean cruises"
+   ],
+   "price_positioning": "Premium",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://www.hollandamerica.com/"
+  },
+  {
+   "name": "Princess Cruises",
+   "specialty": "Premium ocean cruises",
+   "city": "Santa Clarita",
+   "country": "USA",
+   "ownership": "Carnival Corporation & plc",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://www.princess.com/",
+   "destinations": [
+    "Alaska",
+    "Caribbean",
+    "Mediterranean",
+    "Asia",
+    "South Pacific",
+    "World cruises"
+   ],
+   "fleet": [],
+   "trip_types": [
+    "Ocean cruises"
+   ],
+   "price_positioning": "Premium",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://www.princess.com/"
+  },
+  {
+   "name": "Celebrity Cruises",
+   "specialty": "Premium ocean cruises",
+   "city": "Miami",
+   "country": "USA",
+   "ownership": "Royal Caribbean Group",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://www.celebritycruises.com/",
+   "destinations": [
+    "Caribbean",
+    "Mediterranean",
+    "Alaska",
+    "Northern Europe",
+    "Asia",
+    "Galapagos"
+   ],
+   "fleet": [
+    "Celebrity Edge",
+    "Celebrity Apex",
+    "Celebrity Beyond",
+    "Celebrity Ascent",
+    "Celebrity Xcel",
+    "Millennium-class ships",
+    "Solstice-class ships"
+   ],
+   "trip_types": [
+    "Ocean cruises"
+   ],
+   "price_positioning": "Premium",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://www.celebritycruises.com/"
+  },
+  {
+   "name": "Disney Cruise Line",
+   "specialty": "Premium family ocean cruises",
+   "city": "Celebration",
+   "country": "USA",
+   "ownership": "The Walt Disney Company",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://disneycruise.disney.go.com/",
+   "destinations": [
+    "Caribbean",
+    "Bahamas",
+    "Alaska",
+    "Mediterranean",
+    "Northern Europe",
+    "South Pacific"
+   ],
+   "fleet": [
+    "Disney Magic",
+    "Disney Wonder",
+    "Disney Dream",
+    "Disney Fantasy",
+    "Disney Wish",
+    "Disney Treasure",
+    "Disney Destiny",
+    "Disney Adventure"
+   ],
+   "trip_types": [
+    "Ocean cruises"
+   ],
+   "price_positioning": "Premium",
+   "loyalty_programs": [
+    {
+     "name": "Castaway Club",
+     "offers": "Loyalty programme with tiered member benefits"
+    }
+   ],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://disneycruise.disney.go.com/"
+  },
+  {
+   "name": "Virgin Voyages",
+   "specialty": "Premium adults-only ocean cruises",
+   "city": "Plantation",
+   "country": "USA",
+   "ownership": "Joint venture of Virgin Group and Bain Capital",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://www.virginvoyages.com/",
+   "destinations": [
+    "Caribbean",
+    "Mediterranean",
+    "Transatlantic"
+   ],
+   "fleet": [
+    "Scarlet Lady — 2,700 guests",
+    "Valiant Lady — 2,700 guests",
+    "Resilient Lady — 2,700 guests",
+    "Brilliant Lady — 2,700 guests"
+   ],
+   "trip_types": [
+    "Ocean cruises"
+   ],
+   "price_positioning": "Premium",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://www.virginvoyages.com/"
+  },
+  {
+   "name": "Ritz-Carlton Yacht Collection",
+   "specialty": "Luxury yacht cruises",
+   "city": "Fort Lauderdale",
+   "country": "USA",
+   "ownership": "Operated by Cruise Yacht OpCo Ltd (Oaktree Capital 55%, Mohari Hospitality 30%, Singapore government 15%); Ritz-Carlton brand via long-term agreement with Marriott International",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://www.ritzcarltonyachtcollection.com/",
+   "destinations": [
+    "Mediterranean",
+    "Caribbean",
+    "Northern Europe",
+    "Asia"
+   ],
+   "fleet": [
+    "Evrima — 298 guests",
+    "Ilma — 298 guests",
+    "Luminara — 298 guests"
+   ],
+   "trip_types": [
+    "Ocean cruises"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [
+    {
+     "name": "Marriott Bonvoy",
+     "offers": "Points earning and redemption on yacht voyages"
+    }
+   ],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://www.ritzcarltonyachtcollection.com/"
+  },
+  {
+   "name": "Four Seasons Yachts",
+   "specialty": "Ultra-luxury yacht cruises",
+   "city": "Miami Beach",
+   "country": "USA",
+   "ownership": "Joint owner/operator Marc-Henry Cruise Holdings Ltd (Nadim Ashi, Fort Partners) with Four Seasons hospitality",
+   "address": "950 Alton Road, Miami Beach, FL 33139, USA",
+   "phone": "1-800-705-7580",
+   "email": "",
+   "website": "https://www.fourseasonsyachts.com/",
+   "destinations": [
+    "Caribbean",
+    "Mediterranean"
+   ],
+   "fleet": [
+    "Four Seasons I — 95 suites",
+    "Four Seasons II (2028)"
+   ],
+   "trip_types": [
+    "Ocean cruises"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://www.fourseasonsyachts.com/"
+  },
+  {
+   "name": "Orient Express Sailing Yachts",
+   "specialty": "Ultra-luxury sailing yacht cruises",
+   "city": "",
+   "country": "France",
+   "ownership": "Accor (in partnership with LVMH); built with Chantiers de l'Atlantique",
+   "address": "",
+   "phone": "",
+   "email": "reservations.sailingyachts@orient-express.com",
+   "website": "https://www.orient-express.com/",
+   "destinations": [
+    "Mediterranean",
+    "Caribbean",
+    "Transatlantic"
+   ],
+   "fleet": [
+    "Corinthian (2026)",
+    "Olympian (2027)"
+   ],
+   "trip_types": [
+    "Ocean cruises"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [
+    {
+     "name": "ALL - Accor Live Limitless",
+     "offers": "Accor loyalty programme benefits on sailings"
+    }
+   ],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://www.orient-express.com/"
+  },
+  {
+   "name": "PONANT",
+   "specialty": "Luxury expedition and ocean cruises",
+   "city": "Marseille",
+   "country": "France",
+   "ownership": "Groupe Artemis (Pinault family); PONANT EXPLORATIONS GROUP (includes Paul Gauguin Cruises and majority stake in Aqua Expeditions)",
+   "address": "",
+   "phone": "",
+   "email": "presse@ponant.com",
+   "website": "https://www.ponant.com/",
+   "destinations": [
+    "Mediterranean",
+    "Northern Europe",
+    "Antarctica",
+    "Arctic",
+    "South Pacific",
+    "Asia"
+   ],
+   "fleet": [
+    "Le Ponant",
+    "Le Boreal",
+    "L'Austral",
+    "Le Soleal",
+    "Le Lyrial",
+    "Le Laperouse",
+    "Le Champlain",
+    "Le Bougainville",
+    "Le Dumont-d'Urville",
+    "Le Bellot",
+    "Le Jacques Cartier",
+    "Le Commandant Charcot",
+    "Spirit of Ponant"
+   ],
+   "trip_types": [
+    "Ocean cruises",
+    "Expedition cruises"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [
+    {
+     "name": "PONANT Yacht Club",
+     "offers": "Tiered loyalty benefits across the PONANT EXPLORATIONS GROUP"
+    }
+   ],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://www.ponant.com/"
+  },
+  {
+   "name": "Hapag-Lloyd Cruises",
+   "specialty": "Luxury ocean and expedition cruises",
+   "city": "Hamburg",
+   "country": "Germany",
+   "ownership": "Brand of TUI Cruises GmbH (50:50 joint venture of TUI AG and Royal Caribbean Group)",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://www.hl-cruises.com/",
+   "destinations": [
+    "Northern Europe",
+    "Arctic",
+    "Antarctica",
+    "World cruises",
+    "Asia"
+   ],
+   "fleet": [
+    "EUROPA",
+    "EUROPA 2",
+    "HANSEATIC nature",
+    "HANSEATIC inspiration",
+    "HANSEATIC spirit"
+   ],
+   "trip_types": [
+    "Ocean cruises",
+    "Expedition cruises"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://www.hl-cruises.com/"
+  },
+  {
+   "name": "TUI Cruises (Mein Schiff)",
+   "specialty": "Premium ocean cruises",
+   "city": "Hamburg",
+   "country": "Germany",
+   "ownership": "TUI Cruises GmbH (50:50 joint venture of TUI AG and Royal Caribbean Group)",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://www.meinschiff.com/de",
+   "destinations": [
+    "Mediterranean",
+    "Northern Europe",
+    "Caribbean",
+    "Canary Islands",
+    "Asia"
+   ],
+   "fleet": [
+    "Mein Schiff 1",
+    "Mein Schiff 2",
+    "Mein Schiff 3",
+    "Mein Schiff 4",
+    "Mein Schiff 5",
+    "Mein Schiff 6",
+    "Mein Schiff 7",
+    "Mein Schiff Relax",
+    "Mein Schiff Flow"
+   ],
+   "trip_types": [
+    "Ocean cruises"
+   ],
+   "price_positioning": "Premium",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://www.meinschiff.com/de"
+  },
+  {
+   "name": "Atlas Ocean Voyages",
+   "specialty": "Luxury expedition yacht cruises",
+   "city": "Fort Lauderdale",
+   "country": "USA",
+   "ownership": "US subsidiary of Mystic Invest Holding (Portugal)",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://atlasoceanvoyages.com/",
+   "destinations": [
+    "Antarctica",
+    "Arctic",
+    "Mediterranean",
+    "Northern Europe",
+    "Caribbean"
+   ],
+   "fleet": [
+    "World Navigator — 200 guests",
+    "World Traveller — 200 guests",
+    "World Voyager — 200 guests",
+    "Atlas Adventurer (2028)"
+   ],
+   "trip_types": [
+    "Ocean cruises",
+    "Expedition cruises"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://atlasoceanvoyages.com/"
+  },
+  {
+   "name": "Scenic (Scenic Ocean Cruises)",
+   "specialty": "Ultra-luxury Discovery Yacht cruises",
+   "city": "Newcastle",
+   "country": "Australia",
+   "ownership": "Scenic Group (founded by Glen Moroney)",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://scenic.cruises/",
+   "destinations": [
+    "Antarctica",
+    "Arctic",
+    "Mediterranean",
+    "South Pacific",
+    "Asia"
+   ],
+   "fleet": [
+    "Scenic Eclipse — 228 guests",
+    "Scenic Eclipse II — 228 guests",
+    "Scenic Ikon (2028)"
+   ],
+   "trip_types": [
+    "Ocean cruises",
+    "Expedition cruises"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://scenic.cruises/"
+  },
+  {
+   "name": "Emerald Cruises",
+   "specialty": "Luxury yacht cruises",
+   "city": "",
+   "country": "Australia",
+   "ownership": "Scenic Group",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://www.emeraldcruises.com/",
+   "destinations": [
+    "Mediterranean",
+    "Caribbean",
+    "Seychelles",
+    "Adriatic"
+   ],
+   "fleet": [
+    "Emerald Azzurra — 100 guests",
+    "Emerald Sakara — 100 guests",
+    "Emerald Kaia — 128 guests",
+    "Emerald Raiya (2027)",
+    "Emerald Xara (2028)"
+   ],
+   "trip_types": [
+    "Ocean cruises",
+    "Expedition cruises"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://www.emeraldcruises.com/"
+  },
+  {
+   "name": "Noble Caledonia",
+   "specialty": "Luxury small-ship ocean cruises",
+   "city": "London",
+   "country": "United Kingdom",
+   "ownership": "Independent, family-owned (Cochrane and Salen families)",
+   "address": "",
+   "phone": "020 7752 0000",
+   "email": "",
+   "website": "https://www.noble-caledonia.co.uk/",
+   "destinations": [
+    "British Isles",
+    "Mediterranean",
+    "Northern Europe",
+    "Asia",
+    "South Pacific"
+   ],
+   "fleet": [
+    "MS Island Sky — 118 guests",
+    "MS Hebridean Sky — 118 guests",
+    "MS Caledonian Sky — 118 guests"
+   ],
+   "trip_types": [
+    "Ocean cruises"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://www.noble-caledonia.co.uk/"
+  },
+  {
+   "name": "Variety Cruises",
+   "specialty": "Luxury small-ship ocean cruises",
+   "city": "Athens",
+   "country": "Greece",
+   "ownership": "Family-owned (Venetopoulos family)",
+   "address": "214-216 Syngrou Ave, 17672 Athens, Greece",
+   "phone": "+30 210 6919191",
+   "email": "info@varietycruises.com",
+   "website": "https://www.varietycruises.com/",
+   "destinations": [
+    "Greek Isles",
+    "Mediterranean",
+    "Adriatic",
+    "West Africa",
+    "Seychelles"
+   ],
+   "fleet": [
+    "Variety Voyager — 72 guests",
+    "Galileo — 49 guests",
+    "Panorama",
+    "Panorama II",
+    "Harmony V",
+    "Harmony G",
+    "Pegasos",
+    "Callisto"
+   ],
+   "trip_types": [
+    "Ocean cruises"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://www.varietycruises.com/"
+  },
+  {
+   "name": "Celestyal",
+   "specialty": "Premium ocean cruises",
+   "city": "Piraeus",
+   "country": "Greece",
+   "ownership": "Majority owned by Searchlight Capital Partners (since November 2021)",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://celestyal.com/",
+   "destinations": [
+    "Greek Isles",
+    "Eastern Mediterranean",
+    "Adriatic",
+    "Arabian Gulf"
+   ],
+   "fleet": [
+    "Celestyal Journey — 1,260 guests",
+    "Celestyal Discovery — 1,266 guests"
+   ],
+   "trip_types": [
+    "Ocean cruises"
+   ],
+   "price_positioning": "Premium",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://celestyal.com/"
+  },
+  {
+   "name": "Phoenix Reisen",
+   "specialty": "Premium ocean cruises",
+   "city": "Bonn",
+   "country": "Germany",
+   "ownership": "Independent family company (Zurnieden family)",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://www.phoenixreisen.com/",
+   "destinations": [
+    "World cruises",
+    "Northern Europe",
+    "Mediterranean",
+    "Caribbean",
+    "Asia"
+   ],
+   "fleet": [
+    "Amadea",
+    "Amera",
+    "Artania",
+    "Alvara (joining November 2027)"
+   ],
+   "trip_types": [
+    "Ocean cruises"
+   ],
+   "price_positioning": "Premium",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://www.phoenixreisen.com/"
+  },
+  {
+   "name": "P&O Cruises",
+   "specialty": "Premium ocean cruises",
+   "city": "Southampton",
+   "country": "United Kingdom",
+   "ownership": "Carnival Corporation & plc (Carnival UK)",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://www.pocruises.com/",
+   "destinations": [
+    "Caribbean",
+    "Mediterranean",
+    "Norwegian fjords",
+    "Canary Islands",
+    "World cruises"
+   ],
+   "fleet": [
+    "Arvia",
+    "Iona",
+    "Britannia",
+    "Ventura",
+    "Azura",
+    "Arcadia",
+    "Aurora"
+   ],
+   "trip_types": [
+    "Ocean cruises"
+   ],
+   "price_positioning": "Premium",
+   "loyalty_programs": [
+    {
+     "name": "Peninsular Club",
+     "offers": "Tiered loyalty benefits for returning guests"
+    }
+   ],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://www.pocruises.com/"
+  },
+  {
+   "name": "American Cruise Lines",
+   "specialty": "Luxury small-ship coastal cruises",
+   "city": "Guilford",
+   "country": "USA",
+   "ownership": "Family-owned (Robertson family)",
+   "address": "741 Boston Post Rd #200, Guilford, CT 06437, USA",
+   "phone": "(203) 453-6800",
+   "email": "Media@AmericanCruiseLines.com",
+   "website": "https://www.americancruiselines.com/",
+   "destinations": [
+    "New England",
+    "Alaska",
+    "Pacific Northwest",
+    "Mississippi River",
+    "Southeast USA",
+    "Great Lakes"
+   ],
+   "fleet": [
+    "American Eagle class coastal ships",
+    "American Glory",
+    "American Liberty",
+    "American Legend",
+    "American Patriot",
+    "American Pioneer",
+    "American Maverick",
+    "American Ranger"
+   ],
+   "trip_types": [
+    "Ocean cruises"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [
+    {
+     "name": "",
+     "title": "Media enquiries",
+     "email": "Media@AmericanCruiseLines.com",
+     "phone": ""
+    }
+   ],
+   "marketing_contacts": [],
+   "source": "https://www.americancruiselines.com/"
+  },
+  {
+   "name": "Pearl Seas Cruises",
+   "specialty": "Luxury small-ship cruises",
+   "city": "Guilford",
+   "country": "USA",
+   "ownership": "Affiliate of American Cruise Lines (Robertson family)",
+   "address": "741 Boston Post Rd Ste 250, Guilford, CT 06437, USA",
+   "phone": "800-983-7462",
+   "email": "",
+   "website": "https://www.pearlseascruises.com/",
+   "destinations": [
+    "Great Lakes",
+    "St. Lawrence Seaway",
+    "Canadian Maritimes",
+    "Caribbean",
+    "Panama Canal"
+   ],
+   "fleet": [
+    "Pearl Mist — 210 guests"
+   ],
+   "trip_types": [
+    "Ocean cruises"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://www.pearlseascruises.com/"
+  },
+  {
+   "name": "UnCruise Adventures",
+   "specialty": "Luxury small-ship adventure cruises",
+   "city": "Seattle",
+   "country": "USA",
+   "ownership": "InnerSea Discoveries Alaska Inc (Dan Blanchard)",
+   "address": "",
+   "phone": "888-862-8881",
+   "email": "sales@uncruise.com",
+   "website": "https://uncruise.com/",
+   "destinations": [
+    "Alaska",
+    "Pacific Northwest",
+    "Hawaii",
+    "Sea of Cortez",
+    "Costa Rica",
+    "Galapagos"
+   ],
+   "fleet": [
+    "Wilderness Adventurer",
+    "Wilderness Discoverer",
+    "Wilderness Explorer",
+    "Wilderness Legacy",
+    "Safari Endeavour",
+    "Safari Explorer",
+    "Safari Quest",
+    "Safari Voyager",
+    "S.S. Legacy"
+   ],
+   "trip_types": [
+    "Ocean cruises",
+    "Expedition cruises"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://uncruise.com/"
+  },
+  {
+   "name": "Victory Cruise Lines",
+   "specialty": "Premium small-ship Great Lakes cruises",
+   "city": "New Albany",
+   "country": "USA",
+   "ownership": "Privately owned (founder John Waggoner; reacquired 2024)",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://victorycruiselines.com/",
+   "destinations": [
+    "Great Lakes",
+    "St. Lawrence Seaway",
+    "Canadian Maritimes"
+   ],
+   "fleet": [
+    "Victory I — 190 guests",
+    "Victory II — 190 guests"
+   ],
+   "trip_types": [
+    "Ocean cruises"
+   ],
+   "price_positioning": "Premium",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://victorycruiselines.com/"
+  },
+  {
+   "name": "Havila Voyages",
+   "specialty": "Premium Norwegian coastal voyages",
+   "city": "Fosnavag",
+   "country": "Norway",
+   "ownership": "Havila Kystruten AS / Havila Holding AS",
+   "address": "Mjolstadnesvegen, 6092 Fosnavag, Norway",
+   "phone": "+47 70 00 70 70",
+   "email": "contact.voyages@havila.no",
+   "website": "https://www.havilavoyages.com/",
+   "destinations": [
+    "Norwegian coast",
+    "Arctic Norway"
+   ],
+   "fleet": [
+    "Havila Capella — 468 guests",
+    "Havila Castor — 468 guests",
+    "Havila Polaris — 468 guests",
+    "Havila Pollux — 468 guests"
+   ],
+   "trip_types": [
+    "Ocean cruises"
+   ],
+   "price_positioning": "Premium",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://www.havilavoyages.com/"
+  },
+  {
+   "name": "Sea Cloud Cruises",
+   "specialty": "Luxury tall-ship sailing cruises",
+   "city": "Hamburg",
+   "country": "Germany",
+   "ownership": "Sea Cloud Cruises GmbH (holding structure formed 2026; shareholder Maximilian Block per 2026 company release)",
+   "address": "An der Alster 9, 20099 Hamburg, Germany",
+   "phone": "+49 40 3095 920",
+   "email": "info@seacloud.com",
+   "website": "https://www.seacloud.com/",
+   "destinations": [
+    "Mediterranean",
+    "Caribbean",
+    "Transatlantic",
+    "Canary Islands"
+   ],
+   "fleet": [
+    "Sea Cloud — 64 guests",
+    "Sea Cloud II — 94 guests",
+    "Sea Cloud Spirit — 136 guests"
+   ],
+   "trip_types": [
+    "Ocean cruises"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://www.seacloud.com/"
+  },
+  {
+   "name": "Coral Expeditions",
+   "specialty": "Luxury small-ship expedition cruises",
+   "city": "Cairns",
+   "country": "Australia",
+   "ownership": "Australian-owned",
+   "address": "",
+   "phone": "+61 7 4040 9999",
+   "email": "explore@coralexpeditions.com",
+   "website": "https://www.coralexpeditions.com/",
+   "destinations": [
+    "Great Barrier Reef",
+    "Kimberley",
+    "Tasmania",
+    "South Pacific"
+   ],
+   "fleet": [
+    "Coral Discoverer — 72 guests",
+    "Coral Adventurer — 120 guests",
+    "Coral Geographer — 120 guests"
+   ],
+   "trip_types": [
+    "Ocean cruises",
+    "Expedition cruises"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://www.coralexpeditions.com/"
+  },
+  {
+   "name": "True North",
+   "specialty": "Luxury adventure cruises",
+   "city": "Broome",
+   "country": "Australia",
+   "ownership": "Australian-owned (North Star Cruises Australia; founded by Craig Howson)",
+   "address": "PO Box 654, Broome, WA 6725, Australia",
+   "phone": "(+61 8) 9192 1829",
+   "email": "experiences@truenorth.com.au",
+   "website": "https://truenorth.com.au/",
+   "destinations": [
+    "Kimberley",
+    "Western Australia",
+    "Papua New Guinea",
+    "South Pacific"
+   ],
+   "fleet": [
+    "TRUE NORTH — 36 guests",
+    "TRUE NORTH II — 22 guests"
+   ],
+   "trip_types": [
+    "Ocean cruises",
+    "Expedition cruises"
+   ],
+   "price_positioning": "Ultra-luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://truenorth.com.au/"
+  },
+  {
+   "name": "Aranui Cruises",
+   "specialty": "Luxury cargo-cruise adventures",
+   "city": "Papeete",
+   "country": "French Polynesia",
+   "ownership": "Compagnie Polynesienne de Transport Maritime (Wong family)",
+   "address": "",
+   "phone": "(689) 40.42.62.42",
+   "email": "reservations@aranui.com",
+   "website": "https://www.aranui.com/",
+   "destinations": [
+    "Marquesas Islands",
+    "Austral Islands",
+    "Tuamotu Islands",
+    "Society Islands"
+   ],
+   "fleet": [
+    "Aranui 5 — 230 guests",
+    "Aranoa — 198 guests (joining 2027)"
+   ],
+   "trip_types": [
+    "Ocean cruises"
+   ],
+   "price_positioning": "Premium",
+   "loyalty_programs": [
+    {
+     "name": "Tiki Club",
+     "offers": "Tiered loyalty programme (Bronze, Silver, Gold, Pearl)"
+    }
+   ],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://www.aranui.com/"
+  },
+  {
+   "name": "Hebridean Island Cruises",
+   "specialty": "Luxury small-ship Scottish cruises",
+   "city": "Skipton",
+   "country": "United Kingdom",
+   "ownership": "Independently owned British cruise company",
+   "address": "Kintail House, Carleton New Road, Skipton, BD23 2DE, United Kingdom",
+   "phone": "+44 1892 578979",
+   "email": "reservations@hebridean.co.uk",
+   "website": "https://hebridean.co.uk/",
+   "destinations": [
+    "Scottish Hebrides",
+    "Norwegian fjords",
+    "British Isles"
+   ],
+   "fleet": [
+    "Hebridean Princess — 48 guests",
+    "Lord of the Highlands — 38 guests",
+    "Lord of the Glens"
+   ],
+   "trip_types": [
+    "Ocean cruises"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://hebridean.co.uk/"
+  },
+  {
+   "name": "The Majestic Line",
+   "specialty": "Luxury small-ship Scottish cruises",
+   "city": "Oban",
+   "country": "United Kingdom",
+   "ownership": "Craig of Campbeltown Limited (family-owned; acquired 2024); founded 2004 by Andy Thoms and Dr Ken Grant",
+   "address": "The Majestic Line (Scotland) Limited, Benmhor, Campbeltown, Scotland, PA28 6DN, United Kingdom",
+   "phone": "+44 (0)1369707951",
+   "email": "info@themajesticline.co.uk",
+   "website": "https://themajesticline.co.uk/",
+   "destinations": [
+    "Scottish Hebrides",
+    "Inner Hebrides",
+    "Outer Hebrides",
+    "Orkney",
+    "Caledonian Canal"
+   ],
+   "fleet": [
+    "Glen Massan — 11 guests",
+    "Glen Tarsan — 11 guests",
+    "Glen Etive — 12 guests",
+    "Glen Shiel — 12 guests"
+   ],
+   "trip_types": [
+    "Ocean cruises"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://themajesticline.co.uk/about-us/"
+  },
+  {
+   "name": "Aqua Expeditions",
+   "specialty": "Luxury small-ship expedition cruises",
+   "city": "Singapore",
+   "country": "Singapore",
+   "ownership": "Majority stake held by PONANT EXPLORATIONS GROUP (January 2025); founder Francesco Galli Zugaro remains shareholder",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://www.aquaexpeditions.com/",
+   "destinations": [
+    "East Indonesia",
+    "Galapagos",
+    "Mekong",
+    "Amazon"
+   ],
+   "fleet": [
+    "Aqua Blu — 30 guests",
+    "Aqua Mare — 16 guests",
+    "Aqua Mekong (river)",
+    "Aria Amazon (river)",
+    "Aqua Nera (river)"
+   ],
+   "trip_types": [
+    "Ocean cruises",
+    "Expedition cruises"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://www.aquaexpeditions.com/"
+  },
+  {
+   "name": "Ambassador Cruise Line",
+   "specialty": "Premium no-fly ocean cruises",
+   "city": "Purfleet",
+   "country": "United Kingdom",
+   "ownership": "Ambassador Group (main shareholder Njord Partners LLP; Cheyne Capital minority stake; merged with Compagnie Francaise de Croisieres January 2025)",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://www.ambassadorcruiseline.com/",
+   "destinations": [
+    "British Isles",
+    "Baltics",
+    "Scandinavia",
+    "Mediterranean",
+    "Canary Islands",
+    "Caribbean"
+   ],
+   "fleet": [
+    "Ambience",
+    "Ambition — 1,200 guests",
+    "Renaissance — 1,200 guests",
+    "Ambella (joining 2028)"
+   ],
+   "trip_types": [
+    "Ocean cruises"
+   ],
+   "price_positioning": "Premium",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://www.ambassadorcruiseline.com/merger-announcement/"
+  },
+  {
+   "name": "Marella Cruises",
+   "specialty": "Premium all-inclusive ocean cruises",
+   "city": "Luton",
+   "country": "United Kingdom",
+   "ownership": "Operated by TUI UK; part of TUI Group",
+   "address": "",
+   "phone": "0203 451 2688",
+   "email": "",
+   "website": "https://www.tui.co.uk/cruise/ships?vlid=crdlpbox9",
+   "destinations": [
+    "Mediterranean",
+    "Caribbean",
+    "Canary Islands",
+    "Norwegian fjords",
+    "Asia"
+   ],
+   "fleet": [
+    "Marella Discovery",
+    "Marella Discovery 2",
+    "Marella Explorer",
+    "Marella Explorer 2",
+    "Marella Voyager"
+   ],
+   "trip_types": [
+    "Ocean cruises"
+   ],
+   "price_positioning": "Premium",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://www.tui.co.uk/cruise/onboard-experience/why-cruise-with-us"
+  },
+  {
+   "name": "Fred. Olsen Cruise Lines",
+   "specialty": "Premium small-ship ocean cruises",
+   "city": "Ipswich",
+   "country": "United Kingdom",
+   "ownership": "Part of the Fred. Olsen Group; family-owned (Olsen family)",
+   "address": "",
+   "phone": "+44 1473 746175",
+   "email": "",
+   "website": "https://www.fredolsencruises.com/",
+   "destinations": [
+    "Norwegian fjords",
+    "British Isles",
+    "Mediterranean",
+    "Caribbean",
+    "World cruises"
+   ],
+   "fleet": [
+    "Bolette — 1,338 guests",
+    "Borealis — 1,353 guests",
+    "Balmoral"
+   ],
+   "trip_types": [
+    "Ocean cruises"
+   ],
+   "price_positioning": "Premium",
+   "loyalty_programs": [],
+   "pr_contacts": [
+    {
+     "name": "",
+     "title": "Public Relations Manager (name not published)",
+     "email": "ellis.orchard@fredolsen.co.uk",
+     "phone": "07557672265"
+    }
+   ],
+   "marketing_contacts": [],
+   "source": "https://media.fredolsencruises.com/pressreleases/fred-olsen-cruise-lines-partners-with-liverpool-cruise-port-to-champion-future-maritime-careers-3475022"
+  },
+  {
+   "name": "Saga Cruises",
+   "specialty": "Luxury all-inclusive ocean cruises (over-50s)",
+   "city": "Folkestone",
+   "country": "United Kingdom",
+   "ownership": "Division of Saga plc (London Stock Exchange, FTSE 250)",
+   "address": "",
+   "phone": "0808 303 2057",
+   "email": "",
+   "website": "https://www.saga.co.uk/",
+   "destinations": [
+    "Mediterranean",
+    "Caribbean",
+    "Norwegian fjords",
+    "Canary Islands",
+    "World cruises"
+   ],
+   "fleet": [
+    "Spirit of Discovery — 987 guests",
+    "Spirit of Adventure — 987 guests"
+   ],
+   "trip_types": [
+    "Ocean cruises"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://holiday.saga.co.uk/sagatravel"
+  },
+  {
+   "name": "Mitsui Ocean Cruises",
+   "specialty": "Luxury Japanese ocean cruises",
+   "city": "Tokyo",
+   "country": "Japan",
+   "ownership": "Brand of MOL Cruises, Ltd; part of the Mitsui O.S.K. Lines group",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://www.mitsuioceancruises.com/",
+   "destinations": [
+    "Japan",
+    "Asia",
+    "World cruises"
+   ],
+   "fleet": [
+    "Mitsui Ocean Fuji — 458 guests",
+    "Mitsui Ocean Sakura"
+   ],
+   "trip_types": [
+    "Ocean cruises"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://www.mol.co.jp/en/pr/2025/25026.html"
+  },
+  {
+   "name": "Asuka Cruise",
+   "specialty": "Luxury Japanese ocean cruises",
+   "city": "Yokohama",
+   "country": "Japan",
+   "ownership": "NYK Cruises Co., Ltd; subsidiary of Nippon Yusen Kabushiki Kaisha (NYK Line)",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://www.asukacruise.co.jp/english/",
+   "destinations": [
+    "Japan",
+    "Asia",
+    "Oceania",
+    "World cruises"
+   ],
+   "fleet": [
+    "Asuka II — 872 guests",
+    "Asuka III — 744 guests"
+   ],
+   "trip_types": [
+    "Ocean cruises"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://www.nyk.com/english/news/2025/20250204_01.html"
+  },
+  {
+   "name": "AROYA Cruises",
+   "specialty": "Premium Arabian ocean cruises",
+   "city": "Jeddah",
+   "country": "Saudi Arabia",
+   "ownership": "Subsidiary of Cruise Saudi (founded 2021); fully owned by Saudi Arabia's Public Investment Fund (PIF)",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://aroya.com/",
+   "destinations": [
+    "Red Sea",
+    "Arabian Gulf",
+    "Mediterranean"
+   ],
+   "fleet": [
+    "AROYA — 1,678 cabins"
+   ],
+   "trip_types": [
+    "Ocean cruises"
+   ],
+   "price_positioning": "Premium",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://aroya.com/en"
+  },
+  {
+   "name": "Club Med Cruises",
+   "specialty": "Luxury all-inclusive sailing cruises",
+   "city": "Paris",
+   "country": "France",
+   "ownership": "Club Med (Fosun Tourism Group)",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://www.clubmed.com/",
+   "destinations": [
+    "Mediterranean",
+    "Aegean",
+    "Adriatic",
+    "Caribbean",
+    "Transatlantic"
+   ],
+   "fleet": [
+    "Club Med 2 — 386 guests"
+   ],
+   "trip_types": [
+    "Ocean cruises"
+   ],
+   "price_positioning": "Luxury",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://www.clubmed.com/"
+  },
+  {
+   "name": "Plantours Kreuzfahrten",
+   "specialty": "Premium ocean and river cruises",
+   "city": "Hamburg",
+   "country": "Germany",
+   "ownership": "Brand of plantours & Partner GmbH; owned by the Ligabue Group (Venice, Italy) since 2006",
+   "address": "Holzdamm 28-32, DE-20099 Hamburg, Germany",
+   "phone": "",
+   "email": "",
+   "website": "https://www.plantours-kreuzfahrten.de/",
+   "destinations": [
+    "Northern Europe",
+    "Mediterranean",
+    "Antarctica",
+    "Great Lakes",
+    "World cruises"
+   ],
+   "fleet": [
+    "MS Hamburg — 420 guests",
+    "Lady Diletta (river)",
+    "Lady Cristina (river)",
+    "Elegant Lady (river)",
+    "Rousse Prestige (river)"
+   ],
+   "trip_types": [
+    "Ocean cruises"
+   ],
+   "price_positioning": "Premium",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://www.plantours-kreuzfahrten.de/en/info-service/this-is-us/"
+  },
+  {
+   "name": "nicko cruises",
+   "specialty": "Premium ocean cruises",
+   "city": "Stuttgart",
+   "country": "Germany",
+   "ownership": "Nicko Cruises Schiffsreisen GmbH; part of Mystic Invest Holding (Portugal)",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://www.nicko-cruises.de/",
+   "destinations": [
+    "Northern Europe",
+    "Mediterranean",
+    "West Africa",
+    "Caribbean",
+    "Transatlantic"
+   ],
+   "fleet": [
+    "Vasco da Gama — 1,000 guests"
+   ],
+   "trip_types": [
+    "Ocean cruises"
+   ],
+   "price_positioning": "Premium",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://www.nicko-cruises.de/"
+  },
+  {
+   "name": "Captain Cook Cruises Fiji",
+   "specialty": "Premium small-ship Fiji cruises",
+   "city": "Nadi",
+   "country": "Fiji",
+   "ownership": "Part of SeaLink Travel Group (Kelsian Group, Australia)",
+   "address": "Denarau Marina, Nadi; Postal: PO Box 23, Nadi, Fiji Islands",
+   "phone": "+61 2 9126 8160",
+   "email": "fiji@captaincookcruisesfiji.com",
+   "website": "https://www.captaincookcruisesfiji.com/",
+   "destinations": [
+    "Fiji",
+    "Yasawa Islands",
+    "Lau Group",
+    "Tonga",
+    "Samoa"
+   ],
+   "fleet": [
+    "MS Caledonian Sky — 114 guests"
+   ],
+   "trip_types": [
+    "Ocean cruises",
+    "Expedition cruises"
+   ],
+   "price_positioning": "Premium",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://www.captaincookcruisesfiji.com/"
+  },
+  {
+   "name": "Blue Lagoon Cruises",
+   "specialty": "Premium small-ship Fiji cruises",
+   "city": "Denarau",
+   "country": "Fiji",
+   "ownership": "Managed by the South Sea Cruises Group (Fiji-owned)",
+   "address": "Port Denarau, GPO Box PD052, Nadi, Fiji",
+   "phone": "",
+   "email": "",
+   "website": "https://www.bluelagooncruises.com/",
+   "destinations": [
+    "Fiji",
+    "Yasawa Islands",
+    "Mamanuca Islands"
+   ],
+   "fleet": [
+    "MV Yasawa Princess II — 44 guests"
+   ],
+   "trip_types": [
+    "Ocean cruises"
+   ],
+   "price_positioning": "Premium",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://www.bluelagooncruises.com/about"
+  },
+  {
+   "name": "Island Windjammers",
+   "specialty": "Premium all-inclusive small-ship sailing cruises",
+   "city": "Acworth",
+   "country": "USA",
+   "ownership": "Privately owned by a small group of investors (founded 2009 by former Windjammer Barefoot Cruises passengers)",
+   "address": "One Centennial Way, Acworth, Georgia 30102, USA",
+   "phone": "1-877-772-4549",
+   "email": "reservations@islandwindjammers.com",
+   "website": "https://islandwindjammers.com/",
+   "destinations": [
+    "Caribbean",
+    "Leeward Islands",
+    "Windward Islands",
+    "British Virgin Islands",
+    "Greek Isles",
+    "Croatia"
+   ],
+   "fleet": [
+    "Diamant — 10 guests",
+    "Vela — 26 guests",
+    "Lyra — 8 guests",
+    "Klara (joining winter 2026)",
+    "Leda (2027)"
+   ],
+   "trip_types": [
+    "Ocean cruises"
+   ],
+   "price_positioning": "Premium",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://islandwindjammers.com/"
+  },
+  {
+   "name": "Dream Cruises",
+   "specialty": "Premium ocean cruises",
+   "city": "Kuala Lumpur",
+   "country": "Malaysia",
+   "ownership": "StarDream Cruises (Malaysian company; Resorts World Cruises brand transitioned to StarCruises and Dream Cruises in 2025)",
+   "address": "",
+   "phone": "",
+   "email": "",
+   "website": "https://stardreamcruises.com/",
+   "destinations": [
+    "Southeast Asia",
+    "Malaysia",
+    "Thailand",
+    "Singapore"
+   ],
+   "fleet": [
+    "Genting Dream"
+   ],
+   "trip_types": [
+    "Ocean cruises"
+   ],
+   "price_positioning": "Premium",
+   "loyalty_programs": [],
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "source": "https://media.stardreamcruises.com/FIN_20240706_ex_SIN_SVO_Cancelled_departure_EN.pdf"
+  }
+ ]
+}

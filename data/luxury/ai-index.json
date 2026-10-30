@@ -429,6 +429,27 @@
    },
    "variableMeasured": "listing",
    "count": 135
+  },
+  {
+   "@type": "Dataset",
+   "name": "Top 500 Specialty Tour Companies Worldwide",
+   "description": "395 specialty tour companies worldwide — expedition cruises, luxury ocean and river lines, escorted tours, adventure travel, safaris and private-jet journeys — ownership, fleets, loyalty programs and full contact details — curated for LIKE® Magazine Luxury Guide on likeleaders.com.",
+   "url": "https://likeleaders.com/sections/luxury-tour-companies.html",
+   "creator": {
+    "@id": "https://likeleaders.com/#organization"
+   },
+   "isPartOf": {
+    "@type": "CreativeWork",
+    "name": "LIKE® Magazine Luxury Guide",
+    "url": "https://likeleaders.com/sections/luxury-guide.html"
+   },
+   "distribution": {
+    "@type": "DataDownload",
+    "encodingFormat": "application/json",
+    "contentUrl": "https://likeleaders.com/data/luxury/tour-companies.json"
+   },
+   "variableMeasured": "listing",
+   "count": 395
   }
  ],
  "hasPart": [
