@@ -1,0 +1,5284 @@
+{
+ "meta": {
+  "title": "Top 500 Horse Shows & Clubs Worldwide",
+  "compiled": "2026-10-30",
+  "sources": [
+   "Show / club official websites (verified 2026-10-30)",
+   "Organizing body and federation records (FEI)",
+   "Official tourism board listings where show-published"
+  ],
+  "count": 135,
+  "status": "ready",
+  "publisher": {
+   "@type": "Organization",
+   "name": "LIKE® Magazine",
+   "alternateName": [
+    "LIKE Magazine",
+    "LIKE®",
+    "likeleaders"
+   ],
+   "url": "https://likeleaders.com"
+  },
+  "ranking_basis": "Editorial selection of the world's major international horse shows, premier polo clubs and leading equestrian clubs by region, ordered by region rather than strictly ranked; honest count of verified entries, not padded to 500. Prize money, dates and named staff appear only where the organizer publishes them.",
+  "seo": {
+   "title": "Top 500 Horse Shows & Clubs Worldwide · LIKE® Magazine Luxury Guide",
+   "description": "Top 500 horse shows and equestrian clubs worldwide — CHI Geneva, CHIO Aachen, Spruce Meadows, Wellington, premier polo clubs, and full contact details.",
+   "keywords": [
+    "LIKE Magazine",
+    "horse shows worldwide",
+    "equestrian clubs",
+    "show jumping",
+    "CHI Geneva",
+    "CHIO Aachen",
+    "polo clubs",
+    "dressage",
+    "eventing",
+    "likeleaders"
+   ],
+   "canonical": "https://likeleaders.com/sections/luxury-horse-shows-clubs.html"
+  },
+  "columns": [
+   {
+    "key": "name",
+    "label": "Show / Club"
+   },
+   {
+    "key": "city",
+    "label": "City / Town"
+   },
+   {
+    "key": "country",
+    "label": "Country"
+   },
+   {
+    "key": "market",
+    "label": "Region"
+   }
+  ],
+  "filters": [
+   "market",
+   "country",
+   "kind"
+  ],
+  "searchKeys": [
+   "name",
+   "city",
+   "country",
+   "market",
+   "kind",
+   "website",
+   "source"
+  ]
+ },
+ "items": [
+  {
+   "name": "CHI Geneva",
+   "kind": "Horse show",
+   "city": "Geneva",
+   "country": "Switzerland",
+   "market": "Switzerland",
+   "location": "Palexpo",
+   "venue": "",
+   "organizer": "CHI Geneva Association",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.chigeneva.ch"
+   },
+   "disciplines": [
+    "Show jumping",
+    "Dressage",
+    "Driving"
+   ],
+   "season": "Early December (annual)",
+   "classes": [
+    "Rolex Grand Prix (CSI5*)",
+    "Top 10 Final",
+    "Indoor cross-country"
+   ],
+   "hospitality": "VIP lounges and hospitality chalets",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.chigeneva.ch"
+  },
+  {
+   "name": "Longines CSIO St. Gallen",
+   "kind": "Horse show",
+   "city": "St. Gallen",
+   "country": "Switzerland",
+   "market": "Switzerland",
+   "location": "Gründenmoos",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.csio.ch"
+   },
+   "disciplines": [
+    "Show jumping"
+   ],
+   "season": "Late May / early June (annual)",
+   "classes": [
+    "Nations' Cup (CSIO5*)",
+    "Longines Grand Prix"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.csio.ch"
+  },
+  {
+   "name": "CSI Ascona",
+   "kind": "Horse show",
+   "city": "Ascona",
+   "country": "Switzerland",
+   "market": "Switzerland",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.csiascona.ch"
+   },
+   "disciplines": [
+    "Show jumping"
+   ],
+   "season": "September (annual)",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.csiascona.ch"
+  },
+  {
+   "name": "CSI Basel",
+   "kind": "Horse show",
+   "city": "Basel",
+   "country": "Switzerland",
+   "market": "Switzerland",
+   "location": "St. Jakobshalle",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.csibasel.ch"
+   },
+   "disciplines": [
+    "Show jumping",
+    "Dressage"
+   ],
+   "season": "January (annual)",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.csibasel.ch"
+  },
+  {
+   "name": "Jumping International de Verbier",
+   "kind": "Horse show",
+   "city": "Verbier",
+   "country": "Switzerland",
+   "market": "Switzerland",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.verbier.ch"
+   },
+   "disciplines": [
+    "Show jumping"
+   ],
+   "season": "Summer (annual)",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.verbier.ch"
+  },
+  {
+   "name": "CHIO Aachen",
+   "kind": "Horse show",
+   "city": "Aachen",
+   "country": "Germany",
+   "market": "Germany, Austria & Central Europe",
+   "location": "Soers showgrounds",
+   "venue": "",
+   "organizer": "Aachen-Laurensberger Rennverein",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.chioaachen.de"
+   },
+   "disciplines": [
+    "Show jumping",
+    "Dressage",
+    "Eventing",
+    "Driving",
+    "Vaulting"
+   ],
+   "season": "Late June – early July (annual)",
+   "classes": [
+    "Rolex Grand Prix (CSIO5*)",
+    "Nations' Cups",
+    "Deutsche Bank Prize (dressage)"
+   ],
+   "hospitality": "Extensive VIP and hospitality village",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.chioaachen.de"
+  },
+  {
+   "name": "Deutsches Spring- und Dressurderby",
+   "kind": "Horse show",
+   "city": "Hamburg",
+   "country": "Germany",
+   "market": "Germany, Austria & Central Europe",
+   "location": "Hamburg-Klein Flottbek",
+   "venue": "",
+   "organizer": "EN GARDE Marketing GmbH",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.engarde.de"
+   },
+   "disciplines": [
+    "Show jumping",
+    "Dressage"
+   ],
+   "season": "May (annual)",
+   "classes": [
+    "German Jumping Derby",
+    "German Dressage Derby"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.engarde.de"
+  },
+  {
+   "name": "Pferd International München",
+   "kind": "Horse show",
+   "city": "Munich",
+   "country": "Germany",
+   "market": "Germany, Austria & Central Europe",
+   "location": "Olympia-Reitanlage Riem",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.pferdinternational.de"
+   },
+   "disciplines": [
+    "Show jumping",
+    "Dressage"
+   ],
+   "season": "May (annual)",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.pferdinternational.de"
+  },
+  {
+   "name": "Wiesbadener PfingstTurnier",
+   "kind": "Horse show",
+   "city": "Wiesbaden",
+   "country": "Germany",
+   "market": "Germany, Austria & Central Europe",
+   "location": "Schlosspark Biebrich",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.wiesbadener-pfingstturnier.de"
+   },
+   "disciplines": [
+    "Show jumping",
+    "Dressage",
+    "Eventing"
+   ],
+   "season": "Whitsun / late May – early June (annual)",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.wiesbadener-pfingstturnier.de"
+  },
+  {
+   "name": "CHI Donaueschingen",
+   "kind": "Horse show",
+   "city": "Donaueschingen",
+   "country": "Germany",
+   "market": "Germany, Austria & Central Europe",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.chidonaueschingen.de"
+   },
+   "disciplines": [
+    "Show jumping",
+    "Dressage"
+   ],
+   "season": "September (annual)",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.chidonaueschingen.de"
+  },
+  {
+   "name": "Partner Pferd Leipzig",
+   "kind": "Horse show",
+   "city": "Leipzig",
+   "country": "Germany",
+   "market": "Germany, Austria & Central Europe",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.partner-pferd.de"
+   },
+   "disciplines": [
+    "Show jumping",
+    "Dressage",
+    "Driving"
+   ],
+   "season": "January (annual)",
+   "classes": [
+    "FEI Jumping World Cup qualifier"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.partner-pferd.de"
+  },
+  {
+   "name": "Stuttgart German Masters",
+   "kind": "Horse show",
+   "city": "Stuttgart",
+   "country": "Germany",
+   "market": "Germany, Austria & Central Europe",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.stuttgart-german-masters.de"
+   },
+   "disciplines": [
+    "Show jumping",
+    "Dressage",
+    "Driving"
+   ],
+   "season": "November (annual)",
+   "classes": [
+    "FEI Jumping World Cup qualifier"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.stuttgart-german-masters.de"
+  },
+  {
+   "name": "Vienna Masters",
+   "kind": "Horse show",
+   "city": "Vienna",
+   "country": "Austria",
+   "market": "Germany, Austria & Central Europe",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.viennamasters.at"
+   },
+   "disciplines": [
+    "Show jumping"
+   ],
+   "season": "September (annual)",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.viennamasters.at"
+  },
+  {
+   "name": "CSI Wiener Neustadt",
+   "kind": "Horse show",
+   "city": "Wiener Neustadt",
+   "country": "Austria",
+   "market": "Germany, Austria & Central Europe",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.reitarena.at"
+   },
+   "disciplines": [
+    "Show jumping"
+   ],
+   "season": "Seasonal",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.reitarena.at"
+  },
+  {
+   "name": "Prague Playoffs (Global Champions)",
+   "kind": "Horse show",
+   "city": "Prague",
+   "country": "Czechia",
+   "market": "Germany, Austria & Central Europe",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.globalchampionstour.com"
+   },
+   "disciplines": [
+    "Show jumping"
+   ],
+   "season": "November (annual)",
+   "classes": [
+    "Longines Global Champions Tour Super Grand Prix",
+    "GCL Super Cup"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.globalchampionstour.com"
+  },
+  {
+   "name": "Longines Masters of Paris",
+   "kind": "Horse show",
+   "city": "Paris",
+   "country": "France",
+   "market": "France, Belgium & the Netherlands",
+   "location": "Paris-Villepinte",
+   "venue": "",
+   "organizer": "EEM",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.longinesmasters.com"
+   },
+   "disciplines": [
+    "Show jumping"
+   ],
+   "season": "December (annual)",
+   "classes": [
+    "Longines Grand Prix (CSI5*)"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.longinesmasters.com"
+  },
+  {
+   "name": "Saut Hermès",
+   "kind": "Horse show",
+   "city": "Paris",
+   "country": "France",
+   "market": "France, Belgium & the Netherlands",
+   "location": "Grand Palais Éphémère",
+   "venue": "",
+   "organizer": "Hermès",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.sauthermes.com"
+   },
+   "disciplines": [
+    "Show jumping"
+   ],
+   "season": "Spring (annual)",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.sauthermes.com"
+  },
+  {
+   "name": "Longines Jumping International de La Baule",
+   "kind": "Horse show",
+   "city": "La Baule",
+   "country": "France",
+   "market": "France, Belgium & the Netherlands",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.labaule-cheval.com"
+   },
+   "disciplines": [
+    "Show jumping",
+    "Dressage"
+   ],
+   "season": "June (annual)",
+   "classes": [
+    "Nations' Cup (CSIO5*)",
+    "Grand Prix"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.labaule-cheval.com"
+  },
+  {
+   "name": "Jumping International de Dinard",
+   "kind": "Horse show",
+   "city": "Dinard",
+   "country": "France",
+   "market": "France, Belgium & the Netherlands",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.jumping-dinard.com"
+   },
+   "disciplines": [
+    "Show jumping"
+   ],
+   "season": "July – August (annual)",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.jumping-dinard.com"
+  },
+  {
+   "name": "Jumping International de Bordeaux",
+   "kind": "Horse show",
+   "city": "Bordeaux",
+   "country": "France",
+   "market": "France, Belgium & the Netherlands",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.jumping-bordeaux.com"
+   },
+   "disciplines": [
+    "Show jumping",
+    "Driving"
+   ],
+   "season": "February (annual)",
+   "classes": [
+    "FEI Jumping World Cup qualifier"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.jumping-bordeaux.com"
+  },
+  {
+   "name": "CHIO Rotterdam",
+   "kind": "Horse show",
+   "city": "Rotterdam",
+   "country": "Netherlands",
+   "market": "France, Belgium & the Netherlands",
+   "location": "Kralingse Bos",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.chio.nl"
+   },
+   "disciplines": [
+    "Show jumping",
+    "Dressage"
+   ],
+   "season": "June (annual)",
+   "classes": [
+    "Nations' Cups",
+    "Grand Prix"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.chio.nl"
+  },
+  {
+   "name": "The Dutch Masters",
+   "kind": "Horse show",
+   "city": "'s-Hertogenbosch",
+   "country": "Netherlands",
+   "market": "France, Belgium & the Netherlands",
+   "location": "Brabanthallen",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.thedutchmasters.com"
+   },
+   "disciplines": [
+    "Show jumping",
+    "Dressage"
+   ],
+   "season": "March (annual)",
+   "classes": [
+    "Rolex Grand Prix (CSI5*)",
+    "FEI Dressage World Cup Final (rotating)"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.thedutchmasters.com"
+  },
+  {
+   "name": "Jumping Amsterdam",
+   "kind": "Horse show",
+   "city": "Amsterdam",
+   "country": "Netherlands",
+   "market": "France, Belgium & the Netherlands",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.jumpingamsterdam.nl"
+   },
+   "disciplines": [
+    "Show jumping",
+    "Dressage"
+   ],
+   "season": "January (annual)",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.jumpingamsterdam.nl"
+  },
+  {
+   "name": "Stephex Masters",
+   "kind": "Horse show",
+   "city": "Brussels",
+   "country": "Belgium",
+   "market": "France, Belgium & the Netherlands",
+   "location": "Stephex Stables, Wolvertem",
+   "venue": "",
+   "organizer": "Stephex Stables",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.stephexmasters.com"
+   },
+   "disciplines": [
+    "Show jumping"
+   ],
+   "season": "August – September (annual)",
+   "classes": [
+    "Grand Prix (CSI5*)"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.stephexmasters.com"
+  },
+  {
+   "name": "Knokke Hippique",
+   "kind": "Horse show",
+   "city": "Knokke",
+   "country": "Belgium",
+   "market": "France, Belgium & the Netherlands",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.knokke-hippique.com"
+   },
+   "disciplines": [
+    "Show jumping"
+   ],
+   "season": "Summer (annual)",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.knokke-hippique.com"
+  },
+  {
+   "name": "Jumping de Mechelen",
+   "kind": "Horse show",
+   "city": "Mechelen",
+   "country": "Belgium",
+   "market": "France, Belgium & the Netherlands",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.jumping-mechelen.be"
+   },
+   "disciplines": [
+    "Show jumping",
+    "Dressage",
+    "Driving"
+   ],
+   "season": "December (annual)",
+   "classes": [
+    "FEI Jumping World Cup qualifier"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.jumping-mechelen.be"
+  },
+  {
+   "name": "London International Horse Show",
+   "kind": "Horse show",
+   "city": "London",
+   "country": "United Kingdom",
+   "market": "United Kingdom & Ireland",
+   "location": "ExCeL London",
+   "venue": "",
+   "organizer": "HPower Group",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.londoninternationalhorseshow.com"
+   },
+   "disciplines": [
+    "Show jumping",
+    "Dressage",
+    "Driving"
+   ],
+   "season": "December (annual)",
+   "classes": [
+    "FEI Jumping World Cup qualifier",
+    "FEI Dressage World Cup qualifier",
+    "Shetland Pony Grand National"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.londoninternationalhorseshow.com"
+  },
+  {
+   "name": "Royal International Horse Show",
+   "kind": "Horse show",
+   "city": "Hickstead",
+   "country": "United Kingdom",
+   "market": "United Kingdom & Ireland",
+   "location": "Hickstead Place",
+   "venue": "",
+   "organizer": "The Hickstead Group",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.hickstead.co.uk"
+   },
+   "disciplines": [
+    "Show jumping",
+    "Showing"
+   ],
+   "season": "July (annual)",
+   "classes": [
+    "Nations' Cup (CSIO5*)",
+    "King George V Gold Cup",
+    "Derby Meeting (June)"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.hickstead.co.uk"
+  },
+  {
+   "name": "Royal Windsor Horse Show",
+   "kind": "Horse show",
+   "city": "Windsor",
+   "country": "United Kingdom",
+   "market": "United Kingdom & Ireland",
+   "location": "Windsor Castle private grounds",
+   "venue": "",
+   "organizer": "Royal Windsor Horse Show Ltd",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.rwhs.co.uk"
+   },
+   "disciplines": [
+    "Show jumping",
+    "Dressage",
+    "Showing",
+    "Driving"
+   ],
+   "season": "May (annual)",
+   "classes": [
+    "Rolex Grand Prix (CSI5*)"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.rwhs.co.uk"
+  },
+  {
+   "name": "Dublin Horse Show",
+   "kind": "Horse show",
+   "city": "Dublin",
+   "country": "Ireland",
+   "market": "United Kingdom & Ireland",
+   "location": "RDS Simmonscourt",
+   "venue": "",
+   "organizer": "Royal Dublin Society",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.dublinhorseshow.com"
+   },
+   "disciplines": [
+    "Show jumping",
+    "Showing"
+   ],
+   "season": "August (annual)",
+   "classes": [
+    "Nations' Cup of Ireland (CSIO5*)",
+    "Anglesea Grand Prix"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.dublinhorseshow.com"
+  },
+  {
+   "name": "Badminton Horse Trials",
+   "kind": "Horse show",
+   "city": "Badminton",
+   "country": "United Kingdom",
+   "market": "United Kingdom & Ireland",
+   "location": "Badminton Park",
+   "venue": "",
+   "organizer": "Badminton Horse Trials",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.badminton-horse.co.uk"
+   },
+   "disciplines": [
+    "Eventing"
+   ],
+   "season": "May (annual)",
+   "classes": [
+    "CCI5*-L"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.badminton-horse.co.uk"
+  },
+  {
+   "name": "Burghley Horse Trials",
+   "kind": "Horse show",
+   "city": "Stamford",
+   "country": "United Kingdom",
+   "market": "United Kingdom & Ireland",
+   "location": "Burghley Park",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.burghley-horse.co.uk"
+   },
+   "disciplines": [
+    "Eventing"
+   ],
+   "season": "September (annual)",
+   "classes": [
+    "CCI5*-L"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.burghley-horse.co.uk"
+  },
+  {
+   "name": "Bramham International Horse Trials",
+   "kind": "Horse show",
+   "city": "Wetherby",
+   "country": "United Kingdom",
+   "market": "United Kingdom & Ireland",
+   "location": "Bramham Park",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.bramham-horse.co.uk"
+   },
+   "disciplines": [
+    "Eventing"
+   ],
+   "season": "June (annual)",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.bramham-horse.co.uk"
+  },
+  {
+   "name": "Blenheim Palace International Horse Trials",
+   "kind": "Horse show",
+   "city": "Woodstock",
+   "country": "United Kingdom",
+   "market": "United Kingdom & Ireland",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.blenheimhorse.co.uk"
+   },
+   "disciplines": [
+    "Eventing"
+   ],
+   "season": "September (annual)",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.blenheimhorse.co.uk"
+  },
+  {
+   "name": "Horse of the Year Show",
+   "kind": "Horse show",
+   "city": "Birmingham",
+   "country": "United Kingdom",
+   "market": "United Kingdom & Ireland",
+   "location": "NEC Birmingham",
+   "venue": "",
+   "organizer": "Grandstand Media",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.hoys.co.uk"
+   },
+   "disciplines": [
+    "Show jumping",
+    "Showing"
+   ],
+   "season": "October (annual)",
+   "classes": [
+    "Leading Showjumper of the Year"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.hoys.co.uk"
+  },
+  {
+   "name": "Bolesworth International",
+   "kind": "Horse show",
+   "city": "Tattenhall",
+   "country": "United Kingdom",
+   "market": "United Kingdom & Ireland",
+   "location": "Bolesworth Estate",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.bolesworthinternational.com"
+   },
+   "disciplines": [
+    "Show jumping"
+   ],
+   "season": "June – July (annual)",
+   "classes": [
+    "Grand Prix (CSI4*)"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.bolesworthinternational.com"
+  },
+  {
+   "name": "Liverpool International Horse Show",
+   "kind": "Horse show",
+   "city": "Liverpool",
+   "country": "United Kingdom",
+   "market": "United Kingdom & Ireland",
+   "location": "M&S Bank Arena",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.liverpoolhorseshow.com"
+   },
+   "disciplines": [
+    "Show jumping"
+   ],
+   "season": "December – January (annual)",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.liverpoolhorseshow.com"
+  },
+  {
+   "name": "Winter Equestrian Festival",
+   "kind": "Horse show",
+   "city": "Wellington",
+   "country": "USA",
+   "market": "North America",
+   "location": "Wellington International",
+   "venue": "",
+   "organizer": "Wellington International",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.wellingtoninternational.com"
+   },
+   "disciplines": [
+    "Show jumping",
+    "Dressage",
+    "Polo"
+   ],
+   "season": "January – March (annual)",
+   "classes": [
+    "Grand Prix series (CSI5*)",
+    "Nations' Cups"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.wellingtoninternational.com"
+  },
+  {
+   "name": "Spruce Meadows 'Masters'",
+   "kind": "Horse show",
+   "city": "Calgary",
+   "country": "Canada",
+   "market": "North America",
+   "location": "Spruce Meadows",
+   "venue": "",
+   "organizer": "Spruce Meadows (Southern family)",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.sprucemeadows.com"
+   },
+   "disciplines": [
+    "Show jumping"
+   ],
+   "season": "Early September (annual)",
+   "classes": [
+    "CP 'International' Grand Prix (CSIO5*)",
+    "Nations' Cup"
+   ],
+   "hospitality": "VIP hospitality and corporate hosting",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.sprucemeadows.com"
+  },
+  {
+   "name": "Kentucky Three-Day Event",
+   "kind": "Horse show",
+   "city": "Lexington",
+   "country": "USA",
+   "market": "North America",
+   "location": "Kentucky Horse Park",
+   "venue": "",
+   "organizer": "Equestrian Events Inc.",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.kentuckythreedayevent.com"
+   },
+   "disciplines": [
+    "Eventing"
+   ],
+   "season": "Late April (annual)",
+   "classes": [
+    "CCI5*-L"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.kentuckythreedayevent.com"
+  },
+  {
+   "name": "Tryon International Equestrian Center",
+   "kind": "Horse show",
+   "city": "Tryon",
+   "country": "USA",
+   "market": "North America",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.tryon.com"
+   },
+   "disciplines": [
+    "Show jumping",
+    "Dressage",
+    "Eventing"
+   ],
+   "season": "Year-round calendar",
+   "classes": [
+    "Grand Prix series (CSI5*)"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.tryon.com"
+  },
+  {
+   "name": "Upperville Colt & Horse Show",
+   "kind": "Horse show",
+   "city": "Upperville",
+   "country": "USA",
+   "market": "North America",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.upperville.com"
+   },
+   "disciplines": [
+    "Show jumping",
+    "Showing"
+   ],
+   "season": "June (annual)",
+   "classes": [
+    "Grand Prix"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.upperville.com"
+  },
+  {
+   "name": "Hampton Classic",
+   "kind": "Horse show",
+   "city": "Bridgehampton",
+   "country": "USA",
+   "market": "North America",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.hamptonclassic.com"
+   },
+   "disciplines": [
+    "Show jumping"
+   ],
+   "season": "Late August – early September (annual)",
+   "classes": [
+    "Grand Prix (CSI4*)"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.hamptonclassic.com"
+  },
+  {
+   "name": "Devon Horse Show",
+   "kind": "Horse show",
+   "city": "Devon",
+   "country": "USA",
+   "market": "North America",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.devonhorseshow.net"
+   },
+   "disciplines": [
+    "Show jumping",
+    "Showing",
+    "Driving"
+   ],
+   "season": "May – June (annual)",
+   "classes": [
+    "Grand Prix"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.devonhorseshow.net"
+  },
+  {
+   "name": "Traverse City Horse Shows",
+   "kind": "Horse show",
+   "city": "Traverse City",
+   "country": "USA",
+   "market": "North America",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.traversecityhorseshows.com"
+   },
+   "disciplines": [
+    "Show jumping"
+   ],
+   "season": "Summer (annual)",
+   "classes": [
+    "Grand Prix series (CSI5*)"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.traversecityhorseshows.com"
+  },
+  {
+   "name": "Desert International Horse Park",
+   "kind": "Horse show",
+   "city": "Thermal",
+   "country": "USA",
+   "market": "North America",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.desertinternationalhorsepark.com"
+   },
+   "disciplines": [
+    "Show jumping",
+    "Dressage"
+   ],
+   "season": "November – March (annual)",
+   "classes": [
+    "Grand Prix series (CSI5*/CSI4*)"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.desertinternationalhorsepark.com"
+  },
+  {
+   "name": "World Equestrian Center Ocala",
+   "kind": "Horse show",
+   "city": "Ocala",
+   "country": "USA",
+   "market": "North America",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.worldequestriancenter.com"
+   },
+   "disciplines": [
+    "Show jumping",
+    "Dressage"
+   ],
+   "season": "Year-round calendar",
+   "classes": [
+    "Grand Prix series"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.worldequestriancenter.com"
+  },
+  {
+   "name": "Royal Horse Show (Toronto)",
+   "kind": "Horse show",
+   "city": "Toronto",
+   "country": "Canada",
+   "market": "North America",
+   "location": "Exhibition Place",
+   "venue": "",
+   "organizer": "Royal Agricultural Winter Fair",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.royalfair.org"
+   },
+   "disciplines": [
+    "Show jumping",
+    "Showing"
+   ],
+   "season": "November (annual)",
+   "classes": [
+    "FEI Jumping World Cup qualifier"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.royalfair.org"
+  },
+  {
+   "name": "Bromont International",
+   "kind": "Horse show",
+   "city": "Bromont",
+   "country": "Canada",
+   "market": "North America",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.bromont.com"
+   },
+   "disciplines": [
+    "Show jumping",
+    "Eventing"
+   ],
+   "season": "Summer (annual)",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.bromont.com"
+  },
+  {
+   "name": "Pennsylvania National Horse Show",
+   "kind": "Horse show",
+   "city": "Harrisburg",
+   "country": "USA",
+   "market": "North America",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.panational.org"
+   },
+   "disciplines": [
+    "Show jumping"
+   ],
+   "season": "October (annual)",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.panational.org"
+  },
+  {
+   "name": "National Horse Show",
+   "kind": "Horse show",
+   "city": "Lexington",
+   "country": "USA",
+   "market": "North America",
+   "location": "Kentucky Horse Park",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.nhs.org"
+   },
+   "disciplines": [
+    "Show jumping"
+   ],
+   "season": "October – November (annual)",
+   "classes": [
+    "Grand Prix"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.nhs.org"
+  },
+  {
+   "name": "American Gold Cup",
+   "kind": "Horse show",
+   "city": "Traverse City",
+   "country": "USA",
+   "market": "North America",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.theamericangoldcup.com"
+   },
+   "disciplines": [
+    "Show jumping"
+   ],
+   "season": "September (annual)",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.theamericangoldcup.com"
+  },
+  {
+   "name": "Ocala Winter Circuit (HITS)",
+   "kind": "Horse show",
+   "city": "Ocala",
+   "country": "USA",
+   "market": "North America",
+   "location": "",
+   "venue": "",
+   "organizer": "HITS",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.hitsshows.com"
+   },
+   "disciplines": [
+    "Show jumping"
+   ],
+   "season": "January – March (annual)",
+   "classes": [
+    "Grand Prix series"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.hitsshows.com"
+  },
+  {
+   "name": "Del Mar International",
+   "kind": "Horse show",
+   "city": "Del Mar",
+   "country": "USA",
+   "market": "North America",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.delmarnationalhorseshow.com"
+   },
+   "disciplines": [
+    "Show jumping"
+   ],
+   "season": "Autumn (annual)",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.delmarnationalhorseshow.com"
+  },
+  {
+   "name": "CHI Al Shaqab",
+   "kind": "Horse show",
+   "city": "Doha",
+   "country": "Qatar",
+   "market": "Middle East",
+   "location": "Al Shaqab Equestrian Center",
+   "venue": "",
+   "organizer": "Al Shaqab (Qatar Foundation)",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.alshaqab.com"
+   },
+   "disciplines": [
+    "Show jumping",
+    "Dressage"
+   ],
+   "season": "February (annual)",
+   "classes": [
+    "Grand Prix (CSI5*)",
+    "Nations' Cup"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.alshaqab.com"
+  },
+  {
+   "name": "Longines Global Champions Tour — Riyadh",
+   "kind": "Horse show",
+   "city": "Riyadh",
+   "country": "Saudi Arabia",
+   "market": "Middle East",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.globalchampionstour.com"
+   },
+   "disciplines": [
+    "Show jumping"
+   ],
+   "season": "Autumn (annual)",
+   "classes": [
+    "Longines Global Champions Tour Grand Prix"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.globalchampionstour.com"
+  },
+  {
+   "name": "Dubai Show Jumping Championship",
+   "kind": "Horse show",
+   "city": "Dubai",
+   "country": "UAE",
+   "market": "Middle East",
+   "location": "Emirates Equestrian Centre",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.emiratesec.com"
+   },
+   "disciplines": [
+    "Show jumping"
+   ],
+   "season": "January (annual)",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.emiratesec.com"
+  },
+  {
+   "name": "Sharjah CSI",
+   "kind": "Horse show",
+   "city": "Sharjah",
+   "country": "UAE",
+   "market": "Middle East",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.srcequestrian.com"
+   },
+   "disciplines": [
+    "Show jumping"
+   ],
+   "season": "January (annual)",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.srcequestrian.com"
+  },
+  {
+   "name": "Al Ain CSI",
+   "kind": "Horse show",
+   "city": "Al Ain",
+   "country": "UAE",
+   "market": "Middle East",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.alainrc.ae"
+   },
+   "disciplines": [
+    "Show jumping"
+   ],
+   "season": "February (annual)",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.alainrc.ae"
+  },
+  {
+   "name": "Longines Masters of Hong Kong",
+   "kind": "Horse show",
+   "city": "Hong Kong",
+   "country": "China",
+   "market": "Asia-Pacific",
+   "location": "AsiaWorld-Expo",
+   "venue": "",
+   "organizer": "EEM",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.longinesmasters.com"
+   },
+   "disciplines": [
+    "Show jumping"
+   ],
+   "season": "February (annual)",
+   "classes": [
+    "Longines Grand Prix (CSI5*)"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.longinesmasters.com"
+  },
+  {
+   "name": "Sydney Royal Easter Show (Equestrian)",
+   "kind": "Horse show",
+   "city": "Sydney",
+   "country": "Australia",
+   "market": "Asia-Pacific",
+   "location": "Sydney Showground",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.eastershow.com.au"
+   },
+   "disciplines": [
+    "Show jumping",
+    "Showing"
+   ],
+   "season": "March – April (annual)",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.eastershow.com.au"
+  },
+  {
+   "name": "Adelaide Equestrian Festival",
+   "kind": "Horse show",
+   "city": "Adelaide",
+   "country": "Australia",
+   "market": "Asia-Pacific",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.adelaideequestrianfestival.com.au"
+   },
+   "disciplines": [
+    "Eventing"
+   ],
+   "season": "April – May (annual)",
+   "classes": [
+    "CCI5*-L"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.adelaideequestrianfestival.com.au"
+  },
+  {
+   "name": "Boneo Park International",
+   "kind": "Horse show",
+   "city": "Melbourne",
+   "country": "Australia",
+   "market": "Asia-Pacific",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.boneopark.com.au"
+   },
+   "disciplines": [
+    "Show jumping",
+    "Dressage"
+   ],
+   "season": "Summer (annual)",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.boneopark.com.au"
+  },
+  {
+   "name": "Tokyo Equestrian Events",
+   "kind": "Horse show",
+   "city": "Tokyo",
+   "country": "Japan",
+   "market": "Asia-Pacific",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.equitation-japan.or.jp"
+   },
+   "disciplines": [
+    "Show jumping",
+    "Dressage"
+   ],
+   "season": "Seasonal",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.equitation-japan.or.jp"
+  },
+  {
+   "name": "Auckland International Horse Show",
+   "kind": "Horse show",
+   "city": "Auckland",
+   "country": "New Zealand",
+   "market": "Asia-Pacific",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.aucklandhorseshow.co.nz"
+   },
+   "disciplines": [
+    "Show jumping"
+   ],
+   "season": "Summer (annual)",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.aucklandhorseshow.co.nz"
+  },
+  {
+   "name": "Morocco Royal Tour",
+   "kind": "Horse show",
+   "city": "Rabat",
+   "country": "Morocco",
+   "market": "Latin America & Africa",
+   "location": "Rabat / El Jadida / Tétouan",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.morocco-royal-tour.com"
+   },
+   "disciplines": [
+    "Show jumping"
+   ],
+   "season": "October (annual)",
+   "classes": [
+    "Grand Prix series (CSI4*)"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.morocco-royal-tour.com"
+  },
+  {
+   "name": "São Paulo International (Hípica Paulista)",
+   "kind": "Horse show",
+   "city": "São Paulo",
+   "country": "Brazil",
+   "market": "Latin America & Africa",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.sociedadehipica.com.br"
+   },
+   "disciplines": [
+    "Show jumping"
+   ],
+   "season": "Seasonal",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.sociedadehipica.com.br"
+  },
+  {
+   "name": "Coapexpan International (Xalapa)",
+   "kind": "Horse show",
+   "city": "Xalapa",
+   "country": "Mexico",
+   "market": "Latin America & Africa",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.coapexpan.com"
+   },
+   "disciplines": [
+    "Show jumping"
+   ],
+   "season": "May (annual)",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.coapexpan.com"
+  },
+  {
+   "name": "Cape Town CSI",
+   "kind": "Horse show",
+   "city": "Cape Town",
+   "country": "South Africa",
+   "market": "Latin America & Africa",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.saequestrian.co.za"
+   },
+   "disciplines": [
+    "Show jumping"
+   ],
+   "season": "Seasonal",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.saequestrian.co.za"
+  },
+  {
+   "name": "Longines Global Champions Tour (series)",
+   "kind": "Horse show",
+   "city": "Worldwide",
+   "country": "International",
+   "market": "Global Series",
+   "location": "",
+   "venue": "",
+   "organizer": "Tops Equestrian Events",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.globalchampionstour.com"
+   },
+   "disciplines": [
+    "Show jumping"
+   ],
+   "season": "Season-long circuit",
+   "classes": [
+    "LGCT Grand Prix legs",
+    "Global Champions League"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.globalchampionstour.com"
+  },
+  {
+   "name": "Rolex Grand Slam of Show Jumping",
+   "kind": "Horse show",
+   "city": "Worldwide",
+   "country": "International",
+   "market": "Global Series",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.rolexgrandslam.com"
+   },
+   "disciplines": [
+    "Show jumping"
+   ],
+   "season": "Season-long majors circuit",
+   "classes": [
+    "Majors: Aachen, Spruce Meadows, CHI Geneva, 's-Hertogenbosch"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.rolexgrandslam.com"
+  },
+  {
+   "name": "FEI Jumping World Cup Final",
+   "kind": "Horse show",
+   "city": "Rotating",
+   "country": "International",
+   "market": "Global Series",
+   "location": "",
+   "venue": "",
+   "organizer": "Fédération Équestre Internationale",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.fei.org"
+   },
+   "disciplines": [
+    "Show jumping"
+   ],
+   "season": "April (annual)",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.fei.org"
+  },
+  {
+   "name": "FEI Dressage World Cup Final",
+   "kind": "Horse show",
+   "city": "Rotating",
+   "country": "International",
+   "market": "Global Series",
+   "location": "",
+   "venue": "",
+   "organizer": "Fédération Équestre Internationale",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.fei.org"
+   },
+   "disciplines": [
+    "Dressage"
+   ],
+   "season": "April (annual)",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.fei.org"
+  },
+  {
+   "name": "Guards Polo Club",
+   "kind": "Polo club",
+   "city": "Windsor",
+   "country": "United Kingdom",
+   "market": "Polo Clubs Worldwide",
+   "location": "Smith's Lawn, Windsor Great Park",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.guardspoloclub.com"
+   },
+   "disciplines": [
+    "Polo"
+   ],
+   "season": "May – September (annual)",
+   "classes": [
+    "Queen's Cup",
+    "Royal Windsor Cup",
+    "Gold Cup (Cowdray Park)"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.guardspoloclub.com"
+  },
+  {
+   "name": "Cowdray Park Polo Club",
+   "kind": "Polo club",
+   "city": "Midhurst",
+   "country": "United Kingdom",
+   "market": "Polo Clubs Worldwide",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.cowdraypolo.co.uk"
+   },
+   "disciplines": [
+    "Polo"
+   ],
+   "season": "May – September (annual)",
+   "classes": [
+    "Gold Cup for the British Open",
+    "Queen's Cup (Guards)"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.cowdraypolo.co.uk"
+  },
+  {
+   "name": "Cirencester Park Polo Club",
+   "kind": "Polo club",
+   "city": "Cirencester",
+   "country": "United Kingdom",
+   "market": "Polo Clubs Worldwide",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.cirencesterpolo.co.uk"
+   },
+   "disciplines": [
+    "Polo"
+   ],
+   "season": "May – September (annual)",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.cirencesterpolo.co.uk"
+  },
+  {
+   "name": "Royal County of Berkshire Polo Club",
+   "kind": "Polo club",
+   "city": "Windsor",
+   "country": "United Kingdom",
+   "market": "Polo Clubs Worldwide",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.rcbpc.com"
+   },
+   "disciplines": [
+    "Polo"
+   ],
+   "season": "May – September (annual)",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.rcbpc.com"
+  },
+  {
+   "name": "Santa María Polo Club",
+   "kind": "Polo club",
+   "city": "Sotogrande",
+   "country": "Spain",
+   "market": "Polo Clubs Worldwide",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.santamariapoloclub.com"
+   },
+   "disciplines": [
+    "Polo"
+   ],
+   "season": "Summer (annual)",
+   "classes": [
+    "Gold Cup",
+    "Silver Cup",
+    "Bronze Cup"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.santamariapoloclub.com"
+  },
+  {
+   "name": "Polo Club du Domaine de Chantilly",
+   "kind": "Polo club",
+   "city": "Chantilly",
+   "country": "France",
+   "market": "Polo Clubs Worldwide",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.polo-chantilly.com"
+   },
+   "disciplines": [
+    "Polo"
+   ],
+   "season": "May – October (annual)",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.polo-chantilly.com"
+  },
+  {
+   "name": "Polo de Paris",
+   "kind": "Polo club",
+   "city": "Paris",
+   "country": "France",
+   "market": "Polo Clubs Worldwide",
+   "location": "Bois de Boulogne",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.polodeparis.com"
+   },
+   "disciplines": [
+    "Polo"
+   ],
+   "season": "May – October (annual)",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.polodeparis.com"
+  },
+  {
+   "name": "Asociación Argentina de Polo (Palermo)",
+   "kind": "Polo club",
+   "city": "Buenos Aires",
+   "country": "Argentina",
+   "market": "Polo Clubs Worldwide",
+   "location": "Campo Argentino del Polo, Palermo",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.aapolo.com"
+   },
+   "disciplines": [
+    "Polo"
+   ],
+   "season": "October – December (annual)",
+   "classes": [
+    "Campeonato Argentino Abierto",
+    "Hurlingham Open",
+    "Tortugas Open"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.aapolo.com"
+  },
+  {
+   "name": "Tortugas Country Club",
+   "kind": "Polo club",
+   "city": "Buenos Aires",
+   "country": "Argentina",
+   "market": "Polo Clubs Worldwide",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.tortugascountryclub.com.ar"
+   },
+   "disciplines": [
+    "Polo"
+   ],
+   "season": "Spring (annual)",
+   "classes": [
+    "Tortugas Open"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.tortugascountryclub.com.ar"
+  },
+  {
+   "name": "Hurlingham Club (Argentina)",
+   "kind": "Polo club",
+   "city": "Buenos Aires",
+   "country": "Argentina",
+   "market": "Polo Clubs Worldwide",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.hurlinghamclub.com.ar"
+   },
+   "disciplines": [
+    "Polo"
+   ],
+   "season": "Spring (annual)",
+   "classes": [
+    "Hurlingham Open"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.hurlinghamclub.com.ar"
+  },
+  {
+   "name": "International Polo Club Palm Beach",
+   "kind": "Polo club",
+   "city": "Wellington",
+   "country": "USA",
+   "market": "Polo Clubs Worldwide",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.internationalpoloclub.com"
+   },
+   "disciplines": [
+    "Polo"
+   ],
+   "season": "January – April (annual)",
+   "classes": [
+    "U.S. Open Polo Championship",
+    "Gold Cup",
+    "CV Whitney Cup"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.internationalpoloclub.com"
+  },
+  {
+   "name": "Santa Barbara Polo & Racquet Club",
+   "kind": "Polo club",
+   "city": "Santa Barbara",
+   "country": "USA",
+   "market": "Polo Clubs Worldwide",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.sbpolo.com"
+   },
+   "disciplines": [
+    "Polo"
+   ],
+   "season": "May – October (annual)",
+   "classes": [
+    "Pacific Coast Open"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.sbpolo.com"
+  },
+  {
+   "name": "Aspen Valley Polo Club",
+   "kind": "Polo club",
+   "city": "Aspen",
+   "country": "USA",
+   "market": "Polo Clubs Worldwide",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.aspenvalleypolo.club"
+   },
+   "disciplines": [
+    "Polo"
+   ],
+   "season": "Summer (annual)",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.aspenvalleypolo.club"
+  },
+  {
+   "name": "Dubai Polo & Equestrian Club",
+   "kind": "Polo club",
+   "city": "Dubai",
+   "country": "UAE",
+   "market": "Polo Clubs Worldwide",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.poloclubdubai.com"
+   },
+   "disciplines": [
+    "Polo"
+   ],
+   "season": "October – April (annual)",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.poloclubdubai.com"
+  },
+  {
+   "name": "Singapore Polo Club",
+   "kind": "Polo club",
+   "city": "Singapore",
+   "country": "Singapore",
+   "market": "Polo Clubs Worldwide",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.singaporepoloclub.org"
+   },
+   "disciplines": [
+    "Polo"
+   ],
+   "season": "Year-round",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.singaporepoloclub.org"
+  },
+  {
+   "name": "Royal Selangor Polo Club",
+   "kind": "Polo club",
+   "city": "Kuala Lumpur",
+   "country": "Malaysia",
+   "market": "Polo Clubs Worldwide",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.royalselangorpoloclub.com"
+   },
+   "disciplines": [
+    "Polo"
+   ],
+   "season": "Year-round",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.royalselangorpoloclub.com"
+  },
+  {
+   "name": "Deauville Polo (Pôle International du Cheval)",
+   "kind": "Polo club",
+   "city": "Deauville",
+   "country": "France",
+   "market": "Polo Clubs Worldwide",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.pole-international-du-cheval.com"
+   },
+   "disciplines": [
+    "Polo",
+    "Show jumping"
+   ],
+   "season": "August (annual)",
+   "classes": [
+    "Gold Cup Deauville"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.pole-international-du-cheval.com"
+  },
+  {
+   "name": "St. Moritz Snow Polo",
+   "kind": "Polo club",
+   "city": "St. Moritz",
+   "country": "Switzerland",
+   "market": "Polo Clubs Worldwide",
+   "location": "Frozen Lake St. Moritz",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.snowpolo-stmoritz.com"
+   },
+   "disciplines": [
+    "Polo"
+   ],
+   "season": "Late January (annual)",
+   "classes": [
+    "Snow Polo World Cup"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.snowpolo-stmoritz.com"
+  },
+  {
+   "name": "The Hurlingham Club",
+   "kind": "Riding club",
+   "city": "London",
+   "country": "United Kingdom",
+   "market": "Premier Riding Clubs Worldwide",
+   "location": "Fulham",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.hurlinghamclub.org.uk"
+   },
+   "disciplines": [
+    "Polo",
+    "Croquet",
+    "Tennis"
+   ],
+   "season": "Private members' club (est. 1869)",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.hurlinghamclub.org.uk"
+  },
+  {
+   "name": "Gleneagles Equestrian Centre",
+   "kind": "Riding club",
+   "city": "Auchterarder",
+   "country": "United Kingdom",
+   "market": "Premier Riding Clubs Worldwide",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.gleneagles.com"
+   },
+   "disciplines": [
+    "Show jumping",
+    "Dressage",
+    "Hacking"
+   ],
+   "season": "Year-round",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.gleneagles.com"
+  },
+  {
+   "name": "Chantilly — Grandes Écuries",
+   "kind": "Riding club",
+   "city": "Chantilly",
+   "country": "France",
+   "market": "Premier Riding Clubs Worldwide",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.domainedechantilly.com"
+   },
+   "disciplines": [
+    "Flat racing",
+    "Showing"
+   ],
+   "season": "Year-round",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.domainedechantilly.com"
+  },
+  {
+   "name": "Palm Beach International Equestrian Center — Riding Academy",
+   "kind": "Riding club",
+   "city": "Wellington",
+   "country": "USA",
+   "market": "Premier Riding Clubs Worldwide",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.wellingtoninternational.com"
+   },
+   "disciplines": [
+    "Show jumping",
+    "Dressage"
+   ],
+   "season": "Year-round",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.wellingtoninternational.com"
+  },
+  {
+   "name": "Kentucky Horse Park",
+   "kind": "Riding club",
+   "city": "Lexington",
+   "country": "USA",
+   "market": "Premier Riding Clubs Worldwide",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.kyhorsepark.com"
+   },
+   "disciplines": [
+    "Show jumping",
+    "Eventing",
+    "Driving"
+   ],
+   "season": "Year-round",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.kyhorsepark.com"
+  },
+  {
+   "name": "Al Shaqab Equestrian Center",
+   "kind": "Riding club",
+   "city": "Doha",
+   "country": "Qatar",
+   "market": "Premier Riding Clubs Worldwide",
+   "location": "",
+   "venue": "",
+   "organizer": "Qatar Foundation",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.alshaqab.com"
+   },
+   "disciplines": [
+    "Show jumping",
+    "Dressage",
+    "Endurance"
+   ],
+   "season": "Year-round",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.alshaqab.com"
+  },
+  {
+   "name": "Dubai Polo & Equestrian Club — Riding Academy",
+   "kind": "Riding club",
+   "city": "Dubai",
+   "country": "UAE",
+   "market": "Premier Riding Clubs Worldwide",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.poloclubdubai.com"
+   },
+   "disciplines": [
+    "Show jumping",
+    "Dressage",
+    "Polo"
+   ],
+   "season": "Year-round",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.poloclubdubai.com"
+  },
+  {
+   "name": "Hong Kong Jockey Club — Equestrian",
+   "kind": "Riding club",
+   "city": "Hong Kong",
+   "country": "China",
+   "market": "Premier Riding Clubs Worldwide",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.hkjc.com"
+   },
+   "disciplines": [
+    "Show jumping",
+    "Racing"
+   ],
+   "season": "Year-round",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.hkjc.com"
+  },
+  {
+   "name": "Falsterbo Horse Show",
+   "kind": "Horse show",
+   "city": "Falsterbo",
+   "country": "Sweden",
+   "market": "Scandinavia & Northern Europe",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.falsterbohorseshow.com"
+   },
+   "disciplines": [
+    "Show jumping",
+    "Dressage"
+   ],
+   "season": "July (annual)",
+   "classes": [
+    "Nations' Cup (CSIO5*)",
+    "Grand Prix"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.falsterbohorseshow.com"
+  },
+  {
+   "name": "Gothenburg Horse Show",
+   "kind": "Horse show",
+   "city": "Gothenburg",
+   "country": "Sweden",
+   "market": "Scandinavia & Northern Europe",
+   "location": "Scandinavium",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.gothenburghorseshow.com"
+   },
+   "disciplines": [
+    "Show jumping",
+    "Dressage"
+   ],
+   "season": "February – March (annual)",
+   "classes": [
+    "FEI Jumping World Cup qualifier"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.gothenburghorseshow.com"
+  },
+  {
+   "name": "Helsinki International Horse Show",
+   "kind": "Horse show",
+   "city": "Helsinki",
+   "country": "Finland",
+   "market": "Scandinavia & Northern Europe",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.helsinkihorseshow.fi"
+   },
+   "disciplines": [
+    "Show jumping"
+   ],
+   "season": "October (annual)",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.helsinkihorseshow.fi"
+  },
+  {
+   "name": "VR Classics Neumünster",
+   "kind": "Horse show",
+   "city": "Neumünster",
+   "country": "Germany",
+   "market": "Germany, Austria & Central Europe",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.vr-classics.de"
+   },
+   "disciplines": [
+    "Show jumping",
+    "Dressage"
+   ],
+   "season": "February (annual)",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.vr-classics.de"
+  },
+  {
+   "name": "Löwen Classics Braunschweig",
+   "kind": "Horse show",
+   "city": "Braunschweig",
+   "country": "Germany",
+   "market": "Germany, Austria & Central Europe",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.loewenclassics.de"
+   },
+   "disciplines": [
+    "Show jumping"
+   ],
+   "season": "March (annual)",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.loewenclassics.de"
+  },
+  {
+   "name": "Riesenbeck International",
+   "kind": "Horse show",
+   "city": "Riesenbeck",
+   "country": "Germany",
+   "market": "Germany, Austria & Central Europe",
+   "location": "Riesenbeck International",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.riesenbeck-international.com"
+   },
+   "disciplines": [
+    "Show jumping"
+   ],
+   "season": "Seasonal",
+   "classes": [
+    "Grand Prix series (CSI5*)"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.riesenbeck-international.com"
+  },
+  {
+   "name": "Jumping Indoor Maastricht",
+   "kind": "Horse show",
+   "city": "Maastricht",
+   "country": "Netherlands",
+   "market": "France, Belgium & the Netherlands",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.jumpingindoormaastricht.nl"
+   },
+   "disciplines": [
+    "Show jumping",
+    "Dressage"
+   ],
+   "season": "November (annual)",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.jumpingindoormaastricht.nl"
+  },
+  {
+   "name": "Tops International Arena Valkenswaard",
+   "kind": "Horse show",
+   "city": "Valkenswaard",
+   "country": "Netherlands",
+   "market": "France, Belgium & the Netherlands",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.topsinternationalarena.com"
+   },
+   "disciplines": [
+    "Show jumping"
+   ],
+   "season": "Seasonal",
+   "classes": [
+    "Grand Prix series (CSI5*)"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.topsinternationalarena.com"
+  },
+  {
+   "name": "Chatsworth International Horse Trials",
+   "kind": "Horse show",
+   "city": "Bakewell",
+   "country": "United Kingdom",
+   "market": "United Kingdom & Ireland",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.chatsworth.org"
+   },
+   "disciplines": [
+    "Eventing"
+   ],
+   "season": "May (annual)",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.chatsworth.org"
+  },
+  {
+   "name": "Blair Castle International Horse Trials",
+   "kind": "Horse show",
+   "city": "Blair Atholl",
+   "country": "United Kingdom",
+   "market": "United Kingdom & Ireland",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.blaircastlehorsetrials.co.uk"
+   },
+   "disciplines": [
+    "Eventing"
+   ],
+   "season": "August (annual)",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.blaircastlehorsetrials.co.uk"
+  },
+  {
+   "name": "Split Rock Jumping Tour",
+   "kind": "Horse show",
+   "city": "Lexington",
+   "country": "USA",
+   "market": "North America",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.splitrockjumpingtour.com"
+   },
+   "disciplines": [
+    "Show jumping"
+   ],
+   "season": "Seasonal",
+   "classes": [
+    "Grand Prix series"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.splitrockjumpingtour.com"
+  },
+  {
+   "name": "Vermont Summer Festival",
+   "kind": "Horse show",
+   "city": "East Dorset",
+   "country": "USA",
+   "market": "North America",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.vermontsummerfestival.com"
+   },
+   "disciplines": [
+    "Show jumping"
+   ],
+   "season": "Summer (annual)",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.vermontsummerfestival.com"
+  },
+  {
+   "name": "HITS-on-the-Hudson",
+   "kind": "Horse show",
+   "city": "Saugerties",
+   "country": "USA",
+   "market": "North America",
+   "location": "",
+   "venue": "",
+   "organizer": "HITS",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.hitsshows.com"
+   },
+   "disciplines": [
+    "Show jumping"
+   ],
+   "season": "May – September (annual)",
+   "classes": [
+    "Grand Prix series"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.hitsshows.com"
+  },
+  {
+   "name": "Lake Placid Horse Shows",
+   "kind": "Horse show",
+   "city": "Lake Placid",
+   "country": "USA",
+   "market": "North America",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.lakeplacidhorseshow.com"
+   },
+   "disciplines": [
+    "Show jumping"
+   ],
+   "season": "June – July (annual)",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.lakeplacidhorseshow.com"
+  },
+  {
+   "name": "Old Salem Farm Spring Horse Shows",
+   "kind": "Horse show",
+   "city": "North Salem",
+   "country": "USA",
+   "market": "North America",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.oldsalemfarm.net"
+   },
+   "disciplines": [
+    "Show jumping"
+   ],
+   "season": "May (annual)",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.oldsalemfarm.net"
+  },
+  {
+   "name": "Menlo Charity Horse Show",
+   "kind": "Horse show",
+   "city": "Atherton",
+   "country": "USA",
+   "market": "North America",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.menlocharityhorseshow.com"
+   },
+   "disciplines": [
+    "Show jumping",
+    "Showing"
+   ],
+   "season": "August (annual)",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.menlocharityhorseshow.com"
+  },
+  {
+   "name": "Colorado Horse Park",
+   "kind": "Horse show",
+   "city": "Parker",
+   "country": "USA",
+   "market": "North America",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.coloradohorsepark.com"
+   },
+   "disciplines": [
+    "Show jumping",
+    "Dressage"
+   ],
+   "season": "Seasonal",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.coloradohorsepark.com"
+  },
+  {
+   "name": "Thunderbird Show Park",
+   "kind": "Horse show",
+   "city": "Langley",
+   "country": "Canada",
+   "market": "North America",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.tbird.ca"
+   },
+   "disciplines": [
+    "Show jumping"
+   ],
+   "season": "Seasonal",
+   "classes": [
+    "Grand Prix series"
+   ],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.tbird.ca"
+  },
+  {
+   "name": "Angelstone Show Jumping",
+   "kind": "Horse show",
+   "city": "Toronto",
+   "country": "Canada",
+   "market": "North America",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.angelstone.ca"
+   },
+   "disciplines": [
+    "Show jumping"
+   ],
+   "season": "Seasonal",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.angelstone.ca"
+  },
+  {
+   "name": "Caledon Equestrian Park",
+   "kind": "Horse show",
+   "city": "Caledon",
+   "country": "Canada",
+   "market": "North America",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.caledonequestrianpark.com"
+   },
+   "disciplines": [
+    "Show jumping"
+   ],
+   "season": "Seasonal",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.caledonequestrianpark.com"
+  },
+  {
+   "name": "Melbourne International 3 Day Event",
+   "kind": "Horse show",
+   "city": "Melbourne",
+   "country": "Australia",
+   "market": "Asia-Pacific",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.melbourne3de.com.au"
+   },
+   "disciplines": [
+    "Eventing"
+   ],
+   "season": "June (annual)",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.melbourne3de.com.au"
+  },
+  {
+   "name": "Beaufort Polo Club",
+   "kind": "Polo club",
+   "city": "Tetbury",
+   "country": "United Kingdom",
+   "market": "Polo Clubs Worldwide",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.beaufortpoloclub.com"
+   },
+   "disciplines": [
+    "Polo"
+   ],
+   "season": "May – September (annual)",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.beaufortpoloclub.com"
+  },
+  {
+   "name": "Houston Polo Club",
+   "kind": "Polo club",
+   "city": "Houston",
+   "country": "USA",
+   "market": "Polo Clubs Worldwide",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.houstonpoloclub.com"
+   },
+   "disciplines": [
+    "Polo"
+   ],
+   "season": "Seasonal",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.houstonpoloclub.com"
+  },
+  {
+   "name": "Eldorado Polo Club",
+   "kind": "Polo club",
+   "city": "Indio",
+   "country": "USA",
+   "market": "Polo Clubs Worldwide",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.eldoradopolo.com"
+   },
+   "disciplines": [
+    "Polo"
+   ],
+   "season": "January – March (annual)",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.eldoradopolo.com"
+  },
+  {
+   "name": "Empire Polo Club",
+   "kind": "Polo club",
+   "city": "Indio",
+   "country": "USA",
+   "market": "Polo Clubs Worldwide",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.empirepolo.com"
+   },
+   "disciplines": [
+    "Polo"
+   ],
+   "season": "January – March (annual)",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.empirepolo.com"
+  },
+  {
+   "name": "Sarasota Polo Club",
+   "kind": "Polo club",
+   "city": "Sarasota",
+   "country": "USA",
+   "market": "Polo Clubs Worldwide",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.sarasotapolo.com"
+   },
+   "disciplines": [
+    "Polo"
+   ],
+   "season": "Seasonal",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.sarasotapolo.com"
+  },
+  {
+   "name": "Meadowbrook Polo Club",
+   "kind": "Polo club",
+   "city": "Old Westbury",
+   "country": "USA",
+   "market": "Polo Clubs Worldwide",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.meadowbrookpoloclub.com"
+   },
+   "disciplines": [
+    "Polo"
+   ],
+   "season": "Seasonal",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.meadowbrookpoloclub.com"
+  },
+  {
+   "name": "Aiken Polo Club",
+   "kind": "Polo club",
+   "city": "Aiken",
+   "country": "USA",
+   "market": "Polo Clubs Worldwide",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.aikenpolo.org"
+   },
+   "disciplines": [
+    "Polo"
+   ],
+   "season": "Seasonal",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.aikenpolo.org"
+  },
+  {
+   "name": "Will Rogers Polo Club",
+   "kind": "Polo club",
+   "city": "Los Angeles",
+   "country": "USA",
+   "market": "Polo Clubs Worldwide",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.willrogerspoloclub.com"
+   },
+   "disciplines": [
+    "Polo"
+   ],
+   "season": "Seasonal",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.willrogerspoloclub.com"
+  },
+  {
+   "name": "Denver Polo Club",
+   "kind": "Polo club",
+   "city": "Denver",
+   "country": "USA",
+   "market": "Polo Clubs Worldwide",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.denverpoloclub.com"
+   },
+   "disciplines": [
+    "Polo"
+   ],
+   "season": "Seasonal",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.denverpoloclub.com"
+  },
+  {
+   "name": "Calgary Polo Club",
+   "kind": "Polo club",
+   "city": "Calgary",
+   "country": "Canada",
+   "market": "Polo Clubs Worldwide",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.calgarypoloclub.com"
+   },
+   "disciplines": [
+    "Polo"
+   ],
+   "season": "Seasonal",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.calgarypoloclub.com"
+  },
+  {
+   "name": "Vancouver Polo Club",
+   "kind": "Polo club",
+   "city": "Vancouver",
+   "country": "Canada",
+   "market": "Polo Clubs Worldwide",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.vancouverpoloclub.com"
+   },
+   "disciplines": [
+    "Polo"
+   ],
+   "season": "Seasonal",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.vancouverpoloclub.com"
+  },
+  {
+   "name": "Real Club de Polo de Barcelona",
+   "kind": "Polo club",
+   "city": "Barcelona",
+   "country": "Spain",
+   "market": "Polo Clubs Worldwide",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.rcpolo.com"
+   },
+   "disciplines": [
+    "Polo"
+   ],
+   "season": "Seasonal",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.rcpolo.com"
+  },
+  {
+   "name": "Spanish Riding School",
+   "kind": "Riding club",
+   "city": "Vienna",
+   "country": "Austria",
+   "market": "Premier Riding Clubs Worldwide",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.srs.at"
+   },
+   "disciplines": [
+    "Dressage"
+   ],
+   "season": "Year-round",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.srs.at"
+  },
+  {
+   "name": "Cadre Noir de Saumur",
+   "kind": "Riding club",
+   "city": "Saumur",
+   "country": "France",
+   "market": "Premier Riding Clubs Worldwide",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.cadrenoir.fr"
+   },
+   "disciplines": [
+    "Dressage"
+   ],
+   "season": "Year-round",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.cadrenoir.fr"
+  },
+  {
+   "name": "Royal Andalusian School of Equestrian Art",
+   "kind": "Riding club",
+   "city": "Jerez de la Frontera",
+   "country": "Spain",
+   "market": "Premier Riding Clubs Worldwide",
+   "location": "",
+   "venue": "",
+   "organizer": "",
+   "ownership": {
+    "ultimate_owner": "",
+    "operator": ""
+   },
+   "management": "",
+   "contact": {
+    "address": "",
+    "phone": "",
+    "email": "",
+    "website": "https://www.realescuela.org"
+   },
+   "disciplines": [
+    "Dressage",
+    "Driving"
+   ],
+   "season": "Year-round",
+   "classes": [],
+   "hospitality": "",
+   "stabling": "",
+   "lodging": [],
+   "dining": [],
+   "activities": [],
+   "sponsors": [],
+   "ticketing": "",
+   "pr_contacts": [],
+   "marketing_contacts": [],
+   "concierge": "",
+   "source": "https://www.realescuela.org"
+  }
+ ]
+}

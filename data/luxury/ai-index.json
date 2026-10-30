@@ -408,6 +408,27 @@
    },
    "variableMeasured": "listing",
    "count": 511
+  },
+  {
+   "@type": "Dataset",
+   "name": "Top 500 Horse Shows & Clubs Worldwide",
+   "description": "Top 500 horse shows and equestrian clubs worldwide — CHI Geneva, CHIO Aachen, Spruce Meadows, Wellington, premier polo clubs, and full contact details.",
+   "url": "https://likeleaders.com/sections/luxury-horse-shows-clubs.html",
+   "creator": {
+    "@id": "https://likeleaders.com/#organization"
+   },
+   "isPartOf": {
+    "@type": "CreativeWork",
+    "name": "LIKE® Magazine Luxury Guide",
+    "url": "https://likeleaders.com/sections/luxury-guide.html"
+   },
+   "distribution": {
+    "@type": "DataDownload",
+    "encodingFormat": "application/json",
+    "contentUrl": "https://likeleaders.com/data/luxury/horse-shows-clubs.json"
+   },
+   "variableMeasured": "listing",
+   "count": 135
   }
  ],
  "hasPart": [
