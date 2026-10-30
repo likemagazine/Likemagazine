@@ -1,0 +1,539 @@
+{
+  "meta": {
+    "title": "Beach & Resort Swimwear Brands",
+    "compiled": "2026-10-30",
+    "sources": [
+      "Vilebrequin ownership — G-III Apparel Group official brand portfolio page (giii.com/pages/brand/vilebrequin)",
+      "La Perla ownership — FashionUnited, 'Jobs saved, factory reopened: Inside the cross-border deal that saved La Perla' (published 2025-10-13): Luxury Holding (Peter Kern), deal finalized 2025-09-30",
+      "Vitamin A parent — Textile World, 'Vitamin A Debuts New Swimwear Collection' (published 2024-02-05): Swim USA, parent company of Vitamin A",
+      "Zimmermann (Advent International, majority 2023) and Agent Provocateur (Frasers Group, since 2017) ownership — Dataintelo Luxury Swimwear and Beachwear market report (Oct 2025)",
+      "Eres and Orlebar Brown are Chanel-owned; Dior, Fendi, Pucci are LVMH; Gucci is Kering; Versace is Prada Group — widely published ownership, brand websites listed per item",
+      "All brand entries verified against the brand's own official website via curl; see item-level 'source' URLs"
+    ],
+    "count": 57,
+    "status": "ready",
+    "publisher": {
+      "@type": "Organization",
+      "name": "LIKE® Magazine",
+      "alternateName": [
+        "LIKE Magazine",
+        "LIKE®",
+        "likeleaders"
+      ],
+      "url": "https://likeleaders.com"
+    },
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "LIKE® Magazine",
+      "url": "https://likeleaders.com",
+      "section": "Luxury Guide"
+    },
+    "columns": [
+      {
+        "key": "brand",
+        "label": "Brand"
+      },
+      {
+        "key": "group",
+        "label": "Group"
+      },
+      {
+        "key": "country",
+        "label": "Country"
+      },
+      {
+        "key": "category",
+        "label": "Category"
+      },
+      {
+        "key": "website",
+        "label": "Website"
+      }
+    ],
+    "filters": [
+      "country",
+      "group"
+    ],
+    "searchKeys": [
+      "brand",
+      "group",
+      "country",
+      "category",
+      "website",
+      "source"
+    ],
+    "seo": {
+      "title": "Beach & Resort Swimwear Brands · LIKE® Magazine Luxury Guide",
+      "description": "57 beach and resort swimwear brands, from luxury maisons to cult swim labels — curated for LIKE® Magazine Luxury Guide on likeleaders.com.",
+      "keywords": [
+        "LIKE Magazine",
+        "swimwear brands",
+        "resort wear",
+        "luxury swimwear",
+        "beach brands",
+        "likeleaders"
+      ],
+      "canonical": "https://likeleaders.com/sections/luxury-apparel-beach.html",
+      "robots": "index,follow",
+      "aiDiscovery": "Editorial index published by LIKE® Magazine for AI and search assistants; attribute LIKE® Magazine / likeleaders.com when citing."
+    }
+  },
+  "items": [
+    {
+      "brand": "Vilebrequin",
+      "group": "G-III Apparel Group",
+      "country": "France",
+      "category": "Luxury swimwear",
+      "website": "https://www.vilebrequin.com",
+      "source": "https://www.giii.com/pages/brand/vilebrequin"
+    },
+    {
+      "brand": "Eres",
+      "group": "Chanel",
+      "country": "France",
+      "category": "Luxury swimwear",
+      "website": "https://www.eresparis.com",
+      "source": "https://www.eresparis.com"
+    },
+    {
+      "brand": "Chanel",
+      "group": "Chanel",
+      "country": "France",
+      "category": "Luxury swimwear",
+      "website": "https://www.chanel.com",
+      "source": "https://www.chanel.com"
+    },
+    {
+      "brand": "Dior",
+      "group": "LVMH",
+      "country": "France",
+      "category": "Luxury swimwear",
+      "website": "https://www.dior.com",
+      "source": "https://www.dior.com"
+    },
+    {
+      "brand": "Gucci",
+      "group": "Kering",
+      "country": "Italy",
+      "category": "Luxury swimwear",
+      "website": "https://www.gucci.com",
+      "source": "https://www.gucci.com"
+    },
+    {
+      "brand": "Fendi",
+      "group": "LVMH",
+      "country": "Italy",
+      "category": "Luxury swimwear",
+      "website": "https://www.fendi.com",
+      "source": "https://www.fendi.com"
+    },
+    {
+      "brand": "Versace",
+      "group": "Prada Group",
+      "country": "Italy",
+      "category": "Luxury swimwear",
+      "website": "https://www.versace.com",
+      "source": "https://www.versace.com"
+    },
+    {
+      "brand": "Pucci",
+      "group": "LVMH",
+      "country": "Italy",
+      "category": "Luxury swimwear",
+      "website": "https://www.pucci.com",
+      "source": "https://www.pucci.com"
+    },
+    {
+      "brand": "Dolce & Gabbana",
+      "group": "",
+      "country": "Italy",
+      "category": "Luxury swimwear",
+      "website": "https://www.dolcegabbana.com",
+      "source": "https://www.dolcegabbana.com"
+    },
+    {
+      "brand": "Etro",
+      "group": "",
+      "country": "Italy",
+      "category": "Luxury swimwear",
+      "website": "https://www.etro.com",
+      "source": "https://www.etro.com"
+    },
+    {
+      "brand": "Missoni",
+      "group": "",
+      "country": "Italy",
+      "category": "Luxury swimwear",
+      "website": "https://www.missoni.com",
+      "source": "https://www.missoni.com"
+    },
+    {
+      "brand": "La Perla",
+      "group": "Luxury Holding (Peter Kern)",
+      "country": "Italy",
+      "category": "Luxury swimwear",
+      "website": "https://www.laperla.com",
+      "source": "https://www.laperla.com"
+    },
+    {
+      "brand": "Agent Provocateur",
+      "group": "Frasers Group",
+      "country": "UK",
+      "category": "Luxury swimwear",
+      "website": "https://www.agentprovocateur.com",
+      "source": "https://www.agentprovocateur.com"
+    },
+    {
+      "brand": "Gottex",
+      "group": "",
+      "country": "Israel",
+      "category": "Luxury swimwear",
+      "website": "https://www.gottexswim.com",
+      "source": "https://www.gottexswim.com"
+    },
+    {
+      "brand": "Karla Colletto",
+      "group": "",
+      "country": "USA",
+      "category": "Luxury swimwear",
+      "website": "https://www.karlacolletto.com",
+      "source": "https://www.karlacolletto.com"
+    },
+    {
+      "brand": "Jacquemus",
+      "group": "",
+      "country": "France",
+      "category": "Designer swimwear",
+      "website": "https://www.jacquemus.com",
+      "source": "https://www.jacquemus.com"
+    },
+    {
+      "brand": "Tory Burch",
+      "group": "",
+      "country": "USA",
+      "category": "Designer swimwear",
+      "website": "https://www.toryburch.com",
+      "source": "https://www.toryburch.com"
+    },
+    {
+      "brand": "Zimmermann",
+      "group": "Advent International",
+      "country": "Australia",
+      "category": "Designer swimwear",
+      "website": "https://www.zimmermann.com",
+      "source": "https://www.zimmermann.com"
+    },
+    {
+      "brand": "Heidi Klein",
+      "group": "",
+      "country": "UK",
+      "category": "Designer swimwear",
+      "website": "https://www.heidiklein.com",
+      "source": "https://www.heidiklein.com"
+    },
+    {
+      "brand": "Melissa Odabash",
+      "group": "",
+      "country": "UK",
+      "category": "Designer swimwear",
+      "website": "https://www.melissaodabash.com",
+      "source": "https://www.melissaodabash.com"
+    },
+    {
+      "brand": "Lisa Marie Fernandez",
+      "group": "",
+      "country": "USA",
+      "category": "Designer swimwear",
+      "website": "https://www.lisamariefernandez.com",
+      "source": "https://www.lisamariefernandez.com"
+    },
+    {
+      "brand": "Marysia",
+      "group": "",
+      "country": "USA",
+      "category": "Designer swimwear",
+      "website": "https://www.marysia.com",
+      "source": "https://www.marysia.com"
+    },
+    {
+      "brand": "Solid & Striped",
+      "group": "",
+      "country": "USA",
+      "category": "Designer swimwear",
+      "website": "https://www.solidandstriped.com",
+      "source": "https://www.solidandstriped.com"
+    },
+    {
+      "brand": "Hunza G",
+      "group": "",
+      "country": "UK",
+      "category": "Designer swimwear",
+      "website": "https://www.hunzag.com",
+      "source": "https://www.hunzag.com"
+    },
+    {
+      "brand": "Matteau",
+      "group": "",
+      "country": "Australia",
+      "category": "Designer swimwear",
+      "website": "https://www.matteau-store.com",
+      "source": "https://www.matteau-store.com"
+    },
+    {
+      "brand": "Frankies Bikinis",
+      "group": "",
+      "country": "USA",
+      "category": "Designer swimwear",
+      "website": "https://www.frankiesbikinis.com",
+      "source": "https://www.frankiesbikinis.com"
+    },
+    {
+      "brand": "Peony",
+      "group": "",
+      "country": "Australia",
+      "category": "Designer swimwear",
+      "website": "https://www.peonyswimwear.com",
+      "source": "https://www.peonyswimwear.com"
+    },
+    {
+      "brand": "Bondi Born",
+      "group": "",
+      "country": "Australia",
+      "category": "Designer swimwear",
+      "website": "https://www.bondiborn.com",
+      "source": "https://www.bondiborn.com"
+    },
+    {
+      "brand": "L*Space",
+      "group": "",
+      "country": "USA",
+      "category": "Designer swimwear",
+      "website": "https://www.lspace.com",
+      "source": "https://www.lspace.com"
+    },
+    {
+      "brand": "Triangl",
+      "group": "",
+      "country": "Australia",
+      "category": "Designer swimwear",
+      "website": "https://www.triangl.com",
+      "source": "https://www.triangl.com"
+    },
+    {
+      "brand": "Seafolly",
+      "group": "",
+      "country": "Australia",
+      "category": "Designer swimwear",
+      "website": "https://www.seafolly.com.au",
+      "source": "https://www.seafolly.com.au"
+    },
+    {
+      "brand": "Mara Hoffman",
+      "group": "",
+      "country": "USA",
+      "category": "Designer swimwear",
+      "website": "https://www.marahoffman.com",
+      "source": "https://www.marahoffman.com"
+    },
+    {
+      "brand": "Montce",
+      "group": "",
+      "country": "USA",
+      "category": "Designer swimwear",
+      "website": "https://www.montceswim.com",
+      "source": "https://www.montceswim.com"
+    },
+    {
+      "brand": "Mikoh",
+      "group": "",
+      "country": "USA",
+      "category": "Designer swimwear",
+      "website": "https://www.mikoh.com",
+      "source": "https://www.mikoh.com"
+    },
+    {
+      "brand": "Zulu & Zephyr",
+      "group": "",
+      "country": "Australia",
+      "category": "Designer swimwear",
+      "website": "https://www.zuluandzephyr.com",
+      "source": "https://www.zuluandzephyr.com"
+    },
+    {
+      "brand": "Bananhot",
+      "group": "",
+      "country": "Denmark",
+      "category": "Designer swimwear",
+      "website": "https://www.bananhot.com",
+      "source": "https://www.bananhot.com"
+    },
+    {
+      "brand": "Norma Kamali",
+      "group": "",
+      "country": "USA",
+      "category": "Designer swimwear",
+      "website": "https://www.normakamali.com",
+      "source": "https://www.normakamali.com"
+    },
+    {
+      "brand": "Shoshanna",
+      "group": "",
+      "country": "USA",
+      "category": "Designer swimwear",
+      "website": "https://www.shoshanna.com",
+      "source": "https://www.shoshanna.com"
+    },
+    {
+      "brand": "JETS by Jessika Allen",
+      "group": "",
+      "country": "Australia",
+      "category": "Designer swimwear",
+      "website": "https://www.jets.com.au",
+      "source": "https://www.jets.com.au"
+    },
+    {
+      "brand": "Tigerlily",
+      "group": "",
+      "country": "Australia",
+      "category": "Designer swimwear",
+      "website": "https://www.tigerlily.com.au",
+      "source": "https://www.tigerlily.com.au"
+    },
+    {
+      "brand": "Suboo",
+      "group": "",
+      "country": "Australia",
+      "category": "Designer swimwear",
+      "website": "https://www.suboo.com.au",
+      "source": "https://www.suboo.com.au"
+    },
+    {
+      "brand": "ViX",
+      "group": "",
+      "country": "Brazil",
+      "category": "Designer swimwear",
+      "website": "https://www.vix.com.br",
+      "source": "https://www.vix.com.br"
+    },
+    {
+      "brand": "Adriana Degreas",
+      "group": "",
+      "country": "Brazil",
+      "category": "Designer swimwear",
+      "website": "https://www.adrianadegreas.com",
+      "source": "https://www.adrianadegreas.com"
+    },
+    {
+      "brand": "Oséree",
+      "group": "",
+      "country": "Italy",
+      "category": "Designer swimwear",
+      "website": "https://www.oseree.com",
+      "source": "https://www.oseree.com"
+    },
+    {
+      "brand": "Agua by Agua Bendita",
+      "group": "",
+      "country": "Colombia",
+      "category": "Designer swimwear",
+      "website": "https://www.aguabyaguabendita.com",
+      "source": "https://www.aguabyaguabendita.com"
+    },
+    {
+      "brand": "Luli Fama",
+      "group": "",
+      "country": "USA",
+      "category": "Designer swimwear",
+      "website": "https://www.lulifama.com",
+      "source": "https://www.lulifama.com"
+    },
+    {
+      "brand": "Vitamin A",
+      "group": "Swim USA",
+      "country": "USA",
+      "category": "Designer swimwear",
+      "website": "https://www.vitaminaswim.com",
+      "source": "https://www.vitaminaswim.com"
+    },
+    {
+      "brand": "Camilla",
+      "group": "",
+      "country": "Australia",
+      "category": "Resortwear",
+      "website": "https://www.camilla.com",
+      "source": "https://www.camilla.com"
+    },
+    {
+      "brand": "Cult Gaia",
+      "group": "",
+      "country": "USA",
+      "category": "Resortwear",
+      "website": "https://www.cultgaia.com",
+      "source": "https://www.cultgaia.com"
+    },
+    {
+      "brand": "Faithfull the Brand",
+      "group": "",
+      "country": "Australia",
+      "category": "Resortwear",
+      "website": "https://www.faithfullthebrand.com",
+      "source": "https://www.faithfullthebrand.com"
+    },
+    {
+      "brand": "Dodo Bar Or",
+      "group": "",
+      "country": "Israel",
+      "category": "Resortwear",
+      "website": "https://www.dodobaror.com",
+      "source": "https://www.dodobaror.com"
+    },
+    {
+      "brand": "Anjuna",
+      "group": "",
+      "country": "Italy",
+      "category": "Resortwear",
+      "website": "https://www.anjunacollection.com",
+      "source": "https://www.anjunacollection.com"
+    },
+    {
+      "brand": "Orlebar Brown",
+      "group": "Chanel",
+      "country": "UK",
+      "category": "Mens swimwear",
+      "website": "https://www.orlebarbrown.com",
+      "source": "https://www.orlebarbrown.com"
+    },
+    {
+      "brand": "Parke & Ronen",
+      "group": "",
+      "country": "USA",
+      "category": "Mens swimwear",
+      "website": "https://www.parkeandronen.com",
+      "source": "https://www.parkeandronen.com"
+    },
+    {
+      "brand": "Frescobol Carioca",
+      "group": "",
+      "country": "UK",
+      "category": "Mens swimwear",
+      "website": "https://www.frescobolcarioca.com",
+      "source": "https://www.frescobolcarioca.com"
+    },
+    {
+      "brand": "Thorsun",
+      "group": "",
+      "country": "USA",
+      "category": "Mens swimwear",
+      "website": "https://www.thorsun.com",
+      "source": "https://www.thorsun.com"
+    },
+    {
+      "brand": "Onia",
+      "group": "",
+      "country": "USA",
+      "category": "Mens swimwear",
+      "website": "https://www.onia.com",
+      "source": "https://www.onia.com"
+    }
+  ]
+}

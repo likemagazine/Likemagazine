@@ -1,0 +1,625 @@
+{
+  "meta": {
+    "title": "Ski & Après-Ski Apparel Brands",
+    "compiled": "2026-10-30",
+    "sources": [
+      "Arc'teryx official site (arcteryx.com)",
+      "Patagonia official site (patagonia.com)",
+      "The North Face official site (thenorthface.com)",
+      "Helly Hansen official site (hellyhansen.com)",
+      "Spyder official site (spyder.com)",
+      "Bogner official site (bogner.com)",
+      "Descente official site (descente.com)",
+      "KJUS official site (kjus.com)",
+      "Fusalp official site (fusalp.com)",
+      "Goldbergh official site (goldbergh.com)",
+      "Toni Sailer official site (tonisailer.com)",
+      "Perfect Moment official site (perfectmoment.com)",
+      "Cordova official site (cordova.co)",
+      "Aztech Mountain official site (aztechmountain.com)",
+      "Halfdays official site (halfdays.com)",
+      "Alps & Meters official site (alpsandmeters.com)",
+      "Obermeyer official site (obermeyer.com)",
+      "Peak Performance official site (peakperformance.com)",
+      "J.Lindeberg official site (jlindeberg.com)",
+      "Colmar official site (colmar.it)",
+      "Poivre Blanc official site (poivreblanc.com)",
+      "SOS Sportswear official site (sos-sportswear.com)",
+      "Kari Traa official site (karitraa.com)",
+      "Marmot official site (marmot.com)",
+      "Salomon official site (salomon.com)",
+      "Rossignol official site (rossignol.com)",
+      "Moncler official site (moncler.com)",
+      "Loro Piana official site (loropiana.com)",
+      "Brunello Cucinelli official site (brunellocucinelli.com)",
+      "Zegna official site (zegna.com)",
+      "Prada official site (prada.com)",
+      "Gucci official site (gucci.com)",
+      "Louis Vuitton official site (louisvuitton.com)",
+      "Chanel official site (chanel.com)",
+      "Dior official site (dior.com)",
+      "Fendi official site (fendi.com)",
+      "Miu Miu official site (miumiu.com)",
+      "Skea official site (skealimited.com)",
+      "Jet Set official site (jetset.ch)",
+      "Jacob Cohen official site (jacobcohen.com)",
+      "Norrona official site (norrona.com)",
+      "Schoeffel official site (schoeffel.com)",
+      "Moon Boot official site - About Us confirms Tecnica Group ownership (moonboot.com)",
+      "Reusch official site (reusch.com)",
+      "Hestra official site (hestragloves.com)",
+      "Pyrenex official site (pyrenex.com)",
+      "Frauenschuh official site (frauenschuh.com)",
+      "Sportalm official site (sportalm.at)",
+      "Sorel official site (sorel.com)",
+      "UGG official site (ugg.com)",
+      "Duvetica official site (duvetica.com)",
+      "Herno official site (herno.com)",
+      "Cimalp official site (cimalp.com)",
+      "Picture Organic Clothing official site (picture-organic-clothing.com)",
+      "Mammut official site (mammut.com)",
+      "Haglofs official site (haglofs.com)",
+      "Icebreaker official site (icebreaker.com)",
+      "Craft official site (craftsportswear.com)",
+      "Amer Sports official brands portfolio (amersports.com) - Arc'teryx, Salomon, Peak Performance",
+      "VF Corporation official filings and brands page (vfc.com) - The North Face, Icebreaker",
+      "Kontoor Brands official portfolio (kontoorbrands.com) - Helly Hansen",
+      "Authentic Brands Group official portfolio (authenticbrands.com) - Spyder",
+      "Acushnet Holdings official brands (acushnetgolf.com) - KJUS",
+      "Newell Brands official brands page (newellbrands.com) - Marmot",
+      "New Wave Group official brands page (nwg.se) - Craft",
+      "LVMH official maisons page (lvmh.com) - Loro Piana, Louis Vuitton, Dior, Fendi",
+      "Kering official brands page (kering.com) - Gucci",
+      "Prada Group official brands page (pradagroup.com) - Prada, Miu Miu",
+      "Moncler Group official site (monclergroup.com) - Moncler",
+      "Ermenegildo Zegna Group official site (zegnagroup.com) - Zegna",
+      "Columbia Sportswear official brands page (columbia.com) - Sorel",
+      "Deckers Outdoor Corporation official brands page (deckers.com) - UGG",
+      "Gaydoul Group ownership of Jet Set (published Dec 2024 via SGB/outdoorsportswire)",
+      "Sports Group Denmark acquisition of SOS Sportswear (2021, published via PitchBook)",
+      "LionRock Capital acquisition of Haglofs from ASICS (Dec 2023, published via SGB/fashionunited)",
+      "CPE agreement to acquire Mammut from Jacobs Capital (Jul 2026, published via SGB/fashionunited)"
+    ],
+    "count": 59,
+    "status": "ready",
+    "publisher": {
+      "@type": "Organization",
+      "name": "LIKE® Magazine",
+      "alternateName": [
+        "LIKE Magazine",
+        "LIKE®",
+        "likeleaders"
+      ],
+      "url": "https://likeleaders.com"
+    },
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "LIKE® Magazine",
+      "url": "https://likeleaders.com",
+      "section": "Luxury Guide"
+    },
+    "columns": [
+      {
+        "key": "brand",
+        "label": "Brand"
+      },
+      {
+        "key": "group",
+        "label": "Group"
+      },
+      {
+        "key": "country",
+        "label": "Country"
+      },
+      {
+        "key": "category",
+        "label": "Category"
+      },
+      {
+        "key": "website",
+        "label": "Website"
+      }
+    ],
+    "filters": [
+      "country",
+      "group"
+    ],
+    "searchKeys": [
+      "brand",
+      "group",
+      "country",
+      "category",
+      "website",
+      "source"
+    ],
+    "seo": {
+      "title": "Ski & Après-Ski Apparel Brands · LIKE® Magazine Luxury Guide",
+      "description": "59 ski and après-ski apparel brands, from technical skiwear to luxury alpine style — curated for LIKE® Magazine Luxury Guide on likeleaders.com.",
+      "keywords": [
+        "LIKE Magazine",
+        "ski apparel brands",
+        "après-ski fashion",
+        "luxury skiwear",
+        "ski wear brands",
+        "likeleaders"
+      ],
+      "canonical": "https://likeleaders.com/sections/luxury-apparel-ski.html",
+      "robots": "index,follow",
+      "aiDiscovery": "Editorial index published by LIKE® Magazine for AI and search assistants; attribute LIKE® Magazine / likeleaders.com when citing."
+    }
+  },
+  "items": [
+    {
+      "brand": "Arc'teryx",
+      "group": "Amer Sports",
+      "country": "Canada",
+      "category": "Technical skiwear",
+      "website": "https://arcteryx.com",
+      "source": "https://arcteryx.com"
+    },
+    {
+      "brand": "Patagonia",
+      "group": "Independent",
+      "country": "United States",
+      "category": "Technical skiwear",
+      "website": "https://www.patagonia.com",
+      "source": "https://www.patagonia.com"
+    },
+    {
+      "brand": "The North Face",
+      "group": "VF Corporation",
+      "country": "United States",
+      "category": "Technical skiwear",
+      "website": "https://www.thenorthface.com",
+      "source": "https://www.thenorthface.com"
+    },
+    {
+      "brand": "Helly Hansen",
+      "group": "Kontoor Brands",
+      "country": "Norway",
+      "category": "Technical skiwear",
+      "website": "https://www.hellyhansen.com",
+      "source": "https://www.hellyhansen.com"
+    },
+    {
+      "brand": "Spyder",
+      "group": "Authentic Brands Group",
+      "country": "United States",
+      "category": "Technical skiwear",
+      "website": "https://www.spyder.com",
+      "source": "https://www.spyder.com"
+    },
+    {
+      "brand": "Descente",
+      "group": "Independent",
+      "country": "Japan",
+      "category": "Technical skiwear",
+      "website": "https://www.descente.com",
+      "source": "https://www.descente.com"
+    },
+    {
+      "brand": "Kjus",
+      "group": "Acushnet Company",
+      "country": "Norway",
+      "category": "Technical skiwear",
+      "website": "https://www.kjus.com",
+      "source": "https://www.kjus.com"
+    },
+    {
+      "brand": "Cordova",
+      "group": "Independent",
+      "country": "United States",
+      "category": "Technical skiwear",
+      "website": "https://www.cordova.co",
+      "source": "https://www.cordova.co"
+    },
+    {
+      "brand": "Aztech Mountain",
+      "group": "Independent",
+      "country": "United States",
+      "category": "Technical skiwear",
+      "website": "https://www.aztechmountain.com",
+      "source": "https://www.aztechmountain.com"
+    },
+    {
+      "brand": "Halfdays",
+      "group": "Independent",
+      "country": "United States",
+      "category": "Technical skiwear",
+      "website": "https://www.halfdays.com",
+      "source": "https://www.halfdays.com"
+    },
+    {
+      "brand": "Alps & Meters",
+      "group": "Independent",
+      "country": "United States",
+      "category": "Technical skiwear",
+      "website": "https://www.alpsandmeters.com",
+      "source": "https://www.alpsandmeters.com"
+    },
+    {
+      "brand": "Obermeyer",
+      "group": "Independent",
+      "country": "United States",
+      "category": "Technical skiwear",
+      "website": "https://www.obermeyer.com",
+      "source": "https://www.obermeyer.com"
+    },
+    {
+      "brand": "Peak Performance",
+      "group": "Amer Sports",
+      "country": "Sweden",
+      "category": "Technical skiwear",
+      "website": "https://www.peakperformance.com",
+      "source": "https://www.peakperformance.com"
+    },
+    {
+      "brand": "J.Lindeberg",
+      "group": "",
+      "country": "Sweden",
+      "category": "Technical skiwear",
+      "website": "https://www.jlindeberg.com",
+      "source": "https://www.jlindeberg.com"
+    },
+    {
+      "brand": "Colmar",
+      "group": "Independent",
+      "country": "Italy",
+      "category": "Technical skiwear",
+      "website": "https://www.colmar.it",
+      "source": "https://www.colmar.it"
+    },
+    {
+      "brand": "Poivre Blanc",
+      "group": "",
+      "country": "France",
+      "category": "Technical skiwear",
+      "website": "https://www.poivreblanc.com",
+      "source": "https://www.poivreblanc.com"
+    },
+    {
+      "brand": "SOS Sportswear",
+      "group": "Sports Group Denmark",
+      "country": "Sweden",
+      "category": "Technical skiwear",
+      "website": "https://www.sos-sportswear.com",
+      "source": "https://www.sos-sportswear.com"
+    },
+    {
+      "brand": "Kari Traa",
+      "group": "Independent",
+      "country": "Norway",
+      "category": "Technical skiwear",
+      "website": "https://www.karitraa.com",
+      "source": "https://www.karitraa.com"
+    },
+    {
+      "brand": "Marmot",
+      "group": "Newell Brands",
+      "country": "United States",
+      "category": "Technical skiwear",
+      "website": "https://www.marmot.com",
+      "source": "https://www.marmot.com"
+    },
+    {
+      "brand": "Salomon",
+      "group": "Amer Sports",
+      "country": "France",
+      "category": "Technical skiwear",
+      "website": "https://www.salomon.com",
+      "source": "https://www.salomon.com"
+    },
+    {
+      "brand": "Rossignol",
+      "group": "",
+      "country": "France",
+      "category": "Technical skiwear",
+      "website": "https://www.rossignol.com",
+      "source": "https://www.rossignol.com"
+    },
+    {
+      "brand": "Norrøna",
+      "group": "Independent",
+      "country": "Norway",
+      "category": "Technical skiwear",
+      "website": "https://www.norrona.com",
+      "source": "https://www.norrona.com"
+    },
+    {
+      "brand": "Schöffel",
+      "group": "Independent",
+      "country": "Germany",
+      "category": "Technical skiwear",
+      "website": "https://www.schoeffel.com",
+      "source": "https://www.schoeffel.com"
+    },
+    {
+      "brand": "Cimalp",
+      "group": "",
+      "country": "France",
+      "category": "Technical skiwear",
+      "website": "https://www.cimalp.com",
+      "source": "https://www.cimalp.com"
+    },
+    {
+      "brand": "Picture Organic Clothing",
+      "group": "Independent",
+      "country": "France",
+      "category": "Technical skiwear",
+      "website": "https://www.picture-organic-clothing.com",
+      "source": "https://www.picture-organic-clothing.com"
+    },
+    {
+      "brand": "Mammut",
+      "group": "CPE",
+      "country": "Switzerland",
+      "category": "Technical skiwear",
+      "website": "https://www.mammut.com",
+      "source": "https://www.mammut.com"
+    },
+    {
+      "brand": "Haglöfs",
+      "group": "LionRock Capital",
+      "country": "Sweden",
+      "category": "Technical skiwear",
+      "website": "https://www.haglofs.com",
+      "source": "https://www.haglofs.com"
+    },
+    {
+      "brand": "Icebreaker",
+      "group": "VF Corporation",
+      "country": "New Zealand",
+      "category": "Technical skiwear",
+      "website": "https://www.icebreaker.com",
+      "source": "https://www.icebreaker.com"
+    },
+    {
+      "brand": "Craft",
+      "group": "New Wave Group",
+      "country": "Sweden",
+      "category": "Technical skiwear",
+      "website": "https://www.craftsportswear.com",
+      "source": "https://www.craftsportswear.com"
+    },
+    {
+      "brand": "Moncler",
+      "group": "Moncler Group",
+      "country": "Italy",
+      "category": "Luxury skiwear",
+      "website": "https://www.moncler.com",
+      "source": "https://www.moncler.com"
+    },
+    {
+      "brand": "Loro Piana",
+      "group": "LVMH",
+      "country": "Italy",
+      "category": "Luxury skiwear",
+      "website": "https://www.loropiana.com",
+      "source": "https://www.loropiana.com"
+    },
+    {
+      "brand": "Brunello Cucinelli",
+      "group": "Independent",
+      "country": "Italy",
+      "category": "Luxury skiwear",
+      "website": "https://www.brunellocucinelli.com",
+      "source": "https://www.brunellocucinelli.com"
+    },
+    {
+      "brand": "Zegna",
+      "group": "Ermenegildo Zegna Group",
+      "country": "Italy",
+      "category": "Luxury skiwear",
+      "website": "https://www.zegna.com",
+      "source": "https://www.zegna.com"
+    },
+    {
+      "brand": "Prada Linea Rossa",
+      "group": "Prada Group",
+      "country": "Italy",
+      "category": "Luxury skiwear",
+      "website": "https://www.prada.com",
+      "source": "https://www.prada.com"
+    },
+    {
+      "brand": "Gucci",
+      "group": "Kering",
+      "country": "Italy",
+      "category": "Luxury skiwear",
+      "website": "https://www.gucci.com",
+      "source": "https://www.gucci.com"
+    },
+    {
+      "brand": "Louis Vuitton",
+      "group": "LVMH",
+      "country": "France",
+      "category": "Luxury skiwear",
+      "website": "https://www.louisvuitton.com",
+      "source": "https://www.louisvuitton.com"
+    },
+    {
+      "brand": "Chanel",
+      "group": "Independent",
+      "country": "France",
+      "category": "Luxury skiwear",
+      "website": "https://www.chanel.com",
+      "source": "https://www.chanel.com"
+    },
+    {
+      "brand": "Dior",
+      "group": "LVMH",
+      "country": "France",
+      "category": "Luxury skiwear",
+      "website": "https://www.dior.com",
+      "source": "https://www.dior.com"
+    },
+    {
+      "brand": "Fendi",
+      "group": "LVMH",
+      "country": "Italy",
+      "category": "Luxury skiwear",
+      "website": "https://www.fendi.com",
+      "source": "https://www.fendi.com"
+    },
+    {
+      "brand": "Miu Miu",
+      "group": "Prada Group",
+      "country": "Italy",
+      "category": "Luxury skiwear",
+      "website": "https://www.miumiu.com",
+      "source": "https://www.miumiu.com"
+    },
+    {
+      "brand": "Bogner",
+      "group": "Independent",
+      "country": "Germany",
+      "category": "Luxury skiwear",
+      "website": "https://www.bogner.com",
+      "source": "https://www.bogner.com"
+    },
+    {
+      "brand": "Fusalp",
+      "group": "",
+      "country": "France",
+      "category": "Luxury skiwear",
+      "website": "https://www.fusalp.com",
+      "source": "https://www.fusalp.com"
+    },
+    {
+      "brand": "Goldbergh",
+      "group": "Independent",
+      "country": "Netherlands",
+      "category": "Luxury skiwear",
+      "website": "https://www.goldbergh.com",
+      "source": "https://www.goldbergh.com"
+    },
+    {
+      "brand": "Toni Sailer",
+      "group": "Independent",
+      "country": "Germany",
+      "category": "Luxury skiwear",
+      "website": "https://www.tonisailer.com",
+      "source": "https://www.tonisailer.com"
+    },
+    {
+      "brand": "Perfect Moment",
+      "group": "Independent",
+      "country": "United Kingdom",
+      "category": "Luxury skiwear",
+      "website": "https://www.perfectmoment.com",
+      "source": "https://www.perfectmoment.com"
+    },
+    {
+      "brand": "Erin Snow",
+      "group": "Independent",
+      "country": "United States",
+      "category": "Luxury skiwear",
+      "website": "",
+      "source": ""
+    },
+    {
+      "brand": "Skea",
+      "group": "Independent",
+      "country": "United States",
+      "category": "Luxury skiwear",
+      "website": "https://www.skealimited.com",
+      "source": "https://www.skealimited.com"
+    },
+    {
+      "brand": "Jet Set",
+      "group": "Gaydoul Group",
+      "country": "Switzerland",
+      "category": "Luxury skiwear",
+      "website": "https://www.jetset.ch",
+      "source": "https://www.jetset.ch"
+    },
+    {
+      "brand": "Frauenschuh",
+      "group": "Independent",
+      "country": "Austria",
+      "category": "Luxury skiwear",
+      "website": "https://www.frauenschuh.com",
+      "source": "https://www.frauenschuh.com"
+    },
+    {
+      "brand": "Sportalm",
+      "group": "",
+      "country": "Austria",
+      "category": "Luxury skiwear",
+      "website": "https://www.sportalm.at",
+      "source": "https://www.sportalm.at"
+    },
+    {
+      "brand": "Pyrenex",
+      "group": "Independent",
+      "country": "France",
+      "category": "Luxury skiwear",
+      "website": "https://www.pyrenex.com",
+      "source": "https://www.pyrenex.com"
+    },
+    {
+      "brand": "Duvetica",
+      "group": "",
+      "country": "Italy",
+      "category": "Luxury skiwear",
+      "website": "https://www.duvetica.com",
+      "source": "https://www.duvetica.com"
+    },
+    {
+      "brand": "Herno",
+      "group": "Independent",
+      "country": "Italy",
+      "category": "Luxury skiwear",
+      "website": "https://www.herno.com",
+      "source": "https://www.herno.com"
+    },
+    {
+      "brand": "Jacob Cohën",
+      "group": "Independent",
+      "country": "Italy",
+      "category": "Après-ski",
+      "website": "https://www.jacobcohen.com",
+      "source": "https://www.jacobcohen.com"
+    },
+    {
+      "brand": "Moon Boot",
+      "group": "Tecnica Group",
+      "country": "Italy",
+      "category": "Après-ski",
+      "website": "https://www.moonboot.com",
+      "source": "https://www.moonboot.com"
+    },
+    {
+      "brand": "Sorel",
+      "group": "Columbia Sportswear",
+      "country": "United States",
+      "category": "Après-ski",
+      "website": "https://www.sorel.com",
+      "source": "https://www.sorel.com"
+    },
+    {
+      "brand": "UGG",
+      "group": "Deckers Outdoor Corporation",
+      "country": "United States",
+      "category": "Après-ski",
+      "website": "https://www.ugg.com",
+      "source": "https://www.ugg.com"
+    },
+    {
+      "brand": "Reusch",
+      "group": "Independent",
+      "country": "Germany",
+      "category": "Ski accessories",
+      "website": "https://www.reusch.com",
+      "source": "https://www.reusch.com"
+    },
+    {
+      "brand": "Hestra",
+      "group": "Independent",
+      "country": "Sweden",
+      "category": "Ski accessories",
+      "website": "https://www.hestragloves.com",
+      "source": "https://www.hestragloves.com"
+    }
+  ]
+}

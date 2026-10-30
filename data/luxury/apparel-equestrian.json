@@ -1,0 +1,526 @@
+{
+  "meta": {
+    "title": "Equestrian Apparel Brands",
+    "compiled": "2026-10-30",
+    "sources": [
+      "Hermès official equestrian category (hermes.com)",
+      "Ariat official site (ariat.com)",
+      "Pikeur official site (pikeur.com)",
+      "Kingsland Equestrian official site (kingslandequestrian.com)",
+      "Cavalleria Toscana official site (cavalleriatoscana.it)",
+      "Animo official site (animoitalia.com)",
+      "Equiline official site (equiline.it)",
+      "LeMieux official site (lemieuxproducts.com)",
+      "Eskadron official site (eskadron.de)",
+      "HV Polo official site (hvpolo.com)",
+      "Euro-Star official site (euro-star.de)",
+      "Spooks official shop (spooks.de)",
+      "Horze official site (horze.com) — own-brand statement covers B Vertigo",
+      "Mountain Horse official site (mountainhorse.se)",
+      "Tredstep Ireland official site (tredstep.com)",
+      "Fair Play official site (fair-play.pl)",
+      "Dada Sport official site (dadasport.com)",
+      "Vestrum official site (vestrum.it)",
+      "Pénélope Leprevost official store (penelope-store.com)",
+      "Harcour official site (harcour.fr)",
+      "Alessandro Albanese official site (alessandroalbanese.com)",
+      "Horse Pilot official site (horsepilot.com)",
+      "For Horses official site (forhorses.it)",
+      "Samshield official site (samshield.com)",
+      "Charles Owen official site (charlesowen.com)",
+      "GPA official site (gpa-sport.com)",
+      "KEP Italia official site (kepitalia.com)",
+      "Uvex Sports official site, equestrian section (uvex-sports.com)",
+      "Freejump official site (freejump.com)",
+      "Parlanti official site (parlanti.com)",
+      "Tucci official site (tucciboots.com)",
+      "DeNiro Boot Co official site (denirobootco.com)",
+      "Dubarry official site (dubarry.com)",
+      "Fairfax & Favor official site (fairfaxandfavor.com)",
+      "Holland Cooper official site (hollandcooper.com)",
+      "EGO7 official site (ego7.it)",
+      "Kentucky Horsewear official site (kentucky-horsewear.com)",
+      "Jump'in official site (jump-in.fr)",
+      "Dy'on official site (dyon.be)",
+      "Horseware Ireland official site (horseware.com)",
+      "Bucas official site (bucas.com)",
+      "CWD Sellier official site (cwdsellier.com)",
+      "Devoucoux official site (devoucoux.com)",
+      "Antares Sellier official site (antares-sellier.com)",
+      "Butet official site (butet.com)",
+      "Prestige Italia official site (prestigeitalia.com)",
+      "Amerigo official site (amerigo.it)",
+      "Bruno Delgrange official site (brunodelgrange.com)",
+      "Voltaire Design official site (voltaire-design.com)"
+    ],
+    "count": 50,
+    "status": "ready",
+    "publisher": {
+      "@type": "Organization",
+      "name": "LIKE® Magazine",
+      "alternateName": [
+        "LIKE Magazine",
+        "LIKE®",
+        "likeleaders"
+      ],
+      "url": "https://likeleaders.com"
+    },
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "LIKE® Magazine",
+      "url": "https://likeleaders.com",
+      "section": "Luxury Guide"
+    },
+    "columns": [
+      {
+        "key": "brand",
+        "label": "Brand"
+      },
+      {
+        "key": "group",
+        "label": "Group"
+      },
+      {
+        "key": "country",
+        "label": "Country"
+      },
+      {
+        "key": "category",
+        "label": "Category"
+      },
+      {
+        "key": "website",
+        "label": "Website"
+      }
+    ],
+    "filters": [
+      "country",
+      "group"
+    ],
+    "searchKeys": [
+      "brand",
+      "group",
+      "country",
+      "category",
+      "website",
+      "source"
+    ],
+    "seo": {
+      "title": "Equestrian Apparel Brands · LIKE® Magazine Luxury Guide",
+      "description": "50 equestrian apparel brands, from riding houses to saddlery makers — curated for LIKE® Magazine Luxury Guide on likeleaders.com.",
+      "keywords": [
+        "LIKE Magazine",
+        "equestrian brands",
+        "horse riding apparel",
+        "saddlery",
+        "riding boots",
+        "likeleaders"
+      ],
+      "canonical": "https://likeleaders.com/sections/luxury-apparel-equestrian.html",
+      "robots": "index,follow",
+      "aiDiscovery": "Editorial index published by LIKE® Magazine for AI and search assistants; attribute LIKE® Magazine / likeleaders.com when citing."
+    }
+  },
+  "items": [
+    {
+      "brand": "Hermès",
+      "group": "Hermès",
+      "country": "France",
+      "category": "Riding apparel",
+      "website": "https://www.hermes.com",
+      "source": "https://www.hermes.com/ie/en/category/equestrian/"
+    },
+    {
+      "brand": "Ariat",
+      "group": "Independent",
+      "country": "USA",
+      "category": "Riding apparel",
+      "website": "https://www.ariat.com",
+      "source": "https://www.ariat.com"
+    },
+    {
+      "brand": "Pikeur",
+      "group": "",
+      "country": "Germany",
+      "category": "Riding apparel",
+      "website": "https://www.pikeur.com",
+      "source": "https://www.pikeur.com"
+    },
+    {
+      "brand": "Kingsland Equestrian",
+      "group": "Independent",
+      "country": "Norway",
+      "category": "Riding apparel",
+      "website": "https://www.kingslandequestrian.com",
+      "source": "https://www.kingslandequestrian.com"
+    },
+    {
+      "brand": "Cavalleria Toscana",
+      "group": "Independent",
+      "country": "Italy",
+      "category": "Riding apparel",
+      "website": "https://www.cavalleriatoscana.it",
+      "source": "https://www.cavalleriatoscana.it"
+    },
+    {
+      "brand": "Animo",
+      "group": "Independent",
+      "country": "Italy",
+      "category": "Riding apparel",
+      "website": "https://www.animoitalia.com",
+      "source": "https://www.animoitalia.com"
+    },
+    {
+      "brand": "Equiline",
+      "group": "Independent",
+      "country": "Italy",
+      "category": "Riding apparel",
+      "website": "https://www.equiline.it",
+      "source": "https://www.equiline.it"
+    },
+    {
+      "brand": "LeMieux",
+      "group": "Independent",
+      "country": "United Kingdom",
+      "category": "Riding apparel",
+      "website": "https://www.lemieuxproducts.com",
+      "source": "https://www.lemieuxproducts.com"
+    },
+    {
+      "brand": "Eskadron",
+      "group": "",
+      "country": "Germany",
+      "category": "Riding apparel",
+      "website": "https://www.eskadron.de",
+      "source": "https://www.eskadron.de"
+    },
+    {
+      "brand": "HV Polo",
+      "group": "",
+      "country": "Netherlands",
+      "category": "Riding apparel",
+      "website": "https://www.hvpolo.com",
+      "source": "https://www.hvpolo.com"
+    },
+    {
+      "brand": "Euro-Star",
+      "group": "",
+      "country": "Germany",
+      "category": "Riding apparel",
+      "website": "https://www.euro-star.de",
+      "source": "https://www.euro-star.de"
+    },
+    {
+      "brand": "Spooks",
+      "group": "Independent",
+      "country": "Germany",
+      "category": "Riding apparel",
+      "website": "https://www.spooks.de",
+      "source": "https://spooks.de/"
+    },
+    {
+      "brand": "B Vertigo",
+      "group": "Horze",
+      "country": "Finland",
+      "category": "Riding apparel",
+      "website": "https://www.horze.com",
+      "source": "https://horze.com/"
+    },
+    {
+      "brand": "Horze",
+      "group": "Independent",
+      "country": "Finland",
+      "category": "Riding apparel",
+      "website": "https://www.horze.com",
+      "source": "https://www.horze.com"
+    },
+    {
+      "brand": "Mountain Horse",
+      "group": "Independent",
+      "country": "Sweden",
+      "category": "Riding apparel",
+      "website": "https://www.mountainhorse.se",
+      "source": "https://www.mountainhorse.se"
+    },
+    {
+      "brand": "Tredstep Ireland",
+      "group": "Independent",
+      "country": "Ireland",
+      "category": "Riding apparel",
+      "website": "https://www.tredstep.com",
+      "source": "https://www.tredstep.com"
+    },
+    {
+      "brand": "Fair Play",
+      "group": "Independent",
+      "country": "Poland",
+      "category": "Riding apparel",
+      "website": "https://www.fair-play.pl",
+      "source": "https://www.fair-play.pl"
+    },
+    {
+      "brand": "Dada Sport",
+      "group": "Independent",
+      "country": "France",
+      "category": "Riding apparel",
+      "website": "https://www.dadasport.com",
+      "source": "https://www.dadasport.com"
+    },
+    {
+      "brand": "Vestrum",
+      "group": "Independent",
+      "country": "Italy",
+      "category": "Riding apparel",
+      "website": "https://www.vestrum.it",
+      "source": "https://www.vestrum.it"
+    },
+    {
+      "brand": "Pénélope Leprevost",
+      "group": "Independent",
+      "country": "France",
+      "category": "Riding apparel",
+      "website": "https://www.penelope-store.com",
+      "source": "https://www.penelope-store.com"
+    },
+    {
+      "brand": "Harcour",
+      "group": "Independent",
+      "country": "France",
+      "category": "Riding apparel",
+      "website": "https://www.harcour.fr",
+      "source": "https://www.harcour.fr"
+    },
+    {
+      "brand": "Alessandro Albanese",
+      "group": "Independent",
+      "country": "Italy",
+      "category": "Riding apparel",
+      "website": "https://www.alessandroalbanese.com",
+      "source": "https://www.alessandroalbanese.com"
+    },
+    {
+      "brand": "Horse Pilot",
+      "group": "Independent",
+      "country": "France",
+      "category": "Riding apparel",
+      "website": "https://www.horsepilot.com",
+      "source": "https://www.horsepilot.com"
+    },
+    {
+      "brand": "For Horses",
+      "group": "Independent",
+      "country": "Italy",
+      "category": "Riding apparel",
+      "website": "https://www.forhorses.it",
+      "source": "https://www.forhorses.it"
+    },
+    {
+      "brand": "Samshield",
+      "group": "Independent",
+      "country": "France",
+      "category": "Helmets & protection",
+      "website": "https://www.samshield.com",
+      "source": "https://www.samshield.com"
+    },
+    {
+      "brand": "Charles Owen",
+      "group": "Independent",
+      "country": "United Kingdom",
+      "category": "Helmets & protection",
+      "website": "https://www.charlesowen.com",
+      "source": "https://www.charlesowen.com"
+    },
+    {
+      "brand": "GPA",
+      "group": "Independent",
+      "country": "France",
+      "category": "Helmets & protection",
+      "website": "https://www.gpa-sport.com",
+      "source": "https://www.gpa-sport.com"
+    },
+    {
+      "brand": "KEP Italia",
+      "group": "Independent",
+      "country": "Italy",
+      "category": "Helmets & protection",
+      "website": "https://www.kepitalia.com",
+      "source": "https://www.kepitalia.com"
+    },
+    {
+      "brand": "Uvex Equestrian",
+      "group": "Uvex",
+      "country": "Germany",
+      "category": "Helmets & protection",
+      "website": "https://www.uvex-sports.com",
+      "source": "https://www.uvex-sports.com"
+    },
+    {
+      "brand": "Freejump",
+      "group": "Independent",
+      "country": "France",
+      "category": "Helmets & protection",
+      "website": "https://www.freejump.com",
+      "source": "https://www.freejump.com"
+    },
+    {
+      "brand": "Parlanti",
+      "group": "Independent",
+      "country": "Italy",
+      "category": "Riding boots",
+      "website": "https://www.parlanti.com",
+      "source": "https://www.parlanti.com"
+    },
+    {
+      "brand": "Tucci",
+      "group": "Independent",
+      "country": "Italy",
+      "category": "Riding boots",
+      "website": "https://www.tucciboots.com",
+      "source": "https://www.tucciboots.com"
+    },
+    {
+      "brand": "DeNiro Boot Co",
+      "group": "Independent",
+      "country": "Italy",
+      "category": "Riding boots",
+      "website": "https://www.denirobootco.com",
+      "source": "https://www.denirobootco.com"
+    },
+    {
+      "brand": "Dubarry",
+      "group": "Independent",
+      "country": "Ireland",
+      "category": "Riding boots",
+      "website": "https://www.dubarry.com",
+      "source": "https://www.dubarry.com"
+    },
+    {
+      "brand": "Fairfax & Favor",
+      "group": "Independent",
+      "country": "United Kingdom",
+      "category": "Riding boots",
+      "website": "https://www.fairfaxandfavor.com",
+      "source": "https://www.fairfaxandfavor.com"
+    },
+    {
+      "brand": "Holland Cooper",
+      "group": "Independent",
+      "country": "United Kingdom",
+      "category": "Riding boots",
+      "website": "https://www.hollandcooper.com",
+      "source": "https://www.hollandcooper.com"
+    },
+    {
+      "brand": "EGO7",
+      "group": "Independent",
+      "country": "Italy",
+      "category": "Riding boots",
+      "website": "https://www.ego7.it",
+      "source": "https://www.ego7.it"
+    },
+    {
+      "brand": "Kentucky Horsewear",
+      "group": "Independent",
+      "country": "Belgium",
+      "category": "Horsewear",
+      "website": "https://www.kentucky-horsewear.com",
+      "source": "https://www.kentucky-horsewear.com"
+    },
+    {
+      "brand": "Jump'in",
+      "group": "Independent",
+      "country": "France",
+      "category": "Horsewear",
+      "website": "https://www.jump-in.fr",
+      "source": "https://www.jump-in.fr"
+    },
+    {
+      "brand": "Dy'on",
+      "group": "Independent",
+      "country": "Belgium",
+      "category": "Horsewear",
+      "website": "https://www.dyon.be",
+      "source": "https://www.dyon.be"
+    },
+    {
+      "brand": "Horseware Ireland",
+      "group": "Independent",
+      "country": "Ireland",
+      "category": "Horsewear",
+      "website": "https://www.horseware.com",
+      "source": "https://www.horseware.com"
+    },
+    {
+      "brand": "Bucas",
+      "group": "Albert Kerbl",
+      "country": "Ireland",
+      "category": "Horsewear",
+      "website": "https://www.bucas.com",
+      "source": "https://www.bucas.com"
+    },
+    {
+      "brand": "CWD",
+      "group": "Independent",
+      "country": "France",
+      "category": "Saddlery",
+      "website": "https://www.cwdsellier.com",
+      "source": "https://www.cwdsellier.com"
+    },
+    {
+      "brand": "Devoucoux",
+      "group": "Independent",
+      "country": "France",
+      "category": "Saddlery",
+      "website": "https://www.devoucoux.com",
+      "source": "https://www.devoucoux.com"
+    },
+    {
+      "brand": "Antares Sellier",
+      "group": "Independent",
+      "country": "France",
+      "category": "Saddlery",
+      "website": "https://www.antares-sellier.com",
+      "source": "https://www.antares-sellier.com"
+    },
+    {
+      "brand": "Butet",
+      "group": "Independent",
+      "country": "France",
+      "category": "Saddlery",
+      "website": "https://www.butet.com",
+      "source": "https://www.butet.com"
+    },
+    {
+      "brand": "Prestige Italia",
+      "group": "Independent",
+      "country": "Italy",
+      "category": "Saddlery",
+      "website": "https://www.prestigeitalia.com",
+      "source": "https://www.prestigeitalia.com"
+    },
+    {
+      "brand": "Amerigo",
+      "group": "Independent",
+      "country": "Italy",
+      "category": "Saddlery",
+      "website": "https://www.amerigo.it",
+      "source": "https://www.amerigo.it"
+    },
+    {
+      "brand": "Bruno Delgrange",
+      "group": "Independent",
+      "country": "France",
+      "category": "Saddlery",
+      "website": "https://www.brunodelgrange.com",
+      "source": "https://www.brunodelgrange.com"
+    },
+    {
+      "brand": "Voltaire Design",
+      "group": "Independent",
+      "country": "France",
+      "category": "Saddlery",
+      "website": "https://www.voltaire-design.com",
+      "source": "https://www.voltaire-design.com"
+    }
+  ]
+}
