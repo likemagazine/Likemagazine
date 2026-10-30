@@ -240,6 +240,27 @@
    },
    "variableMeasured": "listing",
    "count": 87
+  },
+  {
+   "@type": "Dataset",
+   "name": "Top 500 Casinos Worldwide",
+   "description": "480 landmark casinos worldwide — ownership, VIP clubs, loyalty programs, and full contact details — curated for LIKE® Magazine Luxury Guide on likeleaders.com.",
+   "url": "https://likeleaders.com/sections/luxury-casinos.html",
+   "creator": {
+    "@id": "https://likeleaders.com/#organization"
+   },
+   "isPartOf": {
+    "@type": "CreativeWork",
+    "name": "LIKE® Magazine Luxury Guide",
+    "url": "https://likeleaders.com/sections/luxury-guide.html"
+   },
+   "distribution": {
+    "@type": "DataDownload",
+    "encodingFormat": "application/json",
+    "contentUrl": "https://likeleaders.com/data/luxury/casinos.json"
+   },
+   "variableMeasured": "listing",
+   "count": 480
   }
  ],
  "hasPart": [
